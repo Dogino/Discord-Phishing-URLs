@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 01 Jan 2022, 17:30 UTC+01
+# Last modified: Sat, 02 Jan 2022, 19:15 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -20,7 +20,6 @@
 0.0.0.0 adcash.com
 0.0.0.0 adcell.de
 0.0.0.0 adexchangecloud.com
-0.0.0.0 adf.ly
 0.0.0.0 adfoc.us
 0.0.0.0 adforce.com
 0.0.0.0 affix-cup.click
@@ -319,7 +318,6 @@
 0.0.0.0 dirscod.gift
 0.0.0.0 dirscordapp.com
 0.0.0.0 dirscord-gift.ru
-0.0.0.0 disÃ§ordapp.com
 0.0.0.0 disbordapp.com
 0.0.0.0 disbords.com
 0.0.0.0 disbored.com
@@ -330,7 +328,6 @@
 0.0.0.0 disc0rd.xyz
 0.0.0.0 disc0rd-app.ru.com
 0.0.0.0 disc0rd-nitro.site
-0.0.0.0 discÃ¶rd.com
 0.0.0.0 discapp.info
 0.0.0.0 discard.gg
 0.0.0.0 discard.gift
@@ -1310,6 +1307,7 @@
 0.0.0.0 disordnltros.gifts
 0.0.0.0 disordsnitro.gifts
 0.0.0.0 disordsnitros.gifts
+0.0.0.0 disordsnltros.com
 0.0.0.0 disrcod.com
 0.0.0.0 disrcod.gift
 0.0.0.0 disrcod.gifts
@@ -1764,7 +1762,6 @@
 0.0.0.0 get-discord.fun
 0.0.0.0 getfreediscordnitro.ml
 0.0.0.0 get-gamesroll.xyz
-0.0.0.0 getlâ…°bra.tech
 0.0.0.0 get-my-nitro.com
 0.0.0.0 get-nitro.fun
 0.0.0.0 get-nitro.net
@@ -1921,7 +1918,6 @@
 0.0.0.0 mdiscord.com
 0.0.0.0 m-discord.pw
 0.0.0.0 microsup.net
-0.0.0.0 minecrÃ¤ft.com
 0.0.0.0 minero.cc
 0.0.0.0 miniurl.pw
 0.0.0.0 myccgo.xyz
@@ -2253,8 +2249,6 @@
 0.0.0.0 s1cases.site
 0.0.0.0 s1cses.site
 0.0.0.0 s92673tu.beget.tech
-0.0.0.0 sÃ¤rahah.eu
-0.0.0.0 sÃ¤rahah.pl
 0.0.0.0 sa-mcdonalds.com
 0.0.0.0 scteamcommunity.com
 0.0.0.0 scwanmei.ru
@@ -2272,7 +2266,6 @@
 0.0.0.0 services.runescape.rs-ui.xyz
 0.0.0.0 setamcommunity.com
 0.0.0.0 sh.st
-0.0.0.0 shÃ¶rt.co
 0.0.0.0 share.nowblox.com
 0.0.0.0 shib.events
 0.0.0.0 shoppy.gg
@@ -2392,7 +2385,6 @@
 0.0.0.0 smitecommunity.org
 0.0.0.0 sometheir.xyz
 0.0.0.0 sp708431.sitebeat.site
-0.0.0.0 spÃ¶tify.com
 0.0.0.0 special4u.xyz
 0.0.0.0 spottyfly.com
 0.0.0.0 sreamcomminity.ru
@@ -4767,9 +4759,6 @@
 0.0.0.0 xpro.ws
 0.0.0.0 xpromo-discord.com
 0.0.0.0 yip.su
-0.0.0.0 yoÃ¼tÃ¼be.co
-0.0.0.0 yoÃ¼tÃ¼be.com
-0.0.0.0 yoÃ¼tu.be
 0.0.0.0 youshouldclick.us
 0.0.0.0 youtubeshort.watch
 0.0.0.0 yummy-nitro.com
