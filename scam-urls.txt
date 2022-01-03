@@ -110,6 +110,7 @@ cashcsgo.ru
 cashout.monster
 cashy.monster
 cave-nitro.com
+cdn.ymaws.com
 ceesty.com
 claim.robuxat.com
 claimgifts.shop
@@ -1206,6 +1207,7 @@ discourd.info
 discourd.site
 discourdapp.com
 discovd.com
+discozd.ru
 discpordapp.com
 discprd.com
 discqorcl.com
@@ -1351,6 +1353,7 @@ dlcsord-gifte.ru
 dlcsordglft.xyz
 dlicord-glfts.site
 dlicsord.ru
+dliscocd.ru
 dliscord-gift.com
 dliscord-gift.ru.com
 dliscord-glft.ru
@@ -1640,6 +1643,7 @@ event-discord.com
 events-discord.com
 ewqdsa.xyz
 exaltedbot.xyz
+extrarg.xyz
 ez-tasty.cyou
 ezdiscord.xyz
 ezdrp.ru
@@ -2244,6 +2248,7 @@ rust-award.com
 rust-charge.com
 rust-code.ru.com
 rust-drop.ru.com
+rust-facepunchs.com
 rust-gitfs.ru
 rust-giveaways.xyz
 rust-llc.com
@@ -3078,6 +3083,7 @@ steamcommunlty.biz
 steamcommunlty.cloud
 steamcommunlty.company
 steamcommunlty.info
+steamcommunlty.pl
 steamcommunlty.shop
 steamcommunlty.site
 steamcommunlty.store

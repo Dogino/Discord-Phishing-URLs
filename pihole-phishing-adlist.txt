@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 02 Jan 2022, 19:15 UTC+01
+# Last modified: Sat, 03 Jan 2022, 18:37 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -114,6 +114,7 @@
 0.0.0.0 cashout.monster
 0.0.0.0 cashy.monster
 0.0.0.0 cave-nitro.com
+0.0.0.0 cdn.ymaws.com
 0.0.0.0 ceesty.com
 0.0.0.0 claim.robuxat.com
 0.0.0.0 claimgifts.shop
@@ -1210,6 +1211,7 @@
 0.0.0.0 discourd.site
 0.0.0.0 discourdapp.com
 0.0.0.0 discovd.com
+0.0.0.0 discozd.ru
 0.0.0.0 discpordapp.com
 0.0.0.0 discprd.com
 0.0.0.0 discqorcl.com
@@ -1355,6 +1357,7 @@
 0.0.0.0 dlcsordglft.xyz
 0.0.0.0 dlicord-glfts.site
 0.0.0.0 dlicsord.ru
+0.0.0.0 dliscocd.ru
 0.0.0.0 dliscord-gift.com
 0.0.0.0 dliscord-gift.ru.com
 0.0.0.0 dliscord-glft.ru
@@ -1644,6 +1647,7 @@
 0.0.0.0 events-discord.com
 0.0.0.0 ewqdsa.xyz
 0.0.0.0 exaltedbot.xyz
+0.0.0.0 extrarg.xyz
 0.0.0.0 ez-tasty.cyou
 0.0.0.0 ezdiscord.xyz
 0.0.0.0 ezdrp.ru
@@ -2248,6 +2252,7 @@
 0.0.0.0 rust-charge.com
 0.0.0.0 rust-code.ru.com
 0.0.0.0 rust-drop.ru.com
+0.0.0.0 rust-facepunchs.com
 0.0.0.0 rust-gitfs.ru
 0.0.0.0 rust-giveaways.xyz
 0.0.0.0 rust-llc.com
@@ -3082,6 +3087,7 @@
 0.0.0.0 steamcommunlty.cloud
 0.0.0.0 steamcommunlty.company
 0.0.0.0 steamcommunlty.info
+0.0.0.0 steamcommunlty.pl
 0.0.0.0 steamcommunlty.shop
 0.0.0.0 steamcommunlty.site
 0.0.0.0 steamcommunlty.store
