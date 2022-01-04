@@ -365,6 +365,7 @@ disco9rdapp.com
 discoapps.club
 discoapps.live
 discoard.com
+discobd.com
 discocd.com
 discocd.ru
 discocl.xyz
@@ -413,6 +414,7 @@ discondapp.fun
 disconrd.com
 discontro.ru
 discoogs.com
+discoord-aps.com
 discoord-gift.com
 discoord.space
 discoqd.com
@@ -789,6 +791,7 @@ discord-verifications.com
 discord-verify-account.ml
 discord-verify.com
 discord-verify.ru
+discord-web.com
 discord-xnitro.com
 discord.ac
 discord.app
@@ -1268,6 +1271,7 @@ discurd.js.org
 discvordapp.com
 discxordapp.com
 discörd.com
+disdorsnitro.com
 disdrop.com.br
 disiscord.com
 diskord.gg
@@ -1800,6 +1804,7 @@ giftdiscord.online
 giftdiscord.site
 giftdiscord.xyz
 gifte-discorde.com
+gifte-discorde.xyz
 giftsdiscord.com
 giftsdiscord.fun
 giftsdiscord.online
