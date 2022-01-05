@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 05 Jan 2022, 00:45 UTC+01
+# Last modified: Thu, 06 Jan 2022, 00:54 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -20,8 +20,6 @@
 0.0.0.0 adcash.com
 0.0.0.0 adcell.de
 0.0.0.0 adexchangecloud.com
-0.0.0.0 adf.ly
-0.0.0.0 adfoc.us
 0.0.0.0 adforce.com
 0.0.0.0 affix-cup.click
 0.0.0.0 affix-cup.link
@@ -405,6 +403,7 @@
 0.0.0.0 discoerd.com
 0.0.0.0 discoerdapp.com
 0.0.0.0 discofd.com
+0.0.0.0 discojd.com
 0.0.0.0 discokrd.com
 0.0.0.0 discold.online
 0.0.0.0 discold.ru
@@ -420,6 +419,7 @@
 0.0.0.0 discoogs.com
 0.0.0.0 discoord-aps.com
 0.0.0.0 discoord-gift.com
+0.0.0.0 discoord-nittro.com
 0.0.0.0 discoord.space
 0.0.0.0 discoqd.com
 0.0.0.0 discor-dnitro.fun
@@ -585,6 +585,8 @@
 0.0.0.0 discord-event.com
 0.0.0.0 discord-event.info
 0.0.0.0 discord-events.com
+0.0.0.0 discord-exam.com
+0.0.0.0 discord-exams.com
 0.0.0.0 discord-exploits.tk
 0.0.0.0 discord-faq.com
 0.0.0.0 discord-free-nitro.ru
@@ -783,6 +785,7 @@
 0.0.0.0 discord-supports.com
 0.0.0.0 discord-team.com
 0.0.0.0 discord-tech.com
+0.0.0.0 discord-test.com
 0.0.0.0 discord-tester.com
 0.0.0.0 discord-to.com
 0.0.0.0 discord-true.com
@@ -1514,6 +1517,7 @@
 0.0.0.0 dlscordapp.xyz
 0.0.0.0 dlscordapps.com
 0.0.0.0 dlscordapps.me
+0.0.0.0 dlscordfreegift.com
 0.0.0.0 dlscordgift.com
 0.0.0.0 dlscordgift.info
 0.0.0.0 dlscordgift.ru
@@ -1794,6 +1798,7 @@
 0.0.0.0 ggfail.xyz
 0.0.0.0 gglootgood.xyz
 0.0.0.0 gif-discord.com
+0.0.0.0 gifs-discord.com
 0.0.0.0 gift-discord.online
 0.0.0.0 gift-discord.ru
 0.0.0.0 gift-discord.shop
@@ -2527,6 +2532,7 @@
 0.0.0.0 staerncomrmunity.com
 0.0.0.0 staerncormmunity.com
 0.0.0.0 staerncornmunity.com
+0.0.0.0 staff-discord.net
 0.0.0.0 stammcommunity.com
 0.0.0.0 stampowered.com
 0.0.0.0 starbucks.bio
@@ -4699,6 +4705,7 @@
 0.0.0.0 särahah.pl
 0.0.0.0 taceitt.com
 0.0.0.0 tacelt.com
+0.0.0.0 team-discord.com
 0.0.0.0 team.the-shrubbery.co.uk
 0.0.0.0 teamfnattic.org.ru
 0.0.0.0 testbot2021.ru
