@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 07 Jan 2022, 16:37 UTC+01
+# Last modified: Sat, 08 Jan 2022, 14:51 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -587,6 +587,7 @@
 0.0.0.0 discord-drop.xyz
 0.0.0.0 discord-drops.ru
 0.0.0.0 discord-egift.com
+0.0.0.0 discord-epicgames.com
 0.0.0.0 discord-event.com
 0.0.0.0 discord-event.info
 0.0.0.0 discord-events.com
@@ -1233,6 +1234,7 @@
 0.0.0.0 discpordapp.com
 0.0.0.0 discprd.com
 0.0.0.0 discqorcl.com
+0.0.0.0 discqrdapp.com
 0.0.0.0 discrd.cc
 0.0.0.0 discrd.co
 0.0.0.0 discrd.com
@@ -1276,6 +1278,7 @@
 0.0.0.0 discrode-gift.com
 0.0.0.0 discrode-gifte.club
 0.0.0.0 discrode.club
+0.0.0.0 discrode.com
 0.0.0.0 discrodnitro.org
 0.0.0.0 discrodnitro.ru
 0.0.0.0 discrodnitro.site
@@ -1333,6 +1336,7 @@
 0.0.0.0 disordgift.com
 0.0.0.0 disordgifts.com
 0.0.0.0 disordglft.com
+0.0.0.0 disordnito.com
 0.0.0.0 disordnitro.com
 0.0.0.0 disordnitro.xyz
 0.0.0.0 disordnitros.gifts
@@ -1537,6 +1541,7 @@
 0.0.0.0 dlscordapp.xyz
 0.0.0.0 dlscordapps.com
 0.0.0.0 dlscordapps.me
+0.0.0.0 dlscordb.com
 0.0.0.0 dlscordfreegift.com
 0.0.0.0 dlscordgift.com
 0.0.0.0 dlscordgift.info
@@ -1553,6 +1558,7 @@
 0.0.0.0 dlscordglfts.com
 0.0.0.0 dlscordglfts.xyz
 0.0.0.0 dlscordniltro.com
+0.0.0.0 dlscordnito.com
 0.0.0.0 dlscordnitro.com
 0.0.0.0 dlscordnitro.gift
 0.0.0.0 dlscordnitro.gifts
@@ -2420,6 +2426,7 @@
 0.0.0.0 sleammcommunity.ru
 0.0.0.0 sleammcommunnity.ru
 0.0.0.0 sleampowereed.ru
+0.0.0.0 sleampoweryed.me
 0.0.0.0 sleamscommunity.com
 0.0.0.0 sleancommunlty.xyz
 0.0.0.0 slearncommunity.store
@@ -2542,6 +2549,7 @@
 0.0.0.0 staemcummunity.ru.com
 0.0.0.0 staemcummunlty.com
 0.0.0.0 staemmcommunity.ru
+0.0.0.0 staemmcomunity.com
 0.0.0.0 staemncrommunity.store
 0.0.0.0 staempawered.xyz
 0.0.0.0 staemporewed.xyz
@@ -4055,6 +4063,7 @@
 0.0.0.0 stearncommunite.com
 0.0.0.0 stearncommunitey.com
 0.0.0.0 stearncommunitey.ru
+0.0.0.0 stearncommuniti.me
 0.0.0.0 stearncommunitly.xyz
 0.0.0.0 stearncommunitn.ru
 0.0.0.0 stearncommunity.click
