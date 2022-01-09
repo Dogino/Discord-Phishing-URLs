@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 08 Jan 2022, 14:51 UTC+01
+# Last modified: Sun, 09 Jan 2022, 14:38 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -20,6 +20,8 @@
 0.0.0.0 adcash.com
 0.0.0.0 adcell.de
 0.0.0.0 adexchangecloud.com
+0.0.0.0 adf.ly
+0.0.0.0 adfoc.us
 0.0.0.0 adforce.com
 0.0.0.0 affix-cup.click
 0.0.0.0 affix-cup.link
@@ -308,6 +310,7 @@
 0.0.0.0 diisscord.club
 0.0.0.0 diisscord.online
 0.0.0.0 dijscord.com
+0.0.0.0 dilscocd.com
 0.0.0.0 dilscord.com
 0.0.0.0 dilscordi.com
 0.0.0.0 dilscordi.org.ru
@@ -643,6 +646,7 @@
 0.0.0.0 discord-gifts.us
 0.0.0.0 discord-giv.com
 0.0.0.0 discord-givaewey.ru
+0.0.0.0 discord-give-nitro.tk
 0.0.0.0 discord-give.com
 0.0.0.0 discord-give.net
 0.0.0.0 discord-give.org
@@ -657,6 +661,7 @@
 0.0.0.0 discord-glft.ru.com
 0.0.0.0 discord-glft.xyz
 0.0.0.0 discord-glfte.ru
+0.0.0.0 discord-go.net.ru
 0.0.0.0 discord-halloween.com
 0.0.0.0 discord-halloween.fun
 0.0.0.0 discord-halloween.link
@@ -1168,6 +1173,7 @@
 0.0.0.0 discordsnitros.one
 0.0.0.0 discordspp.com
 0.0.0.0 discordss.ru
+0.0.0.0 discordstaff.gq
 0.0.0.0 discordstaff.xyz
 0.0.0.0 discordstars.tk
 0.0.0.0 discordstat.com
@@ -1288,6 +1294,7 @@
 0.0.0.0 discrodsteam.ru
 0.0.0.0 discrodup.ru
 0.0.0.0 discrord-nitr.online
+0.0.0.0 discrord-nitr.ru
 0.0.0.0 discrord.com
 0.0.0.0 discrordapp.com
 0.0.0.0 discsord.com
@@ -1398,6 +1405,7 @@
 0.0.0.0 dliscord.gifts
 0.0.0.0 dliscord.us
 0.0.0.0 dliscord.xyz
+0.0.0.0 dliscordglift-nitro.com
 0.0.0.0 dliscordl.com
 0.0.0.0 dliscords.com
 0.0.0.0 dliscrd.one
@@ -1468,6 +1476,7 @@
 0.0.0.0 dlscord-hypesquad.com
 0.0.0.0 dlscord-inventory.fun
 0.0.0.0 dlscord-main.ru.com
+0.0.0.0 dlscord-newyear.com
 0.0.0.0 dlscord-nitro.click
 0.0.0.0 dlscord-nitro.club
 0.0.0.0 dlscord-nitro.com.ru
@@ -2046,6 +2055,7 @@
 0.0.0.0 nitro-app-store.com
 0.0.0.0 nitro-app.com
 0.0.0.0 nitro-app.fun
+0.0.0.0 nitro-d.xyz
 0.0.0.0 nitro-discord.com
 0.0.0.0 nitro-discord.fun
 0.0.0.0 nitro-discord.info
@@ -2641,6 +2651,7 @@
 0.0.0.0 steam-discord.ru
 0.0.0.0 steam-discords.com
 0.0.0.0 steam-dlscord.com
+0.0.0.0 steam-dlscord.ru.com
 0.0.0.0 steam-event.com
 0.0.0.0 steam-free-nitro.ru
 0.0.0.0 steam-game-csgo.ru
@@ -3080,6 +3091,7 @@
 0.0.0.0 steamcommunitywork.com
 0.0.0.0 steamcommunitywork.ml
 0.0.0.0 steamcommunityx.com
+0.0.0.0 steamcommunityx.ru
 0.0.0.0 steamcommunityy.online
 0.0.0.0 steamcommunityy.ru
 0.0.0.0 steamcommunityz.com
@@ -4027,6 +4039,7 @@
 0.0.0.0 stearmmcomunity.ru
 0.0.0.0 stearmmcomuunity.ru
 0.0.0.0 stearncomminhty.com
+0.0.0.0 stearncomminutg.ru
 0.0.0.0 stearncomminutiu.ru
 0.0.0.0 stearncomminuty.click
 0.0.0.0 stearncomminuty.com
@@ -4103,6 +4116,7 @@
 0.0.0.0 stearncomrmunity.com
 0.0.0.0 stearncomrninuty.ru
 0.0.0.0 stearncomrninuty.xyz
+0.0.0.0 stearncomrnunily.ru
 0.0.0.0 stearncomrnunitly.site
 0.0.0.0 stearncomrnunitly.xyz
 0.0.0.0 stearncomrnunity.store
