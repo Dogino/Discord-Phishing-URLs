@@ -660,6 +660,7 @@ discord-glft.ru
 discord-glft.ru.com
 discord-glft.xyz
 discord-glfte.ru
+discord-go.com
 discord-go.net.ru
 discord-halloween.com
 discord-halloween.fun
@@ -1717,7 +1718,6 @@ faceit-premium.com
 facepunch-award.com
 facepunch-gifts.org.ru
 facepunch-llc.com
-facepunch-twitch.com
 facepunchltd.com
 facepunchs.com
 facepunchskins.com
@@ -3053,9 +3053,7 @@ steamcommunity.ca
 steamcommunity.click
 steamcommunity.cloud
 steamcommunity.cn
-steamcommunity.co
 steamcommunity.co.ua
-steamcommunity.com-id-k4tushatwitchbabydota.ru
 steamcommunity.com.ru
 steamcommunity.comlappl251490lrust.ru
 steamcommunity.de
@@ -4803,11 +4801,6 @@ tradeoffers.net.ru
 triumph.tk
 truepnl-giveaway.info
 trustpool.xyz
-twitch-nude.com
-twitch-starter.com
-twitch.facepunch-llc.com
-twitch.facepunchstudio.com
-twitch.rust-ltd.com
 u924157p.beget.tech
 udmoney.club
 uii.io
