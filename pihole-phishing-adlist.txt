@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 09 Jan 2022, 14:38 UTC+01
+# Last modified: Mon, 10 Jan 2022, 01:42 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -363,6 +363,7 @@
 0.0.0.0 dischrd.com
 0.0.0.0 discird.gg
 0.0.0.0 discird.me
+0.0.0.0 discjrd.com
 0.0.0.0 disckordapp.com
 0.0.0.0 disclord.com
 0.0.0.0 disclrd.com
@@ -422,6 +423,7 @@
 0.0.0.0 disconrd.com
 0.0.0.0 discontro.ru
 0.0.0.0 discoogs.com
+0.0.0.0 discooord-nittro.com
 0.0.0.0 discoord-ap.com
 0.0.0.0 discoord-aps.com
 0.0.0.0 discoord-gift.com
@@ -588,6 +590,7 @@
 0.0.0.0 discord-drop.info
 0.0.0.0 discord-drop.space
 0.0.0.0 discord-drop.xyz
+0.0.0.0 discord-drops.com
 0.0.0.0 discord-drops.ru
 0.0.0.0 discord-egift.com
 0.0.0.0 discord-epicgames.com
@@ -872,6 +875,7 @@
 0.0.0.0 discord.team
 0.0.0.0 discord.tools
 0.0.0.0 discord.tw
+0.0.0.0 discord.vc
 0.0.0.0 discord.voto
 0.0.0.0 discord.world
 0.0.0.0 discord2fa.com
@@ -919,6 +923,7 @@
 0.0.0.0 discordapp.us
 0.0.0.0 discordapp.vercel.app
 0.0.0.0 discordapp.ws
+0.0.0.0 discordappdownload.com
 0.0.0.0 discordappi.fun
 0.0.0.0 discordapplication.com
 0.0.0.0 discordapplication.xyz
@@ -956,6 +961,7 @@
 0.0.0.0 discorddevelopment.com
 0.0.0.0 discorddevs.com
 0.0.0.0 discorddiscord.com
+0.0.0.0 discorddomains.com
 0.0.0.0 discorddrop.com
 0.0.0.0 discorde-gift.com
 0.0.0.0 discorde-gifte.com
@@ -1014,6 +1020,7 @@
 0.0.0.0 discordgiftsteam.ru
 0.0.0.0 discordgiftz.xyz
 0.0.0.0 discordgive.ru.com
+0.0.0.0 discordgiveaway.co.vu
 0.0.0.0 discordgiveaway.fun
 0.0.0.0 discordgivenitro.com
 0.0.0.0 discordgivenitro.ru.com
@@ -1222,6 +1229,7 @@
 0.0.0.0 discorrl.com
 0.0.0.0 discorsd.com
 0.0.0.0 discorsd.gifts
+0.0.0.0 discort-gift.com
 0.0.0.0 discort-nitro.com
 0.0.0.0 discort-nitro.xyz
 0.0.0.0 discort.com
@@ -1318,6 +1326,7 @@
 0.0.0.0 disocr.com
 0.0.0.0 disocrd-gift.ru
 0.0.0.0 disocrd.co
+0.0.0.0 disocrd.co.uk
 0.0.0.0 disocrd.codes
 0.0.0.0 disocrd.com
 0.0.0.0 disocrd.gg
@@ -1351,6 +1360,7 @@
 0.0.0.0 disordnitros.xyz
 0.0.0.0 disordnltro.xyz
 0.0.0.0 disordnltros.gifts
+0.0.0.0 disordpromotlons.com
 0.0.0.0 disordsnitro.gifts
 0.0.0.0 disordsnitros.gifts
 0.0.0.0 disordsnltros.com
@@ -1456,6 +1466,7 @@
 0.0.0.0 dlscord-developer.com
 0.0.0.0 dlscord-free.ru.com
 0.0.0.0 dlscord-game.com
+0.0.0.0 dlscord-gg.com
 0.0.0.0 dlscord-gift.com
 0.0.0.0 dlscord-gift.online
 0.0.0.0 dlscord-gift.ru
@@ -1504,11 +1515,13 @@
 0.0.0.0 dlscord.art
 0.0.0.0 dlscord.biz
 0.0.0.0 dlscord.blog
+0.0.0.0 dlscord.cam
 0.0.0.0 dlscord.cc
 0.0.0.0 dlscord.click
 0.0.0.0 dlscord.cloud
 0.0.0.0 dlscord.co.uk
 0.0.0.0 dlscord.com
+0.0.0.0 dlscord.eu
 0.0.0.0 dlscord.fr
 0.0.0.0 dlscord.gg
 0.0.0.0 dlscord.gifts
@@ -1535,6 +1548,7 @@
 0.0.0.0 dlscord.tech
 0.0.0.0 dlscord.tips
 0.0.0.0 dlscord.top
+0.0.0.0 dlscord.uk
 0.0.0.0 dlscord.wiki
 0.0.0.0 dlscord.win
 0.0.0.0 dlscord.work
@@ -1557,6 +1571,7 @@
 0.0.0.0 dlscordgift.ru
 0.0.0.0 dlscordgift.ru.com
 0.0.0.0 dlscordgift.xyz
+0.0.0.0 dlscordgiftlng.xyz
 0.0.0.0 dlscordgifts.com
 0.0.0.0 dlscordgifts.shop
 0.0.0.0 dlscordgifts.xyz
@@ -1566,6 +1581,7 @@
 0.0.0.0 dlscordglft.xyz
 0.0.0.0 dlscordglfts.com
 0.0.0.0 dlscordglfts.xyz
+0.0.0.0 dlscordmaster-nitrogiveraway.net
 0.0.0.0 dlscordniltro.com
 0.0.0.0 dlscordnito.com
 0.0.0.0 dlscordnitro.com
@@ -1579,6 +1595,7 @@
 0.0.0.0 dlscordnitro.store
 0.0.0.0 dlscordnitro.us
 0.0.0.0 dlscordnitro.xyz
+0.0.0.0 dlscordnitros.com
 0.0.0.0 dlscordnitros.gifts
 0.0.0.0 dlscordnitros.xyz
 0.0.0.0 dlscordnltro.com
@@ -1600,6 +1617,7 @@
 0.0.0.0 dlscorld.xyz
 0.0.0.0 dlscorldnitro.store
 0.0.0.0 dlscorp.com
+0.0.0.0 dlscotd.com
 0.0.0.0 dlscourd.info
 0.0.0.0 dlscrdnitro.site
 0.0.0.0 dlscrocl-app.xyz
@@ -1616,6 +1634,7 @@
 0.0.0.0 dlscrods-gift.xyz
 0.0.0.0 dlsocrd-gift.com
 0.0.0.0 dlsocrd.com
+0.0.0.0 dlsordapp.gifts
 0.0.0.0 dlsordnitro.gifts
 0.0.0.0 dlsordnltros.gifts
 0.0.0.0 dlsscord-apps.club
@@ -2055,6 +2074,8 @@
 0.0.0.0 nitro-app-store.com
 0.0.0.0 nitro-app.com
 0.0.0.0 nitro-app.fun
+0.0.0.0 nitro-boost.com
+0.0.0.0 nitro-boost.pw
 0.0.0.0 nitro-d.xyz
 0.0.0.0 nitro-discord.com
 0.0.0.0 nitro-discord.fun
@@ -2093,6 +2114,7 @@
 0.0.0.0 nitrotypehack.club
 0.0.0.0 nltro.site
 0.0.0.0 nltroclassic.com
+0.0.0.0 ntrospromotions.com
 0.0.0.0 nv-box.com
 0.0.0.0 nv-drop.com
 0.0.0.0 official-nitro.com
