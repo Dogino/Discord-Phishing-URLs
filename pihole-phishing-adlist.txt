@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 10 Jan 2022, 18:18 UTC+01
+# Last modified: Tue, 11 Jan 2022, 14:58 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -1313,6 +1313,7 @@
 0.0.0.0 discvordapp.com
 0.0.0.0 discxordapp.com
 0.0.0.0 discxrd.com
+0.0.0.0 discyrd.com
 0.0.0.0 disczrd.com
 0.0.0.0 discörd.com
 0.0.0.0 disdornitro.com
@@ -1722,6 +1723,7 @@
 0.0.0.0 facepunch-award.com
 0.0.0.0 facepunch-gifts.org.ru
 0.0.0.0 facepunch-llc.com
+0.0.0.0 facepunch-twitch.com
 0.0.0.0 facepunchltd.com
 0.0.0.0 facepunchs.com
 0.0.0.0 facepunchskins.com
@@ -4805,6 +4807,11 @@
 0.0.0.0 triumph.tk
 0.0.0.0 truepnl-giveaway.info
 0.0.0.0 trustpool.xyz
+0.0.0.0 twitch-nude.com
+0.0.0.0 twitch-starter.com
+0.0.0.0 twitch.facepunch-llc.com
+0.0.0.0 twitch.facepunchstudio.com
+0.0.0.0 twitch.rust-ltd.com
 0.0.0.0 u924157p.beget.tech
 0.0.0.0 udmoney.club
 0.0.0.0 uii.io

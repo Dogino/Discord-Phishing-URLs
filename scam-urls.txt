@@ -1309,6 +1309,7 @@ discurd.js.org
 discvordapp.com
 discxordapp.com
 discxrd.com
+discyrd.com
 disczrd.com
 discörd.com
 disdornitro.com
@@ -1718,6 +1719,7 @@ faceit-premium.com
 facepunch-award.com
 facepunch-gifts.org.ru
 facepunch-llc.com
+facepunch-twitch.com
 facepunchltd.com
 facepunchs.com
 facepunchskins.com
@@ -4801,6 +4803,11 @@ tradeoffers.net.ru
 triumph.tk
 truepnl-giveaway.info
 trustpool.xyz
+twitch-nude.com
+twitch-starter.com
+twitch.facepunch-llc.com
+twitch.facepunchstudio.com
+twitch.rust-ltd.com
 u924157p.beget.tech
 udmoney.club
 uii.io
@@ -4833,7 +4840,6 @@ whitelampa.xyz
 widesdays.com
 wild-day.com
 winfnatic.pro
-witch.tv
 withereum.com
 wn.nr
 wowcloud9.com
