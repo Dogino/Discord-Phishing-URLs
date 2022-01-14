@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 13 Jan 2022, 21:08 UTC+01
+# Last modified: Fri, 14 Jan 2022, 22:29 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -41,8 +41,10 @@
 0.0.0.0 app-discord.ru
 0.0.0.0 app-discordc.com
 0.0.0.0 app-nitro.com
+0.0.0.0 applys-discord.com
 0.0.0.0 appnitro-discord.com
 0.0.0.0 appnitro-discord.ru.com
+0.0.0.0 apps-discord.com
 0.0.0.0 apps-discord.org
 0.0.0.0 apps-nitro.com
 0.0.0.0 asstralissteam.org.ru
@@ -239,6 +241,7 @@
 0.0.0.0 derimonz.xyz
 0.0.0.0 derwoood.xyz
 0.0.0.0 dfiscord.com
+0.0.0.0 dfscord-app.club
 0.0.0.0 diacord.com
 0.0.0.0 diacordapp.com
 0.0.0.0 diascord.com
@@ -317,6 +320,7 @@
 0.0.0.0 dilscord.gift
 0.0.0.0 dilscordi.com
 0.0.0.0 dilscordi.org.ru
+0.0.0.0 dilscordilgiftt.com
 0.0.0.0 dilscordl.com
 0.0.0.0 dioscord.com
 0.0.0.0 diqscordapp.com
@@ -362,6 +366,9 @@
 0.0.0.0 disccords.com
 0.0.0.0 disccrd.com
 0.0.0.0 disccrd.gifts
+0.0.0.0 disccrdapp.com
+0.0.0.0 discdrdapp.ru
+0.0.0.0 discerdapp.com
 0.0.0.0 discford.com
 0.0.0.0 discgrd.com
 0.0.0.0 dischrd.com
@@ -532,6 +539,7 @@
 0.0.0.0 discord-airnitro.xyz
 0.0.0.0 discord-alidrop.me
 0.0.0.0 discord-alrdrop.com
+0.0.0.0 discord-api.com
 0.0.0.0 discord-app.art
 0.0.0.0 discord-app.cc
 0.0.0.0 discord-app.click
@@ -689,6 +697,7 @@
 0.0.0.0 discord-hype.com
 0.0.0.0 discord-hypeevent.com
 0.0.0.0 discord-hypes.com
+0.0.0.0 discord-hypesquad.cf
 0.0.0.0 discord-hypesquad.com
 0.0.0.0 discord-hypesquade.com
 0.0.0.0 discord-hypesquads.com
@@ -717,7 +726,9 @@
 0.0.0.0 discord-mods.com
 0.0.0.0 discord-net-labs.com
 0.0.0.0 discord-netro.ru
+0.0.0.0 discord-new.net.ru
 0.0.0.0 discord-news.com
+0.0.0.0 discord-news.ru.com
 0.0.0.0 discord-newyear.net.ru
 0.0.0.0 discord-nftro.ru.com
 0.0.0.0 discord-niitro.ru
@@ -960,6 +971,7 @@
 0.0.0.0 discordbothost.com
 0.0.0.0 discordbotist.com
 0.0.0.0 discordbots.app
+0.0.0.0 discordbug.com
 0.0.0.0 discordc.gift
 0.0.0.0 discordcanary.com
 0.0.0.0 discordcdn.sa.com
@@ -1023,6 +1035,7 @@
 0.0.0.0 discordgift.tk
 0.0.0.0 discordgift.us
 0.0.0.0 discordgift.xyz
+0.0.0.0 discordgifta.online
 0.0.0.0 discordgifte.com
 0.0.0.0 discordgifte.ru
 0.0.0.0 discordgifte.site
@@ -1030,6 +1043,7 @@
 0.0.0.0 discordgiftlng.sbs
 0.0.0.0 discordgifts.co.uk
 0.0.0.0 discordgifts.com
+0.0.0.0 discordgifts.eu.org
 0.0.0.0 discordgifts.info
 0.0.0.0 discordgifts.link
 0.0.0.0 discordgifts.me
@@ -1056,8 +1070,10 @@
 0.0.0.0 discordhalloweens.com
 0.0.0.0 discordi.gift
 0.0.0.0 discordiapp.fun
+0.0.0.0 discordiasbox.com
 0.0.0.0 discordiatech.co.uk
 0.0.0.0 discordicon.com
+0.0.0.0 discordik.ru
 0.0.0.0 discordimages.com
 0.0.0.0 discordinfo.com
 0.0.0.0 discordinfo.ru
@@ -1099,6 +1115,7 @@
 0.0.0.0 discordnitro.fun
 0.0.0.0 discordnitro.gift
 0.0.0.0 discordnitro.gifts
+0.0.0.0 discordnitro.host
 0.0.0.0 discordnitro.info
 0.0.0.0 discordnitro.link
 0.0.0.0 discordnitro.pw
@@ -1231,6 +1248,7 @@
 0.0.0.0 discordx.link
 0.0.0.0 discordx.ml
 0.0.0.0 discordxsteam.com
+0.0.0.0 discore-nitro.xyz
 0.0.0.0 discoredapp.com
 0.0.0.0 discorfd.com
 0.0.0.0 discorg.gg
@@ -1278,6 +1296,7 @@
 0.0.0.0 discprd.com
 0.0.0.0 discqorcl.com
 0.0.0.0 discqrdapp.com
+0.0.0.0 discqrde.club
 0.0.0.0 discqrde.com
 0.0.0.0 discrd.cc
 0.0.0.0 discrd.co
@@ -1292,6 +1311,7 @@
 0.0.0.0 discrod-app.site
 0.0.0.0 discrod-apps.ru
 0.0.0.0 discrod-apps.xyz
+0.0.0.0 discrod-gg.ru
 0.0.0.0 discrod-gift.com
 0.0.0.0 discrod-gift.net.ru
 0.0.0.0 discrod-gift.xyz
@@ -1758,6 +1778,7 @@
 0.0.0.0 facepunch-llc.com
 0.0.0.0 facepunch-twitch.com
 0.0.0.0 facepunchltd.com
+0.0.0.0 facepunchs-studio.com
 0.0.0.0 facepunchs.com
 0.0.0.0 facepunchskins.com
 0.0.0.0 facerit.com
@@ -1947,6 +1968,7 @@
 0.0.0.0 hyper-tournament.xyz
 0.0.0.0 hyperz.monster
 0.0.0.0 hypesquad.com.br
+0.0.0.0 hypesquad.info
 0.0.0.0 id-374749.ru
 0.0.0.0 idiscord.pro
 0.0.0.0 imvu37.blogspot.com
@@ -2378,6 +2400,7 @@
 0.0.0.0 s1cses.site
 0.0.0.0 s92673tu.beget.tech
 0.0.0.0 sa-mcdonalds.com
+0.0.0.0 schoolmoderators.com
 0.0.0.0 scteamcommunity.com
 0.0.0.0 scwanmei.ru
 0.0.0.0 sdiscord.com
@@ -2559,6 +2582,7 @@
 0.0.0.0 staemcommunily.com
 0.0.0.0 staemcommunily.ru.com
 0.0.0.0 staemcommunitiy.com
+0.0.0.0 staemcommunits.ru
 0.0.0.0 staemcommunitu.com
 0.0.0.0 staemcommunity.com.ru
 0.0.0.0 staemcommunity.info
@@ -2639,6 +2663,7 @@
 0.0.0.0 staerncomrmunity.com
 0.0.0.0 staerncormmunity.com
 0.0.0.0 staerncornmunity.com
+0.0.0.0 staff-discord.club
 0.0.0.0 staff-discord.net
 0.0.0.0 stammcommunity.com
 0.0.0.0 stampowered.com
@@ -2661,6 +2686,7 @@
 0.0.0.0 steaamcomunity.net
 0.0.0.0 steaamcomunity.ru.com
 0.0.0.0 steaamconnmunlty.com
+0.0.0.0 steaamcoomunnity.site
 0.0.0.0 steacmommunity.com
 0.0.0.0 steacommnunity.com
 0.0.0.0 steacommunilty.ru.com
@@ -3030,6 +3056,8 @@
 0.0.0.0 steamcommunitey.com
 0.0.0.0 steamcommunitey.ru
 0.0.0.0 steamcommuniteypowered.com
+0.0.0.0 steamcommunitez.online
+0.0.0.0 steamcommunitez.ru
 0.0.0.0 steamcommunitfy.com
 0.0.0.0 steamcommunitfy.ru.com
 0.0.0.0 steamcommunitg.com
@@ -3078,6 +3106,7 @@
 0.0.0.0 steamcommunitu.icu
 0.0.0.0 steamcommunitu.net
 0.0.0.0 steamcommunitu.ru.com
+0.0.0.0 steamcommunitw.ru
 0.0.0.0 steamcommunitx.ru.com
 0.0.0.0 steamcommunity-com.xyz
 0.0.0.0 steamcommunity-comtradeoffer.ru
@@ -3199,6 +3228,7 @@
 0.0.0.0 steamcommunllty.com
 0.0.0.0 steamcommunllty.ru
 0.0.0.0 steamcommunlte.ru
+0.0.0.0 steamcommunltes.online
 0.0.0.0 steamcommunltiy.club
 0.0.0.0 steamcommunltiy.com
 0.0.0.0 steamcommunltu.com
@@ -3839,6 +3869,7 @@
 0.0.0.0 steamsourcecommunity1.xyz
 0.0.0.0 steamsourcetrade.xyz
 0.0.0.0 steamspecial.com
+0.0.0.0 steamstore-pubg.com
 0.0.0.0 steamstore.map2.ssl.hwcdn.net
 0.0.0.0 steamstore.site
 0.0.0.0 steamstorepowered.com
@@ -4548,6 +4579,7 @@
 0.0.0.0 store-steam-csgo.ru
 0.0.0.0 store-steamcomminuty.ru.com
 0.0.0.0 store-steampoweered.ru
+0.0.0.0 store-steampowereld.ru
 0.0.0.0 store-stempowered.com
 0.0.0.0 store-streampowered.me
 0.0.0.0 store.stampowered.com
@@ -4872,6 +4904,7 @@
 0.0.0.0 v-roblox.com
 0.0.0.0 vbucksminer.ru
 0.0.0.0 verifapp.us
+0.0.0.0 verification-discord.cf
 0.0.0.0 verification-discord.com
 0.0.0.0 verifyaccount-for-bluetick.com
 0.0.0.0 viewc.site
