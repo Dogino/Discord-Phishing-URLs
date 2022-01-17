@@ -1059,6 +1059,7 @@ discordgiveaway.co.vu
 discordgiveaway.fun
 discordgivenitro.com
 discordgivenitro.ru.com
+discordglfling.xyz
 discordglft.com
 discordglft.ru
 discordglfts.com
@@ -1435,7 +1436,6 @@ disxord.com
 disxordapp.com
 diszcord.com
 diszcordapp.com
-disçordapp.com
 diucord.js.org
 diuscordapp.com
 divinegardens.xyx
@@ -4956,9 +4956,6 @@ xpromo-discord.com
 yip.su
 youshouldclick.us
 youtubeshort.watch
-yoütu.be
-yoütübe.co
-yoütübe.com
 yummy-nitro.com
 z93729n9.beget.tech
 zeusclicks.com
