@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 17 Jan 2022, 01:21 UTC+01
+# Last modified: Mon, 17 Jan 2022, 20:21 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1nitro.club
@@ -390,6 +390,7 @@
 0.0.0.0 discobd.com
 0.0.0.0 discocd.com
 0.0.0.0 discocd.ru
+0.0.0.0 discocdl.com
 0.0.0.0 discocl.xyz
 0.0.0.0 discoclapp.pw
 0.0.0.0 discoclapp.xyz
@@ -620,6 +621,7 @@
 0.0.0.0 discord-faq.com
 0.0.0.0 discord-free-nitro.ru
 0.0.0.0 discord-free.com
+0.0.0.0 discord-free.online
 0.0.0.0 discord-free.ru.com
 0.0.0.0 discord-free.site
 0.0.0.0 discord-freenitro.pw
@@ -724,6 +726,7 @@
 0.0.0.0 discord-mega.xyz
 0.0.0.0 discord-mod.com
 0.0.0.0 discord-moderation.com
+0.0.0.0 discord-moderator-academy.com
 0.0.0.0 discord-moderator.com
 0.0.0.0 discord-moderator.us
 0.0.0.0 discord-mods.com
@@ -881,6 +884,7 @@
 0.0.0.0 discord.glfte.com
 0.0.0.0 discord.gq
 0.0.0.0 discord.homes
+0.0.0.0 discord.ie
 0.0.0.0 discord.in
 0.0.0.0 discord.istanbul
 0.0.0.0 discord.limited
@@ -901,6 +905,7 @@
 0.0.0.0 discord.ru.net
 0.0.0.0 discord.shop
 0.0.0.0 discord.si
+0.0.0.0 discord.space
 0.0.0.0 discord.team
 0.0.0.0 discord.tools
 0.0.0.0 discord.tw
@@ -1353,6 +1358,7 @@
 0.0.0.0 discrodnitro.ru
 0.0.0.0 discrodnitro.site
 0.0.0.0 discrods-app.xyz
+0.0.0.0 discrods.gift
 0.0.0.0 discrods.site
 0.0.0.0 discrodsteam.online
 0.0.0.0 discrodsteam.ru
@@ -1769,6 +1775,7 @@
 0.0.0.0 events-discord.com
 0.0.0.0 ewqdsa.xyz
 0.0.0.0 exaltedbot.xyz
+0.0.0.0 exam-discord.com
 0.0.0.0 extrarg.xyz
 0.0.0.0 ez-tasty.cyou
 0.0.0.0 ezdiscord.xyz
@@ -1971,12 +1978,14 @@
 0.0.0.0 hydra2018.ru
 0.0.0.0 hyper-tournament.xyz
 0.0.0.0 hyperz.monster
+0.0.0.0 hypesquad-events-discord.com
 0.0.0.0 hypesquad.com.br
 0.0.0.0 hypesquad.info
 0.0.0.0 id-374749.ru
 0.0.0.0 idiscord.pro
 0.0.0.0 imvu37.blogspot.com
 0.0.0.0 indereyn.ru.com
+0.0.0.0 infohypesquad.com
 0.0.0.0 intimki.com
 0.0.0.0 into-nitro.com
 0.0.0.0 iplogger.com
@@ -2064,6 +2073,7 @@
 0.0.0.0 minecräft.com
 0.0.0.0 minero.cc
 0.0.0.0 miniurl.pw
+0.0.0.0 moderators-academy.club
 0.0.0.0 my-discord-gift.com
 0.0.0.0 my-tradelink.ru
 0.0.0.0 myccgo.xyz
@@ -2404,6 +2414,7 @@
 0.0.0.0 s1cses.site
 0.0.0.0 s92673tu.beget.tech
 0.0.0.0 sa-mcdonalds.com
+0.0.0.0 school-moderator.com
 0.0.0.0 schoolmoderators.com
 0.0.0.0 scteamcommunity.com
 0.0.0.0 scwanmei.ru
@@ -2653,6 +2664,7 @@
 0.0.0.0 staemcummunlty.com
 0.0.0.0 staemmcommunity.ru
 0.0.0.0 staemmcomunity.com
+0.0.0.0 staemncornnunnity.ru
 0.0.0.0 staemncrommunity.store
 0.0.0.0 staempawered.xyz
 0.0.0.0 staemporewed.xyz
@@ -4897,6 +4909,7 @@
 0.0.0.0 truepnl-giveaway.info
 0.0.0.0 trustpool.xyz
 0.0.0.0 twitch-nude.com
+0.0.0.0 twitch-rust.com
 0.0.0.0 twitch-starter.com
 0.0.0.0 twitch.facepunch-llc.com
 0.0.0.0 twitch.facepunchstudio.com
