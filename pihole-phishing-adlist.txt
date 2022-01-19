@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 19 Jan 2022, 20:32 UTC+01
+# Last modified: Wed, 19 Jan 2022, 20:34 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -885,6 +885,7 @@
 0.0.0.0 discord-account.com
 0.0.0.0 discord-accounts.com
 0.0.0.0 discord-accounts.ru
+0.0.0.0 discord-acedemy.com
 0.0.0.0 discord-action.com
 0.0.0.0 discord-air.fun
 0.0.0.0 discord-air.pw
@@ -962,6 +963,7 @@
 0.0.0.0 discord-bot.ru
 0.0.0.0 discord-bounty.ru
 0.0.0.0 discord-bugs.com
+0.0.0.0 discord-bunker.ru
 0.0.0.0 discord-canary.com
 0.0.0.0 discord-certified.com
 0.0.0.0 discord-christmas.com
@@ -1145,6 +1147,7 @@
 0.0.0.0 discord-hypesquad.net
 0.0.0.0 discord-hypesquade.com
 0.0.0.0 discord-hypesquaders.com
+0.0.0.0 discord-hypesquadevents.com
 0.0.0.0 discord-hypesquads.com
 0.0.0.0 discord-hypevent.com
 0.0.0.0 discord-info.com
@@ -1166,6 +1169,7 @@
 0.0.0.0 discord-login.cf
 0.0.0.0 discord-main.ru.com
 0.0.0.0 discord-me.com
+0.0.0.0 discord-me.ru
 0.0.0.0 discord-mega.xyz
 0.0.0.0 discord-mod.com
 0.0.0.0 discord-moderation.com
@@ -1294,6 +1298,7 @@
 0.0.0.0 discord-ro.com
 0.0.0.0 discord-ro.tk
 0.0.0.0 discord-ru.site
+0.0.0.0 discord-s.ru
 0.0.0.0 discord-security.com
 0.0.0.0 discord-service.com
 0.0.0.0 discord-service.xyz
@@ -1356,6 +1361,7 @@
 0.0.0.0 discord-vetify.com
 0.0.0.0 discord-votejob.com
 0.0.0.0 discord-web.com
+0.0.0.0 discord-winter.ru
 0.0.0.0 discord-xnitro.com
 0.0.0.0 discord.ac
 0.0.0.0 discord.app
@@ -1452,6 +1458,7 @@
 0.0.0.0 discordalts293.repl.co
 0.0.0.0 discordaoo.com
 0.0.0.0 discordaop.com
+0.0.0.0 discordapp-hypesquad.com
 0.0.0.0 discordapp-moderators.club
 0.0.0.0 discordapp.best
 0.0.0.0 discordapp.biz
@@ -1754,6 +1761,7 @@
 0.0.0.0 discordgiftz.xyz
 0.0.0.0 discordgitf.xyz
 0.0.0.0 discordgive.ru.com
+0.0.0.0 discordgive.xyz
 0.0.0.0 discordgiveaway.co.vu
 0.0.0.0 discordgiveaway.fun
 0.0.0.0 discordgivenitro.com
@@ -1887,6 +1895,7 @@
 0.0.0.0 discordnitrogifts.net
 0.0.0.0 discordnitrogifts.pl
 0.0.0.0 discordnitrolink.tk
+0.0.0.0 discordnitroo.com
 0.0.0.0 discordnitroos.com
 0.0.0.0 discordnitropromo.site
 0.0.0.0 discordnitros.cf
@@ -2160,6 +2169,7 @@
 0.0.0.0 discrod-go.ru
 0.0.0.0 discrod-nitro-boost.xyz
 0.0.0.0 discrod-nitro-giveaway.xyz
+0.0.0.0 discrod-nitro.com
 0.0.0.0 discrod-nitro.fun
 0.0.0.0 discrod-nitro.info
 0.0.0.0 discrod-nitro.ru
@@ -3025,6 +3035,7 @@
 0.0.0.0 gift-discord.digital
 0.0.0.0 gift-discord.online
 0.0.0.0 gift-discord.ru
+0.0.0.0 gift-discord.ru.com
 0.0.0.0 gift-discord.shop
 0.0.0.0 gift-discord.xyz
 0.0.0.0 gift-discorde.com
@@ -3164,6 +3175,7 @@
 0.0.0.0 hydra2018.ru
 0.0.0.0 hype-discord.com
 0.0.0.0 hype-discord.tk
+0.0.0.0 hype-squad.events
 0.0.0.0 hyper-tournament.xyz
 0.0.0.0 hyperwage.com
 0.0.0.0 hyperz.monster
@@ -3172,6 +3184,7 @@
 0.0.0.0 hypesquad-events.com
 0.0.0.0 hypesquad-events.gift
 0.0.0.0 hypesquad-events.net
+0.0.0.0 hypesquad-formulary.com
 0.0.0.0 hypesquad.com.br
 0.0.0.0 hypesquad.info
 0.0.0.0 hypesquadapp.com
@@ -3245,6 +3258,7 @@
 0.0.0.0 joewfpwg.ru
 0.0.0.0 join-hypesquad.net
 0.0.0.0 join-hypesquadevents.com
+0.0.0.0 join-partner.com
 0.0.0.0 joinmy.site
 0.0.0.0 jokedrop.ru
 0.0.0.0 jope-nitro.com
@@ -3418,6 +3432,7 @@
 0.0.0.0 mir-kliparta.ru
 0.0.0.0 miserve-chanics.com
 0.0.0.0 mobile-novinki.ru
+0.0.0.0 mod-academy.xyz
 0.0.0.0 moderation-discord.com
 0.0.0.0 moderators-academy.club
 0.0.0.0 moviesboys.com
@@ -3615,6 +3630,7 @@
 0.0.0.0 nitrostore.org
 0.0.0.0 nitrotypehack.club
 0.0.0.0 nitrowithsteam.com
+0.0.0.0 nltro-code.xyz
 0.0.0.0 nltro.com
 0.0.0.0 nltro.site
 0.0.0.0 nltroclassic.com
@@ -4978,6 +4994,7 @@
 0.0.0.0 steamcommunite.com
 0.0.0.0 steamcommunite.com.ru
 0.0.0.0 steamcommunites.com
+0.0.0.0 steamcommunites.online
 0.0.0.0 steamcommunites.ru
 0.0.0.0 steamcommunites.tk
 0.0.0.0 steamcommunitey.com
@@ -5583,6 +5600,7 @@
 0.0.0.0 steamcomunitu.ru
 0.0.0.0 steamcomunituy.com
 0.0.0.0 steamcomunity-nitro-free.ru
+0.0.0.0 steamcomunity.aiq.ru
 0.0.0.0 steamcomunity.com
 0.0.0.0 steamcomunity.com.ru
 0.0.0.0 steamcomunity.me
@@ -5696,6 +5714,7 @@
 0.0.0.0 steamconnunjty.com
 0.0.0.0 steamconnunlty.com
 0.0.0.0 steamconnunlty.ru
+0.0.0.0 steamconnunlty.site
 0.0.0.0 steamconunity.cf
 0.0.0.0 steamconunity.tk
 0.0.0.0 steamconunlty.ru
@@ -5998,6 +6017,7 @@
 0.0.0.0 steampowered.xyz
 0.0.0.0 steampoweredcinema.com
 0.0.0.0 steampoweredcommunity.com
+0.0.0.0 steampoweredd-pubg.xyz
 0.0.0.0 steampoweredd.com
 0.0.0.0 steampoweredexchange.xyz
 0.0.0.0 steampoweredexchanges.xyz
@@ -6148,6 +6168,7 @@
 0.0.0.0 steancommnunlty.ru
 0.0.0.0 steancommounity.com
 0.0.0.0 steancommrnity.com
+0.0.0.0 steancommrnity.ru.com
 0.0.0.0 steancommueniliy.ru.com
 0.0.0.0 steancommuhity.com
 0.0.0.0 steancommuhity.ru
@@ -6228,6 +6249,7 @@
 0.0.0.0 steancommunyti.com
 0.0.0.0 steancommunyti.ru.com
 0.0.0.0 steancommunytiu.ru
+0.0.0.0 steancommunyty.ru.com
 0.0.0.0 steancommurily.xyz
 0.0.0.0 steancommutitly.ru
 0.0.0.0 steancommuuity.com
@@ -6627,6 +6649,7 @@
 0.0.0.0 stearnpowered.xyz
 0.0.0.0 stearnrcommunity.com
 0.0.0.0 stearrrcommunity.com
+0.0.0.0 stearscomrmunity.com
 0.0.0.0 steasmpowered.com
 0.0.0.0 steasy-discord.com
 0.0.0.0 steavcommunitv.xyz
@@ -6725,6 +6748,7 @@
 0.0.0.0 steemcommunitiy.xyz
 0.0.0.0 steemcommunitly.com
 0.0.0.0 steemcommunitry.com
+0.0.0.0 steemcommunity.aiq.ru
 0.0.0.0 steemcommunity.co
 0.0.0.0 steemcommunity.com
 0.0.0.0 steemcommunity.ru.com
@@ -6960,6 +6984,7 @@
 0.0.0.0 steomconnmunitiy.com
 0.0.0.0 stepmscononnity.com
 0.0.0.0 steqmcommunity.com
+0.0.0.0 steqmcpmmynity.000webhostapp.com
 0.0.0.0 steqmpowered.com
 0.0.0.0 steramcommunity.com
 0.0.0.0 steramconmunity.com
@@ -7731,7 +7756,10 @@
 0.0.0.0 wubingdu.cn
 0.0.0.0 ww1.dicsordapp.com
 0.0.0.0 ww1.discordapp.org
+0.0.0.0 ww1.discordserves.me
+0.0.0.0 ww1.discordstyle.com
 0.0.0.0 ww1.discorpapp.com
+0.0.0.0 ww1.pro-nitro.fun
 0.0.0.0 ww11.steamcommunity.download
 0.0.0.0 ww16.discordcanary.com
 0.0.0.0 ww16.nitro-discord.com
@@ -7771,9 +7799,6 @@
 0.0.0.0 youshouldclick.us
 0.0.0.0 youtuba.com
 0.0.0.0 youtubeshort.watch
-0.0.0.0 yoütu.be
-0.0.0.0 yoütübe.co
-0.0.0.0 yoütübe.com
 0.0.0.0 ysbweb.com
 0.0.0.0 yt118.com
 0.0.0.0 ytbgamer.space
