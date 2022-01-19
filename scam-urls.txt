@@ -664,6 +664,7 @@ disccord-giift.com
 disccord-giift.ru
 disccord-nitro.com
 disccord-nitro.xyz
+disccord.com
 disccord.gg
 disccord.ru
 disccord.ru.com
@@ -682,6 +683,7 @@ discgrd.com
 discgrdapp.com
 dischrd.co
 dischrd.com
+dischrdapp.com
 discird.gg
 discird.me
 discjrd.com
@@ -7750,16 +7752,6 @@ wowfnatic.com
 wowfnatic.ru
 wowfnatic.site
 wubingdu.cn
-ww1.dicsordapp.com
-ww1.discordapp.org
-ww1.discordserves.me
-ww1.discordstyle.com
-ww1.discorpapp.com
-ww1.pro-nitro.fun
-ww11.steamcommunity.download
-ww16.discordcanary.com
-ww16.nitro-discord.com
-ww8.steamcommmunity.ru.com
 wwdiscord.com
 wwtracking.net
 www-steamcommunlty.com
