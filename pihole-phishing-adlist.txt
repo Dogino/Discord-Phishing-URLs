@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 20 Jan 2022, 00:02 UTC+01
+# Last modified: Thu, 20 Jan 2022, 14:56 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2119,6 +2119,7 @@
 0.0.0.0 discorte-nitro.xyz
 0.0.0.0 discortnitosteam.online
 0.0.0.0 discortnitostem.online
+0.0.0.0 discorx.gift
 0.0.0.0 discorxways.xyz
 0.0.0.0 discosd.com
 0.0.0.0 discosrd.com
@@ -2226,7 +2227,6 @@
 0.0.0.0 discxrd.com
 0.0.0.0 discyrd.com
 0.0.0.0 disczrd.com
-0.0.0.0 discörd.com
 0.0.0.0 disdornitro.com
 0.0.0.0 disdornitro.gifts
 0.0.0.0 disdorsnitro.com
@@ -2327,7 +2327,6 @@
 0.0.0.0 disxordapp.com
 0.0.0.0 diszcord.com
 0.0.0.0 diszcordapp.com
-0.0.0.0 disçordapp.com
 0.0.0.0 diucord.js.org
 0.0.0.0 diuscordapp.com
 0.0.0.0 divineenterprises.net
@@ -3010,7 +3009,6 @@
 0.0.0.0 getcryptotab.com
 0.0.0.0 getfreediscordnitro.ml
 0.0.0.0 gethypesquad.com
-0.0.0.0 getlⅰbra.tech
 0.0.0.0 getnitrogen.org
 0.0.0.0 getoiu.com
 0.0.0.0 getskins.monster
@@ -3426,7 +3424,6 @@
 0.0.0.0 mfroute.com
 0.0.0.0 microsup.net
 0.0.0.0 microsupportjp.xyz
-0.0.0.0 minecräft.com
 0.0.0.0 minero.cc
 0.0.0.0 miniurl.pw
 0.0.0.0 mipcoins.com
@@ -4092,7 +4089,6 @@
 0.0.0.0 short.es
 0.0.0.0 shorte.st
 0.0.0.0 shrtz.me
-0.0.0.0 shört.co
 0.0.0.0 sieamcommunity.net.ru
 0.0.0.0 sieamcommunity.org.ru
 0.0.0.0 sieamcomnunity.org.ru
@@ -4288,7 +4284,6 @@
 0.0.0.0 spotifay.cc
 0.0.0.0 spottyfly.com
 0.0.0.0 spyware.com
-0.0.0.0 spötify.com
 0.0.0.0 sreamcomminity.ru
 0.0.0.0 sreamcommuniity.com
 0.0.0.0 sreamcommunity.com
@@ -4320,7 +4315,6 @@
 0.0.0.0 staeamconmuninty.me
 0.0.0.0 staeamconnunitly.online
 0.0.0.0 staeamconnunitly.ru
-0.0.0.0 staeamcromnuninty.com.profiles-76582109509.me
 0.0.0.0 staeampowered.com
 0.0.0.0 staem-communitu.info
 0.0.0.0 staemcammunity.com
@@ -5116,11 +5110,8 @@
 0.0.0.0 steamcommunity.click
 0.0.0.0 steamcommunity.cloud
 0.0.0.0 steamcommunity.cn
-0.0.0.0 steamcommunity.co
 0.0.0.0 steamcommunity.co.ua
-0.0.0.0 steamcommunity.com-id-k4tushatwitchbabydota.ru
 0.0.0.0 steamcommunity.com.ru
-0.0.0.0 steamcommunity.comlappl251490lrust.ru
 0.0.0.0 steamcommunity.de
 0.0.0.0 steamcommunity.digital
 0.0.0.0 steamcommunity.download
@@ -7547,8 +7538,6 @@
 0.0.0.0 sweetgirls.date
 0.0.0.0 system-update-new-2021.com
 0.0.0.0 systemupdatix.club
-0.0.0.0 särahah.eu
-0.0.0.0 särahah.pl
 0.0.0.0 taceitt.com
 0.0.0.0 tacelt.com
 0.0.0.0 takaytry.z11.web.core.windows.net
