@@ -2288,6 +2288,7 @@ disord.gifts
 disordapp.codes
 disordapp.gift
 disordapp.gifts
+disorde.gift
 disordgift.codes
 disordgift.com
 disordgift.xyz
@@ -3126,6 +3127,7 @@ gncr.org
 gnosisbtc.com
 go-cs.ru.com
 go-cups.ru
+go-discord.com
 go.pardot.com
 goads.pro
 goaffmy.com
