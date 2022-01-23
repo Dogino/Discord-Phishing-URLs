@@ -737,6 +737,7 @@ discodapp.com
 discodapp.gift
 discodapp.net
 discodd.com
+discode.gift
 discodgift.com
 discodnitro.info
 discodnitro.ru
@@ -3597,6 +3598,7 @@ newsinform.net
 newsinmir.com
 newsurprizeforyou.com
 newyear-discord.com
+nice-discord.com
 nicegg.ru
 nise-win.xyz
 nitrlooss-free.ru
