@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 23 Jan 2022, 16:36 UTC+01
+# Last modified: Sun, 23 Jan 2022, 20:59 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -30,9 +30,7 @@
 0.0.0.0 411medias.com
 0.0.0.0 4gameranking.com
 0.0.0.0 50checkingyourtraffic.com
-0.0.0.0 546cd327-cyber-lan.site
 0.0.0.0 60255.xyz
-0.0.0.0 7a1fe62a-discorcd-app.com
 0.0.0.0 7dgw.com
 0.0.0.0 academy-moderator.com
 0.0.0.0 academy-moderator.xyz
@@ -153,7 +151,6 @@
 0.0.0.0 azurewebsites.net
 0.0.0.0 b-time.site
 0.0.0.0 b38.info
-0.0.0.0 baac8634-fannykey.ru
 0.0.0.0 badge-team.ml
 0.0.0.0 bainushe.com
 0.0.0.0 baymack.com
@@ -240,6 +237,7 @@
 0.0.0.0 bramtrad.com
 0.0.0.0 breefingteam.com
 0.0.0.0 bro4.biz
+0.0.0.0 bronsky.kiev
 0.0.0.0 btcbolex.com
 0.0.0.0 btcclicks.com
 0.0.0.0 btconline.io
@@ -310,6 +308,7 @@
 0.0.0.0 cloudteam9.fun
 0.0.0.0 clove-nitro.com
 0.0.0.0 cls-tournament.ru
+0.0.0.0 clubboost-nitro.shop
 0.0.0.0 clubdlsscord-app.club
 0.0.0.0 cngcpy.com
 0.0.0.0 cod3r0bux.pw
@@ -322,8 +321,10 @@
 0.0.0.0 cointradebtc.com
 0.0.0.0 coleryujgdq345678hfdh.xyz
 0.0.0.0 combestskins.org.ru
+0.0.0.0 come-nitro.com
 0.0.0.0 communitytradeoffer.com
 0.0.0.0 communitytradeoffer.com.ru
+0.0.0.0 comrust-phoenix.org
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 contact-infoservice.com
 0.0.0.0 continue-site.website
@@ -413,6 +414,7 @@
 0.0.0.0 css500gggo.ru
 0.0.0.0 csskins.space
 0.0.0.0 cswanmei4.ru
+0.0.0.0 cteamcamnynity67823535672.xyz
 0.0.0.0 cteamcommunity.xyz
 0.0.0.0 cupcsgo.ru
 0.0.0.0 cupgoo.xyz
@@ -421,6 +423,7 @@
 0.0.0.0 cyber-csgo.link
 0.0.0.0 cyber-csgo.space
 0.0.0.0 cyber-lan.com
+0.0.0.0 cyber-lan.site
 0.0.0.0 cyber-win.ru
 0.0.0.0 cyberegocscom.ru
 0.0.0.0 cyberh1.xyz
@@ -447,6 +450,7 @@
 0.0.0.0 dciscord.com
 0.0.0.0 dcoda.net
 0.0.0.0 ddiscord.com
+0.0.0.0 de-spushtan-genehmigung-2.xyz
 0.0.0.0 deadisidddde.xyz
 0.0.0.0 deltasec300gt.fun
 0.0.0.0 dengiua.com
@@ -1404,12 +1408,14 @@
 0.0.0.0 discord.co.com
 0.0.0.0 discord.co.in
 0.0.0.0 discord.co.za
+0.0.0.0 discord.com
 0.0.0.0 discord.com.pl
 0.0.0.0 discord.com.ru
 0.0.0.0 discord.com.tw
 0.0.0.0 discord.cool
 0.0.0.0 discord.creditcard
 0.0.0.0 discord.deals
+0.0.0.0 discord.directory
 0.0.0.0 discord.download
 0.0.0.0 discord.es
 0.0.0.0 discord.eu
@@ -2478,6 +2484,7 @@
 0.0.0.0 dlscorcl.xyz
 0.0.0.0 dlscorclapp.fun
 0.0.0.0 dlscord-airdrop.ru.com
+0.0.0.0 dlscord-airdrop.ru.comcliscord-gift.xyz
 0.0.0.0 dlscord-airdrop.xyz
 0.0.0.0 dlscord-alirdrop.com
 0.0.0.0 dlscord-alirdrop.site
@@ -2519,6 +2526,7 @@
 0.0.0.0 dlscord-gift.org.ru
 0.0.0.0 dlscord-gift.ru
 0.0.0.0 dlscord-gift.ru.com
+0.0.0.0 dlscord-gift.ru.comdiscoril.com
 0.0.0.0 dlscord-gift.site
 0.0.0.0 dlscord-gift.space
 0.0.0.0 dlscord-gift.xyz
@@ -2889,6 +2897,7 @@
 0.0.0.0 facerit.com
 0.0.0.0 fall500.ru
 0.0.0.0 fang-operation.ru
+0.0.0.0 fannykey.ru
 0.0.0.0 fantasticfilms.ru
 0.0.0.0 faravirus.ro
 0.0.0.0 farestonpw.ru.com
@@ -2958,6 +2967,7 @@
 0.0.0.0 fowephwo.ru
 0.0.0.0 foxmods.xyz
 0.0.0.0 fps-booster.pw
+0.0.0.0 free-discord-giftsdiiscord-nitro.com
 0.0.0.0 free-dislcordnitrlos.ru
 0.0.0.0 free-download.5201l41kuvl7.top
 0.0.0.0 free-download.lcomicuzik6s.top
@@ -3118,6 +3128,7 @@
 0.0.0.0 giftdiscord.online
 0.0.0.0 giftdiscord.site
 0.0.0.0 giftdiscord.xyz
+0.0.0.0 giftdlscord-app.info
 0.0.0.0 gifte-discord.com
 0.0.0.0 gifte-discord.xyz
 0.0.0.0 gifte-discorde.com
@@ -3634,6 +3645,7 @@
 0.0.0.0 newsinmir.com
 0.0.0.0 newsurprizeforyou.com
 0.0.0.0 newyear-discord.com
+0.0.0.0 nft-presale.live
 0.0.0.0 nice-discord.com
 0.0.0.0 nicegg.ru
 0.0.0.0 nise-win.xyz
@@ -3800,6 +3812,7 @@
 0.0.0.0 order-78.com
 0.0.0.0 order-87.com
 0.0.0.0 order-96.com
+0.0.0.0 ordgift.ga
 0.0.0.0 ordinaryluckrewardextra.club
 0.0.0.0 ouo.io
 0.0.0.0 ourhypewords.com
@@ -3992,6 +4005,7 @@
 0.0.0.0 redirectsstm.click
 0.0.0.0 redirekted.com
 0.0.0.0 redizzz.xyz
+0.0.0.0 reerobloxgenerator.tk
 0.0.0.0 referralpay.co
 0.0.0.0 regeralnet.xyz
 0.0.0.0 regsweep.com
@@ -4429,6 +4443,7 @@
 0.0.0.0 staeamconmuninty.me
 0.0.0.0 staeamconnunitly.online
 0.0.0.0 staeamconnunitly.ru
+0.0.0.0 staeamcromnuninty.com.profiles-76582109509.me
 0.0.0.0 staeampowered.com
 0.0.0.0 staem-communitu.info
 0.0.0.0 staemcammunity.com
@@ -5236,7 +5251,9 @@
 0.0.0.0 steamcommunity.cloud
 0.0.0.0 steamcommunity.cn
 0.0.0.0 steamcommunity.co.ua
+0.0.0.0 steamcommunity.com-id-k4tushatwitchbabydota.ru
 0.0.0.0 steamcommunity.com.ru
+0.0.0.0 steamcommunity.comlappl251490lrust.ru
 0.0.0.0 steamcommunity.de
 0.0.0.0 steamcommunity.digital
 0.0.0.0 steamcommunity.download
@@ -5271,6 +5288,7 @@
 0.0.0.0 steamcommunitycom.ru.com
 0.0.0.0 steamcommunitycomoffernewpartner989791155tokenjbhldtj6.trade
 0.0.0.0 steamcommunitycomtradeoffer.ru.com
+0.0.0.0 steamcommunityes.ru
 0.0.0.0 steamcommunitygames.com
 0.0.0.0 steamcommunitygifts.xyz
 0.0.0.0 steamcommunitygifts1.xyz
@@ -6845,6 +6863,7 @@
 0.0.0.0 steeampowered.tk
 0.0.0.0 steellseriesnitro.com
 0.0.0.0 steellseriesnitros.com
+0.0.0.0 steellsseriespromotion.com
 0.0.0.0 steelseriesgift.com
 0.0.0.0 steelseriesgifts.com
 0.0.0.0 steelseriesnitro.com
@@ -6954,6 +6973,7 @@
 0.0.0.0 steiemcomunity.site
 0.0.0.0 stellseriesnitro.com
 0.0.0.0 stellseriesnitros.com
+0.0.0.0 stellsseriesnitro.com
 0.0.0.0 stelseriesnitro.com
 0.0.0.0 stelseriesnitros.com
 0.0.0.0 stemacommunity.com
@@ -7895,8 +7915,20 @@
 0.0.0.0 wowfnatic.ru
 0.0.0.0 wowfnatic.site
 0.0.0.0 wubingdu.cn
+0.0.0.0 ww1.dicsordapp.com
+0.0.0.0 ww1.discordapp.org
+0.0.0.0 ww1.discordserves.me
+0.0.0.0 ww1.discordstyle.com
+0.0.0.0 ww1.discorpapp.com
+0.0.0.0 ww1.pro-nitro.fun
+0.0.0.0 ww11.steamcommunity.download
+0.0.0.0 ww16.discordcanary.com
+0.0.0.0 ww16.nitro-discord.com
+0.0.0.0 ww8.steamcommmunity.ru.com
 0.0.0.0 wwdiscord.com
 0.0.0.0 wwtracking.net
+0.0.0.0 wwvv-roblcx.com
+0.0.0.0 wwvvv-roblox.com
 0.0.0.0 www-steamcommunlty.com
 0.0.0.0 www.appninjas.xyz
 0.0.0.0 wyxy.ru
