@@ -2329,8 +2329,10 @@ disocrd.codes
 disocrd.com
 disocrd.gg
 disocrd.gifts
+disocrd.info
 disocrd.me
 disocrd.ml
+disocrd.net
 disocrd.online
 disocrd.org
 disocrd.ru
