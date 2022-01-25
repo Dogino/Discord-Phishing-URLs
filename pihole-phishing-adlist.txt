@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 25 Jan 2022, 17:10 UTC+01
+# Last modified: Tue, 25 Jan 2022, 21:11 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -580,6 +580,7 @@
 0.0.0.0 dicsords-give.ru
 0.0.0.0 dicsords.club
 0.0.0.0 dicsords.com
+0.0.0.0 dicsords.comboost
 0.0.0.0 dicsords.ru
 0.0.0.0 dicsrod.com
 0.0.0.0 dicsrodapp.com
@@ -777,6 +778,7 @@
 0.0.0.0 discofd.com
 0.0.0.0 discoid.gifts
 0.0.0.0 discojd.com
+0.0.0.0 discojd.comepic
 0.0.0.0 discokd.com
 0.0.0.0 discokrd.com
 0.0.0.0 discold-nitro.com
@@ -2347,6 +2349,7 @@
 0.0.0.0 disod.com
 0.0.0.0 disorc.com
 0.0.0.0 disorcd.com
+0.0.0.0 disorcd.compromotions
 0.0.0.0 disord-app.com
 0.0.0.0 disord-app.gifts
 0.0.0.0 disord.co
@@ -2435,6 +2438,7 @@
 0.0.0.0 djscordl.com
 0.0.0.0 djscorld.gift
 0.0.0.0 dkscord.com
+0.0.0.0 dlcorcl-me.co
 0.0.0.0 dlcorcl-me.com
 0.0.0.0 dlcord.gift
 0.0.0.0 dlcsorcl.com
@@ -3771,6 +3775,7 @@
 0.0.0.0 nitro.click
 0.0.0.0 nitro.gift
 0.0.0.0 nitro.gives
+0.0.0.0 nitro.givespromotions
 0.0.0.0 nitro.link
 0.0.0.0 nitro.ru
 0.0.0.0 nitro.ru.com
@@ -4836,6 +4841,7 @@
 0.0.0.0 steam-nitros.ru
 0.0.0.0 steam-nltro.com
 0.0.0.0 steam-nltro.ru
+0.0.0.0 steam-nltro.ru.com
 0.0.0.0 steam-nltros.com
 0.0.0.0 steam-nltros.ru
 0.0.0.0 steam-offer.com
