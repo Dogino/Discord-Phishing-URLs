@@ -94,7 +94,6 @@
 0.0.0.0 alm-gaming.com
 0.0.0.0 aloha-news.net
 0.0.0.0 alterprogs.ru
-0.0.0.0 altervista.org
 0.0.0.0 amanda.ttnrd.com
 0.0.0.0 amata-syb.com
 0.0.0.0 amazing-date4u.com
