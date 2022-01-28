@@ -118,6 +118,7 @@ app-nitro.com
 application-discord.com
 application-hypesquad.com
 application-hypesquadevents.com
+application-hypevents.com
 applications-discord.com
 applications-hypesquadevents.com
 apply-discord.com
@@ -1204,6 +1205,7 @@ discord-glfte.ru
 discord-glfts.club
 discord-glfts.ga
 discord-glfts.xyz
+discord-glveaway.online
 discord-go.com
 discord-go.net.ru
 discord-go.online
@@ -1951,6 +1953,7 @@ discordjob.com
 discordjp.com
 discordjs.tech
 discordjsteam.com
+discordl-app.com
 discordl-steam.com
 discordl.com
 discordl.gift
@@ -2668,6 +2671,7 @@ dlscord-glft.xyz
 dlscord-glfts.net.ru
 dlscord-glfts.xyz
 dlscord-halloween.ru
+dlscord-hypespuad.com
 dlscord-hypesquad.com
 dlscord-hypesquads.com
 dlscord-inventory.fun
@@ -3401,6 +3405,7 @@ hypediscord.com
 hypeevents-apply.com
 hypeevents-formulary.com
 hyper-tournament.xyz
+hypersquad-event.online
 hyperwage.com
 hyperz.monster
 hypesqaudevents-mod.com
@@ -3425,9 +3430,11 @@ hypesquad-mod.com
 hypesquad-moderator.academy
 hypesquad-moderator.com
 hypesquad-register.com
+hypesquad-signup.com
 hypesquad-singup.com
 hypesquad-survey.info
 hypesquad-team.com
+hypesquad-votes.com
 hypesquad.academy
 hypesquad.club
 hypesquad.com.br
@@ -3533,6 +3540,7 @@ join-moderator.com
 join-moderatoracademy.com
 join-partner.com
 joinhypesquad.com
+joinhypesquadevents.com
 joinmy.site
 jokedrop.ru
 jope-nitro.com
@@ -3735,6 +3743,7 @@ moderators-academy-join.com
 moderators-academy.club
 moderators-academy.com
 moderators-hypesquad.com
+moderators-team.com
 modesacademy.com
 moviesboys.com
 multiadblock.com
@@ -3876,6 +3885,7 @@ nitro-discords-gift.com
 nitro-discords.com
 nitro-discords.org
 nitro-discorld.xyz
+nitro-discort.com
 nitro-discrod.me
 nitro-dlscord.ru.com
 nitro-drop.com
@@ -3891,6 +3901,7 @@ nitro-gg.com
 nitro-gg.ru
 nitro-gg.shop
 nitro-gg.xyz
+nitro-gift.net.ru
 nitro-gift.ru.com
 nitro-gift.site
 nitro-gift.space

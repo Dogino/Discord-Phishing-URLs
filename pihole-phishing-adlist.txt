@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 27 Jan 2022, 22:53 UTC+01
+# Last modified: Fri, 28 Jan 2022, 14:09 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -122,6 +122,7 @@
 0.0.0.0 application-discord.com
 0.0.0.0 application-hypesquad.com
 0.0.0.0 application-hypesquadevents.com
+0.0.0.0 application-hypevents.com
 0.0.0.0 applications-discord.com
 0.0.0.0 applications-hypesquadevents.com
 0.0.0.0 apply-discord.com
@@ -1208,6 +1209,7 @@
 0.0.0.0 discord-glfts.club
 0.0.0.0 discord-glfts.ga
 0.0.0.0 discord-glfts.xyz
+0.0.0.0 discord-glveaway.online
 0.0.0.0 discord-go.com
 0.0.0.0 discord-go.net.ru
 0.0.0.0 discord-go.online
@@ -1955,6 +1957,7 @@
 0.0.0.0 discordjp.com
 0.0.0.0 discordjs.tech
 0.0.0.0 discordjsteam.com
+0.0.0.0 discordl-app.com
 0.0.0.0 discordl-steam.com
 0.0.0.0 discordl.com
 0.0.0.0 discordl.gift
@@ -2672,6 +2675,7 @@
 0.0.0.0 dlscord-glfts.net.ru
 0.0.0.0 dlscord-glfts.xyz
 0.0.0.0 dlscord-halloween.ru
+0.0.0.0 dlscord-hypespuad.com
 0.0.0.0 dlscord-hypesquad.com
 0.0.0.0 dlscord-hypesquads.com
 0.0.0.0 dlscord-inventory.fun
@@ -3405,6 +3409,7 @@
 0.0.0.0 hypeevents-apply.com
 0.0.0.0 hypeevents-formulary.com
 0.0.0.0 hyper-tournament.xyz
+0.0.0.0 hypersquad-event.online
 0.0.0.0 hyperwage.com
 0.0.0.0 hyperz.monster
 0.0.0.0 hypesqaudevents-mod.com
@@ -3429,9 +3434,11 @@
 0.0.0.0 hypesquad-moderator.academy
 0.0.0.0 hypesquad-moderator.com
 0.0.0.0 hypesquad-register.com
+0.0.0.0 hypesquad-signup.com
 0.0.0.0 hypesquad-singup.com
 0.0.0.0 hypesquad-survey.info
 0.0.0.0 hypesquad-team.com
+0.0.0.0 hypesquad-votes.com
 0.0.0.0 hypesquad.academy
 0.0.0.0 hypesquad.club
 0.0.0.0 hypesquad.com.br
@@ -3537,6 +3544,7 @@
 0.0.0.0 join-moderatoracademy.com
 0.0.0.0 join-partner.com
 0.0.0.0 joinhypesquad.com
+0.0.0.0 joinhypesquadevents.com
 0.0.0.0 joinmy.site
 0.0.0.0 jokedrop.ru
 0.0.0.0 jope-nitro.com
@@ -3739,6 +3747,7 @@
 0.0.0.0 moderators-academy.club
 0.0.0.0 moderators-academy.com
 0.0.0.0 moderators-hypesquad.com
+0.0.0.0 moderators-team.com
 0.0.0.0 modesacademy.com
 0.0.0.0 moviesboys.com
 0.0.0.0 multiadblock.com
@@ -3880,6 +3889,7 @@
 0.0.0.0 nitro-discords.com
 0.0.0.0 nitro-discords.org
 0.0.0.0 nitro-discorld.xyz
+0.0.0.0 nitro-discort.com
 0.0.0.0 nitro-discrod.me
 0.0.0.0 nitro-dlscord.ru.com
 0.0.0.0 nitro-drop.com
@@ -3895,6 +3905,7 @@
 0.0.0.0 nitro-gg.ru
 0.0.0.0 nitro-gg.shop
 0.0.0.0 nitro-gg.xyz
+0.0.0.0 nitro-gift.net.ru
 0.0.0.0 nitro-gift.ru.com
 0.0.0.0 nitro-gift.site
 0.0.0.0 nitro-gift.space
