@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 28 Jan 2022, 21:52 UTC+01
+# Last modified: Sat, 29 Jan 2022, 12:55 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1240,7 +1240,10 @@
 0.0.0.0 discord-hype.com
 0.0.0.0 discord-hype.ml
 0.0.0.0 discord-hypebadges.com
+0.0.0.0 discord-hypedsquad.com
 0.0.0.0 discord-hypeevent.com
+0.0.0.0 discord-hypeevents.com
+0.0.0.0 discord-hypeprogram.com
 0.0.0.0 discord-hypes.com
 0.0.0.0 discord-hypesquad-apply.com
 0.0.0.0 discord-hypesquad-events.com
@@ -1947,6 +1950,7 @@
 0.0.0.0 discordhunters.com
 0.0.0.0 discordhype-squad.com
 0.0.0.0 discordhypesquad.net
+0.0.0.0 discordhypesquadevents.com
 0.0.0.0 discordi-steam.com
 0.0.0.0 discordi.com
 0.0.0.0 discordi.gift
@@ -2625,6 +2629,7 @@
 0.0.0.0 dlscorcd-nitro.com
 0.0.0.0 dlscorcl-app.com
 0.0.0.0 dlscorcl-app.xyz
+0.0.0.0 dlscorcl-up.com
 0.0.0.0 dlscorcl.com
 0.0.0.0 dlscorcl.gift
 0.0.0.0 dlscorcl.info
@@ -3494,6 +3499,7 @@
 0.0.0.0 hypesquadevents-mod.com
 0.0.0.0 hypesquadevents-register.com
 0.0.0.0 hypesquadevents-singup.com
+0.0.0.0 hypesquadevents-subscription.com
 0.0.0.0 hypesquadform.com
 0.0.0.0 hypesquadforms.com
 0.0.0.0 hypesquadformulary.com
@@ -4284,6 +4290,7 @@
 0.0.0.0 referralpay.co
 0.0.0.0 regeralnet.xyz
 0.0.0.0 register-hypesquad.com
+0.0.0.0 register-moderator.com
 0.0.0.0 regsweep.com
 0.0.0.0 reimageplusminus.me
 0.0.0.0 remontidekor.ru
@@ -6752,6 +6759,7 @@
 0.0.0.0 steancomnuniiity.ru
 0.0.0.0 steancomnuniity.com
 0.0.0.0 steancomnunilty.ru
+0.0.0.0 steancomnunity.buzz
 0.0.0.0 steancomnunity.com
 0.0.0.0 steancomnunity.ru
 0.0.0.0 steancomnunity.ru.com
