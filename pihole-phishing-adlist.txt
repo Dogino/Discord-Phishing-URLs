@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 29 Jan 2022, 20:38 UTC+01
+# Last modified: Sat, 30 Jan 2022, 13:53 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -337,6 +337,7 @@
 0.0.0.0 cloudteam9.fun
 0.0.0.0 clove-nitro.com
 0.0.0.0 cls-tournament.ru
+0.0.0.0 club-moderatorsacademy.net
 0.0.0.0 clubboost-nitro.shop
 0.0.0.0 clubdlsscord-app.club
 0.0.0.0 clubs-moderators.com
@@ -1259,6 +1260,7 @@
 0.0.0.0 discord-hypesquadevent.com
 0.0.0.0 discord-hypesquadevents.com
 0.0.0.0 discord-hypesquads.com
+0.0.0.0 discord-hypesquadteam.com
 0.0.0.0 discord-hypevent.com
 0.0.0.0 discord-hypevents.com
 0.0.0.0 discord-hypevotes.com
@@ -1601,6 +1603,7 @@
 0.0.0.0 discordaoo.com
 0.0.0.0 discordaop.com
 0.0.0.0 discordapp-hypesquad.com
+0.0.0.0 discordapp-moderator.com
 0.0.0.0 discordapp-moderators.club
 0.0.0.0 discordapp-moderators.com
 0.0.0.0 discordapp.best
@@ -2420,6 +2423,7 @@
 0.0.0.0 discsordapp.com
 0.0.0.0 discsrclapp.com
 0.0.0.0 discsrd.com
+0.0.0.0 discsrdapp.com
 0.0.0.0 discurcd.com
 0.0.0.0 discurd.js.org
 0.0.0.0 discvordapp.com
@@ -4004,6 +4008,7 @@
 0.0.0.0 nitro-gift.top
 0.0.0.0 nitro-gift.xyz
 0.0.0.0 nitro-give.site
+0.0.0.0 nitro-go.xyz
 0.0.0.0 nitro-made.com
 0.0.0.0 nitro-one.xyz
 0.0.0.0 nitro-sell.xyz
@@ -4545,6 +4550,7 @@
 0.0.0.0 sieamcommunity.net.ru
 0.0.0.0 sieamcommunity.org.ru
 0.0.0.0 sieamcomnunity.org.ru
+0.0.0.0 signup-moderatordiscord.com
 0.0.0.0 sinder8.com
 0.0.0.0 sitemap.onedrrive.com
 0.0.0.0 sitenitro-full.xyz
