@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 31 Jan 2022, 15:31 UTC+01
+# Last modified: Mon, 31 Jan 2022, 17:49 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -892,7 +892,6 @@
 0.0.0.0 discorb.info
 0.0.0.0 discorb.ru
 0.0.0.0 discorb.ru.com
-0.0.0.0 discorb.ru.com/nitro
 0.0.0.0 discorbl.com
 0.0.0.0 discorc-nitro.site
 0.0.0.0 discorc.com
@@ -939,7 +938,6 @@
 0.0.0.0 discorcl-nittro.ru
 0.0.0.0 discorcl.app
 0.0.0.0 discorcl.art
-0.0.0.0 discorcl.art/nitro-gift
 0.0.0.0 discorcl.click
 0.0.0.0 discorcl.club
 0.0.0.0 discorcl.com
@@ -2697,7 +2695,6 @@
 0.0.0.0 dlscorcl.xyz
 0.0.0.0 dlscorclapp.fun
 0.0.0.0 dlscord-airdrop.ru.com
-0.0.0.0 dlscord-airdrop.ru.comcliscord-gift.xyz
 0.0.0.0 dlscord-airdrop.xyz
 0.0.0.0 dlscord-alirdrop.com
 0.0.0.0 dlscord-alirdrop.site
@@ -2739,7 +2736,6 @@
 0.0.0.0 dlscord-gift.org.ru
 0.0.0.0 dlscord-gift.ru
 0.0.0.0 dlscord-gift.ru.com
-0.0.0.0 dlscord-gift.ru.comdiscoril.com
 0.0.0.0 dlscord-gift.site
 0.0.0.0 dlscord-gift.space
 0.0.0.0 dlscord-gift.xyz
@@ -2908,7 +2904,6 @@
 0.0.0.0 dlscordnitro.online
 0.0.0.0 dlscordnitro.ru
 0.0.0.0 dlscordnitro.ru.com
-0.0.0.0 dlscordnitro.ru.comdlscord-claim.com
 0.0.0.0 dlscordnitro.store
 0.0.0.0 dlscordnitro.us
 0.0.0.0 dlscordnitro.xyz
