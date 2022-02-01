@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 01 Feb 2022, 02:32 UTC+01
+# Last modified: Tue, 01 Feb 2022, 13:56 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -38,6 +38,7 @@
 0.0.0.0 academy-moderator.com
 0.0.0.0 academy-moderator.xyz
 0.0.0.0 academy-moderators-test.com
+0.0.0.0 academy-moderators.online
 0.0.0.0 academydiscord.com
 0.0.0.0 academymoderation.tech
 0.0.0.0 academymoderator-join.com
@@ -220,6 +221,7 @@
 0.0.0.0 beta-news.org
 0.0.0.0 beta.discorder.app
 0.0.0.0 betadiscord.com
+0.0.0.0 betterdiscord.pro
 0.0.0.0 big.org.ru
 0.0.0.0 big.pp.ru
 0.0.0.0 bigmoneyrollawira.xyz
@@ -385,6 +387,7 @@
 0.0.0.0 comdlscord-main.ru.com
 0.0.0.0 come-nitro.com
 0.0.0.0 comgift-discords.com
+0.0.0.0 communitydiscord.com
 0.0.0.0 communitytradeoffer.com
 0.0.0.0 communitytradeoffer.com.ru
 0.0.0.0 comnitrosteaml.com
@@ -1099,6 +1102,7 @@
 0.0.0.0 discord-drops.com
 0.0.0.0 discord-drops.ru
 0.0.0.0 discord-drops.xyz
+0.0.0.0 discord-early.com
 0.0.0.0 discord-egift.com
 0.0.0.0 discord-epicgames.com
 0.0.0.0 discord-event.com
@@ -1524,6 +1528,7 @@
 0.0.0.0 discord-vetify.com
 0.0.0.0 discord-votation.com
 0.0.0.0 discord-votejob.com
+0.0.0.0 discord-votes.com
 0.0.0.0 discord-web.com
 0.0.0.0 discord-winter.online
 0.0.0.0 discord-winter.ru
@@ -1710,6 +1715,7 @@
 0.0.0.0 discordbasement.com
 0.0.0.0 discordbeta.com
 0.0.0.0 discordbetter.app
+0.0.0.0 discordbio.xyz
 0.0.0.0 discordbonus.fun
 0.0.0.0 discordboost.net
 0.0.0.0 discordbooster.com
@@ -1733,11 +1739,13 @@
 0.0.0.0 discordchristmaspromo.com
 0.0.0.0 discordchristmaspromo.gifts
 0.0.0.0 discordcift.xyz
+0.0.0.0 discordcinema.com
 0.0.0.0 discordclaim.com
 0.0.0.0 discordclaim.fun
 0.0.0.0 discordclaim.xyz
 0.0.0.0 discordclient.ml
 0.0.0.0 discordclone.xyz
+0.0.0.0 discordcoffee.com
 0.0.0.0 discordcomlogin.com
 0.0.0.0 discordcommunity.store
 0.0.0.0 discordcommunity.xyz
@@ -2034,6 +2042,7 @@
 0.0.0.0 discordl.xyz
 0.0.0.0 discordlapp.com
 0.0.0.0 discordlapp.fun
+0.0.0.0 discordle.com
 0.0.0.0 discordlegal.zendesk.com
 0.0.0.0 discordlgift.com
 0.0.0.0 discordlgift.ru.com
@@ -2049,6 +2058,7 @@
 0.0.0.0 discordmapper.com
 0.0.0.0 discordme.me
 0.0.0.0 discordmembers.store
+0.0.0.0 discordmetaverse.xyz
 0.0.0.0 discordmoderations.com
 0.0.0.0 discordmoderator-academy.com
 0.0.0.0 discordmoderator.net
@@ -2271,6 +2281,7 @@
 0.0.0.0 discordsteams.org
 0.0.0.0 discordstore.ru
 0.0.0.0 discordstream.com
+0.0.0.0 discordstudio.xyz
 0.0.0.0 discordsub.com
 0.0.0.0 discordsub.online
 0.0.0.0 discordsupport.gg
@@ -2364,6 +2375,7 @@
 0.0.0.0 discosd.com
 0.0.0.0 discosrd.com
 0.0.0.0 discotdapp.com
+0.0.0.0 discotecapp.com
 0.0.0.0 discourd.com
 0.0.0.0 discourd.info
 0.0.0.0 discourd.site
@@ -3897,6 +3909,7 @@
 0.0.0.0 moderator-academy-events.com
 0.0.0.0 moderator-academy-forms.com
 0.0.0.0 moderator-academy.online
+0.0.0.0 moderator-application.com
 0.0.0.0 moderator-applications.com
 0.0.0.0 moderator-hypesquad.com
 0.0.0.0 moderator-hypesquadacademy.com
@@ -3904,6 +3917,7 @@
 0.0.0.0 moderator-join.com
 0.0.0.0 moderator-school.com
 0.0.0.0 moderator-team.com
+0.0.0.0 moderator-teams.com
 0.0.0.0 moderator-test.com
 0.0.0.0 moderator-vote.com
 0.0.0.0 moderator.hypesquad-survey.info
