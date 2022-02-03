@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 02 Feb 2022, 23:20 UTC+01
+# Last modified: Thu, 03 Feb 2022, 14:09 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -3729,6 +3729,7 @@
 0.0.0.0 ideaanstudy8.live
 0.0.0.0 ideaanstudy9.live
 0.0.0.0 idiscord.pro
+0.0.0.0 idiscordapp.com
 0.0.0.0 igeek.ru
 0.0.0.0 il119.com
 0.0.0.0 illuminatelocks.com
