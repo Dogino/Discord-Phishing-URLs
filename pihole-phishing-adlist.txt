@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 04 Feb 2022, 00:35 UTC+01
+# Last modified: Fri, 04 Feb 2022, 16:07 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -37,6 +37,7 @@
 0.0.0.0 academy-hypesquad.com
 0.0.0.0 academy-join.com
 0.0.0.0 academy-mod.com
+0.0.0.0 academy-moderator-test.com
 0.0.0.0 academy-moderator.com
 0.0.0.0 academy-moderator.repl.co
 0.0.0.0 academy-moderator.xyz
@@ -50,6 +51,7 @@
 0.0.0.0 academymoderation.tech
 0.0.0.0 academymoderator-join.com
 0.0.0.0 academymoderator.com
+0.0.0.0 academymoderator.team
 0.0.0.0 academymoderatorforms.com
 0.0.0.0 academymods.com
 0.0.0.0 acc.pp.ua
@@ -1786,6 +1788,7 @@
 0.0.0.0 discordbox.xyz
 0.0.0.0 discordbr.com
 0.0.0.0 discordbrasil.com
+0.0.0.0 discordbrl.com
 0.0.0.0 discordbug.com
 0.0.0.0 discordbugs.com
 0.0.0.0 discordc-nitro.com
@@ -1890,6 +1893,7 @@
 0.0.0.0 discordgame.com
 0.0.0.0 discordgamelabs.com
 0.0.0.0 discordgamers.co.uk
+0.0.0.0 discordgameslab.com
 0.0.0.0 discordget.com
 0.0.0.0 discordgetnitro.xyz
 0.0.0.0 discordgft.com
@@ -2111,6 +2115,7 @@
 0.0.0.0 discordl.xyz
 0.0.0.0 discordlapp.com
 0.0.0.0 discordlapp.fun
+0.0.0.0 discordlb.com
 0.0.0.0 discordle.com
 0.0.0.0 discordlegal.zendesk.com
 0.0.0.0 discordlgift.com
@@ -2356,6 +2361,7 @@
 0.0.0.0 discordspp.com
 0.0.0.0 discordspro-extra.site
 0.0.0.0 discordspro-s.site
+0.0.0.0 discordspro-ultra.site
 0.0.0.0 discordspro-x.site
 0.0.0.0 discordspromos.com
 0.0.0.0 discordss.ru
@@ -2396,6 +2402,7 @@
 0.0.0.0 discordtotal.com
 0.0.0.0 discordtotal.net
 0.0.0.0 discordtownhall.com
+0.0.0.0 discordtr.pro
 0.0.0.0 discordts-nitro.xyz
 0.0.0.0 discordtts.com
 0.0.0.0 discordturkiye.com
@@ -2610,6 +2617,7 @@
 0.0.0.0 disnitr.com
 0.0.0.0 disnitro.com
 0.0.0.0 disntro.com
+0.0.0.0 disoard-nitro.art
 0.0.0.0 disoard-nitro.info
 0.0.0.0 disocordapp.com
 0.0.0.0 disocr.com
@@ -3687,6 +3695,7 @@
 0.0.0.0 hypesquad-company.info
 0.0.0.0 hypesquad-discord.com
 0.0.0.0 hypesquad-discord.info
+0.0.0.0 hypesquad-discord.net
 0.0.0.0 hypesquad-discord.xyz
 0.0.0.0 hypesquad-enter.com
 0.0.0.0 hypesquad-entertainment.com
@@ -3754,10 +3763,12 @@
 0.0.0.0 hypesquadevents-join.com
 0.0.0.0 hypesquadevents-login.com
 0.0.0.0 hypesquadevents-mod.com
+0.0.0.0 hypesquadevents-moderator.com
 0.0.0.0 hypesquadevents-register.com
 0.0.0.0 hypesquadevents-singup.com
 0.0.0.0 hypesquadevents-subscription.com
 0.0.0.0 hypesquadevents-subscriptions.com
+0.0.0.0 hypesquadevents.online
 0.0.0.0 hypesquadeventsapp.com
 0.0.0.0 hypesquadeventsapplication.com
 0.0.0.0 hypesquadform.com
@@ -3775,6 +3786,7 @@
 0.0.0.0 hypesquadsevents.com
 0.0.0.0 hypesquadteam-academy.com
 0.0.0.0 hypesquadteam-join.com
+0.0.0.0 hypesquadteam-start.com
 0.0.0.0 hypesquadteam.com
 0.0.0.0 hypesquadteams-join.com
 0.0.0.0 hypesquadteams-start.com
@@ -3867,6 +3879,8 @@
 0.0.0.0 join-hypesquadevent.com
 0.0.0.0 join-hypesquadevents.com
 0.0.0.0 join-hypesquadteam.com
+0.0.0.0 join-hypesquadteams.com
+0.0.0.0 join-moderator-school.com
 0.0.0.0 join-moderator.com
 0.0.0.0 join-moderatoracademy.com
 0.0.0.0 join-moderators-academy.com
@@ -4351,6 +4365,7 @@
 0.0.0.0 nitrodlscordz.xyz
 0.0.0.0 nitrodsgiveways.com
 0.0.0.0 nitrodsgiveways.xyz
+0.0.0.0 nitroflere.com
 0.0.0.0 nitrofrees.ru
 0.0.0.0 nitrogeneral.ru
 0.0.0.0 nitrogensports.eu
@@ -4651,10 +4666,12 @@
 0.0.0.0 regeralnet.xyz
 0.0.0.0 register-formulary.com
 0.0.0.0 register-hypesquad.com
+0.0.0.0 register-moderator-academy.com
 0.0.0.0 register-moderator.com
 0.0.0.0 register-moderatordiscord.com
 0.0.0.0 register-moderators.com
 0.0.0.0 register.hypesquad-event.info
+0.0.0.0 registermoderator.com
 0.0.0.0 regsweep.com
 0.0.0.0 reimageplusminus.me
 0.0.0.0 remontidekor.ru
@@ -4881,6 +4898,7 @@
 0.0.0.0 signup-moderadors-academy.com
 0.0.0.0 signup-moderator.com
 0.0.0.0 signup-moderatordiscord.com
+0.0.0.0 signup-moderatorformdiscord.com
 0.0.0.0 signup-moderators-academy.com
 0.0.0.0 signup-moderators-formulary.com
 0.0.0.0 sinder8.com
