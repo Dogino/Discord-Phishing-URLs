@@ -1789,6 +1789,7 @@ discordaqq.com
 discordaspp.com
 discordassistant.com
 discordatapp.com
+discordazpp.com
 discordbadge.com
 discordbagequiz.cf
 discordban.com
@@ -2213,6 +2214,7 @@ discordnitroapp.ru.com
 discordnitroapp.tk
 discordnitrocodes.blogspot.com
 discordnitrofree.com
+discordnitrofree.online
 discordnitrofree.ru.com
 discordnitrofree.site
 discordnitrofree.xyz
@@ -2442,13 +2444,16 @@ discordunblocked.com
 discordup.ru
 discordusa.xyz
 discordverification.com
+discordwapp.com
 discordwayx.xyz
 discordx.link
 discordx.ml
+discordxapp.com
 discordxbox.gifts
 discordxmas.gifts
 discordxnitro.xyz
 discordxsteam.com
+discordzapp.com
 discore-nitro.xyz
 discoredapp.com
 discorfd.com
@@ -3233,6 +3238,7 @@ dwny.org
 dxiscord.com
 dynamo-kiev.com
 dzscord.js.org
+e-giftdiscord.com
 e-giftnitro.com
 e-nitro.com
 ea-drop.com
@@ -3283,6 +3289,7 @@ events-discord.com
 events-hypesquad.com
 events.dlscord.click
 eventsdiscord.com
+eventsmoderation-discord.com
 everpg.online
 ewqdsa.xyz
 exaltedbot.xyz
@@ -3797,6 +3804,7 @@ hypesquadevents-academy.com
 hypesquadevents-application.com
 hypesquadevents-apply.com
 hypesquadevents-apply.xyz
+hypesquadevents-applys.com
 hypesquadevents-enter.com
 hypesquadevents-form.com
 hypesquadevents-join-academy.com
@@ -3838,6 +3846,7 @@ hypixelskyblock.net
 i-no.ru
 iamnaughty.com
 ichaichat.xyz
+iconsdiscord.xyz
 id-374749.ru
 ideaanstudy1.live
 ideaanstudy11.live
@@ -4021,6 +4030,7 @@ lock-omsk.ru
 log-in-hypesquad.com
 login-discordmoderator.com
 login-hype-events.com
+login-hype-squad.com
 login-hypeevents.com
 login-hypesquad.com
 login-hypesquadacademy.com
@@ -4189,6 +4199,7 @@ moderators-academy.com
 moderators-application.com
 moderators-apply.com
 moderators-clubs.com
+moderators-discord.info
 moderators-exam.academy
 moderators-formulary.com
 moderators-formulary.info
@@ -4542,6 +4553,7 @@ pineislands.org
 pingola.ru
 piscanecmatematika.xyz
 pizzaeria-papajohns.com
+playboydiscord.com
 playcsgo-steam.ru
 playeslseries.com
 please.net.ru

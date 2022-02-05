@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 05 Feb 2022, 14:33 UTC+01
+# Last modified: Sat, 05 Feb 2022, 19:31 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1793,6 +1793,7 @@
 0.0.0.0 discordaspp.com
 0.0.0.0 discordassistant.com
 0.0.0.0 discordatapp.com
+0.0.0.0 discordazpp.com
 0.0.0.0 discordbadge.com
 0.0.0.0 discordbagequiz.cf
 0.0.0.0 discordban.com
@@ -2217,6 +2218,7 @@
 0.0.0.0 discordnitroapp.tk
 0.0.0.0 discordnitrocodes.blogspot.com
 0.0.0.0 discordnitrofree.com
+0.0.0.0 discordnitrofree.online
 0.0.0.0 discordnitrofree.ru.com
 0.0.0.0 discordnitrofree.site
 0.0.0.0 discordnitrofree.xyz
@@ -2446,13 +2448,16 @@
 0.0.0.0 discordup.ru
 0.0.0.0 discordusa.xyz
 0.0.0.0 discordverification.com
+0.0.0.0 discordwapp.com
 0.0.0.0 discordwayx.xyz
 0.0.0.0 discordx.link
 0.0.0.0 discordx.ml
+0.0.0.0 discordxapp.com
 0.0.0.0 discordxbox.gifts
 0.0.0.0 discordxmas.gifts
 0.0.0.0 discordxnitro.xyz
 0.0.0.0 discordxsteam.com
+0.0.0.0 discordzapp.com
 0.0.0.0 discore-nitro.xyz
 0.0.0.0 discoredapp.com
 0.0.0.0 discorfd.com
@@ -3237,6 +3242,7 @@
 0.0.0.0 dxiscord.com
 0.0.0.0 dynamo-kiev.com
 0.0.0.0 dzscord.js.org
+0.0.0.0 e-giftdiscord.com
 0.0.0.0 e-giftnitro.com
 0.0.0.0 e-nitro.com
 0.0.0.0 ea-drop.com
@@ -3287,6 +3293,7 @@
 0.0.0.0 events-hypesquad.com
 0.0.0.0 events.dlscord.click
 0.0.0.0 eventsdiscord.com
+0.0.0.0 eventsmoderation-discord.com
 0.0.0.0 everpg.online
 0.0.0.0 ewqdsa.xyz
 0.0.0.0 exaltedbot.xyz
@@ -3801,6 +3808,7 @@
 0.0.0.0 hypesquadevents-application.com
 0.0.0.0 hypesquadevents-apply.com
 0.0.0.0 hypesquadevents-apply.xyz
+0.0.0.0 hypesquadevents-applys.com
 0.0.0.0 hypesquadevents-enter.com
 0.0.0.0 hypesquadevents-form.com
 0.0.0.0 hypesquadevents-join-academy.com
@@ -3842,6 +3850,7 @@
 0.0.0.0 i-no.ru
 0.0.0.0 iamnaughty.com
 0.0.0.0 ichaichat.xyz
+0.0.0.0 iconsdiscord.xyz
 0.0.0.0 id-374749.ru
 0.0.0.0 ideaanstudy1.live
 0.0.0.0 ideaanstudy11.live
@@ -4025,6 +4034,7 @@
 0.0.0.0 log-in-hypesquad.com
 0.0.0.0 login-discordmoderator.com
 0.0.0.0 login-hype-events.com
+0.0.0.0 login-hype-squad.com
 0.0.0.0 login-hypeevents.com
 0.0.0.0 login-hypesquad.com
 0.0.0.0 login-hypesquadacademy.com
@@ -4193,6 +4203,7 @@
 0.0.0.0 moderators-application.com
 0.0.0.0 moderators-apply.com
 0.0.0.0 moderators-clubs.com
+0.0.0.0 moderators-discord.info
 0.0.0.0 moderators-exam.academy
 0.0.0.0 moderators-formulary.com
 0.0.0.0 moderators-formulary.info
@@ -4546,6 +4557,7 @@
 0.0.0.0 pingola.ru
 0.0.0.0 piscanecmatematika.xyz
 0.0.0.0 pizzaeria-papajohns.com
+0.0.0.0 playboydiscord.com
 0.0.0.0 playcsgo-steam.ru
 0.0.0.0 playeslseries.com
 0.0.0.0 please.net.ru
