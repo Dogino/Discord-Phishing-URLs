@@ -1,6 +1,7 @@
 # Discord Phishing URLs
 
-This repo contains a readable sorted list.txt of known Discord phishing urls. Those links are used by scammers/userbots for stealing users login/password data, IP addresses and/or download malicious software. If a friend of yours sends you some link with something like "free nitro", "join the moderator academy" or "hypesquad is recruiting" or something like this with some URL, be careful, they might have been hacked. Some of those websites might install malware in your PC downloading your Discord cookie/auth key, allowing scammers to send links with your account to servers and friends. Be careful NOT to open those links for ANY reason. 
+This repo contains a readable sorted list.txt of known Discord phishing urls. Those links are used by scammers/userbots for stealing users login/password data, IP addresses and/or download malicious software. If a friend of yours sends you some link with some text like "free nitro from discord/steam", "join the discord moderator" or "hypesquad is recruiting" or anything like this with some URL, be careful, they might have been hacked. Some of those websites might install malware in your PC downloading your Discord cookie/auth key, allowing scammers to send links with your account/name to servers and friends. Be careful NOT to open those links for ANY reason, even if a friend of yours asks you to do so.
+
 You may want to check the official domain list and compare those links to see if they are legit or not.
 
 A Pi-Hole adlist file is included and will automatically block your browser from loading those domains, you can use Pi-Hole with a RaspberryPi as a global DNS within your router, more instructions in [their page](https://github.com/pi-hole/pi-hole). 
