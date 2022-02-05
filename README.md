@@ -1,15 +1,20 @@
 # Discord Phishing URLs
 
-This repo contains a list.txt file of known Discord phishing urls. Those links are used by scammers/userbots for stealing users login/password data, IP addresses and/or download malicious software. If a friend of yours sends you some link with something like "free nitro" or something, be warned, they might have been hacked. Some of those websites might install viruses in your PC downloading your Discord cookie key, allowing scammers to send links with your account in servers and friends. Be careful NOT to open those links for ANY reason. There is also a Pi-Hole file which will automatically block your browsers from loading those domains, you can use Pi-Hole with a Raspberry as a global DNS within your router, more instructions in [their page](https://github.com/pi-hole/pi-hole). A discord bot is also included which takes actions on this links, read more on Discord Blacklist Bot.
+This repo contains a readable sorted list.txt of known Discord phishing urls. Those links are used by scammers/userbots for stealing users login/password data, IP addresses and/or download malicious software. If a friend of yours sends you some link with something like "free nitro", "join the moderator academy" or "hypesquad is recruiting" or something like this with some URL, be careful, they might have been hacked. Some of those websites might install malware in your PC downloading your Discord cookie/auth key, allowing scammers to send links with your account to servers and friends. Be careful NOT to open those links for ANY reason. 
+You may want to check the official domain list and compare those links to see if they are legit or not.
+
+A Pi-Hole adlist file is included and will automatically block your browser from loading those domains, you can use Pi-Hole with a RaspberryPi as a global DNS within your router, more instructions in [their page](https://github.com/pi-hole/pi-hole). 
+A Discord bot is also included which takes actions on this links, read more on Discord Blacklist Bot.
 
 ## Credits
 
  - [discord-scam-links](https://github.com/BuildBot42/discord-scam-links) by BuildBot42
  - [scam-links](https://github.com/DevSpen/scam-links) by DevSpen
+ - WHOIS Newly registered domains
  - Other sources from public servers and contributors.
  
 ## Adding links
-I'll add links when I find new ones, feel free to PR if you want to contribute. I'm not planning to remove those links even if they won't work anymore, I doubt Discord/Steam will buy those fake domains for official purposes.
+I'll add links when I find new ones, feel free to PR/Issue if you want to contribute. I'm not planning to remove those links even if they won't work anymore, domains can last even years, I doubt Discord/Steam will buy those fake domains for official purposes and if they will, I'll remove them accordingly.
 
 ## Usage
 You can add my bot for automatically ban those links and there is also a [Pi-Hole](https://github.com/pi-hole/pi-hole) file which you can use in order to block those malicious domains with your Pi-Hole DNS.
