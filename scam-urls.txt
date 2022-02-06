@@ -353,7 +353,6 @@ cliscord-gift.xyz
 cliscord.site
 cliscordl.online
 cliscordl.ru
-clk.rtpdn*.com
 clkepd.com
 cllscordapp.fun
 clonex.rlfkt.com
@@ -4847,6 +4846,7 @@ royaljapan02.*
 rsafrwd.com
 rsafrwdr.com
 rtfkt.clonex.store
+rtpdn.com
 rubygame.life
 rude-discord.com
 rudicsord-glfts.com
