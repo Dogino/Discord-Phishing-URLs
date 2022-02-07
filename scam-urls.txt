@@ -2430,6 +2430,7 @@ discords-support.com
 discords-teams.com
 discords-to.com
 discords.biz
+discords.chat
 discords.co.uk
 discords.company
 discords.cool
