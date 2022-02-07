@@ -36,3 +36,13 @@ steamstatic.com.8686c.com
 steamusercontent.com
 valve.net
 valvesoftware.com
+
+// Twitch
+ext-twitch.tv
+jtvnw.net
+live-video.net
+ttvnw.net
+twitch.okta.com
+twitch.tv
+twitchcdn.net
+twitchsvc.net
