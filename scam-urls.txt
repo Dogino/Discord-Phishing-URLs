@@ -427,7 +427,6 @@ contact-infoservice.com
 continue-site.website
 copyrightbusinessgroup.com
 copyrightbussinessgroup.com
-cord.gifts
 corona-virus-map.com
 counter-stricke.ru
 counter-strlke.site
@@ -1745,7 +1744,6 @@ discord.so
 discord.space
 discord.study
 discord.team
-discord.tools
 discord.tw
 discord.us.com
 discord.vc
@@ -4047,7 +4045,6 @@ ioys.gr
 iplogger.com
 iplogger.org
 iplogger.ru
-iscord.gift
 iscord.xyz
 iscordglft.org
 islandofhopes.online
