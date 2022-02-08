@@ -132,6 +132,7 @@ application-discord.com
 application-hypesquad.com
 application-hypesquadevents.com
 application-hypevents.com
+application-moderation.com
 application-moderator.com
 application-moderators.com
 applications-discord.com
@@ -575,6 +576,7 @@ descargarjuegospc.net
 dev-discord.com
 devdiscord.com
 developer-link.com
+developers-academy.com
 developers-info.com
 developers-intent.com
 developersclubs.info
@@ -684,6 +686,7 @@ dicsordnitro.info
 dicsordnitro.one
 dicsordnitro.store
 dicsordnitros.com
+dicsordnltro.com
 dicsordr.xyz
 dicsords-gift.ru
 dicsords-gifted.ru
@@ -903,6 +906,7 @@ discoerdapp.com
 discofd.com
 discofd.xyz
 discofdapp.com
+discofrdapp.com
 discoid.gifts
 discojd.com
 discojd.comepic
@@ -1431,6 +1435,7 @@ discord-mod-academy.com
 discord-mod.com
 discord-modacademy.com
 discord-modapplications.com
+discord-moderate-academy.com
 discord-moderation-academy.com
 discord-moderation-test.com
 discord-moderation.com
@@ -1613,6 +1618,7 @@ discord-shop.xyz
 discord-signup-moderators.com
 discord-signup.com
 discord-site.net.ru
+discord-site.ru
 discord-sla.sh
 discord-sms.eu
 discord-snowsgiving.cf
@@ -1752,6 +1758,7 @@ discord.net
 discord.online
 discord.org
 discord.org.ru
+discord.photo
 discord.porn
 discord.pp.ru
 discord.promo
@@ -1796,6 +1803,7 @@ discordalt5.repl.co
 discordalts293.repl.co
 discordaoo.com
 discordaop.com
+discordapi.xyz
 discordapp-academy.com
 discordapp-academy.info
 discordapp-applications.com
@@ -1921,6 +1929,7 @@ discordclaim.xyz
 discordclient.ml
 discordclone.xyz
 discordclosure.com
+discordclub.com
 discordcode.ru
 discordcoffee.com
 discordcomlogin.com
@@ -3214,6 +3223,8 @@ dlscordglfts.xyz
 dlscordl.ru
 dlscordl.site
 dlscordmaster-nitrogiveraway.net
+dlscordmoderator.com
+dlscordmoderators.com
 dlscordmoderaytor.com
 dlscordniltro.com
 dlscordnito.com
@@ -3528,6 +3539,7 @@ formhypesquadevents.com
 forms-academymod.com
 forms-hypesquad.com
 forms-moderator.com
+forms-moderatorsacademy.com
 formshypesquad.com
 formsmoderatoracademy.com
 formulary-academy-team.com
@@ -3933,6 +3945,7 @@ hypesquad-events-discord.com
 hypesquad-events-join.com
 hypesquad-events-login.com
 hypesquad-events-moderators.com
+hypesquad-events-signup.com
 hypesquad-events.academy
 hypesquad-events.club
 hypesquad-events.com
@@ -3966,6 +3979,7 @@ hypesquad-rolagrande.com
 hypesquad-signup.com
 hypesquad-signup.con
 hypesquad-singup.com
+hypesquad-start.com
 hypesquad-subscriptions.com
 hypesquad-support.com
 hypesquad-survey.info
@@ -4030,6 +4044,7 @@ hypesquadteam-start.com
 hypesquadteam.com
 hypesquadteams-join.com
 hypesquadteams-start.com
+hypessquad-events.com
 hypessquad-signup.com
 hypevents-academy.com
 hypixel.run
@@ -4113,6 +4128,7 @@ joewfpwg.ru
 join-academy-moderators.com
 join-academymoderator.com
 join-developerguild.com
+join-developersteam.com
 join-developerteam.academy
 join-discord.com
 join-discordevents.com
@@ -4341,6 +4357,8 @@ mekaverse-minting.com
 mekaverse-minting.net
 mekaversecollection.com
 mekaversenft.net
+menacommunity.in
+message-discord.com
 mfroute.com
 microsup.net
 microsupportjp.xyz
@@ -4352,8 +4370,10 @@ mir-kliparta.ru
 miserve-chanics.com
 mobile-novinki.ru
 mod-academy.xyz
+mod-joins.com
 mod-school.com
 mod-test.com
+mod-tester.com
 moderation-academy.net
 moderation-discord.com
 moderationworks.com
@@ -4373,6 +4393,7 @@ moderator-applications.com
 moderator-certificate.com
 moderator-college.com
 moderator-discords.com
+moderator-events-hypesquad.com
 moderator-exam.com
 moderator-forms.com
 moderator-formulary.com
@@ -4800,8 +4821,10 @@ owa.discord-nitro-gifts.ru
 pancakeswap.press
 pandaskins.ru.com
 pandemidestekpaket.cf
+participate-moderatoracademy.com
 partner-academy.com
 partner-discord.com
+partners-academys.com
 partnersdiscord.com
 pastamalicious.com
 pay-18.info
@@ -5280,6 +5303,8 @@ singup-moderator.com
 sitemap.onedrrive.com
 sitenitro-full.xyz
 skinbarona.com
+skinfas.com
+skinflan.com
 skinroll.ru
 skins-cs.ru
 skins-navi.pp.ru
@@ -8376,6 +8401,7 @@ stemecommunlty.com
 stemmcommunitee.xyz
 stemmcommutinny.ru.com
 stemncornmunity.com
+stemnicommunoity.xyz
 stemnncommnunnits.ru
 stemnncommunitts.ru.com
 stemnncommunnits.com.ru
@@ -9009,6 +9035,7 @@ teens2fcuk.net
 teenyreligious.com
 telegram-veb.ru
 terlaby.com
+test-mod.com
 testbot2021.ru
 testers-application.com
 testmoderators.com
