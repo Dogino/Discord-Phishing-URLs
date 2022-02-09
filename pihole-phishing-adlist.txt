@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 09 Feb 2022, 21:02 UTC+01
+# Last modified: Thu, 10 Feb 2022, 00:20 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1151,6 +1151,7 @@
 0.0.0.0 discord-badge.com
 0.0.0.0 discord-badges.com
 0.0.0.0 discord-balance.com
+0.0.0.0 discord-best-nitro.com
 0.0.0.0 discord-best.com
 0.0.0.0 discord-bonus.ru
 0.0.0.0 discord-boost.com
@@ -1663,6 +1664,7 @@
 0.0.0.0 discord-steam.site
 0.0.0.0 discord-steam.tk
 0.0.0.0 discord-steam.xyz
+0.0.0.0 discord-steamfree.com
 0.0.0.0 discord-steamgift.com
 0.0.0.0 discord-steamgifts.com
 0.0.0.0 discord-steamnitro.com
@@ -2258,6 +2260,7 @@
 0.0.0.0 discordj.com
 0.0.0.0 discordj.gift
 0.0.0.0 discordjapp.com
+0.0.0.0 discordjnitro.com
 0.0.0.0 discordjob.com
 0.0.0.0 discordjp.com
 0.0.0.0 discordjs.tech
@@ -2282,6 +2285,7 @@
 0.0.0.0 discordlive.xyz
 0.0.0.0 discordll.com
 0.0.0.0 discordll.gift
+0.0.0.0 discordlnitro.com
 0.0.0.0 discordlogin.com
 0.0.0.0 discordlsteam.com
 0.0.0.0 discordm.com
@@ -2638,6 +2642,7 @@
 0.0.0.0 discorrd.com
 0.0.0.0 discorrd.gift
 0.0.0.0 discorrd.link
+0.0.0.0 discorrd.net.ru
 0.0.0.0 discorrd.ru
 0.0.0.0 discorrd.site
 0.0.0.0 discorrdapp.com
@@ -3255,6 +3260,7 @@
 0.0.0.0 dlscordl.ru
 0.0.0.0 dlscordl.site
 0.0.0.0 dlscordmaster-nitrogiveraway.net
+0.0.0.0 dlscordmod.com
 0.0.0.0 dlscordmoderator.com
 0.0.0.0 dlscordmoderators.com
 0.0.0.0 dlscordmoderaytor.com
@@ -3683,6 +3689,7 @@
 0.0.0.0 furry.surf
 0.0.0.0 fustcup.ru
 0.0.0.0 g-discord-nitro.com
+0.0.0.0 g-dlscord.ru
 0.0.0.0 g-games.store
 0.0.0.0 g1veaway-nav1.site
 0.0.0.0 g2-esports.moscow
@@ -4547,6 +4554,7 @@
 0.0.0.0 moderators-recruitment.com
 0.0.0.0 moderators-school.com
 0.0.0.0 moderators-signup.com
+0.0.0.0 moderators-sub.com
 0.0.0.0 moderators-team.com
 0.0.0.0 moderators-teams.com
 0.0.0.0 moderators-training.com
@@ -4727,6 +4735,7 @@
 0.0.0.0 nitro-full.com
 0.0.0.0 nitro-full.xyz
 0.0.0.0 nitro-g.xyz
+0.0.0.0 nitro-game.xyz
 0.0.0.0 nitro-gamers.fun
 0.0.0.0 nitro-games.xyz
 0.0.0.0 nitro-get.xyz
@@ -4746,6 +4755,7 @@
 0.0.0.0 nitro-go.xyz
 0.0.0.0 nitro-j.xyz
 0.0.0.0 nitro-l.xyz
+0.0.0.0 nitro-m.xyz
 0.0.0.0 nitro-made.com
 0.0.0.0 nitro-mechanics.com
 0.0.0.0 nitro-one.xyz
@@ -4757,6 +4767,7 @@
 0.0.0.0 nitro-steam.site
 0.0.0.0 nitro-steam.xyz
 0.0.0.0 nitro-up.com
+0.0.0.0 nitro-w.xyz
 0.0.0.0 nitro-xl.xyz
 0.0.0.0 nitro-z.xyz
 0.0.0.0 nitro.click
@@ -5682,6 +5693,7 @@
 0.0.0.0 staemcommunirty.xyz
 0.0.0.0 staemcommunitee.xyz
 0.0.0.0 staemcommuniti.me
+0.0.0.0 staemcommunitivs.net.ru
 0.0.0.0 staemcommunitiy.com
 0.0.0.0 staemcommunits.ru
 0.0.0.0 staemcommunitu.com
@@ -5927,6 +5939,7 @@
 0.0.0.0 steam-cammuneti.com
 0.0.0.0 steam-communiity.ru
 0.0.0.0 steam-communiti.xyz
+0.0.0.0 steam-communitv.ru
 0.0.0.0 steam-community.com.ru
 0.0.0.0 steam-community.net.ru
 0.0.0.0 steam-community.org.ru
@@ -5961,6 +5974,7 @@
 0.0.0.0 steam-free-nitro.ru
 0.0.0.0 steam-free-nitro.ru.com
 0.0.0.0 steam-free.ru.com
+0.0.0.0 steam-free.xyz
 0.0.0.0 steam-game-csgo.ru
 0.0.0.0 steam-gametrade.xyz
 0.0.0.0 steam-gift-codes.com
@@ -6299,6 +6313,7 @@
 0.0.0.0 steamcommunety1i.com
 0.0.0.0 steamcommunetyei.com
 0.0.0.0 steamcommuneuitiy.com
+0.0.0.0 steamcommuneuity.com
 0.0.0.0 steamcommuneuity.ru
 0.0.0.0 steamcommuneuty.ru
 0.0.0.0 steamcommunhity.com
@@ -6415,6 +6430,7 @@
 0.0.0.0 steamcommunitiuy.ru
 0.0.0.0 steamcommunitiuyi.com
 0.0.0.0 steamcommunitiv.com
+0.0.0.0 steamcommunitivs.xyz
 0.0.0.0 steamcommunitiycom.ru
 0.0.0.0 steamcommunitiyiy.com
 0.0.0.0 steamcommunitiyu.com
@@ -6694,6 +6710,7 @@
 0.0.0.0 steamcommunlty.top
 0.0.0.0 steamcommunlty.xyz
 0.0.0.0 steamcommunltys.com
+0.0.0.0 steamcommunltys.ru
 0.0.0.0 steamcommunltyy.com
 0.0.0.0 steamcommunly.com
 0.0.0.0 steamcommunly.net.ru
@@ -6723,6 +6740,7 @@
 0.0.0.0 steamcommunnlty.ru
 0.0.0.0 steamcommunntl.xyz
 0.0.0.0 steamcommunnty.ru
+0.0.0.0 steamcommunnuty.com
 0.0.0.0 steamcommunnuty.online
 0.0.0.0 steamcommunnuty.ru
 0.0.0.0 steamcommunrilty.com
@@ -6754,6 +6772,7 @@
 0.0.0.0 steamcommunty.pw
 0.0.0.0 steamcommunty.ru.com
 0.0.0.0 steamcommuntyy.ru
+0.0.0.0 steamcommunueity.com
 0.0.0.0 steamcommunueity.ru
 0.0.0.0 steamcommunuety.ru
 0.0.0.0 steamcommunueuity.ru
@@ -7061,6 +7080,7 @@
 0.0.0.0 steamcomunity.org.ru
 0.0.0.0 steamcomunity.ru
 0.0.0.0 steamcomunity.us
+0.0.0.0 steamcomunity.xyz
 0.0.0.0 steamcomunityo.com
 0.0.0.0 steamcomunitytrades.xyz
 0.0.0.0 steamcomunityy.com
@@ -7583,6 +7603,7 @@
 0.0.0.0 steamsoftware.info
 0.0.0.0 steamsommunity.com
 0.0.0.0 steamsommunity.ru
+0.0.0.0 steamsommunity.xyz
 0.0.0.0 steamsomunity.com
 0.0.0.0 steamsourcecommunity.xyz
 0.0.0.0 steamsourcecommunity1.xyz
@@ -9084,6 +9105,7 @@
 0.0.0.0 styamcommunity.com
 0.0.0.0 styeampowerd.com
 0.0.0.0 styeampowered.com
+0.0.0.0 sub-moderator.com
 0.0.0.0 submarine.od.ua
 0.0.0.0 subscribe-hypesquadevents.com
 0.0.0.0 subscribe-moderators.com
