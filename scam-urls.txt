@@ -1834,7 +1834,6 @@ discord.si
 discord.so
 discord.soy
 discord.space
-discord.st
 discord.study
 discord.team
 discord.tw

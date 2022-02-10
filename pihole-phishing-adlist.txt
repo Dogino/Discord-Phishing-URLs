@@ -1838,7 +1838,6 @@
 0.0.0.0 discord.so
 0.0.0.0 discord.soy
 0.0.0.0 discord.space
-0.0.0.0 discord.st
 0.0.0.0 discord.study
 0.0.0.0 discord.team
 0.0.0.0 discord.tw
