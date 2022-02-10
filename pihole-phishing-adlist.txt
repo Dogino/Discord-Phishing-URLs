@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 10 Feb 2022, 19:02 UTC+01
+# Last modified: Thu, 10 Feb 2022, 23:43 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -228,6 +228,7 @@
 0.0.0.0 be-moderator.com
 0.0.0.0 beast-cup.ru
 0.0.0.0 beast-winer.ru
+0.0.0.0 become-mod.com
 0.0.0.0 become-moderator.com
 0.0.0.0 become-moderators.com
 0.0.0.0 bector-blotance.xyz
@@ -663,6 +664,7 @@
 0.0.0.0 dicsord-hypesquad.com
 0.0.0.0 dicsord-hypesquads.com
 0.0.0.0 dicsord-nitro.com
+0.0.0.0 dicsord-nitro.net.ru
 0.0.0.0 dicsord-nitro.org.ru
 0.0.0.0 dicsord-nitro.ru
 0.0.0.0 dicsord-present.ru
@@ -1444,6 +1446,7 @@
 0.0.0.0 discord-hypevents.com
 0.0.0.0 discord-hypevotes.com
 0.0.0.0 discord-i.com
+0.0.0.0 discord-id.com
 0.0.0.0 discord-info.com
 0.0.0.0 discord-infoapp.xyz
 0.0.0.0 discord-information.com
@@ -1454,6 +1457,7 @@
 0.0.0.0 discord-instal.ru
 0.0.0.0 discord-install.com
 0.0.0.0 discord-invite-link.com
+0.0.0.0 discord-invite-moderator.com
 0.0.0.0 discord-ivent.com
 0.0.0.0 discord-job.com
 0.0.0.0 discord-jobs.com
@@ -2903,6 +2907,7 @@
 0.0.0.0 diskord-app.club
 0.0.0.0 diskord-app.com
 0.0.0.0 diskord.gg
+0.0.0.0 diskord.gift
 0.0.0.0 diskord.org.ru
 0.0.0.0 diskord.ru.com
 0.0.0.0 diskurd.com
@@ -4142,6 +4147,7 @@
 0.0.0.0 hypesquad-redeem.com
 0.0.0.0 hypesquad-register.academy
 0.0.0.0 hypesquad-register.com
+0.0.0.0 hypesquad-register.info
 0.0.0.0 hypesquad-return.com
 0.0.0.0 hypesquad-returns-discord.com
 0.0.0.0 hypesquad-rolagrande.com
@@ -4195,6 +4201,7 @@
 0.0.0.0 hypesquadeventsapp.com
 0.0.0.0 hypesquadeventsapplication.com
 0.0.0.0 hypesquadeventsjoin.com
+0.0.0.0 hypesquadexam.com
 0.0.0.0 hypesquadform.com
 0.0.0.0 hypesquadforms.com
 0.0.0.0 hypesquadformulary.com
@@ -4651,6 +4658,7 @@
 0.0.0.0 moderatordiscordevents.com
 0.0.0.0 moderatordiscordinvite.com
 0.0.0.0 moderatorform-academy.com
+0.0.0.0 moderatorform-dc.com
 0.0.0.0 moderatorformdiscord.com
 0.0.0.0 moderatorforms.com
 0.0.0.0 moderatorformulary.com
@@ -4675,12 +4683,15 @@
 0.0.0.0 moderators-applications.com
 0.0.0.0 moderators-apply.com
 0.0.0.0 moderators-clubs.com
+0.0.0.0 moderators-discord-academy.com
+0.0.0.0 moderators-discord-hypersquad.com
 0.0.0.0 moderators-discord.com
 0.0.0.0 moderators-discord.info
 0.0.0.0 moderators-discordtests.com
 0.0.0.0 moderators-events.com
 0.0.0.0 moderators-exam.academy
 0.0.0.0 moderators-form.com
+0.0.0.0 moderators-forms.com
 0.0.0.0 moderators-formulary.com
 0.0.0.0 moderators-formulary.info
 0.0.0.0 moderators-hypesquad.com
@@ -4689,6 +4700,7 @@
 0.0.0.0 moderators-invitation.com
 0.0.0.0 moderators-program.com
 0.0.0.0 moderators-recruitment.com
+0.0.0.0 moderators-register.com
 0.0.0.0 moderators-school.com
 0.0.0.0 moderators-signup.com
 0.0.0.0 moderators-sub.com
@@ -5144,6 +5156,7 @@
 0.0.0.0 premiums-nitro.com
 0.0.0.0 premiumsdiscords.com
 0.0.0.0 premiumsgift.com
+0.0.0.0 present-nitro.ru
 0.0.0.0 price-claim.xyz
 0.0.0.0 privatepage.vip
 0.0.0.0 privatesinglesmeet.com
@@ -5985,6 +5998,7 @@
 0.0.0.0 staemncornnmutinny.ru
 0.0.0.0 staemncornnunnity.ru
 0.0.0.0 staemncrommunity.store
+0.0.0.0 staemnncomnunitts.ru
 0.0.0.0 staemocommunity.com
 0.0.0.0 staempawered.xyz
 0.0.0.0 staemporewed.xyz
@@ -6230,6 +6244,7 @@
 0.0.0.0 steamaccounts.us
 0.0.0.0 steamacommunity.com
 0.0.0.0 steamacommunity.ru.com
+0.0.0.0 steamactivator.tk
 0.0.0.0 steambrowser.xyz
 0.0.0.0 steamc0mmunity.com
 0.0.0.0 steamc0mmunnity.com
@@ -6967,6 +6982,7 @@
 0.0.0.0 steamcommunuty.org.ru
 0.0.0.0 steamcommunuty.ru
 0.0.0.0 steamcommunvti.ru
+0.0.0.0 steamcommunvty.com
 0.0.0.0 steamcommunyity.org
 0.0.0.0 steamcommunyity.ru.com
 0.0.0.0 steamcommunylty.ru
@@ -8097,6 +8113,7 @@
 0.0.0.0 steanncomnuniity.online
 0.0.0.0 steanncomnuniity.xyz
 0.0.0.0 steanncomnunity.xyz
+0.0.0.0 steanncomrnunityi.com
 0.0.0.0 steanncomunitiy.ru.com
 0.0.0.0 steanncomunitli.ru.com
 0.0.0.0 steanncomunitly.co

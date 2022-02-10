@@ -224,6 +224,7 @@ be-105.xyz
 be-moderator.com
 beast-cup.ru
 beast-winer.ru
+become-mod.com
 become-moderator.com
 become-moderators.com
 bector-blotance.xyz
@@ -659,6 +660,7 @@ dicsord-glfts.com
 dicsord-hypesquad.com
 dicsord-hypesquads.com
 dicsord-nitro.com
+dicsord-nitro.net.ru
 dicsord-nitro.org.ru
 dicsord-nitro.ru
 dicsord-present.ru
@@ -1440,6 +1442,7 @@ discord-hypevent.com
 discord-hypevents.com
 discord-hypevotes.com
 discord-i.com
+discord-id.com
 discord-info.com
 discord-infoapp.xyz
 discord-information.com
@@ -1450,6 +1453,7 @@ discord-informations.ru
 discord-instal.ru
 discord-install.com
 discord-invite-link.com
+discord-invite-moderator.com
 discord-ivent.com
 discord-job.com
 discord-jobs.com
@@ -2899,6 +2903,7 @@ diskod.ru
 diskord-app.club
 diskord-app.com
 diskord.gg
+diskord.gift
 diskord.org.ru
 diskord.ru.com
 diskurd.com
@@ -4138,6 +4143,7 @@ hypesquad-programjoin.com
 hypesquad-redeem.com
 hypesquad-register.academy
 hypesquad-register.com
+hypesquad-register.info
 hypesquad-return.com
 hypesquad-returns-discord.com
 hypesquad-rolagrande.com
@@ -4191,6 +4197,7 @@ hypesquadevents.online
 hypesquadeventsapp.com
 hypesquadeventsapplication.com
 hypesquadeventsjoin.com
+hypesquadexam.com
 hypesquadform.com
 hypesquadforms.com
 hypesquadformulary.com
@@ -4647,6 +4654,7 @@ moderatordiscord.com
 moderatordiscordevents.com
 moderatordiscordinvite.com
 moderatorform-academy.com
+moderatorform-dc.com
 moderatorformdiscord.com
 moderatorforms.com
 moderatorformulary.com
@@ -4671,12 +4679,15 @@ moderators-application.com
 moderators-applications.com
 moderators-apply.com
 moderators-clubs.com
+moderators-discord-academy.com
+moderators-discord-hypersquad.com
 moderators-discord.com
 moderators-discord.info
 moderators-discordtests.com
 moderators-events.com
 moderators-exam.academy
 moderators-form.com
+moderators-forms.com
 moderators-formulary.com
 moderators-formulary.info
 moderators-hypesquad.com
@@ -4685,6 +4696,7 @@ moderators-invitate.com
 moderators-invitation.com
 moderators-program.com
 moderators-recruitment.com
+moderators-register.com
 moderators-school.com
 moderators-signup.com
 moderators-sub.com
@@ -5140,6 +5152,7 @@ premiums-gift.com
 premiums-nitro.com
 premiumsdiscords.com
 premiumsgift.com
+present-nitro.ru
 price-claim.xyz
 privatepage.vip
 privatesinglesmeet.com
@@ -5981,6 +5994,7 @@ staemmcomunity.ru
 staemncornnmutinny.ru
 staemncornnunnity.ru
 staemncrommunity.store
+staemnncomnunitts.ru
 staemocommunity.com
 staempawered.xyz
 staemporewed.xyz
@@ -6226,6 +6240,7 @@ steamaccounts.org
 steamaccounts.us
 steamacommunity.com
 steamacommunity.ru.com
+steamactivator.tk
 steambrowser.xyz
 steamc0mmunity.com
 steamc0mmunnity.com
@@ -6963,6 +6978,7 @@ steamcommunuty.net.ru
 steamcommunuty.org.ru
 steamcommunuty.ru
 steamcommunvti.ru
+steamcommunvty.com
 steamcommunyity.org
 steamcommunyity.ru.com
 steamcommunylty.ru
@@ -8093,6 +8109,7 @@ steanncomnuniity.com
 steanncomnuniity.online
 steanncomnuniity.xyz
 steanncomnunity.xyz
+steanncomrnunityi.com
 steanncomunitiy.ru.com
 steanncomunitli.ru.com
 steanncomunitly.co
