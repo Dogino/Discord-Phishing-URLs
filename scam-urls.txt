@@ -1790,7 +1790,6 @@ discord.country
 discord.creditcard
 discord.cruises
 discord.day
-discord.de
 discord.deals
 discord.directory
 discord.download
