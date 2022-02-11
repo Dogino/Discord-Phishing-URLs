@@ -1271,6 +1271,7 @@ discord-games.cf
 discord-gaway.com
 discord-generator.ru.com
 discord-generator.tk
+discord-generator.xyz
 discord-get.click
 discord-get.club
 discord-get.com
@@ -1861,6 +1862,7 @@ discord.voto
 discord.win
 discord.world
 discord1-nitr0.xyz
+discord101.com
 discord2022.com
 discord24.online
 discord24.ru
@@ -2035,6 +2037,7 @@ discordcommunity.xyz
 discordcommunlty.com
 discordcompany.com
 discordcontests.com
+discordcourse.com
 discordcpp.com
 discordcrasher.wtf
 discordcreators.net
@@ -2125,6 +2128,7 @@ discordgg.com
 discordgg.cz
 discordgg.me
 discordggifts.xyz
+discordggtherock.com
 discordgif.com
 discordgif.ru.com
 discordgifling.shop
@@ -2532,6 +2536,7 @@ discordqr.com
 discordr.xyz
 discordre.store
 discordreach.com
+discordreact.com
 discordregistermoderator.com
 discordremake.ml
 discordresearch.com
@@ -2607,6 +2612,7 @@ discordsapplication.us
 discordsatus.com
 discordscreenshot.com
 discordsearch.co
+discordself.xyz
 discordserver.tk
 discordservers.com
 discordservice.com
@@ -2620,6 +2626,7 @@ discordsgift.com
 discordsgift.info
 discordsgift.xyz
 discordsgifts.ru
+discordsgifts.xyz
 discordshopbot.com
 discordshort.ga
 discordsignup.com
@@ -4071,6 +4078,9 @@ hsrvu.com
 httpdlscordnitro.ru.com
 https-discord.com
 httpssteamcommunity.com
+httpssteampowered.com
+httpsteamcommunity.com
+httpsteampowered.com
 huaweiclub.ru
 hulejsoops.ru
 hulinadobaranublja.com
@@ -4130,6 +4140,8 @@ hypesquad-events-invite-discord.com
 hypesquad-events-join.com
 hypesquad-events-login.com
 hypesquad-events-moderators.com
+hypesquad-events-register.com
+hypesquad-events-sign-in.com
 hypesquad-events-signup.com
 hypesquad-events.academy
 hypesquad-events.club
@@ -5587,6 +5599,7 @@ seriousdownload.com
 service-indemonstrably-spadger-renting.xyz
 services.runescape.rs-tt.xyz
 services.runescape.rs-ui.xyz
+servicesfordiscord.com
 ses98.com
 setamcommunity.com
 sex-and-flirt.com
@@ -6252,6 +6265,7 @@ steam-promo-page.ml
 steam-rep.com
 steam-rewards.com
 steam-ru.ru
+steam-servers.com
 steam-service.ru
 steam-servicedeals.xyz
 steam-servicedeals1.xyz
@@ -6284,6 +6298,7 @@ steam.comnunity.com
 steam.luancort.com
 steam.mmosvc.com
 steam4you.online
+steamaccgenerator.xyz
 steamaccount.xyz
 steamaccounts.net
 steamaccounts.org
@@ -6291,7 +6306,10 @@ steamaccounts.us
 steamacommunity.com
 steamacommunity.ru.com
 steamactivator.tk
+steamboats.net
+steambrig.site
 steambrowser.xyz
+steambulk.xyz
 steamc0mmunity.com
 steamc0mmunnity.com
 steamc0munnity.site
@@ -6994,6 +7012,7 @@ steamcommuntiy.ru
 steamcommuntli.ru
 steamcommuntliy.ru
 steamcommuntll.xyz
+steamcommuntly.com
 steamcommuntry.com
 steamcommuntry.ru
 steamcommunty.buzz
@@ -7552,6 +7571,7 @@ steamdocs.xyz
 steamdomain.online
 steamdomain.ru
 steamdommunity.com
+steameast.com
 steamecommuinty.com
 steamecommuniti.com
 steamecommuniti.ru
@@ -7568,11 +7588,14 @@ steamecommuniuty.com
 steamecommunlty.com
 steamecommunlty.com.ru
 steamecomunity.com.ru
+steameder.online
+steamedfish.top
 steamedpowered.com
 steamepowered.com
 steamercommunity.com
 steamescommunity.com
 steamfdiscord.com
+steamflood.com
 steamfnitro.com
 steamfreecommynyti.ru.com
 steamgame-csgo.ru
@@ -7605,10 +7628,12 @@ steamkey.ru
 steamkommunity.net.ru
 steamkommunity.org.ru
 steamkommunity.ru
+steamkursy.com
 steamlcommunity.net.ru
 steamlcommunity.org.ru
 steamlcommunity.ru.com
 steamldiscord.com
+steamlightly.com
 steamlnitro.com
 steamlwanmei.ru
 steamm.store
@@ -7653,6 +7678,7 @@ steammcounity.ru.com
 steammcsnavi.ru
 steammecommunity.com
 steammncommunty.ru.com
+steammotor.com
 steammouthhistory.top
 steamnamo.net.ru
 steamncommnnunity.com
@@ -8349,6 +8375,7 @@ stearncommunyti.com
 stearncommunyti.ru
 stearncommunytiy.ru
 stearncommunytiyu.ru
+stearncommunytu.ru
 stearncommutiny.online
 stearncommutiny.ru
 stearncommuvity.com
@@ -9644,6 +9671,10 @@ ww2.discordinc.com
 ww8.steamcommmunity.ru.com
 wwdiscord.app
 wwdiscord.com
+wwsoundcloud.com
+wwspotify.com
+wwstackoverflow.com
+wwsteampowered.com
 wwtracking.net
 wwvv-roblcx.com
 wwvvv-roblox.com
@@ -9658,6 +9689,7 @@ wyxy.ru
 x-soft.club
 x33681t2.beget.tech
 x403.nitro.com.au
+xboxnitro.com
 xcrewteam.com
 xda-developers.us
 xdiscord.com
