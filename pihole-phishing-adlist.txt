@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 11 Feb 2022, 19:05 UTC+01
+# Last modified: Sat, 12 Feb 2022, 13:41 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -27,6 +27,8 @@
 0.0.0.0 3black.info
 0.0.0.0 3ds-security.xyz
 0.0.0.0 411medias.com
+0.0.0.0 4discord.com
+0.0.0.0 4discord.net
 0.0.0.0 4gameranking.com
 0.0.0.0 50checkingyourtraffic.com
 0.0.0.0 60255.xyz
@@ -1183,6 +1185,7 @@
 0.0.0.0 discord-boost.ru.com
 0.0.0.0 discord-boost.xyz
 0.0.0.0 discord-bot.com
+0.0.0.0 discord-bot.life
 0.0.0.0 discord-bot.ru
 0.0.0.0 discord-bounty.ru
 0.0.0.0 discord-bughunter.com
@@ -1217,6 +1220,7 @@
 0.0.0.0 discord-developeracademy.com
 0.0.0.0 discord-developers.com
 0.0.0.0 discord-devs.com
+0.0.0.0 discord-dms.com
 0.0.0.0 discord-do.com
 0.0.0.0 discord-dr0p.ru
 0.0.0.0 discord-drop.gift
@@ -1504,6 +1508,7 @@
 0.0.0.0 discord-moderator-sub.com
 0.0.0.0 discord-moderator-team-mod.com.br
 0.0.0.0 discord-moderator-test.com
+0.0.0.0 discord-moderator.academy
 0.0.0.0 discord-moderator.app
 0.0.0.0 discord-moderator.com
 0.0.0.0 discord-moderator.info
@@ -2531,6 +2536,8 @@
 0.0.0.0 discordpromos.gifts
 0.0.0.0 discordpromos.us
 0.0.0.0 discordpromotions.cc
+0.0.0.0 discordpromotions.com
+0.0.0.0 discordpromotlons.com
 0.0.0.0 discordq.com
 0.0.0.0 discordqapp.com
 0.0.0.0 discordqift.xyz
@@ -3638,6 +3645,7 @@
 0.0.0.0 ezdrp.ru
 0.0.0.0 ezence.ink
 0.0.0.0 ezrobux.gg
+0.0.0.0 f-nitro.xyz
 0.0.0.0 facedrop.one
 0.0.0.0 faceit-premium.com
 0.0.0.0 faceit-ranked.com
@@ -4196,6 +4204,7 @@
 0.0.0.0 hypesquad-survey.info
 0.0.0.0 hypesquad-team.com
 0.0.0.0 hypesquad-teams.com
+0.0.0.0 hypesquad-test.com
 0.0.0.0 hypesquad-verified.com
 0.0.0.0 hypesquad-vote-go.com
 0.0.0.0 hypesquad-votes.com
@@ -4400,6 +4409,7 @@
 0.0.0.0 join-moderators.com
 0.0.0.0 join-partner.com
 0.0.0.0 join-partneracademy.com
+0.0.0.0 joindiscord.xyz
 0.0.0.0 joinhypesquad-discord.com
 0.0.0.0 joinhypesquad-events.com
 0.0.0.0 joinhypesquad.com
@@ -6310,6 +6320,7 @@
 0.0.0.0 steamacommunity.com
 0.0.0.0 steamacommunity.ru.com
 0.0.0.0 steamactivator.tk
+0.0.0.0 steamassistance.tech
 0.0.0.0 steamboats.net
 0.0.0.0 steambrig.site
 0.0.0.0 steambrowser.xyz
@@ -7349,6 +7360,7 @@
 0.0.0.0 steamcomunlty.ru.com
 0.0.0.0 steamcomunmity.ru.com
 0.0.0.0 steamcomunnety.com
+0.0.0.0 steamcomunnily.com
 0.0.0.0 steamcomunninuty.com
 0.0.0.0 steamcomunnitly.ru.com
 0.0.0.0 steamcomunnitly.xyz
@@ -7605,6 +7617,7 @@
 0.0.0.0 steamgame-csgo.ru
 0.0.0.0 steamgame-trade.xyz
 0.0.0.0 steamgame.net.ru
+0.0.0.0 steamgame.site
 0.0.0.0 steamgamepowered.net
 0.0.0.0 steamgames.net.ru
 0.0.0.0 steamgametrade.xyz
@@ -7913,6 +7926,7 @@
 0.0.0.0 steamtradestore.xyz
 0.0.0.0 steamtradestore1.xyz
 0.0.0.0 steamtrading.org
+0.0.0.0 steamunkocked.net
 0.0.0.0 steamunlocked.online
 0.0.0.0 steamunlocked.pro
 0.0.0.0 steamunpowered.com
@@ -9535,6 +9549,7 @@
 0.0.0.0 twitch.facepunch-llc.com
 0.0.0.0 twitch.facepunchstudio.com
 0.0.0.0 twitch.rust-ltd.com
+0.0.0.0 twitchdiscord.com
 0.0.0.0 typiccor.com
 0.0.0.0 u924157p.beget.tech
 0.0.0.0 udenvirus.dk

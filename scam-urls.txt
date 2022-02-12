@@ -23,6 +23,8 @@
 3black.info
 3ds-security.xyz
 411medias.com
+4discord.com
+4discord.net
 4gameranking.com
 50checkingyourtraffic.com
 60255.xyz
@@ -1179,6 +1181,7 @@ discord-boost.ru
 discord-boost.ru.com
 discord-boost.xyz
 discord-bot.com
+discord-bot.life
 discord-bot.ru
 discord-bounty.ru
 discord-bughunter.com
@@ -1213,6 +1216,7 @@ discord-developer.com
 discord-developeracademy.com
 discord-developers.com
 discord-devs.com
+discord-dms.com
 discord-do.com
 discord-dr0p.ru
 discord-drop.gift
@@ -1500,6 +1504,7 @@ discord-moderator-signup.com
 discord-moderator-sub.com
 discord-moderator-team-mod.com.br
 discord-moderator-test.com
+discord-moderator.academy
 discord-moderator.app
 discord-moderator.com
 discord-moderator.info
@@ -2527,6 +2532,8 @@ discordpromos.com
 discordpromos.gifts
 discordpromos.us
 discordpromotions.cc
+discordpromotions.com
+discordpromotlons.com
 discordq.com
 discordqapp.com
 discordqift.xyz
@@ -3634,6 +3641,7 @@ ezdiscord.xyz
 ezdrp.ru
 ezence.ink
 ezrobux.gg
+f-nitro.xyz
 facedrop.one
 faceit-premium.com
 faceit-ranked.com
@@ -4192,6 +4200,7 @@ hypesquad-support.com
 hypesquad-survey.info
 hypesquad-team.com
 hypesquad-teams.com
+hypesquad-test.com
 hypesquad-verified.com
 hypesquad-vote-go.com
 hypesquad-votes.com
@@ -4396,6 +4405,7 @@ join-moderators-exams.com
 join-moderators.com
 join-partner.com
 join-partneracademy.com
+joindiscord.xyz
 joinhypesquad-discord.com
 joinhypesquad-events.com
 joinhypesquad.com
@@ -6306,6 +6316,7 @@ steamaccounts.us
 steamacommunity.com
 steamacommunity.ru.com
 steamactivator.tk
+steamassistance.tech
 steamboats.net
 steambrig.site
 steambrowser.xyz
@@ -7345,6 +7356,7 @@ steamcomunlty.com
 steamcomunlty.ru.com
 steamcomunmity.ru.com
 steamcomunnety.com
+steamcomunnily.com
 steamcomunninuty.com
 steamcomunnitly.ru.com
 steamcomunnitly.xyz
@@ -7601,6 +7613,7 @@ steamfreecommynyti.ru.com
 steamgame-csgo.ru
 steamgame-trade.xyz
 steamgame.net.ru
+steamgame.site
 steamgamepowered.net
 steamgames.net.ru
 steamgametrade.xyz
@@ -7909,6 +7922,7 @@ steamtradesofer.com
 steamtradestore.xyz
 steamtradestore1.xyz
 steamtrading.org
+steamunkocked.net
 steamunlocked.online
 steamunlocked.pro
 steamunpowered.com
@@ -9531,6 +9545,7 @@ twitch-starter.com
 twitch.facepunch-llc.com
 twitch.facepunchstudio.com
 twitch.rust-ltd.com
+twitchdiscord.com
 typiccor.com
 u924157p.beget.tech
 udenvirus.dk
