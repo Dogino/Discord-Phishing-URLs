@@ -471,7 +471,6 @@ continue-site.website
 cooltreasure.top
 copyrightbusinessgroup.com
 copyrightbussinessgroup.com
-cord.gifts
 corona-virus-map.com
 counter-stricke.ru
 counter-strlke.site
@@ -1844,7 +1843,6 @@ discord.creditcard
 discord.cruises
 discord.data
 discord.day
-discord.de
 discord.deals
 discord.directory
 discord.download
@@ -1911,10 +1909,8 @@ discord.si
 discord.so
 discord.soy
 discord.space
-discord.st
 discord.study
 discord.team
-discord.tools
 discord.tv
 discord.tw
 discord.uno
@@ -9891,7 +9887,6 @@ winfnatic.pro
 winrbx1s1.pw
 winter-smile.com
 wishuiuck.net
-witch.tv
 withereum.com
 wn.nr
 womenforyou.net
