@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 13 Feb 2022, 23:02 UTC+01
+# Last modified: Mon, 14 Feb 2022, 00:44 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -475,7 +475,6 @@
 0.0.0.0 cooltreasure.top
 0.0.0.0 copyrightbusinessgroup.com
 0.0.0.0 copyrightbussinessgroup.com
-0.0.0.0 cord.gifts
 0.0.0.0 corona-virus-map.com
 0.0.0.0 counter-stricke.ru
 0.0.0.0 counter-strlke.site
@@ -1848,7 +1847,6 @@
 0.0.0.0 discord.cruises
 0.0.0.0 discord.data
 0.0.0.0 discord.day
-0.0.0.0 discord.de
 0.0.0.0 discord.deals
 0.0.0.0 discord.directory
 0.0.0.0 discord.download
@@ -1915,10 +1913,8 @@
 0.0.0.0 discord.so
 0.0.0.0 discord.soy
 0.0.0.0 discord.space
-0.0.0.0 discord.st
 0.0.0.0 discord.study
 0.0.0.0 discord.team
-0.0.0.0 discord.tools
 0.0.0.0 discord.tv
 0.0.0.0 discord.tw
 0.0.0.0 discord.uno
@@ -3006,8 +3002,6 @@
 0.0.0.0 discxrd.gift
 0.0.0.0 discyrd.com
 0.0.0.0 disczrd.com
-0.0.0.0 disc\u00c3\u00b6rd.com
-0.0.0.0 discörd.com
 0.0.0.0 disdornitro.com
 0.0.0.0 disdornitro.gifts
 0.0.0.0 disdorsnitro.com
@@ -3140,8 +3134,6 @@
 0.0.0.0 disxordapp.com
 0.0.0.0 diszcord.com
 0.0.0.0 diszcordapp.com
-0.0.0.0 dis\u00c3\u00a7ordapp.com
-0.0.0.0 disçordapp.com
 0.0.0.0 diucord.js.org
 0.0.0.0 diuscordapp.com
 0.0.0.0 divineenterprises.net
@@ -7068,8 +7060,6 @@
 0.0.0.0 steamcommunityw.com
 0.0.0.0 steamcommunityw.net.ru
 0.0.0.0 steamcommunityw.org.ru
-0.0.0.0 steamcommunityw.org.rudiscordbox.xyz
-0.0.0.0 steamcommunityw.org.ru\t
 0.0.0.0 steamcommunitywork.com
 0.0.0.0 steamcommunitywork.ml
 0.0.0.0 steamcommunityx-com.xyz
@@ -7281,8 +7271,6 @@
 0.0.0.0 steamcommunyty.ru.com
 0.0.0.0 steamcommunyty.xyz
 0.0.0.0 steamcommunytytradeofferphobos.ru
-0.0.0.0 steamcommun\u00c3\u00acty.com
-0.0.0.0 steamcommunìty.com
 0.0.0.0 steamcommuriity.com
 0.0.0.0 steamcommurily.com
 0.0.0.0 steamcommurlity.com
@@ -9895,7 +9883,6 @@
 0.0.0.0 winrbx1s1.pw
 0.0.0.0 winter-smile.com
 0.0.0.0 wishuiuck.net
-0.0.0.0 witch.tv
 0.0.0.0 withereum.com
 0.0.0.0 wn.nr
 0.0.0.0 womenforyou.net
