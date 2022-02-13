@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 12 Feb 2022, 13:41 UTC+01
+# Last modified: Sun, 13 Feb 2022, 03:01 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1799,6 +1799,7 @@
 0.0.0.0 discord.country
 0.0.0.0 discord.creditcard
 0.0.0.0 discord.cruises
+0.0.0.0 discord.data
 0.0.0.0 discord.day
 0.0.0.0 discord.deals
 0.0.0.0 discord.directory
@@ -1829,6 +1830,7 @@
 0.0.0.0 discord.house
 0.0.0.0 discord.ie
 0.0.0.0 discord.in
+0.0.0.0 discord.inc
 0.0.0.0 discord.istanbul
 0.0.0.0 discord.lighting
 0.0.0.0 discord.limited
@@ -1841,17 +1843,21 @@
 0.0.0.0 discord.ma
 0.0.0.0 discord.marketing
 0.0.0.0 discord.me.uk
+0.0.0.0 discord.mom
 0.0.0.0 discord.moscow
 0.0.0.0 discord.my
 0.0.0.0 discord.net
 0.0.0.0 discord.online
 0.0.0.0 discord.org
 0.0.0.0 discord.org.ru
+0.0.0.0 discord.pay
+0.0.0.0 discord.phone
 0.0.0.0 discord.photo
 0.0.0.0 discord.porn
 0.0.0.0 discord.pp.ru
 0.0.0.0 discord.promo
 0.0.0.0 discord.pt
+0.0.0.0 discord.read
 0.0.0.0 discord.ru
 0.0.0.0 discord.ru.com
 0.0.0.0 discord.ru.net
@@ -1867,6 +1873,8 @@
 0.0.0.0 discord.us
 0.0.0.0 discord.us.com
 0.0.0.0 discord.vc
+0.0.0.0 discord.vin
+0.0.0.0 discord.vip
 0.0.0.0 discord.voto
 0.0.0.0 discord.win
 0.0.0.0 discord.world
@@ -3770,6 +3778,7 @@
 0.0.0.0 fortnitevb.com
 0.0.0.0 fortuneroll.tk
 0.0.0.0 fosion.ru
+0.0.0.0 fosscord.com
 0.0.0.0 fotochki.com
 0.0.0.0 fowephwo.ru
 0.0.0.0 foxmods.xyz
@@ -8230,6 +8239,7 @@
 0.0.0.0 steannconnnnunity.net.ru
 0.0.0.0 steannconnnunity.com
 0.0.0.0 steanncummunity.com
+0.0.0.0 steannmconnunity.site
 0.0.0.0 steanpowered.net.ru
 0.0.0.0 steanpowered.xyz
 0.0.0.0 steanrcommunitiy.com
@@ -8450,6 +8460,7 @@
 0.0.0.0 stearncormnnuity.ru
 0.0.0.0 stearncormunity.ru
 0.0.0.0 stearncormunniti.org
+0.0.0.0 stearncormunsity.com
 0.0.0.0 stearncornminuty.com
 0.0.0.0 stearncornminuty.ru
 0.0.0.0 stearncornmnuity.ru

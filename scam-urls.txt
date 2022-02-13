@@ -1795,6 +1795,7 @@ discord.cool
 discord.country
 discord.creditcard
 discord.cruises
+discord.data
 discord.day
 discord.deals
 discord.directory
@@ -1825,6 +1826,7 @@ discord.homes
 discord.house
 discord.ie
 discord.in
+discord.inc
 discord.istanbul
 discord.lighting
 discord.limited
@@ -1837,17 +1839,21 @@ discord.luxe
 discord.ma
 discord.marketing
 discord.me.uk
+discord.mom
 discord.moscow
 discord.my
 discord.net
 discord.online
 discord.org
 discord.org.ru
+discord.pay
+discord.phone
 discord.photo
 discord.porn
 discord.pp.ru
 discord.promo
 discord.pt
+discord.read
 discord.ru
 discord.ru.com
 discord.ru.net
@@ -1863,6 +1869,8 @@ discord.tw
 discord.us
 discord.us.com
 discord.vc
+discord.vin
+discord.vip
 discord.voto
 discord.win
 discord.world
@@ -3766,6 +3774,7 @@ fortniteswapper.fun
 fortnitevb.com
 fortuneroll.tk
 fosion.ru
+fosscord.com
 fotochki.com
 fowephwo.ru
 foxmods.xyz
@@ -8226,6 +8235,7 @@ steannconnnnunity.com
 steannconnnnunity.net.ru
 steannconnnunity.com
 steanncummunity.com
+steannmconnunity.site
 steanpowered.net.ru
 steanpowered.xyz
 steanrcommunitiy.com
@@ -8446,6 +8456,7 @@ stearncormnniuty.ru
 stearncormnnuity.ru
 stearncormunity.ru
 stearncormunniti.org
+stearncormunsity.com
 stearncornminuty.com
 stearncornminuty.ru
 stearncornmnuity.ru
