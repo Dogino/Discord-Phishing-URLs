@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 18 Feb 2022, 02:23 UTC+01
+# Last modified: Fri, 18 Feb 2022, 08:17 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -364,6 +364,7 @@
 0.0.0.0 buddygays.com
 0.0.0.0 bughunter-team.com
 0.0.0.0 bughunters-discord.com
+0.0.0.0 bugs-discord.com
 0.0.0.0 but-three.xyz
 0.0.0.0 buxquick.com
 0.0.0.0 buy-nitro.xyz
@@ -1767,6 +1768,7 @@
 0.0.0.0 discord-soft.ru
 0.0.0.0 discord-spooky.ru
 0.0.0.0 discord-squad.com
+0.0.0.0 discord-st.com
 0.0.0.0 discord-staff.club
 0.0.0.0 discord-staff.com
 0.0.0.0 discord-staff.gq
@@ -2435,6 +2437,7 @@
 0.0.0.0 discordhosting.com
 0.0.0.0 discordhunters.com
 0.0.0.0 discordhype-squad.com
+0.0.0.0 discordhypersquad.com
 0.0.0.0 discordhypesquad-events.com
 0.0.0.0 discordhypesquad.net
 0.0.0.0 discordhypesquad.online
@@ -2589,6 +2592,7 @@
 0.0.0.0 discordnitrogift.ru
 0.0.0.0 discordnitrogift.site
 0.0.0.0 discordnitrogift.space
+0.0.0.0 discordnitrogifts.com
 0.0.0.0 discordnitrogifts.ml
 0.0.0.0 discordnitrogifts.net
 0.0.0.0 discordnitrogifts.pl
@@ -3881,12 +3885,15 @@
 0.0.0.0 followclick.pro
 0.0.0.0 fond-sovest.ru
 0.0.0.0 foresport.site
+0.0.0.0 form-bedeveloper.com
 0.0.0.0 form-discord-moderators.com
 0.0.0.0 form-discord.com
 0.0.0.0 form-hypesquad-events.com
 0.0.0.0 form-hypesquad.com
+0.0.0.0 form-hypesquadevent.com
 0.0.0.0 form-hypesquadevents.com
 0.0.0.0 form-hypesquadeventss.com
+0.0.0.0 form-moderador-go.com
 0.0.0.0 form-moderator-school.com
 0.0.0.0 form-moderator.com
 0.0.0.0 form-moderators-academy.com
@@ -3900,6 +3907,7 @@
 0.0.0.0 forms-hypesquad.com
 0.0.0.0 forms-moderator.com
 0.0.0.0 forms-moderatoracademy.com
+0.0.0.0 forms-moderators-academy.com
 0.0.0.0 forms-moderatorsacademy.com
 0.0.0.0 forms-sub.com
 0.0.0.0 formshypesquad.com
@@ -4571,6 +4579,7 @@
 0.0.0.0 jobs-discord.com
 0.0.0.0 jocudaidie.ru
 0.0.0.0 joewfpwg.ru
+0.0.0.0 joidmoderatorexam.com
 0.0.0.0 join-academy-mod.com
 0.0.0.0 join-academy-moderator-discord.com
 0.0.0.0 join-academy-moderators.com
@@ -5971,6 +5980,7 @@
 0.0.0.0 signup-moderatorforms.com
 0.0.0.0 signup-moderators-academy.com
 0.0.0.0 signup-moderators-formulary.com
+0.0.0.0 signupmoderationdiscord.com
 0.0.0.0 simplenitro.com
 0.0.0.0 simplenitro.gift
 0.0.0.0 sinder8.com
@@ -10025,6 +10035,7 @@
 0.0.0.0 vote-academymod.com
 0.0.0.0 vote-academymoderators.com
 0.0.0.0 vote-hypesquad-discord.com
+0.0.0.0 vote-hypesquad-events.com
 0.0.0.0 vote-hypesquad.com
 0.0.0.0 vote-hypesquad.online
 0.0.0.0 vote-moderator.com
