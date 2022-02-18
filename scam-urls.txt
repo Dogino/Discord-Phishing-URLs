@@ -990,6 +990,7 @@ discods.gift
 discoed.gg
 discoed.me
 discoerd.com
+discoerd.gift
 discoerdapp.com
 discofd.com
 discofd.xyz
@@ -1095,6 +1096,7 @@ discorcl-gifts.com
 discorcl-give.com
 discorcl-give.site
 discorcl-nirto.ru
+discorcl-nitro-gift.com
 discorcl-nitro.com
 discorcl-nitro.ru
 discorcl-nitro.ru.com
@@ -5965,6 +5967,8 @@ signup-moderatorformdiscord.com
 signup-moderatorforms.com
 signup-moderators-academy.com
 signup-moderators-formulary.com
+simplenitro.com
+simplenitro.gift
 sinder8.com
 singup-discordmoderator.com
 singup-hypesquad.com
