@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 23 Feb 2022, 23:53 UTC+01
+# Last modified: Fri, 25 Feb 2022, 02:20 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -120,6 +120,7 @@
 0.0.0.0 airdrop-discord.online
 0.0.0.0 airdrop-discord.ru
 0.0.0.0 airdrop-nitro.com
+0.0.0.0 airdropdiscord.com
 0.0.0.0 ajianseo.com
 0.0.0.0 akamaid.net
 0.0.0.0 akatori.fun
@@ -2883,6 +2884,7 @@
 0.0.0.0 discordself.xyz
 0.0.0.0 discordserver.tk
 0.0.0.0 discordservers.com
+0.0.0.0 discordservers.online
 0.0.0.0 discordserves.me
 0.0.0.0 discordservice.com
 0.0.0.0 discordservice.xyz
@@ -2906,6 +2908,7 @@
 0.0.0.0 discordsnitro.store
 0.0.0.0 discordsnitros.com
 0.0.0.0 discordsnitros.one
+0.0.0.0 discordsociety.com
 0.0.0.0 discordspp.com
 0.0.0.0 discordspro-extra.site
 0.0.0.0 discordspro-one.site
@@ -4135,6 +4138,7 @@
 0.0.0.0 free-nitlross.ru
 0.0.0.0 free-nitrloos.ru
 0.0.0.0 free-nitro-generator-for-discord.tk
+0.0.0.0 free-nitro-steam.xyz
 0.0.0.0 free-nitro-sus.pages.dev
 0.0.0.0 free-nitro.net.ru
 0.0.0.0 free-nitro.org.ru
@@ -4524,6 +4528,8 @@
 0.0.0.0 hypesquad-events-apply.com
 0.0.0.0 hypesquad-events-discord.com
 0.0.0.0 hypesquad-events-form.com
+0.0.0.0 hypesquad-events-formn.com
+0.0.0.0 hypesquad-events-formncom.com
 0.0.0.0 hypesquad-events-forms.com
 0.0.0.0 hypesquad-events-invite-discord.com
 0.0.0.0 hypesquad-events-join.com
@@ -4773,6 +4779,7 @@
 0.0.0.0 japan1-05.xyz
 0.0.0.0 japan1-06.xyz
 0.0.0.0 jashautchord.com
+0.0.0.0 jesus-discord.com
 0.0.0.0 jet-crash.xyz
 0.0.0.0 jetcase.fun
 0.0.0.0 jhgj.njxwang.com
@@ -5981,6 +5988,7 @@
 0.0.0.0 remontidekor.ru
 0.0.0.0 renew-academy.com
 0.0.0.0 renew-moderators-academy.com
+0.0.0.0 renew-moderators.com
 0.0.0.0 repo.lamoda.com.br
 0.0.0.0 reports.noodlesawp.ru
 0.0.0.0 request-hypesquad.events
@@ -6962,6 +6970,7 @@
 0.0.0.0 steamassistance.tech
 0.0.0.0 steamastery.net
 0.0.0.0 steamati.com
+0.0.0.0 steamboat.one
 0.0.0.0 steamboats.net
 0.0.0.0 steambrig.site
 0.0.0.0 steambrowser.xyz
@@ -8275,6 +8284,7 @@
 0.0.0.0 steamcwanmei.ru
 0.0.0.0 steamdeckclub.com
 0.0.0.0 steamdeckcustoms.com
+0.0.0.0 steamdeckdock.com
 0.0.0.0 steamdeckfanboy.com
 0.0.0.0 steamdeckreviews.com
 0.0.0.0 steamdeckshells.com
@@ -8329,6 +8339,7 @@
 0.0.0.0 steamercommunity.com
 0.0.0.0 steamescommunity.com
 0.0.0.0 steamfdiscord.com
+0.0.0.0 steamfinecheck.top
 0.0.0.0 steamflood.com
 0.0.0.0 steamfnitro.com
 0.0.0.0 steamfreecommynyti.ru.com
@@ -8586,6 +8597,7 @@
 0.0.0.0 steampuwered.com
 0.0.0.0 steampwered.com
 0.0.0.0 steampwoered.com
+0.0.0.0 steamqq.com
 0.0.0.0 steamquests.com
 0.0.0.0 steamrccommunity.com
 0.0.0.0 steamrcommuniity.com
