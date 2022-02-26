@@ -2,6 +2,7 @@
 1111sale.us
 15dfjkbvdf.club
 17ebook.com
+1kinitro.com
 1nitro.club
 1ownandfresh1.com
 1payxperxinst1.com
@@ -456,7 +457,6 @@ cliscord-gift.xyz
 cliscord.site
 cliscordl.online
 cliscordl.ru
-clk.rtpdn*.com
 clkepd.com
 cllscordapp.fun
 clonex.rlfkt.com
@@ -1632,6 +1632,7 @@ discord-main.ru.com
 discord-me.com
 discord-me.ru
 discord-mega.xyz
+discord-message-moderators.com
 discord-mod-academy.com
 discord-mod-application.com
 discord-mod.com
@@ -2150,9 +2151,11 @@ discordapp.vercel.app
 discordapp.vip
 discordapp.ws
 discordapp.xyz
+discordappb.com
 discordappdownload.com
 discordappi.com
 discordappi.fun
+discordappj.com
 discordapplication.bond
 discordapplication.cf
 discordapplication.cfd
@@ -2528,6 +2531,7 @@ discordhalloween.gift
 discordhalloween.uk
 discordhalloweens.com
 discordhelp.ml
+discordhelper.com
 discordhelpsupport.com
 discordhitro.com
 discordhitro.gifts
@@ -2551,6 +2555,7 @@ discordi.xyz
 discordia-trio.site
 discordia.ee
 discordia.ga
+discordiaevents.com
 discordian.app
 discordiapp.fun
 discordiasbox.com
@@ -2594,6 +2599,7 @@ discordlegal.zendesk.com
 discordlgift.com
 discordlgift.ru.com
 discordlinks.co.uk
+discordlirectory.com
 discordlist.repl.co
 discordlive.xyz
 discordll.com
@@ -2963,6 +2969,7 @@ discordtext.com
 discordtips.com
 discordtoken.com
 discordtoken.info
+discordtoken.xyz
 discordtokens.shop
 discordtokens2.repl.co
 discordtools.xyz
@@ -3079,6 +3086,7 @@ discorte-nitro.xyz
 discortnitosteam.online
 discortnitostem.online
 discorx.gift
+discorxdapp.com
 discorxways.xyz
 discorz.com
 discorz.gift
@@ -4362,9 +4370,9 @@ giveawaybot.pw
 giveawayd.shop
 giveawaynitro.com
 giveaweys.com
-givesaway.net
 givediscord.com
 givenatus.site
+givesaway.net
 giveweay.com
 glashataj.info
 glbltraffic.com
@@ -4538,6 +4546,7 @@ hypesquad-events-formncom.com
 hypesquad-events-forms.com
 hypesquad-events-invite-discord.com
 hypesquad-events-join.com
+hypesquad-events-joinner.com
 hypesquad-events-login.com
 hypesquad-events-manager.com
 hypesquad-events-moderators.com
@@ -4623,6 +4632,7 @@ hypesquad.ml
 hypesquad.site
 hypesquad.team
 hypesquadacademy-app.com
+hypesquadacademy-events.com
 hypesquadacademy.com
 hypesquadapp.com
 hypesquadapplication.com
@@ -4853,6 +4863,7 @@ join-moderators.com
 join-partner.com
 join-partneracademy.com
 join-teammoderator.com
+join-test-moderator.com
 joindiscord.xyz
 joinhypesquad-discord.com
 joinhypesquad-events.com
@@ -6292,6 +6303,7 @@ sieamcomnunity.org.ru
 sig-nup-hypesquad.com
 signup-academy-moderator.com
 signup-academymod.com
+signup-discord-hypesquadevents.com
 signup-formhypesquadevents.com
 signup-formulary.com
 signup-hypeevents.com

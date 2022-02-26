@@ -1,11 +1,12 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 25 Feb 2022, 16:22 UTC+01
+# Last modified: Sat, 26 Feb 2022, 12:22 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
 0.0.0.0 15dfjkbvdf.club
 0.0.0.0 17ebook.com
+0.0.0.0 1kinitro.com
 0.0.0.0 1nitro.club
 0.0.0.0 1ownandfresh1.com
 0.0.0.0 1payxperxinst1.com
@@ -460,7 +461,6 @@
 0.0.0.0 cliscord.site
 0.0.0.0 cliscordl.online
 0.0.0.0 cliscordl.ru
-0.0.0.0 clk.rtpdn*.com
 0.0.0.0 clkepd.com
 0.0.0.0 cllscordapp.fun
 0.0.0.0 clonex.rlfkt.com
@@ -1636,6 +1636,7 @@
 0.0.0.0 discord-me.com
 0.0.0.0 discord-me.ru
 0.0.0.0 discord-mega.xyz
+0.0.0.0 discord-message-moderators.com
 0.0.0.0 discord-mod-academy.com
 0.0.0.0 discord-mod-application.com
 0.0.0.0 discord-mod.com
@@ -2154,9 +2155,11 @@
 0.0.0.0 discordapp.vip
 0.0.0.0 discordapp.ws
 0.0.0.0 discordapp.xyz
+0.0.0.0 discordappb.com
 0.0.0.0 discordappdownload.com
 0.0.0.0 discordappi.com
 0.0.0.0 discordappi.fun
+0.0.0.0 discordappj.com
 0.0.0.0 discordapplication.bond
 0.0.0.0 discordapplication.cf
 0.0.0.0 discordapplication.cfd
@@ -2532,6 +2535,7 @@
 0.0.0.0 discordhalloween.uk
 0.0.0.0 discordhalloweens.com
 0.0.0.0 discordhelp.ml
+0.0.0.0 discordhelper.com
 0.0.0.0 discordhelpsupport.com
 0.0.0.0 discordhitro.com
 0.0.0.0 discordhitro.gifts
@@ -2555,6 +2559,7 @@
 0.0.0.0 discordia-trio.site
 0.0.0.0 discordia.ee
 0.0.0.0 discordia.ga
+0.0.0.0 discordiaevents.com
 0.0.0.0 discordian.app
 0.0.0.0 discordiapp.fun
 0.0.0.0 discordiasbox.com
@@ -2598,6 +2603,7 @@
 0.0.0.0 discordlgift.com
 0.0.0.0 discordlgift.ru.com
 0.0.0.0 discordlinks.co.uk
+0.0.0.0 discordlirectory.com
 0.0.0.0 discordlist.repl.co
 0.0.0.0 discordlive.xyz
 0.0.0.0 discordll.com
@@ -2967,6 +2973,7 @@
 0.0.0.0 discordtips.com
 0.0.0.0 discordtoken.com
 0.0.0.0 discordtoken.info
+0.0.0.0 discordtoken.xyz
 0.0.0.0 discordtokens.shop
 0.0.0.0 discordtokens2.repl.co
 0.0.0.0 discordtools.xyz
@@ -3083,6 +3090,7 @@
 0.0.0.0 discortnitosteam.online
 0.0.0.0 discortnitostem.online
 0.0.0.0 discorx.gift
+0.0.0.0 discorxdapp.com
 0.0.0.0 discorxways.xyz
 0.0.0.0 discorz.com
 0.0.0.0 discorz.gift
@@ -4368,6 +4376,7 @@
 0.0.0.0 giveaweys.com
 0.0.0.0 givediscord.com
 0.0.0.0 givenatus.site
+0.0.0.0 givesaway.net
 0.0.0.0 giveweay.com
 0.0.0.0 glashataj.info
 0.0.0.0 glbltraffic.com
@@ -4541,6 +4550,7 @@
 0.0.0.0 hypesquad-events-forms.com
 0.0.0.0 hypesquad-events-invite-discord.com
 0.0.0.0 hypesquad-events-join.com
+0.0.0.0 hypesquad-events-joinner.com
 0.0.0.0 hypesquad-events-login.com
 0.0.0.0 hypesquad-events-manager.com
 0.0.0.0 hypesquad-events-moderators.com
@@ -4626,6 +4636,7 @@
 0.0.0.0 hypesquad.site
 0.0.0.0 hypesquad.team
 0.0.0.0 hypesquadacademy-app.com
+0.0.0.0 hypesquadacademy-events.com
 0.0.0.0 hypesquadacademy.com
 0.0.0.0 hypesquadapp.com
 0.0.0.0 hypesquadapplication.com
@@ -4856,6 +4867,7 @@
 0.0.0.0 join-partner.com
 0.0.0.0 join-partneracademy.com
 0.0.0.0 join-teammoderator.com
+0.0.0.0 join-test-moderator.com
 0.0.0.0 joindiscord.xyz
 0.0.0.0 joinhypesquad-discord.com
 0.0.0.0 joinhypesquad-events.com
@@ -6295,6 +6307,7 @@
 0.0.0.0 sig-nup-hypesquad.com
 0.0.0.0 signup-academy-moderator.com
 0.0.0.0 signup-academymod.com
+0.0.0.0 signup-discord-hypesquadevents.com
 0.0.0.0 signup-formhypesquadevents.com
 0.0.0.0 signup-formulary.com
 0.0.0.0 signup-hypeevents.com
