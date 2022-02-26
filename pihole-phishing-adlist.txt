@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 26 Feb 2022, 12:22 UTC+01
+# Last modified: Sat, 26 Feb 2022, 15:25 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -44,6 +44,7 @@
 0.0.0.0 99box.com
 0.0.0.0 academy-beta.com
 0.0.0.0 academy-discord-hypesquad.com
+0.0.0.0 academy-discord-renew.com
 0.0.0.0 academy-discord.com
 0.0.0.0 academy-exam.com
 0.0.0.0 academy-form-test.com
@@ -1826,6 +1827,7 @@
 0.0.0.0 discord-provider.com
 0.0.0.0 discord-ps4-nitro.com
 0.0.0.0 discord-quiz.com
+0.0.0.0 discord-renew-academy.com
 0.0.0.0 discord-report.com
 0.0.0.0 discord-request.com
 0.0.0.0 discord-reward.com
@@ -1836,6 +1838,7 @@
 0.0.0.0 discord-s.com
 0.0.0.0 discord-s.ru
 0.0.0.0 discord-safety.com
+0.0.0.0 discord-samsung.com
 0.0.0.0 discord-security.com
 0.0.0.0 discord-server-verification.tk
 0.0.0.0 discord-server.ru
@@ -2610,6 +2613,7 @@
 0.0.0.0 discordll.gift
 0.0.0.0 discordlnitro.com
 0.0.0.0 discordlogin.com
+0.0.0.0 discordlogin.org
 0.0.0.0 discordlord.xyz
 0.0.0.0 discordlords.com
 0.0.0.0 discordlords.xyz
@@ -2742,6 +2746,7 @@
 0.0.0.0 discordoffers.com
 0.0.0.0 discordoffers.me
 0.0.0.0 discordofficial.com
+0.0.0.0 discordofficial.link
 0.0.0.0 discordopp.com
 0.0.0.0 discordp.com
 0.0.0.0 discordp.ml
@@ -3023,6 +3028,7 @@
 0.0.0.0 discoredapp.com
 0.0.0.0 discorer.com
 0.0.0.0 discorf.com
+0.0.0.0 discorf.gift
 0.0.0.0 discorfd.com
 0.0.0.0 discorg.gg
 0.0.0.0 discorganizeddg.com
@@ -3330,6 +3336,7 @@
 0.0.0.0 disscord.online
 0.0.0.0 disscord.ru
 0.0.0.0 disscordnitro.gifts
+0.0.0.0 disscordnitrogift.ru
 0.0.0.0 disscords.club
 0.0.0.0 disscordt-free.ru
 0.0.0.0 disscorrd.ru
@@ -4085,7 +4092,9 @@
 0.0.0.0 formulary-academy-moderator.com
 0.0.0.0 formulary-academy-team.com
 0.0.0.0 formulary-applications.com
+0.0.0.0 formulary-apply.com
 0.0.0.0 formulary-devs.com
+0.0.0.0 formulary-discord-hypesquad.com
 0.0.0.0 formulary-hypeacademy.com
 0.0.0.0 formulary-hypediscord.com
 0.0.0.0 formulary-hypesqaud-events.com
@@ -4476,6 +4485,7 @@
 0.0.0.0 hranavrt.xyz
 0.0.0.0 hsmvem.com
 0.0.0.0 hsrvu.com
+0.0.0.0 htps-web-roblox.com
 0.0.0.0 httpdlscordnitro.ru.com
 0.0.0.0 https-discord.com
 0.0.0.0 httpssteamcommunity.com
@@ -4595,6 +4605,7 @@
 0.0.0.0 hypesquad-moderatorevent.com
 0.0.0.0 hypesquad-moderators.com
 0.0.0.0 hypesquad-new.com
+0.0.0.0 hypesquad-news.com
 0.0.0.0 hypesquad-partners.com
 0.0.0.0 hypesquad-program.com
 0.0.0.0 hypesquad-programevents.com
@@ -4636,6 +4647,7 @@
 0.0.0.0 hypesquad.site
 0.0.0.0 hypesquad.team
 0.0.0.0 hypesquadacademy-app.com
+0.0.0.0 hypesquadacademy-apply.com
 0.0.0.0 hypesquadacademy-events.com
 0.0.0.0 hypesquadacademy.com
 0.0.0.0 hypesquadapp.com
@@ -4992,6 +5004,7 @@
 0.0.0.0 login-hypesquads.com
 0.0.0.0 login-moderator-academy.com
 0.0.0.0 login-moderator-discord.com
+0.0.0.0 loginhypesquad.com
 0.0.0.0 loginrun.info
 0.0.0.0 longxrun.online
 0.0.0.0 loot-conveyor.com
@@ -5164,6 +5177,7 @@
 0.0.0.0 moderator-academy-discord.com
 0.0.0.0 moderator-academy-events.com
 0.0.0.0 moderator-academy-exam.com
+0.0.0.0 moderator-academy-form.com
 0.0.0.0 moderator-academy-forms.com
 0.0.0.0 moderator-academy-formulary.com
 0.0.0.0 moderator-academy-invite.net
@@ -5637,6 +5651,7 @@
 0.0.0.0 nitroo-discord.xyz
 0.0.0.0 nitroos-frieie.ru
 0.0.0.0 nitroosfree.ru
+0.0.0.0 nitroperks.ru
 0.0.0.0 nitropremium.com
 0.0.0.0 nitropromotions.tk
 0.0.0.0 nitropussy.com
@@ -5770,6 +5785,7 @@
 0.0.0.0 partner-moderators.com
 0.0.0.0 partners-academys.com
 0.0.0.0 partners-join.com
+0.0.0.0 partners-program-academy.com
 0.0.0.0 partners-program-register.com
 0.0.0.0 partners-program-signup.com
 0.0.0.0 partners-program-singup.com
@@ -9509,6 +9525,7 @@
 0.0.0.0 stemcommnuite.me
 0.0.0.0 stemcommnuity.xyz
 0.0.0.0 stemcommnunitly.com
+0.0.0.0 stemcommnunitu.com
 0.0.0.0 stemcommnunity.com
 0.0.0.0 stemcommnunlty.ru
 0.0.0.0 stemcommnunnity.com
@@ -10484,6 +10501,7 @@
 0.0.0.0 vur.fyi
 0.0.0.0 vvvvv-roblox.com
 0.0.0.0 vvvvw-roblox.com
+0.0.0.0 vvvw-roblox.com
 0.0.0.0 vvwvv-roblox.com
 0.0.0.0 vwvvw-roblox.com
 0.0.0.0 vww-roblox.com
