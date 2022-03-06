@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 5 Mar 2022, 13:45 UTC+01
+# Last modified: Sun, 6 Mar 2022, 15:35 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -4166,6 +4166,7 @@
 0.0.0.0 formshypesquad.com
 0.0.0.0 formsmoderatoracademy.com
 0.0.0.0 formtest-academy.com
+0.0.0.0 formulary-academy-events.com
 0.0.0.0 formulary-academy-mod.com
 0.0.0.0 formulary-academy-moderator.com
 0.0.0.0 formulary-academy-team.com
@@ -8600,6 +8601,7 @@
 0.0.0.0 steamhome-trades.xyz
 0.0.0.0 steamhometrade.xyz
 0.0.0.0 steamhometrades.xyz
+0.0.0.0 steamhub.website
 0.0.0.0 steamicommunnity.com
 0.0.0.0 steamid.ru
 0.0.0.0 steamidiscord.com
@@ -8728,6 +8730,7 @@
 0.0.0.0 steamonsport.biz
 0.0.0.0 steamoowered.com
 0.0.0.0 steamoperation.site
+0.0.0.0 steamopowered.com
 0.0.0.0 steamowered.com
 0.0.0.0 steamp0wered.com
 0.0.0.0 steampawared.club
@@ -10824,6 +10827,7 @@
 0.0.0.0 xyzdlscorld-get.xyz
 0.0.0.0 xyzdlscorld.gift
 0.0.0.0 xzsae.hitechconnected.com
+0.0.0.0 yadiscord.com
 0.0.0.0 yber-cs.xyz
 0.0.0.0 yber-lan.com
 0.0.0.0 yber-sportnews.ru
