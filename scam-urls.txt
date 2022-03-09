@@ -44,6 +44,7 @@ academy-discord-hypesquad.com
 academy-discord-renew.com
 academy-discord.com
 academy-exam.com
+academy-exam.today
 academy-form-renew.com
 academy-form-test.com
 academy-form.com
@@ -57,6 +58,7 @@ academy-mod.com
 academy-moderador-staff.com
 academy-moderation-exam.com
 academy-moderator-form.com
+academy-moderator-forms.com
 academy-moderator-hypesquad.com
 academy-moderator-singup.com
 academy-moderator-test.com
@@ -452,6 +454,8 @@ cdndiscord.com
 ceesty.com
 centralheat.me
 centralheat.net
+certified-exam-academy-mod.com
+certified-moderating.com
 certifiedmoderating-exam.com
 ceters.net
 cfxxfwzx.com
@@ -549,6 +553,7 @@ comsteamcommunity.com
 comsteamnitrol.com
 comsteamnltros.ru
 comstearncormmunity.com
+connect-moderators-academy.com
 consumerproductsusa.com
 contact-infoservice.com
 continue-site.website
@@ -723,6 +728,8 @@ developers-discord.com
 developers-info.com
 developers-intent.com
 developers-intents.com
+developers-moderator.com
+developers-moderator.team
 developersclubs.info
 devloper-team.info
 devlopers.info
@@ -1520,6 +1527,7 @@ discord-giift.com
 discord-giift.ru
 discord-giv.com
 discord-givaewey.ru
+discord-givawey.xyz
 discord-give-gift.ml
 discord-give-nitro.tk
 discord-give.com
@@ -1634,6 +1642,7 @@ discord-hypesquadjoin.com
 discord-hypesquads-events.com
 discord-hypesquads.com
 discord-hypesquadteam.com
+discord-hypesquadteamforms.com
 discord-hypessquad.com
 discord-hypevent.com
 discord-hypevents.com
@@ -1719,6 +1728,7 @@ discord-moderatorexam.com
 discord-moderators-academy.com
 discord-moderators-developer.com
 discord-moderators-exam.com
+discord-moderators-form.com
 discord-moderators-formulary.com
 discord-moderators-hypesquad.com
 discord-moderators-institute.com
@@ -1730,6 +1740,7 @@ discord-mods.com
 discord-ms.ru
 discord-net-labs.com
 discord-netro.ru
+discord-new-events.com
 discord-new.net.ru
 discord-new.ru.com
 discord-news.com
@@ -1873,6 +1884,7 @@ discord-rewards.com
 discord-ro.com
 discord-ro.tk
 discord-ru.site
+discord-rules.com
 discord-s.com
 discord-s.ru
 discord-safety.com
@@ -2764,6 +2776,7 @@ discordnitrofree.com
 discordnitrofree.online
 discordnitrofree.ru.com
 discordnitrofree.site
+discordnitrofree.tk
 discordnitrofree.xyz
 discordnitrofreee.tk
 discordnitrogenerator.com
@@ -3234,6 +3247,7 @@ discrod-nitro.info
 discrod-nitro.ru
 discrod-up.ru
 discrod.codes
+discrod.com
 discrod.exile.lv
 discrod.fun
 discrod.gg
@@ -3686,6 +3700,7 @@ dlscord.biz
 dlscord.blog
 dlscord.cam
 dlscord.cc
+dlscord.cf
 dlscord.click
 dlscord.cloud
 dlscord.co
@@ -3861,6 +3876,7 @@ dlscrod.gifts
 dlscrod.ru.com
 dlscrod.site
 dlscrod.xyz
+dlscrodapp.gift
 dlscrodapp.ru
 dlscrodfull.com
 dlscrods-app.xyz
@@ -4044,8 +4060,10 @@ exam-certified-moderator.com
 exam-discord.com
 exam-hypesquad.com
 exam-modacademy.com
+exam-moderation-academy.com
 exam-moderation.com
 exam-moderator-academy.com
+exam-moderator-signup.com
 exam-moderator.academy
 exam-moderator.com
 exam-moderatoracademy.com
@@ -4142,6 +4160,7 @@ form-discord.com
 form-hype.com
 form-hypesquad-events.com
 form-hypesquad.com
+form-hypesquadevent-team.com
 form-hypesquadevent.com
 form-hypesquadevents-signup.com
 form-hypesquadevents.com
@@ -4159,6 +4178,7 @@ form-modmail.com
 form-to-moderator.com
 formhypesquad.com
 formhypesquadevents.com
+forms-academy-moderator.com
 forms-academymod.com
 forms-community.repl.co
 forms-discord.com
@@ -4178,6 +4198,7 @@ formulary-academy-events.com
 formulary-academy-mod.com
 formulary-academy-moderator.com
 formulary-academy-team.com
+formulary-academy-testers.com
 formulary-applications.com
 formulary-apply.com
 formulary-axam.com
@@ -4464,6 +4485,7 @@ giiveaway-discord.com
 ginedis.com
 girlssohorny.net
 gitdhub.com
+gitvhub.com
 gitxhub.com
 givaewey.com
 give-csgorun.ru
@@ -4577,6 +4599,7 @@ home-prize-winner-ma3d.live
 hook-ups-here2.com
 hope-nitro.com
 horried.pro
+hosting-mfgstudio.tk
 hot-set.xyz
 hotlady4you.com
 house-hypesquad.com
@@ -4587,6 +4610,7 @@ hsrvu.com
 htps-web-roblox.com
 httpdlscordnitro.ru.com
 https-discord.com
+httpshypesquad-new-events.com
 httpssteamcommunity.com
 httpssteampowered.com
 httpsteamcommunity.com
@@ -4648,6 +4672,7 @@ hypesquad-discord.info
 hypesquad-discord.net
 hypesquad-discord.xyz
 hypesquad-en-us.repl.co
+hypesquad-en.repl.co
 hypesquad-enter.com
 hypesquad-entertainment.com
 hypesquad-eveents.com
@@ -4708,6 +4733,7 @@ hypesquad-moderator.com
 hypesquad-moderatoracademy.com
 hypesquad-moderatorevent.com
 hypesquad-moderators.com
+hypesquad-new-events.com
 hypesquad-new.com
 hypesquad-news.com
 hypesquad-partners.com
@@ -4740,6 +4766,8 @@ hypesquad-teams.com
 hypesquad-test.com
 hypesquad-tester.com
 hypesquad-tests.com
+hypesquad-us-en.repl.co
+hypesquad-us.repl.co
 hypesquad-verified.com
 hypesquad-vote-go.com
 hypesquad-votes.com
@@ -4764,6 +4792,7 @@ hypesquadapplication.com
 hypesquadbadge.com
 hypesquadcelebrations.com
 hypesquadcelebrationsrequest.com
+hypesquadevent-teams.repl.co
 hypesquadevent.com
 hypesquadevent.repl.co
 hypesquadeventesaccesss-signup.com
@@ -4838,6 +4867,7 @@ hypesquadteams-join.com
 hypesquadteams-start.com
 hypesquadvoting.com
 hypesquadwinner.com
+hypesquid-us-en.repl.co
 hypessquad-academy.com
 hypessquad-discord-signup.com
 hypessquad-discord.com
@@ -4967,6 +4997,7 @@ join-discordevents.com
 join-events-hypesquads.com
 join-eventshypesquad.com
 join-form-academy.com
+join-formulary-hypesquadevents-app.com
 join-formulary-moderadors.com
 join-formulary-moderator-test.com
 join-formulary.com
@@ -4976,6 +5007,8 @@ join-hypesquad-academy.com
 join-hypesquad-events.com
 join-hypesquad-form.com
 join-hypesquad-forms.com
+join-hypesquad-now.com
+join-hypesquad-official.org
 join-hypesquad.club
 join-hypesquad.com
 join-hypesquad.info
@@ -5012,6 +5045,8 @@ join-partneracademy.com
 join-teammoderator.com
 join-test-moderator.com
 join-the-hypesquadevents.com
+join-thehypesquadevents-forms.com
+join-thehypesquadevents.com
 joindiscord.xyz
 joinfor-hypesquad.com
 joinhypesquad-discord.com
@@ -5025,6 +5060,10 @@ joinmoderators.com
 joinmy.site
 joint-moderator.com
 jointhe-hypesquad.com
+jointhehypesquad-team.com
+jointhehypesquadevents-form.com
+jointhehypesquadevents-team.com
+jointhehypesquadteam.com
 jokedrop.ru
 jope-nitro.com
 jrnitro.xyz
@@ -5303,15 +5342,23 @@ moderation-academy-signup.com
 moderation-academy.net
 moderation-application.com
 moderation-apply.com
+moderation-arrive.com
 moderation-discord.com
 moderation-exam.com
+moderation-give.com
 moderation-guide.com
 moderation-hypesquad-discord.com
 moderation-hypesquadevents.com
+moderation-login.com
+moderation-prepare.com
 moderation-signup.com
+moderation-support.com
 moderation-supporter.com
+moderation-tester.com
+moderationacademy-exams.com
 moderationacademy.repl.co
 moderations-school.com
+moderations-supporter.com
 moderationvoting.com
 moderationworks.com
 moderato-academy.tech
@@ -5334,6 +5381,8 @@ moderator-academy.guide
 moderator-academy.info
 moderator-academy.net
 moderator-academy.online
+moderator-academy.today
+moderator-academy.training
 moderator-academy.xyz
 moderator-academydiscord.com
 moderator-academyexam.com
@@ -5354,6 +5403,7 @@ moderator-discords.com
 moderator-enter.com
 moderator-events-hypesquad.com
 moderator-exam.academy
+moderator-exam.center
 moderator-exam.com
 moderator-exam.company
 moderator-exam.guide
@@ -5382,6 +5432,7 @@ moderator-register.com
 moderator-register.info
 moderator-requisite.com
 moderator-school.com
+moderator-signature.com
 moderator-signup.com
 moderator-singup.com
 moderator-stage.com
@@ -5398,6 +5449,7 @@ moderator-tests.com
 moderator-training.com
 moderator-vote.com
 moderator.hypesquad-survey.info
+moderator.team
 moderatoracademiaforms.com
 moderatoracademy-apply.com
 moderatoracademy-discord.com
@@ -5427,6 +5479,7 @@ moderatorformulary.com
 moderatorgo-apply.com
 moderatorgo.com
 moderatorhypesquad-events.com
+moderatorifacebook.store
 moderatorinsititute.com
 moderatorinstitute.com
 moderatorinvite.com
@@ -5438,6 +5491,7 @@ moderators-academy-events.com
 moderators-academy-examy.com
 moderators-academy-form.com
 moderators-academy-forms.com
+moderators-academy-invite.com
 moderators-academy-join.com
 moderators-academy-test.com
 moderators-academy-tester.com
@@ -5445,6 +5499,7 @@ moderators-academy-testers.com
 moderators-academy-vote.com
 moderators-academy.club
 moderators-academy.com
+moderators-academy.today
 moderators-academymod.com
 moderators-academytest.com
 moderators-application.com
@@ -5506,6 +5561,8 @@ mods-academy.com
 mods-formulary.com
 modsacademy.com
 modtestacademy.com
+monitor.repassa.com.br
+motiontokens.com
 moviesboys.com
 multiadblock.com
 mxmcheats.online
@@ -5616,8 +5673,12 @@ netund.com
 new-collects.xyz
 new-drop.net.ru
 new-forms-hypesquad.com
+new-forms-hypesquadevent.com
 new-give.com
+new-hypesquad-form.com
+new-hypesquad-forms.com
 new-lady-here12.com
+new-moderators-events.com
 new-steamcommunlty.xyz
 new.mychaelknight.com
 newdiscord.online
@@ -5770,6 +5831,7 @@ nitrobooster.team
 nitroboosts.shop
 nitrobtob.com
 nitrochallange.com
+nitroclaim.com
 nitroclicks.com
 nitrocodes.live
 nitrodisc.net.ru
@@ -5804,6 +5866,7 @@ nitrogenengg.com
 nitrogeneral.ru
 nitrogensports.eu
 nitrogift.xyz
+nitrogifting.online
 nitrogifting.ru
 nitrogifts.site
 nitrogive.com
@@ -6167,10 +6230,15 @@ readytosinglesmeet.com
 realnetnews.com
 realskins.xyz
 realtorg.xyz
+record-hypesquad-events.com
 recruit-moderator.com
 recruitment-candidates.com
+recruitment-formulary-moderators.com
+recruitment-moderator-login.com
 recruitment-moderator.com
 recruitment-moderators.com
+redacoes.encceja.fgv.br
+redacoes.enem.fgv.br
 redirectednet.xyz
 redirectsstm.click
 redirekted.com
@@ -6189,6 +6257,7 @@ register-formulary-moderator.com
 register-formulary.com
 register-from-moderator.com
 register-hypesquad-academy.com
+register-hypesquad-event.com
 register-hypesquad.com
 register-hypesquadevents-team.com
 register-hypesquadevents.com
@@ -6242,6 +6311,7 @@ returns-academy.com
 returns-eventhypesquad.com
 returns-eventshypesquad.com
 returns-eventshypsquad.com
+returns-hypesquad-events.com
 returns-hypesquad.com
 returns-hypesquads.com
 returns-invite-discord.com
@@ -6294,6 +6364,7 @@ ro4.biz
 robfan.ork
 robfan.work
 robin201.xyz
+roblos.com
 roblox-christmas.com
 roblox-collect.com
 roblox-com.gq
@@ -6314,6 +6385,7 @@ roblox.com.ht
 roblox.com.mk
 roblox.com.ms
 roblox.com.so
+roblox.cx
 roblox.free.robux.page
 roblox.help
 roblox.link.club
@@ -6459,6 +6531,7 @@ searmcornmunlty.me
 searmcornmunulity.club
 secure-instagram.ru
 securesystemguide.com
+security-safety-support.com
 securitydefender.xyz
 seed-nitro.com
 seedbreakgoal.live
@@ -6512,19 +6585,26 @@ sieamcommunity.net.ru
 sieamcommunity.org.ru
 sieamcomnunity.org.ru
 sig-nup-hypesquad.com
+signature-moderator.com
 signup-academy-moderator.com
 signup-academymod.com
 signup-discord-hypesquadevents.com
 signup-formhypesquadevents.com
+signup-formulary-hypesquad-events.com
+signup-formulary-hypesquadevents.com
 signup-formulary-moderator-academy.com
 signup-formulary.com
+signup-hypeevents-programs.com
 signup-hypeevents.com
+signup-hypesquad-form.com
+signup-hypesquad-program.com
 signup-hypesquadacademy.com
 signup-hypesquadevent-teams.com
 signup-hypesquadevents-apply.com
 signup-hypesquadevents-team.com
 signup-hypesquadevents.com
 signup-hypessquad.com
+signup-mod-exams.com
 signup-moderadordiscord.com
 signup-moderadors-academy.com
 signup-moderation.com
@@ -6537,17 +6617,20 @@ signup-moderatorforms.com
 signup-moderators-academy.com
 signup-moderators-formulary.com
 signup-moderatorsteam.com
+signup-the-hypesquadevents.com
 signupmoderationdiscord.com
 simplenitro.com
 simplenitro.gift
 sinder8.com
 singup-discordmoderator.com
 singup-hypesquad-events.com
+singup-hypesquad-program.com
 singup-hypesquad.com
 singup-hypesquadacademy.org
 singup-hypesquadevents-team.com
 singup-moderator.com
 singup-moderators.com
+singup-modmail.com
 site-robiox.com
 site-roblox.com
 sitemap.onedrrive.com
@@ -6919,6 +7002,7 @@ staemconmuniity.ru.com
 staemconmunilty.com
 staemconmunity.com
 staemconmunty.ru
+staemconnmunity.me
 staemconnmunity.xyz
 staemcoommnunity.ru
 staemcoommnuty.ru
@@ -10505,12 +10589,14 @@ takaytry.z11.web.core.windows.net
 talanka.com
 tamesteel.net
 tanpavirus.web.id
+tapez.net
 tarcrypto.com
 tasty-skill.net.ru
 tastyskill.net.ru
 tathli.com
 team-arena.com
 team-discord.com
+team-hypesquadevents.com
 team-moderator.com
 team.hypesquad-company.info
 team.the-shrubbery.co.uk
@@ -10679,6 +10765,7 @@ verifications-discord.com
 verifiedbadge.services
 verifiedbadgesteam.com
 verify-discord.com
+verify-moderators-discord.com
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
 verifytool.xyz
@@ -10723,6 +10810,7 @@ vote-moderators.com
 vote-moderators.info
 vote-moderators.tk
 votego-moderator.com
+votehypesquad.com
 voting-moderator-academy.com
 vremechko.org
 vremyamn.ru
