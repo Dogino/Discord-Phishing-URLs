@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 9 Mar 2022, 21:11 UTC+01
+# Last modified: Thu, 10 Mar 2022, 20:24 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -734,6 +734,7 @@
 0.0.0.0 developers-intents.com
 0.0.0.0 developers-moderator.com
 0.0.0.0 developers-moderator.team
+0.0.0.0 developers-moderators.com
 0.0.0.0 developersclubs.info
 0.0.0.0 devloper-team.info
 0.0.0.0 devlopers.info
@@ -2645,6 +2646,7 @@
 0.0.0.0 discordicon.com
 0.0.0.0 discordid.eu
 0.0.0.0 discordigift.ml
+0.0.0.0 discordik.com
 0.0.0.0 discordik.ru
 0.0.0.0 discordimages.com
 0.0.0.0 discordinc.com
@@ -4680,6 +4682,7 @@
 0.0.0.0 hypesquad-enter.com
 0.0.0.0 hypesquad-entertainment.com
 0.0.0.0 hypesquad-eveents.com
+0.0.0.0 hypesquad-event-register.com
 0.0.0.0 hypesquad-event.info
 0.0.0.0 hypesquad-event.repl.co
 0.0.0.0 hypesquad-eventjoin.com
@@ -5175,12 +5178,15 @@
 0.0.0.0 login-hype-events.com
 0.0.0.0 login-hype-squad.com
 0.0.0.0 login-hypeevents.com
+0.0.0.0 login-hypesquad-event.com
+0.0.0.0 login-hypesquad-events.com
 0.0.0.0 login-hypesquad.com
 0.0.0.0 login-hypesquadacademy.com
 0.0.0.0 login-hypesquadevent.com
 0.0.0.0 login-hypesquads.com
 0.0.0.0 login-moderator-academy.com
 0.0.0.0 login-moderator-discord.com
+0.0.0.0 login-web-ledger.com
 0.0.0.0 loginhypesquad.com
 0.0.0.0 loginrun.info
 0.0.0.0 longxrun.online
@@ -6600,6 +6606,7 @@
 0.0.0.0 signup-formulary.com
 0.0.0.0 signup-hypeevents-programs.com
 0.0.0.0 signup-hypeevents.com
+0.0.0.0 signup-hypesquad-event.com
 0.0.0.0 signup-hypesquad-form.com
 0.0.0.0 signup-hypesquad-program.com
 0.0.0.0 signup-hypesquadacademy.com
@@ -10769,6 +10776,7 @@
 0.0.0.0 verifiedbadge.services
 0.0.0.0 verifiedbadgesteam.com
 0.0.0.0 verify-discord.com
+0.0.0.0 verify-moderator.com
 0.0.0.0 verify-moderators-discord.com
 0.0.0.0 verifyaccount-badge.ml
 0.0.0.0 verifyaccount-for-bluetick.com

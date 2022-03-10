@@ -730,6 +730,7 @@ developers-intent.com
 developers-intents.com
 developers-moderator.com
 developers-moderator.team
+developers-moderators.com
 developersclubs.info
 devloper-team.info
 devlopers.info
@@ -2641,6 +2642,7 @@ discordiatech.co.uk
 discordicon.com
 discordid.eu
 discordigift.ml
+discordik.com
 discordik.ru
 discordimages.com
 discordinc.com
@@ -4676,6 +4678,7 @@ hypesquad-en.repl.co
 hypesquad-enter.com
 hypesquad-entertainment.com
 hypesquad-eveents.com
+hypesquad-event-register.com
 hypesquad-event.info
 hypesquad-event.repl.co
 hypesquad-eventjoin.com
@@ -5171,12 +5174,15 @@ login-discordmoderator.com
 login-hype-events.com
 login-hype-squad.com
 login-hypeevents.com
+login-hypesquad-event.com
+login-hypesquad-events.com
 login-hypesquad.com
 login-hypesquadacademy.com
 login-hypesquadevent.com
 login-hypesquads.com
 login-moderator-academy.com
 login-moderator-discord.com
+login-web-ledger.com
 loginhypesquad.com
 loginrun.info
 longxrun.online
@@ -6596,6 +6602,7 @@ signup-formulary-moderator-academy.com
 signup-formulary.com
 signup-hypeevents-programs.com
 signup-hypeevents.com
+signup-hypesquad-event.com
 signup-hypesquad-form.com
 signup-hypesquad-program.com
 signup-hypesquadacademy.com
@@ -10765,6 +10772,7 @@ verifications-discord.com
 verifiedbadge.services
 verifiedbadgesteam.com
 verify-discord.com
+verify-moderator.com
 verify-moderators-discord.com
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
