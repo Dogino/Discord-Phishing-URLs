@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 11 Mar 2022, 16:11 UTC+01
+# Last modified: Sat, 12 Mar 2022, 12:35 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -95,6 +95,7 @@
 0.0.0.0 academymoderator.com
 0.0.0.0 academymoderator.team
 0.0.0.0 academymoderatorforms.com
+0.0.0.0 academymoderatorinvite.com
 0.0.0.0 academymoderators.repl.co
 0.0.0.0 academymoderatortests.com
 0.0.0.0 academymods.com
@@ -564,8 +565,10 @@
 0.0.0.0 comsteamnitrol.com
 0.0.0.0 comsteamnltros.ru
 0.0.0.0 comstearncormmunity.com
+0.0.0.0 connect-academy-moderators.com
 0.0.0.0 connect-forms-academy.com
 0.0.0.0 connect-moderators-academy.com
+0.0.0.0 connect-new-moderators.com
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 contact-infoservice.com
 0.0.0.0 continue-site.website
@@ -2668,6 +2671,7 @@
 0.0.0.0 discordinitro.com
 0.0.0.0 discordinvite.ml
 0.0.0.0 discordio.xyz
+0.0.0.0 discordipo.net
 0.0.0.0 discordist.com
 0.0.0.0 discordisteam.com
 0.0.0.0 discordivitemoderator.com
@@ -4253,6 +4257,8 @@
 0.0.0.0 formulary-moderators.com
 0.0.0.0 formulary-moderatorteam.com
 0.0.0.0 formulary-mods.com
+0.0.0.0 formulary-renew-hyoesquad.com
+0.0.0.0 formulary-renew-moderators-events.com
 0.0.0.0 formulary-signup.com
 0.0.0.0 formulary-teamhypesquad.com
 0.0.0.0 formulary-teammoderator.com
@@ -5407,6 +5413,7 @@
 0.0.0.0 moderationacademy-exams.com
 0.0.0.0 moderationacademy.repl.co
 0.0.0.0 moderations-school.com
+0.0.0.0 moderations-sup.com
 0.0.0.0 moderations-supporter.com
 0.0.0.0 moderationvoting.com
 0.0.0.0 moderationworks.com
@@ -5442,6 +5449,7 @@
 0.0.0.0 moderator-application.com
 0.0.0.0 moderator-application.info
 0.0.0.0 moderator-applications.com
+0.0.0.0 moderator-arrive.com
 0.0.0.0 moderator-certificate.com
 0.0.0.0 moderator-college.com
 0.0.0.0 moderator-community.com
@@ -5725,6 +5733,7 @@
 0.0.0.0 netund.com
 0.0.0.0 new-collects.xyz
 0.0.0.0 new-drop.net.ru
+0.0.0.0 new-form-hypesquad.com
 0.0.0.0 new-forms-hypesquad.com
 0.0.0.0 new-forms-hypesquadevent.com
 0.0.0.0 new-give.com
@@ -6147,6 +6156,8 @@
 0.0.0.0 profit-worlds2u.life
 0.0.0.0 program-hypesquad-event.com
 0.0.0.0 program-hypesquad-events.com
+0.0.0.0 program-hypesquad-join.com
+0.0.0.0 program-hypesquad-signup.com
 0.0.0.0 program-hypesquad.com
 0.0.0.0 program-hypesquadevents.com
 0.0.0.0 program-moderator.com
@@ -6313,6 +6324,7 @@
 0.0.0.0 register-from-moderator.com
 0.0.0.0 register-hypesquad-academy.com
 0.0.0.0 register-hypesquad-event.com
+0.0.0.0 register-hypesquad-program.com
 0.0.0.0 register-hypesquad.com
 0.0.0.0 register-hypesquadevents-team.com
 0.0.0.0 register-hypesquadevents.com
@@ -6660,6 +6672,7 @@
 0.0.0.0 signup-hypesquadacademy.com
 0.0.0.0 signup-hypesquadevent-teams.com
 0.0.0.0 signup-hypesquadevents-apply.com
+0.0.0.0 signup-hypesquadevents-program.com
 0.0.0.0 signup-hypesquadevents-team.com
 0.0.0.0 signup-hypesquadevents.com
 0.0.0.0 signup-hypessquad.com
@@ -10912,6 +10925,8 @@
 0.0.0.0 weekly-lucky-2020-gift.club
 0.0.0.0 weeklyjob.online
 0.0.0.0 welcome-hypesquad.com
+0.0.0.0 welcome-moder.com
+0.0.0.0 welcome-moderation.com
 0.0.0.0 weplay.ru.com
 0.0.0.0 westabit.com
 0.0.0.0 what-were.xyz

@@ -91,6 +91,7 @@ academymoderator-join.com
 academymoderator.com
 academymoderator.team
 academymoderatorforms.com
+academymoderatorinvite.com
 academymoderators.repl.co
 academymoderatortests.com
 academymods.com
@@ -560,8 +561,10 @@ comsteamcommunity.com
 comsteamnitrol.com
 comsteamnltros.ru
 comstearncormmunity.com
+connect-academy-moderators.com
 connect-forms-academy.com
 connect-moderators-academy.com
+connect-new-moderators.com
 consumerproductsusa.com
 contact-infoservice.com
 continue-site.website
@@ -2664,6 +2667,7 @@ discordinfo.ru
 discordinitro.com
 discordinvite.ml
 discordio.xyz
+discordipo.net
 discordist.com
 discordisteam.com
 discordivitemoderator.com
@@ -4249,6 +4253,8 @@ formulary-moderators-new.com
 formulary-moderators.com
 formulary-moderatorteam.com
 formulary-mods.com
+formulary-renew-hyoesquad.com
+formulary-renew-moderators-events.com
 formulary-signup.com
 formulary-teamhypesquad.com
 formulary-teammoderator.com
@@ -5403,6 +5409,7 @@ moderation-tester.com
 moderationacademy-exams.com
 moderationacademy.repl.co
 moderations-school.com
+moderations-sup.com
 moderations-supporter.com
 moderationvoting.com
 moderationworks.com
@@ -5438,6 +5445,7 @@ moderator-application-join.com
 moderator-application.com
 moderator-application.info
 moderator-applications.com
+moderator-arrive.com
 moderator-certificate.com
 moderator-college.com
 moderator-community.com
@@ -5721,6 +5729,7 @@ netfllix-de.com
 netund.com
 new-collects.xyz
 new-drop.net.ru
+new-form-hypesquad.com
 new-forms-hypesquad.com
 new-forms-hypesquadevent.com
 new-give.com
@@ -6143,6 +6152,8 @@ profiles-76582109509.me
 profit-worlds2u.life
 program-hypesquad-event.com
 program-hypesquad-events.com
+program-hypesquad-join.com
+program-hypesquad-signup.com
 program-hypesquad.com
 program-hypesquadevents.com
 program-moderator.com
@@ -6309,6 +6320,7 @@ register-formulary.com
 register-from-moderator.com
 register-hypesquad-academy.com
 register-hypesquad-event.com
+register-hypesquad-program.com
 register-hypesquad.com
 register-hypesquadevents-team.com
 register-hypesquadevents.com
@@ -6656,6 +6668,7 @@ signup-hypesquad-test.com
 signup-hypesquadacademy.com
 signup-hypesquadevent-teams.com
 signup-hypesquadevents-apply.com
+signup-hypesquadevents-program.com
 signup-hypesquadevents-team.com
 signup-hypesquadevents.com
 signup-hypessquad.com
@@ -10908,6 +10921,8 @@ weeb-roblox.com
 weekly-lucky-2020-gift.club
 weeklyjob.online
 welcome-hypesquad.com
+welcome-moder.com
+welcome-moderation.com
 weplay.ru.com
 westabit.com
 what-were.xyz
