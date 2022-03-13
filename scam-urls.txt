@@ -471,6 +471,7 @@ certifiedmoderating-exam.com
 ceters.net
 cfxxfwzx.com
 cgdc.ct8.pl
+cgnitro.com
 checkingnotifications.org
 checkmatediscord.club
 checkup08.biz
@@ -5761,6 +5762,7 @@ netund.com
 new-collects.xyz
 new-drop.net.ru
 new-form-hypesquad.com
+new-forms-hypesquad-events.com
 new-forms-hypesquad.com
 new-forms-hypesquadevent.com
 new-give.com
@@ -6375,6 +6377,7 @@ registeracademymoderator.com
 registerdiscord-academy.com
 registermoderator.com
 registermoderatoracademy.com
+registers-moderator-academy.com
 registry-hypesquad.com
 registry-moderator.com
 regnitro.net.ru
@@ -6387,6 +6390,7 @@ renew-academy-moderators.com
 renew-academy.com
 renew-forms-academy.com
 renew-hypesquad-events.com
+renew-moderator-academy.com
 renew-moderators-academy.com
 renew-moderators.com
 renew-verify-moderator.com
@@ -6714,6 +6718,7 @@ signup-moderadors-academy.com
 signup-moderation.com
 signup-moderationdiscord.com
 signup-moderator-exam.com
+signup-moderator-teams.com
 signup-moderator.com
 signup-moderatordiscord.com
 signup-moderatorformdiscord.com
@@ -10846,6 +10851,7 @@ udmoney.club
 uii.io
 uirusu.jp
 um-bredirect.com
+umbreallajump.com
 umbrellajump.xyz
 up-discord.com
 up-discord.ru

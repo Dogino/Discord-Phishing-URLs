@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 12 Mar 2022, 17:25 UTC+01
+# Last modified: Sun, 13 Mar 2022, 15:23 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -475,6 +475,7 @@
 0.0.0.0 ceters.net
 0.0.0.0 cfxxfwzx.com
 0.0.0.0 cgdc.ct8.pl
+0.0.0.0 cgnitro.com
 0.0.0.0 checkingnotifications.org
 0.0.0.0 checkmatediscord.club
 0.0.0.0 checkup08.biz
@@ -5765,6 +5766,7 @@
 0.0.0.0 new-collects.xyz
 0.0.0.0 new-drop.net.ru
 0.0.0.0 new-form-hypesquad.com
+0.0.0.0 new-forms-hypesquad-events.com
 0.0.0.0 new-forms-hypesquad.com
 0.0.0.0 new-forms-hypesquadevent.com
 0.0.0.0 new-give.com
@@ -6379,6 +6381,7 @@
 0.0.0.0 registerdiscord-academy.com
 0.0.0.0 registermoderator.com
 0.0.0.0 registermoderatoracademy.com
+0.0.0.0 registers-moderator-academy.com
 0.0.0.0 registry-hypesquad.com
 0.0.0.0 registry-moderator.com
 0.0.0.0 regnitro.net.ru
@@ -6391,6 +6394,7 @@
 0.0.0.0 renew-academy.com
 0.0.0.0 renew-forms-academy.com
 0.0.0.0 renew-hypesquad-events.com
+0.0.0.0 renew-moderator-academy.com
 0.0.0.0 renew-moderators-academy.com
 0.0.0.0 renew-moderators.com
 0.0.0.0 renew-verify-moderator.com
@@ -6718,6 +6722,7 @@
 0.0.0.0 signup-moderation.com
 0.0.0.0 signup-moderationdiscord.com
 0.0.0.0 signup-moderator-exam.com
+0.0.0.0 signup-moderator-teams.com
 0.0.0.0 signup-moderator.com
 0.0.0.0 signup-moderatordiscord.com
 0.0.0.0 signup-moderatorformdiscord.com
@@ -10850,6 +10855,7 @@
 0.0.0.0 uii.io
 0.0.0.0 uirusu.jp
 0.0.0.0 um-bredirect.com
+0.0.0.0 umbreallajump.com
 0.0.0.0 umbrellajump.xyz
 0.0.0.0 up-discord.com
 0.0.0.0 up-discord.ru
