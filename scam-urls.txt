@@ -1434,6 +1434,7 @@ discord-event.fun
 discord-event.info
 discord-events-hypesquad.com
 discord-events-moderators.com
+discord-events-register.com
 discord-events.com
 discord-events.info
 discord-events.tk
@@ -1698,6 +1699,7 @@ discord-ivent.com
 discord-job.com
 discord-jobs.com
 discord-jobvote.com
+discord-join-events.com
 discord-join-hypesquad.com
 discord-join.com
 discord-joinmoderator.com
@@ -5070,6 +5072,7 @@ join-developersteam.com
 join-developerteam.academy
 join-discord-events.com
 join-discord-moderator.com
+join-discord-partner.com
 join-discord.com
 join-discordevents.com
 join-events-hypesquads.com
@@ -5444,6 +5447,7 @@ moderation-hypesquadevents.com
 moderation-joining.com
 moderation-login.com
 moderation-prepare.com
+moderation-program.com
 moderation-request.com
 moderation-signup.com
 moderation-support.com
@@ -5502,6 +5506,7 @@ moderator-discord.tk
 moderator-discords.com
 moderator-enter.com
 moderator-events-hypesquad.com
+moderator-exam-academy.com
 moderator-exam-academy.today
 moderator-exam.academy
 moderator-exam.center
@@ -6390,6 +6395,7 @@ register-moderatordiscord.com
 register-moderators-academy.com
 register-moderators.com
 register-new-hypesquad-events.com
+register-new-moderators-events.com
 register-program-hypesquad.com
 register.hypesquad-event.info
 registeracademy.repl.co
@@ -6434,6 +6440,7 @@ returns-eventhypesquad.com
 returns-events-hypesquad.com
 returns-eventshypesquad.com
 returns-eventshypsquad.com
+returns-formulary-moderator-events.com
 returns-hypesquad-events.com
 returns-hypesquad.com
 returns-hypesquads.com
@@ -8991,6 +8998,8 @@ steampiwered.com
 steamplayhistory.xyz
 steampoeer.com
 steampoeerd.com
+steampoeered.com
+steampoerd.com
 steampoewred.com
 steampoiwered.com
 steampoowered.com
@@ -9070,6 +9079,7 @@ steampowerwd.com
 steampowerwed.com
 steampowoereid.com
 steampowored.com
+steampowr.com
 steampowrd.com
 steampowred.ru
 steampowwered.com
@@ -9084,6 +9094,7 @@ steampromo.net.ru
 steampromote.com
 steamprowered.ru
 steamproxy.net
+steampunk-sec.com
 steampunkpalace.com
 steampuwered.com
 steampwered.com
@@ -9818,6 +9829,7 @@ steellseriesnitros.com
 steellsseriesgifts.com
 steellsseriespromotion.com
 steellsseriespromotions.com
+steelseriea.com
 steelseries-discord-nitro.com
 steelseriesgift.com
 steelseriesgifts.com
@@ -10855,6 +10867,7 @@ trustpool.xyz
 tsyewc.com
 ttr-discord.com
 ttr-discord.ru.com
+tumblerdiscord.com
 turboadblocker.com
 turbodlscord.com
 turibius-hra.com

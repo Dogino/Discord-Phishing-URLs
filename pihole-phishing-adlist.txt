@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 14 Mar 2022, 02:31 UTC+01
+# Last modified: Mon, 14 Mar 2022, 14:02 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1438,6 +1438,7 @@
 0.0.0.0 discord-event.info
 0.0.0.0 discord-events-hypesquad.com
 0.0.0.0 discord-events-moderators.com
+0.0.0.0 discord-events-register.com
 0.0.0.0 discord-events.com
 0.0.0.0 discord-events.info
 0.0.0.0 discord-events.tk
@@ -1702,6 +1703,7 @@
 0.0.0.0 discord-job.com
 0.0.0.0 discord-jobs.com
 0.0.0.0 discord-jobvote.com
+0.0.0.0 discord-join-events.com
 0.0.0.0 discord-join-hypesquad.com
 0.0.0.0 discord-join.com
 0.0.0.0 discord-joinmoderator.com
@@ -5074,6 +5076,7 @@
 0.0.0.0 join-developerteam.academy
 0.0.0.0 join-discord-events.com
 0.0.0.0 join-discord-moderator.com
+0.0.0.0 join-discord-partner.com
 0.0.0.0 join-discord.com
 0.0.0.0 join-discordevents.com
 0.0.0.0 join-events-hypesquads.com
@@ -5448,6 +5451,7 @@
 0.0.0.0 moderation-joining.com
 0.0.0.0 moderation-login.com
 0.0.0.0 moderation-prepare.com
+0.0.0.0 moderation-program.com
 0.0.0.0 moderation-request.com
 0.0.0.0 moderation-signup.com
 0.0.0.0 moderation-support.com
@@ -5506,6 +5510,7 @@
 0.0.0.0 moderator-discords.com
 0.0.0.0 moderator-enter.com
 0.0.0.0 moderator-events-hypesquad.com
+0.0.0.0 moderator-exam-academy.com
 0.0.0.0 moderator-exam-academy.today
 0.0.0.0 moderator-exam.academy
 0.0.0.0 moderator-exam.center
@@ -6394,6 +6399,7 @@
 0.0.0.0 register-moderators-academy.com
 0.0.0.0 register-moderators.com
 0.0.0.0 register-new-hypesquad-events.com
+0.0.0.0 register-new-moderators-events.com
 0.0.0.0 register-program-hypesquad.com
 0.0.0.0 register.hypesquad-event.info
 0.0.0.0 registeracademy.repl.co
@@ -6438,6 +6444,7 @@
 0.0.0.0 returns-events-hypesquad.com
 0.0.0.0 returns-eventshypesquad.com
 0.0.0.0 returns-eventshypsquad.com
+0.0.0.0 returns-formulary-moderator-events.com
 0.0.0.0 returns-hypesquad-events.com
 0.0.0.0 returns-hypesquad.com
 0.0.0.0 returns-hypesquads.com
@@ -8995,6 +9002,8 @@
 0.0.0.0 steamplayhistory.xyz
 0.0.0.0 steampoeer.com
 0.0.0.0 steampoeerd.com
+0.0.0.0 steampoeered.com
+0.0.0.0 steampoerd.com
 0.0.0.0 steampoewred.com
 0.0.0.0 steampoiwered.com
 0.0.0.0 steampoowered.com
@@ -9074,6 +9083,7 @@
 0.0.0.0 steampowerwed.com
 0.0.0.0 steampowoereid.com
 0.0.0.0 steampowored.com
+0.0.0.0 steampowr.com
 0.0.0.0 steampowrd.com
 0.0.0.0 steampowred.ru
 0.0.0.0 steampowwered.com
@@ -9088,6 +9098,7 @@
 0.0.0.0 steampromote.com
 0.0.0.0 steamprowered.ru
 0.0.0.0 steamproxy.net
+0.0.0.0 steampunk-sec.com
 0.0.0.0 steampunkpalace.com
 0.0.0.0 steampuwered.com
 0.0.0.0 steampwered.com
@@ -9822,6 +9833,7 @@
 0.0.0.0 steellsseriesgifts.com
 0.0.0.0 steellsseriespromotion.com
 0.0.0.0 steellsseriespromotions.com
+0.0.0.0 steelseriea.com
 0.0.0.0 steelseries-discord-nitro.com
 0.0.0.0 steelseriesgift.com
 0.0.0.0 steelseriesgifts.com
@@ -10859,6 +10871,7 @@
 0.0.0.0 tsyewc.com
 0.0.0.0 ttr-discord.com
 0.0.0.0 ttr-discord.ru.com
+0.0.0.0 tumblerdiscord.com
 0.0.0.0 turboadblocker.com
 0.0.0.0 turbodlscord.com
 0.0.0.0 turibius-hra.com
