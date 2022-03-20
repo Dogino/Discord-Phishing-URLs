@@ -477,6 +477,7 @@ centralheat.me
 centralheat.net
 certificate-hypesquad-apply.com
 certificate-hypesquad-team.com
+certificate-hypesquad.com
 certified-exam-academy-mod.com
 certified-moderating.com
 certifiedget-moderating.com
@@ -601,6 +602,7 @@ connect-new-hypesquad.com
 connect-new-moderators.com
 connect-new-moderetors-forms.com
 connect-partner.com
+connect-testers-moderetors.com
 connect-to-discord-moderators.com
 connect-to-hypesquad.com
 connect-to-moderators-academy.com
