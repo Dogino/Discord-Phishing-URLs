@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 20 Mar 2022, 20:32 UTC+01
+# Last modified: Mon, 21 Mar 2022, 13:58 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2797,6 +2797,7 @@
 0.0.0.0 discordmoderatorinvite.com
 0.0.0.0 discordmoderators-academy.com
 0.0.0.0 discordmoderators-club.com
+0.0.0.0 discordmoderators-team.com
 0.0.0.0 discordmoderators.com
 0.0.0.0 discordmoderattor.com
 0.0.0.0 discordmods-academy.com
@@ -3518,6 +3519,7 @@
 0.0.0.0 dissord.ru
 0.0.0.0 dissordnittro.com
 0.0.0.0 dissqrdapp.com
+0.0.0.0 distatistics.com
 0.0.0.0 disuord.gift
 0.0.0.0 disuscord.site
 0.0.0.0 disuscord.xyz
@@ -4657,6 +4659,7 @@
 0.0.0.0 go-hypesquad-events.com
 0.0.0.0 go-hypesquadevents-invite.com
 0.0.0.0 go-moderation-exam.com
+0.0.0.0 go-moderation.com
 0.0.0.0 go.pardot.com
 0.0.0.0 goads.pro
 0.0.0.0 goaffmy.com
@@ -5304,6 +5307,7 @@
 0.0.0.0 ldlscord.com
 0.0.0.0 ldlscordapp.com
 0.0.0.0 leancoding.co
+0.0.0.0 lecoindiscord.site
 0.0.0.0 lef23671.justinstalledpanel.com
 0.0.0.0 legit-drop.ru
 0.0.0.0 legiting-drop.ru
@@ -5401,6 +5405,7 @@
 0.0.0.0 m90694rb.beget.tech
 0.0.0.0 macotuqa.xyz
 0.0.0.0 mactep.org
+0.0.0.0 madiscord.com
 0.0.0.0 maggicdrop.xyz
 0.0.0.0 magic-delfy.net.ru
 0.0.0.0 magic4you.nu
@@ -5529,6 +5534,7 @@
 0.0.0.0 moderation-academy-form.com
 0.0.0.0 moderation-academy-signup.com
 0.0.0.0 moderation-academy.net
+0.0.0.0 moderation-academy.xyz
 0.0.0.0 moderation-application.com
 0.0.0.0 moderation-apply.com
 0.0.0.0 moderation-arrive.com
