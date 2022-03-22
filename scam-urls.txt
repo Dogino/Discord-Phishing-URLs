@@ -199,6 +199,7 @@ application-moderator.com
 application-moderatoracademy.com
 application-moderators.com
 application-recruitment.com
+application-the-discord.com
 applicationmoderatoracademy.com
 applications-discord.com
 applications-hypesquad.com
@@ -276,6 +277,7 @@ astralisgift.fun
 astrallis.net.ru
 astresports.xyz
 ataribtc.com
+atdiscord.com
 atnpx.com
 atzekromchan.com
 aucryptohubs.com
@@ -471,6 +473,7 @@ certificate-hypesquad.com
 certificationexams-academymod.com
 certified-exam-academy-mod.com
 certified-moderating.com
+certified-moderatingexam.com
 certified-moderator-academy.com
 certifiedget-moderating.com
 certifiedmoderating-exam.com
@@ -1773,6 +1776,7 @@ discord-moderation-test.com
 discord-moderation.com
 discord-moderation.info
 discord-moderation.org
+discord-moderationacademy.com
 discord-moderationhype.com
 discord-moderations.com
 discord-moderator-academy-apply.com
@@ -1799,6 +1803,7 @@ discord-moderator.com
 discord-moderator.info
 discord-moderator.tk
 discord-moderator.us
+discord-moderator.xyz
 discord-moderatoracademy.com
 discord-moderatorapply.com
 discord-moderatorexam.com
@@ -2194,6 +2199,7 @@ discord.so
 discord.soy
 discord.space
 discord.study
+discord.taxi
 discord.team
 discord.tv
 discord.tw
@@ -2207,6 +2213,7 @@ discord.voto
 discord.win
 discord.wine
 discord.world
+discord00.com
 discord1-nitr0.xyz
 discord101.com
 discord2022.com
@@ -2382,6 +2389,7 @@ discordchannels7.xyz
 discordchannels8.xyz
 discordchannels9.xyz
 discordcharity.org
+discordchatdjp.com
 discordcheats.net
 discordchristmas.com
 discordchristmas.gifts
@@ -2876,6 +2884,7 @@ discordnitrogift.ru
 discordnitrogift.site
 discordnitrogift.space
 discordnitrogifting.autos
+discordnitrogifting.xyz
 discordnitrogifts.com
 discordnitrogifts.ml
 discordnitrogifts.net
@@ -4139,6 +4148,7 @@ esportsgvay.xyz
 espots-csgo.xyz
 euphe-gun.com
 event-discord.com
+event-hypesquad-invite.com
 event-hypesquad.com
 event-hypesquads.com
 event-moderator-academy.com
@@ -4183,9 +4193,11 @@ exam-moderators.academy
 exam-moderators.com
 exam-security-bugbounty.com
 exam-test-moderator.com
+exam-validate.com
 examcertificate-hypesquad-events.com
 examcertificate-hypesquad.com
 examcertificate-modacademy.com
+examcertifieds-moderatoring.school
 examcetificate-modacademy.com
 examination-academy-moderate.com
 exiblock.com
@@ -4281,6 +4293,7 @@ form-for-hypesquadevents.com
 form-hype.com
 form-hypesquad-academy-events.com
 form-hypesquad-events.com
+form-hypesquad-events.info
 form-hypesquad-exam.xyz
 form-hypesquad-team.com
 form-hypesquad.com
@@ -4291,6 +4304,7 @@ form-hypesquadevents.com
 form-hypesquadeventss.com
 form-mod-academy.com
 form-moderador-go.com
+form-moderation-academy.com
 form-moderationacademy.com
 form-moderator-academy.com
 form-moderator-event.com
@@ -4309,6 +4323,7 @@ formhypesquadevents.com
 forms-academy-moderator.com
 forms-academymod.com
 forms-discord.com
+forms-events-moderator.com
 forms-hypes-squad.com
 forms-hypesquad-events.com
 forms-hypesquad.com
@@ -4369,6 +4384,7 @@ formulary-signup.com
 formulary-teamhypesquad.com
 formulary-teammoderator.com
 formulary-testers-mod.com
+formulary-to-connect-moderetors.com
 formularyhypesquad.com
 formularyhypesquadevents.com
 formularymoderator-team.com
@@ -4792,6 +4808,7 @@ hypeevents-program.com
 hypeevents-programs.com
 hyper-tournament.xyz
 hypersquad-event.online
+hypersquad-official-academy.com
 hypersquads-events.com
 hyperwage.com
 hyperz.monster
@@ -4944,6 +4961,7 @@ hypesquadapp.com
 hypesquadapplication-submit.com
 hypesquadapplication.com
 hypesquadapplications.cf
+hypesquadapplications.xyz
 hypesquadbadge.com
 hypesquadcelebrations.com
 hypesquadcelebrationsrequest.com
@@ -5094,11 +5112,14 @@ invite-academy-moderator.com
 invite-bughunter.com
 invite-formulary-hypesquadevents-app.com
 invite-formulary-hypesquadevents.com
+invite-hype-squadevents.com
 invite-hypes-quad-events.com
 invite-hypesquad-academy.com
 invite-hypesquad-event.com
 invite-hypesquad-events.com
+invite-hypesquad-exam.com
 invite-hypesquad-new.com
+invite-hypesquad-programs.com
 invite-hypesquad.com
 invite-moderation-discord.com
 invite-moderator-academy.com
@@ -5199,6 +5220,7 @@ join-hypesquadeventss.com
 join-hypesquads.com
 join-hypesquadteam.com
 join-hypesquadteams.com
+join-in-formulary-hypesquadevents.com
 join-in-the-hypesquad-events.com
 join-mod-academy.com
 join-mod.com
@@ -5224,6 +5246,7 @@ join-program-hypesquad.com
 join-teamhypesquad.com
 join-teammoderator.com
 join-test-moderator.com
+join-the-discord.com
 join-the-hypesquad-discord.com
 join-the-hypesquadevents-discord.com
 join-the-hypesquadevents.com
@@ -5572,6 +5595,7 @@ moderation-recruitment.com
 moderation-request.com
 moderation-school.com
 moderation-signup.com
+moderation-subscription.com
 moderation-support.com
 moderation-supporter.com
 moderation-team-exam.com
@@ -5579,6 +5603,7 @@ moderation-team-form.com
 moderation-tester.com
 moderationacademy-exams.com
 moderationprogram.com
+moderations-exams.xyz
 moderations-school.com
 moderations-sup.com
 moderations-supporter.com
@@ -5735,6 +5760,7 @@ moderators-academy-events.com
 moderators-academy-examy.com
 moderators-academy-form.com
 moderators-academy-forms.com
+moderators-academy-formulary.com
 moderators-academy-hype-events.com
 moderators-academy-invite.com
 moderators-academy-join.com
@@ -6332,6 +6358,7 @@ prajyoth.me
 praterage-colled.com
 pravpost.org.ua
 prefix.net.ru
+preimumgift-ds.com
 premium-discord.com
 premium-discords.com
 premium-egift.com
@@ -6523,6 +6550,7 @@ register-formulary-moderator-academy.org
 register-formulary-moderator.com
 register-formulary.com
 register-from-moderator.com
+register-hypeevents-program.com
 register-hypesquad-academy.com
 register-hypesquad-event.com
 register-hypesquad-formulary.com
@@ -6533,6 +6561,7 @@ register-hypesquadevents-team.com
 register-hypesquadevents.com
 register-hypesquadeventss.com
 register-modacademy.com
+register-moderation-event.com
 register-moderation.com
 register-moderator-academy-formulary.com
 register-moderator-academy.com
@@ -6549,6 +6578,7 @@ register-new-moderators-events.com
 register-program-hypesquad.com
 register-programs-hypesquad.com
 register-signup-hypesquad.com
+register-the-discord.com
 register-to-moderators-academy.com
 register-to-new-moderators-academ.com
 register-to-new-moderators-academy.com
@@ -6558,6 +6588,7 @@ registerdiscord-academy.com
 registermoderator.com
 registermoderatoracademy.com
 registers-moderator-academy.com
+registers-the-discord.com
 registry-hypesquad.com
 registry-moderator.com
 regnitro.net.ru
@@ -6889,6 +6920,7 @@ signup-formulary-hypesquad-events.com
 signup-formulary-hypesquadevents.com
 signup-formulary-moderator-academy.com
 signup-formulary.com
+signup-hype-squad.com
 signup-hypeevents-programs.com
 signup-hypeevents.com
 signup-hypesquad-event.com
@@ -8943,6 +8975,7 @@ steamcummunityy.pp.ua
 steamcummunnity.com
 steamcumumunity.com.ru
 steamcwanmei.ru
+steamdeckbase.com
 steamdeckclub.com
 steamdeckcustoms.com
 steamdeckdock.com
@@ -10866,6 +10899,7 @@ subscribe-hypesquad.com
 subscribe-hypesquadevents.com
 subscribe-hypesquads.com
 subscribe-moderators.com
+subscribe-the-discord.com
 subscribersteam.com
 subscription-academy.com
 subscription-discord-developers.com
