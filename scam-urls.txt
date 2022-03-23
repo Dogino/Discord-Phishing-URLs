@@ -177,6 +177,8 @@ apidevelopers-intent.com
 apilond.com
 aplication-hypesquad.com
 aplicationsdiscord.com
+aplly-examhypesquad.com
+apllyexamhypesquad.com
 app-dicsord.ru
 app-discord.com
 app-discord.net
@@ -532,6 +534,7 @@ clubdlsscord-app.club
 clubhousediscord.com
 clubmoderating-examacademy.com
 clubmoderating-examinator.com
+clubmoderating-examinators.com
 clubs-moderators.com
 cngcpy.com
 cod3r0bux.pw
@@ -4305,6 +4308,7 @@ form-hypesquadeventss.com
 form-mod-academy.com
 form-moderador-go.com
 form-moderation-academy.com
+form-moderation-event.com
 form-moderationacademy.com
 form-moderator-academy.com
 form-moderator-event.com
@@ -4891,6 +4895,7 @@ hypesquad-join.xyz
 hypesquad-joinevent.com
 hypesquad-login.com
 hypesquad-mod.com
+hypesquad-modeation.com
 hypesquad-moderation-events.com
 hypesquad-moderation.com
 hypesquad-moderator.academy
@@ -5110,6 +5115,7 @@ invite-academy-dc.org
 invite-academy-events.com
 invite-academy-moderator.com
 invite-bughunter.com
+invite-form-events-hype-squad.com
 invite-formulary-hypesquadevents-app.com
 invite-formulary-hypesquadevents.com
 invite-hype-squadevents.com
@@ -5265,6 +5271,7 @@ joinhypesquadevents.com
 joinhypesquadeventss.com
 joinhypesquadteamforms.com
 joinmoderator.com
+joinmoderatoracademy-signup.com
 joinmoderatoracademy.com
 joinmoderators.com
 joinmy.site
@@ -5602,6 +5609,7 @@ moderation-team-exam.com
 moderation-team-form.com
 moderation-tester.com
 moderationacademy-exams.com
+moderationhypesquad-exam.com
 moderationprogram.com
 moderations-exams.xyz
 moderations-school.com
@@ -6587,6 +6595,7 @@ registeracademymoderator.com
 registerdiscord-academy.com
 registermoderator.com
 registermoderatoracademy.com
+registers-hypesquad-events.com
 registers-moderator-academy.com
 registers-the-discord.com
 registry-hypesquad.com
@@ -6943,6 +6952,7 @@ signup-moderationdiscord.com
 signup-moderator-exam.com
 signup-moderator-teams.com
 signup-moderator.com
+signup-moderatoracademyjoin.com
 signup-moderatordiscord.com
 signup-moderatorformdiscord.com
 signup-moderatorforms.com
@@ -11150,6 +11160,7 @@ verify-moderator.com
 verify-moderators-discord.com
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
+verifydiscordserver.xyz
 verifytool.xyz
 vertmaxbit.com
 vfgrse.com
