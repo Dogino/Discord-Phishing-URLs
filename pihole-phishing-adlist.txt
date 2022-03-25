@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 25 Mar 2022, 00:32 UTC+01
+# Last modified: Fri, 25 Mar 2022, 18:49 UTC+01
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -472,6 +472,7 @@
 0.0.0.0 ceesty.com
 0.0.0.0 centralheat.me
 0.0.0.0 centralheat.net
+0.0.0.0 ceritificate-hypesquad-formulary.com
 0.0.0.0 certificate-hypesquad-apply.com
 0.0.0.0 certificate-hypesquad-club.com
 0.0.0.0 certificate-hypesquad-team.com
@@ -5617,6 +5618,7 @@
 0.0.0.0 moderation-discord.com
 0.0.0.0 moderation-exam.com
 0.0.0.0 moderation-exams.com
+0.0.0.0 moderation-exams.xyz
 0.0.0.0 moderation-forms-academy.com
 0.0.0.0 moderation-give.com
 0.0.0.0 moderation-guide.com
@@ -5853,6 +5855,7 @@
 0.0.0.0 moderators-recruitments-academy.com
 0.0.0.0 moderators-register.com
 0.0.0.0 moderators-requeriments.com
+0.0.0.0 moderators-requests.com
 0.0.0.0 moderators-requiriments.com
 0.0.0.0 moderators-school.com
 0.0.0.0 moderators-signup.com
@@ -8253,6 +8256,7 @@
 0.0.0.0 steamcommunitygames.com
 0.0.0.0 steamcommunitygifts.xyz
 0.0.0.0 steamcommunitygifts1.xyz
+0.0.0.0 steamcommunityh.com
 0.0.0.0 steamcommunityi.com
 0.0.0.0 steamcommunityi.ru
 0.0.0.0 steamcommunityi.ru.com
@@ -9454,6 +9458,7 @@
 0.0.0.0 steamuserimages-a.akamaid.net
 0.0.0.0 steamvar.com
 0.0.0.0 steamvcommunity.xyz
+0.0.0.0 steamwallet.store
 0.0.0.0 steamwalletbd.com
 0.0.0.0 steamwalletcodes.net
 0.0.0.0 steamwanmeijc.ru
