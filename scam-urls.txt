@@ -133,6 +133,7 @@ adverdirect.com
 aff2021.com
 affix-cup.click
 affix-cup.link
+airdrop-discord-nitro.xyz
 airdrop-discord.com
 airdrop-discord.online
 airdrop-discord.ru
@@ -1802,6 +1803,7 @@ discord-moderador.com
 discord-moderate-academy.com
 discord-moderation-academy.com
 discord-moderation-exam.com
+discord-moderation-formulary.com
 discord-moderation-test.com
 discord-moderation.com
 discord-moderation.info
@@ -3117,6 +3119,7 @@ discordsapplication.info
 discordsapplication.us
 discordsatus.com
 discordscan.com
+discordscaner.com
 discordscrapers.xyz
 discordscreenshot.com
 discordsearch.co
@@ -5306,6 +5309,7 @@ join-hypesquads.com
 join-hypesquadsevents-new.com
 join-hypesquadteam.com
 join-hypesquadteams.com
+join-in-discord.com
 join-in-formulary-hypesquadevents.com
 join-in-the-hypesquad-events.com
 join-mod-academy.com
@@ -5657,6 +5661,7 @@ moderate-program.com
 moderatedegenerate.com
 moderatedtesting.com
 moderatepartycanada.com
+moderatin-school-formulary.club
 moderating-academy.com
 moderating-certified-exam.com
 moderating-certified.academy
@@ -5678,6 +5683,7 @@ moderation-academy.net
 moderation-academy.xyz
 moderation-application-club.com
 moderation-application.com
+moderation-application.info
 moderation-apply.com
 moderation-arrive.com
 moderation-discord.com
@@ -5686,6 +5692,7 @@ moderation-exams.com
 moderation-exams.xyz
 moderation-forms-academy.com
 moderation-formulary-academy.com
+moderation-formulary.com
 moderation-give.com
 moderation-guide.com
 moderation-hypesquad-discord.com
@@ -6404,6 +6411,7 @@ order-96.com
 ordgift.ga
 ordinaryluckrewardextra.club
 organization-discord.com
+osrs-discord-bot.com
 ouo.io
 ourhypewords.com
 ournewsafte.biz
@@ -11156,6 +11164,8 @@ themekaversed.org
 themekaverses.org
 themoderator-register.com
 themoderator-signup.com
+themoderators-join.com
+themoderators-signup.com
 theserbit.com
 theshoparound.com
 thesilkradiance.com
