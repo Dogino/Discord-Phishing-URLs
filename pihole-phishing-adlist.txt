@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 30 Mar 2022, 17:44 UTC+02
+# Last modified: Thu, 31 Mar 2022, 14:05 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -137,6 +137,7 @@
 0.0.0.0 aff2021.com
 0.0.0.0 affix-cup.click
 0.0.0.0 affix-cup.link
+0.0.0.0 airdrop-discord-nitro.com
 0.0.0.0 airdrop-discord-nitro.xyz
 0.0.0.0 airdrop-discord.com
 0.0.0.0 airdrop-discord.online
@@ -796,6 +797,7 @@
 0.0.0.0 dcmoderatorsquad.com
 0.0.0.0 dcmoderatorteam.com
 0.0.0.0 dcoda.net
+0.0.0.0 ddiscor.com
 0.0.0.0 ddiscord.com
 0.0.0.0 de-spushtan-genehmigung-2.xyz
 0.0.0.0 deadisidddde.xyz
@@ -1521,6 +1523,7 @@
 0.0.0.0 discord-extension.best
 0.0.0.0 discord-faq.com
 0.0.0.0 discord-fill.com
+0.0.0.0 discord-form-hypesquad.com
 0.0.0.0 discord-form.com
 0.0.0.0 discord-formhypesquad.com
 0.0.0.0 discord-formmoderator.com
@@ -2280,6 +2283,7 @@
 0.0.0.0 discordadpp.com
 0.0.0.0 discordadvertising.shop
 0.0.0.0 discordaepp.com
+0.0.0.0 discordagp.com
 0.0.0.0 discordairdrop.com
 0.0.0.0 discordanddintheatre.com
 0.0.0.0 discordant.uk
@@ -5094,6 +5098,7 @@
 0.0.0.0 hypesquadeventsrequest.com
 0.0.0.0 hypesquadeventsreturns.com
 0.0.0.0 hypesquadeventss-signup.com
+0.0.0.0 hypesquadeventsteam.com
 0.0.0.0 hypesquadexam.com
 0.0.0.0 hypesquadform.com
 0.0.0.0 hypesquadforms.com
@@ -6509,6 +6514,7 @@
 0.0.0.0 privatesinglesmeet.com
 0.0.0.0 privatewinners.com
 0.0.0.0 prizesworldcenter.com
+0.0.0.0 professionalhypesquad.com
 0.0.0.0 profi-para.com
 0.0.0.0 profile-442572242.online
 0.0.0.0 profiles-76582109509.me
@@ -9136,6 +9142,7 @@
 0.0.0.0 steamdeesk.com
 0.0.0.0 steamdesksupport.com
 0.0.0.0 steamdetailingrva.com
+0.0.0.0 steamdib.info
 0.0.0.0 steamdiscord.com
 0.0.0.0 steamdiscord.ru
 0.0.0.0 steamdiscorda.com
