@@ -702,6 +702,7 @@ csgift.fun
 csgo-battle.ru
 csgo-cyber.link
 csgo-dym.ru
+csgo-freeskins.com
 csgo-fute.net.ru
 csgo-game-steam.ru
 csgo-gamesteam.ru
@@ -887,6 +888,8 @@ dicsord-airdrop.com
 dicsord-airdrop.ru
 dicsord-airdrop.ru.com
 dicsord-app.com
+dicsord-egift.com
+dicsord-egifts.com
 dicsord-get.xyz
 dicsord-gift.com
 dicsord-gift.ru
@@ -1043,6 +1046,7 @@ dircsod.gift
 dirolzz.xyz
 dirscod.com
 dirscod.gift
+dirscodapp.com
 dirscord-gift.ru
 dirscordapp.com
 dirtyteenagers.com
@@ -1149,6 +1153,7 @@ discoapps.media
 discoard.com
 discobd.com
 discobros.net
+discocd-nitra.com
 discocd-nitro.com
 discocd.com
 discocd.ru
@@ -1646,6 +1651,7 @@ discord-giftes.ru
 discord-giftes.xyz
 discord-gifting.xyz
 discord-giftle.ru
+discord-gifts-steam.online
 discord-gifts.click
 discord-gifts.com
 discord-gifts.com.ru
@@ -1932,6 +1938,7 @@ discord-nit.ru
 discord-nitr.xyz
 discord-nitr0gift.fun
 discord-nitra.com
+discord-nitra.ru
 discord-nitre.xyz
 discord-nitro-best.com
 discord-nitro-best.xyz
@@ -2028,6 +2035,7 @@ discord-plays.xyz
 discord-plus.com
 discord-plus.ru
 discord-premium.com
+discord-premium.site
 discord-present.ru
 discord-presents.ru
 discord-pro.com
@@ -2572,6 +2580,7 @@ discordf-steam.com
 discordf.com
 discordf.gift
 discordfarsi.tk
+discordfast.com
 discordfgift.ru.com
 discordforcreators.com
 discordform-hypesquad.com
@@ -2826,6 +2835,7 @@ discordia.ee
 discordia.ga
 discordiaevents.com
 discordian.app
+discordianzen.com
 discordiapp.fun
 discordiasbox.com
 discordiastore.com
@@ -2995,6 +3005,7 @@ discordnitrogifts.pl
 discordnitroi.com
 discordnitrolink.tk
 discordnitroo.com
+discordnitroo.site
 discordnitroos.com
 discordnitropromo.site
 discordnitros.cf
@@ -3295,6 +3306,8 @@ discordts-nitro.xyz
 discordtts.com
 discordturkiye.com
 discordtw.com
+discordtwitch.online
+discordtwitch.website
 discordu.gift
 discordua.ga
 discordunblocked.com
@@ -3640,6 +3653,7 @@ disrcod.gifts
 disrcord.com
 disrordapp.com
 disscorcl-app.com
+disscorcl-nitro.site
 disscord-gifts.com
 disscord-nitro.com
 disscord-nitro.xyz
@@ -4073,6 +4087,7 @@ dlscordnltro.ru
 dlscordnltros.com
 dlscordpromo.com
 dlscordrglft.xyz
+dlscords-gg.com
 dlscords-gifts.com
 dlscords-glft.com
 dlscords-glfts.site
@@ -4120,6 +4135,7 @@ dlscrod-gift.com
 dlscrod-gift.xyz
 dlscrod-go.com
 dlscrod-nitro.ru
+dlscrod-nitro.shop
 dlscrod.gifts
 dlscrod.ru.com
 dlscrod.site
@@ -4328,6 +4344,7 @@ eventsteam-discord.com
 everpg.online
 ewaveleague.com
 ewqdsa.xyz
+ex-drops.org.ru
 exaltedbot.xyz
 exam-academy-moderator.com
 exam-certified-moderator.com
@@ -4855,6 +4872,7 @@ glft-discord.com
 glft-discord.ru
 glft-dlscord.ru
 glft-dlscors.ru.com
+glft-nitro.xyz
 glft.space
 glob21.online
 global-dates-here.com
@@ -5098,6 +5116,7 @@ hypesquad-mod.com
 hypesquad-modeation.com
 hypesquad-moderation-events.com
 hypesquad-moderation.com
+hypesquad-moderation.xyz
 hypesquad-moderator.academy
 hypesquad-moderator.com
 hypesquad-moderatoracademy.com
@@ -5245,6 +5264,7 @@ hypesquadreturn.com
 hypesquadreturns-form.com
 hypesquadreturns.com
 hypesquads-academy.com
+hypesquads-apply.com
 hypesquads-events.academy
 hypesquads-events.com
 hypesquads.ga
@@ -5343,6 +5363,7 @@ invite-hypesquad-event.com
 invite-hypesquad-events-now.com
 invite-hypesquad-events.com
 invite-hypesquad-exam.com
+invite-hypesquad-join.com
 invite-hypesquad-new.com
 invite-hypesquad-now.com
 invite-hypesquad-program.com
@@ -5814,6 +5835,7 @@ moderatedegenerate.com
 moderatedtesting.com
 moderatepartycanada.com
 moderatin-school-formulary.club
+moderating-academy-formulary.com
 moderating-academy.com
 moderating-certified-exam.com
 moderating-certified.academy
@@ -6122,6 +6144,7 @@ moderatorteamsignup.com
 moderatortest.com
 moderatortests.com
 moderatortestsacademy.com
+moderetors-testers-renew-forms.com
 modesacademy.com
 modexam-academy.com
 modexam.academy
@@ -6219,6 +6242,7 @@ navicsgo.ru
 navifreeskins.ru
 navigg.org.ru
 navigg.ru
+navigo.net.ru
 navileague.xyz
 navination.site
 navirolls.org.ru
@@ -6249,6 +6273,7 @@ new-forms-hypesquad-events.com
 new-forms-hypesquad.com
 new-forms-hypesquadevent.com
 new-give.com
+new-hypesquad-events.com
 new-hypesquad-form.com
 new-hypesquad-forms.com
 new-hypesquad-join.com
@@ -6663,6 +6688,7 @@ prefix.net.ru
 preimumgift-ds.com
 premium-discord.com
 premium-discords.com
+premium-ds.com
 premium-egift.com
 premium-egifts.com
 premium-gives.com
@@ -7014,6 +7040,7 @@ roblox.com.hr
 roblox.com.ht
 roblox.com.mk
 roblox.com.ms
+roblox.com.mu
 roblox.com.so
 roblox.com.tl
 roblox.cx
@@ -7029,6 +7056,7 @@ robloxpasssword.com
 robloxromania.com
 robloxs.land
 robloxsecure.com
+robloxshop.online
 robloxstore.co.uk
 robloxstudiomobile.com
 robloxsummer.com
@@ -7243,6 +7271,7 @@ signup-hypeevents.com
 signup-hypesquad-event.com
 signup-hypesquad-form.com
 signup-hypesquad-program.com
+signup-hypesquad-register.com
 signup-hypesquad-returns.com
 signup-hypesquad-test.com
 signup-hypesquadacademy.com
@@ -7291,6 +7320,8 @@ site-roblox.com
 sitemap.onedrrive.com
 sitenitro-full.xyz
 skinbarona.com
+skinbid.eu
+skinbid.in.net
 skinfas.com
 skinflan.com
 skinkab.com
@@ -7300,6 +7331,7 @@ skins-cs.ru
 skins-navi.pp.ru
 skins.org.ru
 skins.pp.ru
+skinssmonkey.ru
 skinsup.monster
 skinup.monster
 skyblockmods.com
@@ -7366,6 +7398,7 @@ sleamcommunityy.me
 sleamcommunityy.net
 sleamcommunityy.ru
 sleamcommuniuty.ru
+sleamcommunivity.ru
 sleamcommunlty.me
 sleamcommunlty.net
 sleamcommunlty.net.ru
@@ -8251,6 +8284,7 @@ steamcommumnity.com
 steamcommumnity.ru
 steamcommumnitys.com
 steamcommumtiy.com
+steamcommumty.ru
 steamcommunaty.com
 steamcommunaty.ru
 steamcommuneituy.ru
@@ -8268,6 +8302,7 @@ steamcommunety.org.ru
 steamcommunety.ru
 steamcommunety1i.com
 steamcommunetyei.com
+steamcommunetys.ru
 steamcommuneuitiy.com
 steamcommuneuity.com
 steamcommuneuity.ru
@@ -8397,6 +8432,7 @@ steamcommunitiyu.com
 steamcommunitiyy.com
 steamcommunitj.buzz
 steamcommunitj.com
+steamcommunitj.ru
 steamcommunitjy.cc
 steamcommunitl.com
 steamcommunitl.net.ru
@@ -8409,6 +8445,7 @@ steamcommunitlly.ru.com
 steamcommunitls.com
 steamcommunitls.ru
 steamcommunitlu.com
+steamcommunitlus.com
 steamcommunitluy.com
 steamcommunitly.com
 steamcommunitly.com.ru
@@ -8423,6 +8460,7 @@ steamcommunitn.online
 steamcommunitn.ru
 steamcommunitn.ru.com
 steamcommunitny.com
+steamcommunito.ru
 steamcommunitp.com
 steamcommunitp.ru
 steamcommunitq.com
@@ -8550,6 +8588,7 @@ steamcommunitycomtradeoffer.ru.com
 steamcommunityd.com
 steamcommunitye.com.ru
 steamcommunitye.me
+steamcommunitye.ml
 steamcommunityes.ru
 steamcommunitygames.com
 steamcommunitygifts.xyz
@@ -8564,6 +8603,7 @@ steamcommunityiu.com
 steamcommunityjhk.ru
 steamcommunityk.com
 steamcommunityl.me
+steamcommunityl.ru
 steamcommunitylink.xyz
 steamcommunitylogin.store
 steamcommunitym.com
@@ -8678,6 +8718,7 @@ steamcommunllty.ru.com
 steamcommunlly.com
 steamcommunlte.ru
 steamcommunltes.online
+steamcommunltes.ru
 steamcommunlti.ru.com
 steamcommunltiy.club
 steamcommunltiy.com
@@ -8695,7 +8736,9 @@ steamcommunlty.business
 steamcommunlty.cloud
 steamcommunlty.com
 steamcommunlty.company
+steamcommunlty.fun
 steamcommunlty.info
+steamcommunlty.it
 steamcommunlty.link
 steamcommunlty.org.ru
 steamcommunlty.pl
@@ -8714,6 +8757,7 @@ steamcommunmty.com
 steamcommunniitly.ru
 steamcommunniity.com
 steamcommunniity.net
+steamcommunniity.space
 steamcommunnilty.com
 steamcommunnilty.ru
 steamcommunninty.io
@@ -8731,6 +8775,7 @@ steamcommunnity.net
 steamcommunnity.org
 steamcommunnity.ru
 steamcommunnity.ru.com
+steamcommunnity.xyz
 steamcommunnjty.com
 steamcommunnlity.ru
 steamcommunnlty.com
@@ -8747,6 +8792,7 @@ steamcommunrilty.com
 steamcommunrinty.ru.com
 steamcommunrity.com
 steamcommunrity.ru.com
+steamcommunrty.com
 steamcommunrty.xyz
 steamcommunte.ru
 steamcommunti.com
@@ -9198,6 +9244,7 @@ steamconmunilty.ru
 steamconmuniti.ru
 steamconmunitly.com
 steamconmunitty.com
+steamconmunitu.ru
 steamconmunity.best
 steamconmunity.co
 steamconmunity.com.ru
@@ -9254,6 +9301,7 @@ steamconynuyty.net.ru
 steamconynuyty.org.ru
 steamcoominuty.com
 steamcoominuty.site
+steamcoommeunity.xyz
 steamcoomminuty.com
 steamcoomminuty.site
 steamcoommnnity.com
@@ -9407,6 +9455,7 @@ steamecommuniuty.com
 steamecommunlty.com
 steamecommunlty.com.ru
 steamecommunty.com
+steamecomumnity.com
 steamecomunity.com.ru
 steameder.online
 steamedfish.top
@@ -9498,6 +9547,7 @@ steammcommunnits.fun
 steammcommunnity.ru
 steammcommunnlty.ru.com
 steammcommunys.ru
+steammcommutiny.ru
 steammcommuunityy.ru.com
 steammcommynity.ru
 steammcomnity.ru
@@ -9510,6 +9560,7 @@ steammcomunlty.ru
 steammcomunlty.xyz
 steammcomunnity.com
 steammcomunuty.net.ru
+steammcomunyty.net.ru
 steammconmity.ru
 steammcounity.ru.com
 steammcsnavi.ru
@@ -9655,6 +9706,7 @@ steampoweredpoetry.com
 steampoweredpurpose.com
 steampoweredpurpose.net
 steampoweredshow.com
+steampoweredsteam.fun
 steampoweredstore.com
 steampoweredsupport.com
 steampoweredswap.xyz
@@ -9675,6 +9727,7 @@ steampowored.com
 steampowr.com
 steampowrd.com
 steampowred.ru
+steampowreed.com
 steampowwered.com
 steampowwred.com
 steampowyred.com
