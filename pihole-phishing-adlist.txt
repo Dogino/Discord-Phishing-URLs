@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 7 Apr 2022, 21:29 UTC+02
+# Last modified: Fri, 8 Apr 2022, 12:07 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -571,6 +571,7 @@
 0.0.0.0 code-nitro.ru
 0.0.0.0 code-nitro.xyz
 0.0.0.0 code24promo.com
+0.0.0.0 codiscord.com
 0.0.0.0 coinbasediscord.com
 0.0.0.0 coinblog.site
 0.0.0.0 coinforcoin.site
@@ -817,6 +818,7 @@
 0.0.0.0 dcmoderatorsquad.com
 0.0.0.0 dcmoderatorteam.com
 0.0.0.0 dcoda.net
+0.0.0.0 dddiscord.com
 0.0.0.0 ddiscor.com
 0.0.0.0 ddiscord.com
 0.0.0.0 de-spushtan-genehmigung-2.xyz
@@ -2073,6 +2075,7 @@
 0.0.0.0 discord-samsung.com
 0.0.0.0 discord-school-events.com
 0.0.0.0 discord-security.com
+0.0.0.0 discord-send.com
 0.0.0.0 discord-server-verification.tk
 0.0.0.0 discord-server.ru
 0.0.0.0 discord-service.com
@@ -2105,6 +2108,7 @@
 0.0.0.0 discord-statics.com
 0.0.0.0 discord-statistics.xyz
 0.0.0.0 discord-stats.org
+0.0.0.0 discord-steam-gift.com
 0.0.0.0 discord-steam-promo.com
 0.0.0.0 discord-steam.club
 0.0.0.0 discord-steam.com
@@ -2446,6 +2450,7 @@
 0.0.0.0 discordbagequiz.cf
 0.0.0.0 discordban.com
 0.0.0.0 discordban.org
+0.0.0.0 discordbannes.com
 0.0.0.0 discordbasement.com
 0.0.0.0 discordbeta.com
 0.0.0.0 discordbetter.app
