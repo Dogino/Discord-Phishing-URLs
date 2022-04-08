@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 8 Apr 2022, 12:07 UTC+02
+# Last modified: Fri, 8 Apr 2022, 22:52 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1291,6 +1291,7 @@
 0.0.0.0 discorcd-apps.com
 0.0.0.0 discorcd-booster.ru
 0.0.0.0 discorcd-gift.com
+0.0.0.0 discorcd-gifts.com
 0.0.0.0 discorcd-nitro.com
 0.0.0.0 discorcd.click
 0.0.0.0 discorcd.com
@@ -1310,6 +1311,7 @@
 0.0.0.0 discorcl-app.site
 0.0.0.0 discorcl-app.xyz
 0.0.0.0 discorcl-apps.ru
+0.0.0.0 discorcl-apps.xyz
 0.0.0.0 discorcl-boost.ru
 0.0.0.0 discorcl-boost.shop
 0.0.0.0 discorcl-club.com
@@ -1500,6 +1502,7 @@
 0.0.0.0 discord-claim.ru
 0.0.0.0 discord-claim.ru.com
 0.0.0.0 discord-clap.com
+0.0.0.0 discord-classic.com
 0.0.0.0 discord-click.shop
 0.0.0.0 discord-club.org
 0.0.0.0 discord-club.ru
@@ -1538,6 +1541,7 @@
 0.0.0.0 discord-edating.com
 0.0.0.0 discord-egift.com
 0.0.0.0 discord-egifts.com
+0.0.0.0 discord-egifts.online
 0.0.0.0 discord-egifts.shop
 0.0.0.0 discord-epicgames.com
 0.0.0.0 discord-event.com
@@ -1702,6 +1706,7 @@
 0.0.0.0 discord-gives.ru
 0.0.0.0 discord-gjft.com
 0.0.0.0 discord-gjft.xyz
+0.0.0.0 discord-gjfts.com
 0.0.0.0 discord-glft.cf
 0.0.0.0 discord-glft.com
 0.0.0.0 discord-glft.ga
@@ -2028,6 +2033,7 @@
 0.0.0.0 discord-offer.com
 0.0.0.0 discord-offers.com
 0.0.0.0 discord-og.com
+0.0.0.0 discord-one.ru
 0.0.0.0 discord-online.com
 0.0.0.0 discord-online.ru
 0.0.0.0 discord-org.com
@@ -3490,6 +3496,7 @@
 0.0.0.0 discrod-nitro.fun
 0.0.0.0 discrod-nitro.info
 0.0.0.0 discrod-nitro.ru
+0.0.0.0 discrod-steam.com
 0.0.0.0 discrod-up.ru
 0.0.0.0 discrod.codes
 0.0.0.0 discrod.com
@@ -3702,6 +3709,7 @@
 0.0.0.0 divinegardens.xyx
 0.0.0.0 diwcord.com
 0.0.0.0 dixcord.com
+0.0.0.0 dixcord.gq
 0.0.0.0 dixinl.github.io
 0.0.0.0 dixscord.com
 0.0.0.0 dizcord.app
@@ -3740,6 +3748,7 @@
 0.0.0.0 dlcsordgifts.com
 0.0.0.0 dlcsordglft.xyz
 0.0.0.0 dlcsordnitro.xyz
+0.0.0.0 dlcsords-gifts.ru
 0.0.0.0 dlcsordsgifts.com
 0.0.0.0 dlicord-glfts.site
 0.0.0.0 dlicords.com
@@ -3760,6 +3769,7 @@
 0.0.0.0 dliscord-giveaway.ru
 0.0.0.0 dliscord-glft.ru
 0.0.0.0 dliscord-glft.ru.com
+0.0.0.0 dliscord-go.com
 0.0.0.0 dliscord-nitro.com
 0.0.0.0 dliscord-nitros.ru
 0.0.0.0 dliscord.com
@@ -3779,6 +3789,7 @@
 0.0.0.0 dliscordl.com
 0.0.0.0 dliscordl.xyz
 0.0.0.0 dliscordnltro.com
+0.0.0.0 dliscords-go.com
 0.0.0.0 dliscords.com
 0.0.0.0 dliscrd.one
 0.0.0.0 dlisocrd.com
@@ -3872,6 +3883,7 @@
 0.0.0.0 dlscord-generator.ru.com
 0.0.0.0 dlscord-get.xyz
 0.0.0.0 dlscord-gg.com
+0.0.0.0 dlscord-gift-steam.ru
 0.0.0.0 dlscord-gift.com
 0.0.0.0 dlscord-gift.info
 0.0.0.0 dlscord-gift.one
@@ -3901,6 +3913,7 @@
 0.0.0.0 dlscord-glft.ru
 0.0.0.0 dlscord-glft.ru.com
 0.0.0.0 dlscord-glft.xyz
+0.0.0.0 dlscord-glfte.com
 0.0.0.0 dlscord-glfts.com
 0.0.0.0 dlscord-glfts.net.ru
 0.0.0.0 dlscord-glfts.xyz
@@ -4277,6 +4290,7 @@
 0.0.0.0 egift-nitro.com
 0.0.0.0 egift-now.com
 0.0.0.0 egift-premium.com
+0.0.0.0 egifte-premium.com
 0.0.0.0 egiftepremeume.com
 0.0.0.0 egiftpremeume.com
 0.0.0.0 egiftpremium.com
@@ -4530,6 +4544,7 @@
 0.0.0.0 forms-moderatorsacademy.com
 0.0.0.0 forms-sub.com
 0.0.0.0 forms-testers-moderetors-renew.com
+0.0.0.0 forms-testers-renews-moderetors.com
 0.0.0.0 forms-to-moderetors-academy.com
 0.0.0.0 forms-to-new-hypesquad.com
 0.0.0.0 formshypesquad.com
@@ -4817,6 +4832,7 @@
 0.0.0.0 gift-nitro.shop
 0.0.0.0 gift-nitro.store
 0.0.0.0 gift-nitro.website
+0.0.0.0 gift-steam-discord.com
 0.0.0.0 giftdiscord.gq
 0.0.0.0 giftdiscord.info
 0.0.0.0 giftdiscord.online
@@ -5473,6 +5489,7 @@
 0.0.0.0 join-hypesquad.online
 0.0.0.0 join-hypesquad.xyz
 0.0.0.0 join-hypesquadacademy.com
+0.0.0.0 join-hypesquadevent-form.com
 0.0.0.0 join-hypesquadevent-forms.com
 0.0.0.0 join-hypesquadevent-now.com
 0.0.0.0 join-hypesquadevent.com
@@ -6286,6 +6303,7 @@
 0.0.0.0 new-hypesquad-form.com
 0.0.0.0 new-hypesquad-forms.com
 0.0.0.0 new-hypesquad-join.com
+0.0.0.0 new-hypesquadevent-form.com
 0.0.0.0 new-hypesquadevents-forms.com
 0.0.0.0 new-lady-here12.com
 0.0.0.0 new-login-hypesquad.com
@@ -7923,6 +7941,7 @@
 0.0.0.0 steam-game-csgo.ru
 0.0.0.0 steam-gametrade.xyz
 0.0.0.0 steam-gift-codes.com
+0.0.0.0 steam-gift-discord.ru
 0.0.0.0 steam-gift.ir
 0.0.0.0 steam-gift.online
 0.0.0.0 steam-historyoffer.xyz
@@ -8406,6 +8425,7 @@
 0.0.0.0 steamcommuniteypowered.com
 0.0.0.0 steamcommunitez.online
 0.0.0.0 steamcommunitez.ru
+0.0.0.0 steamcommunitf.ru
 0.0.0.0 steamcommunitfy.com
 0.0.0.0 steamcommunitfy.ru.com
 0.0.0.0 steamcommunitg.com
@@ -9538,6 +9558,7 @@
 0.0.0.0 steammcomminuty.ru
 0.0.0.0 steammcommmunity.online
 0.0.0.0 steammcommmunity.ru
+0.0.0.0 steammcommnity.net.ru
 0.0.0.0 steammcommnuty.ru
 0.0.0.0 steammcommunety.com
 0.0.0.0 steammcommuniity.ru
@@ -9822,6 +9843,7 @@
 0.0.0.0 steamstradecommunity.xyz
 0.0.0.0 steamsummer.com
 0.0.0.0 steamswap.xyz
+0.0.0.0 steamtcommunity.com
 0.0.0.0 steamteam.art
 0.0.0.0 steamteam.xyz
 0.0.0.0 steamticketp5w1.com
@@ -9847,6 +9869,7 @@
 0.0.0.0 steamtrading.org
 0.0.0.0 steamtradreoffer.com
 0.0.0.0 steamtrapspecialists.com
+0.0.0.0 steamucommunity.com
 0.0.0.0 steamunkocked.net
 0.0.0.0 steamunlockd.com
 0.0.0.0 steamunlocked.online

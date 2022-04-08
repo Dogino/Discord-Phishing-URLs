@@ -1287,6 +1287,7 @@ discorcd-app.com
 discorcd-apps.com
 discorcd-booster.ru
 discorcd-gift.com
+discorcd-gifts.com
 discorcd-nitro.com
 discorcd.click
 discorcd.com
@@ -1306,6 +1307,7 @@ discorcl-app.ru
 discorcl-app.site
 discorcl-app.xyz
 discorcl-apps.ru
+discorcl-apps.xyz
 discorcl-boost.ru
 discorcl-boost.shop
 discorcl-club.com
@@ -1496,6 +1498,7 @@ discord-claim.com
 discord-claim.ru
 discord-claim.ru.com
 discord-clap.com
+discord-classic.com
 discord-click.shop
 discord-club.org
 discord-club.ru
@@ -1534,6 +1537,7 @@ discord-earlysupporter-renewal.com
 discord-edating.com
 discord-egift.com
 discord-egifts.com
+discord-egifts.online
 discord-egifts.shop
 discord-epicgames.com
 discord-event.com
@@ -1698,6 +1702,7 @@ discord-giveaways.ru
 discord-gives.ru
 discord-gjft.com
 discord-gjft.xyz
+discord-gjfts.com
 discord-glft.cf
 discord-glft.com
 discord-glft.ga
@@ -2024,6 +2029,7 @@ discord-oauth2.tk
 discord-offer.com
 discord-offers.com
 discord-og.com
+discord-one.ru
 discord-online.com
 discord-online.ru
 discord-org.com
@@ -3486,6 +3492,7 @@ discrod-nitro.com
 discrod-nitro.fun
 discrod-nitro.info
 discrod-nitro.ru
+discrod-steam.com
 discrod-up.ru
 discrod.codes
 discrod.com
@@ -3698,6 +3705,7 @@ divineenterprises.net
 divinegardens.xyx
 diwcord.com
 dixcord.com
+dixcord.gq
 dixinl.github.io
 dixscord.com
 dizcord.app
@@ -3736,6 +3744,7 @@ dlcsord.com
 dlcsordgifts.com
 dlcsordglft.xyz
 dlcsordnitro.xyz
+dlcsords-gifts.ru
 dlcsordsgifts.com
 dlicord-glfts.site
 dlicords.com
@@ -3756,6 +3765,7 @@ dliscord-gifts.com
 dliscord-giveaway.ru
 dliscord-glft.ru
 dliscord-glft.ru.com
+dliscord-go.com
 dliscord-nitro.com
 dliscord-nitros.ru
 dliscord.com
@@ -3775,6 +3785,7 @@ dliscordglift-nitro.com
 dliscordl.com
 dliscordl.xyz
 dliscordnltro.com
+dliscords-go.com
 dliscords.com
 dliscrd.one
 dlisocrd.com
@@ -3868,6 +3879,7 @@ dlscord-game.ru
 dlscord-generator.ru.com
 dlscord-get.xyz
 dlscord-gg.com
+dlscord-gift-steam.ru
 dlscord-gift.com
 dlscord-gift.info
 dlscord-gift.one
@@ -3897,6 +3909,7 @@ dlscord-glft.pw
 dlscord-glft.ru
 dlscord-glft.ru.com
 dlscord-glft.xyz
+dlscord-glfte.com
 dlscord-glfts.com
 dlscord-glfts.net.ru
 dlscord-glfts.xyz
@@ -4273,6 +4286,7 @@ economicsdiscord.com
 egift-nitro.com
 egift-now.com
 egift-premium.com
+egifte-premium.com
 egiftepremeume.com
 egiftpremeume.com
 egiftpremium.com
@@ -4526,6 +4540,7 @@ forms-moderators-team.com
 forms-moderatorsacademy.com
 forms-sub.com
 forms-testers-moderetors-renew.com
+forms-testers-renews-moderetors.com
 forms-to-moderetors-academy.com
 forms-to-new-hypesquad.com
 formshypesquad.com
@@ -4813,6 +4828,7 @@ gift-nitro.ru
 gift-nitro.shop
 gift-nitro.store
 gift-nitro.website
+gift-steam-discord.com
 giftdiscord.gq
 giftdiscord.info
 giftdiscord.online
@@ -5469,6 +5485,7 @@ join-hypesquad.net
 join-hypesquad.online
 join-hypesquad.xyz
 join-hypesquadacademy.com
+join-hypesquadevent-form.com
 join-hypesquadevent-forms.com
 join-hypesquadevent-now.com
 join-hypesquadevent.com
@@ -6282,6 +6299,7 @@ new-hypesquad-events.com
 new-hypesquad-form.com
 new-hypesquad-forms.com
 new-hypesquad-join.com
+new-hypesquadevent-form.com
 new-hypesquadevents-forms.com
 new-lady-here12.com
 new-login-hypesquad.com
@@ -7919,6 +7937,7 @@ steam-free.xyz
 steam-game-csgo.ru
 steam-gametrade.xyz
 steam-gift-codes.com
+steam-gift-discord.ru
 steam-gift.ir
 steam-gift.online
 steam-historyoffer.xyz
@@ -8402,6 +8421,7 @@ steamcommunitey.ru
 steamcommuniteypowered.com
 steamcommunitez.online
 steamcommunitez.ru
+steamcommunitf.ru
 steamcommunitfy.com
 steamcommunitfy.ru.com
 steamcommunitg.com
@@ -9534,6 +9554,7 @@ steammcomminity.ru
 steammcomminuty.ru
 steammcommmunity.online
 steammcommmunity.ru
+steammcommnity.net.ru
 steammcommnuty.ru
 steammcommunety.com
 steammcommuniity.ru
@@ -9818,6 +9839,7 @@ steamstoretrade1.xyz
 steamstradecommunity.xyz
 steamsummer.com
 steamswap.xyz
+steamtcommunity.com
 steamteam.art
 steamteam.xyz
 steamticketp5w1.com
@@ -9843,6 +9865,7 @@ steamtradestore1.xyz
 steamtrading.org
 steamtradreoffer.com
 steamtrapspecialists.com
+steamucommunity.com
 steamunkocked.net
 steamunlockd.com
 steamunlocked.online
