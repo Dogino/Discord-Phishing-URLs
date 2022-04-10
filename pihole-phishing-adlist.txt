@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 9 Apr 2022, 23:48 UTC+02
+# Last modified: Sun, 10 Apr 2022, 18:54 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -519,6 +519,7 @@
 0.0.0.0 cherlyy.itch.io
 0.0.0.0 chestuwygli.com
 0.0.0.0 chintsressels.com
+0.0.0.0 chosen-hypesquad.com
 0.0.0.0 christmasdiscord.gift
 0.0.0.0 christmasdiscord.gifts
 0.0.0.0 ckre.net
@@ -5036,6 +5037,7 @@
 0.0.0.0 hunters-bugs.com
 0.0.0.0 hunts.monster
 0.0.0.0 hydra2018.ru
+0.0.0.0 hype-discord-events-support-new.com
 0.0.0.0 hype-discord.com
 0.0.0.0 hype-discord.tk
 0.0.0.0 hype-discordsign.com
@@ -5312,6 +5314,7 @@
 0.0.0.0 hypesquadreturns.com
 0.0.0.0 hypesquads-academy.com
 0.0.0.0 hypesquads-apply.com
+0.0.0.0 hypesquads-event.com
 0.0.0.0 hypesquads-events.academy
 0.0.0.0 hypesquads-events.com
 0.0.0.0 hypesquads.ga
@@ -5545,8 +5548,10 @@
 0.0.0.0 join-moderatorexam.com
 0.0.0.0 join-moderators-academy.com
 0.0.0.0 join-moderators-exams.com
+0.0.0.0 join-moderators-school.com
 0.0.0.0 join-moderators-test-forms.com
 0.0.0.0 join-moderators.com
+0.0.0.0 join-new-hypesquad-events.com
 0.0.0.0 join-newhypesquad.com
 0.0.0.0 join-now-hypesquad-events.com
 0.0.0.0 join-now-hypesquad-program.com
@@ -5878,6 +5883,7 @@
 0.0.0.0 modacademyexam.com
 0.0.0.0 modapplication-form.com
 0.0.0.0 modapplications-discord.com
+0.0.0.0 moderaction.com
 0.0.0.0 moderador-academy-exam.com
 0.0.0.0 moderador-academy-join.com
 0.0.0.0 moderador-discord.com
@@ -5984,6 +5990,7 @@
 0.0.0.0 moderator-academymod.com
 0.0.0.0 moderator-academys.com
 0.0.0.0 moderator-academysignup.com
+0.0.0.0 moderator-acadmey.com
 0.0.0.0 moderator-and-hypesquadevents-program-new.org
 0.0.0.0 moderator-aplication.com
 0.0.0.0 moderator-application-join.com
@@ -6325,6 +6332,8 @@
 0.0.0.0 new-forms-hypesquad-events.com
 0.0.0.0 new-forms-hypesquad.com
 0.0.0.0 new-forms-hypesquadevent.com
+0.0.0.0 new-forms-testers-renew-moderetors.com
+0.0.0.0 new-forms-testers-renews-moderetors.com
 0.0.0.0 new-give.com
 0.0.0.0 new-hypesquad-events.com
 0.0.0.0 new-hypesquad-form.com
@@ -6512,6 +6521,7 @@
 0.0.0.0 nitrodiscord.site
 0.0.0.0 nitrodiscord.space
 0.0.0.0 nitrodiscord.xyz
+0.0.0.0 nitrodiscordx.xyz
 0.0.0.0 nitrodlscord.xyz
 0.0.0.0 nitrodlscordl.xyz
 0.0.0.0 nitrodlscords.xyz
@@ -9143,6 +9153,7 @@
 0.0.0.0 steamcomnuntty.ru.com
 0.0.0.0 steamcomnunty.com
 0.0.0.0 steamcomnunutiy.ru
+0.0.0.0 steamcomnunutu.online
 0.0.0.0 steamcomnunuty.com
 0.0.0.0 steamcomnunuty.ru
 0.0.0.0 steamcomnunytu.ru
@@ -11553,6 +11564,7 @@
 0.0.0.0 testnet-discord.com
 0.0.0.0 texaswhitetailfever.com
 0.0.0.0 thankyoudiscord.com
+0.0.0.0 the-join-hypesquadevents-news.com
 0.0.0.0 the-shrubbery.co.uk
 0.0.0.0 thediscordapp.com
 0.0.0.0 thehypesquadevents-forms.com
