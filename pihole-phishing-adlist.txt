@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 14 Apr 2022, 00:01 UTC+02
+# Last modified: Thu, 14 Apr 2022, 23:50 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -123,6 +123,7 @@
 0.0.0.0 ach2x.net.ru
 0.0.0.0 achnavi.net.ru
 0.0.0.0 acrisialithic.cam
+0.0.0.0 activate-gift-1month.gq
 0.0.0.0 adalgard-wol.com
 0.0.0.0 adating.link
 0.0.0.0 adblade.com
@@ -659,6 +660,7 @@
 0.0.0.0 connect-testers-academy-moderator.com
 0.0.0.0 connect-testers-academy.com
 0.0.0.0 connect-testers-forms-moderator.com
+0.0.0.0 connect-testers-moderator.com
 0.0.0.0 connect-testers-moderators-academy.com
 0.0.0.0 connect-testers-moderators.com
 0.0.0.0 connect-testers-moderetors.com
@@ -725,6 +727,7 @@
 0.0.0.0 csgift.fun
 0.0.0.0 csgo-battle.ru
 0.0.0.0 csgo-cyber.link
+0.0.0.0 csgo-discord.xyz
 0.0.0.0 csgo-dym.ru
 0.0.0.0 csgo-freeskins.com
 0.0.0.0 csgo-fute.net.ru
@@ -848,6 +851,7 @@
 0.0.0.0 derimonz.xyz
 0.0.0.0 derwoood.xyz
 0.0.0.0 descargarjuegospc.net
+0.0.0.0 descords.com
 0.0.0.0 deshevil.xyz
 0.0.0.0 detterdiscord.net
 0.0.0.0 dev-discord.com
@@ -2733,6 +2737,7 @@
 0.0.0.0 discordgifted.ga
 0.0.0.0 discordgifted.xyz
 0.0.0.0 discordgifters.com
+0.0.0.0 discordgiftes.com
 0.0.0.0 discordgiftfree.site
 0.0.0.0 discordgifting.cc
 0.0.0.0 discordgifting.club
@@ -3351,6 +3356,7 @@
 0.0.0.0 discordsupports.com
 0.0.0.0 discordsupportserver.ga
 0.0.0.0 discordsy.com
+0.0.0.0 discordt-gift.com
 0.0.0.0 discordt.gift
 0.0.0.0 discordt.xyz
 0.0.0.0 discordtagbot.com
@@ -4317,6 +4323,7 @@
 0.0.0.0 ds-nitro.site
 0.0.0.0 ds-nitro.xyz
 0.0.0.0 ds-premium.com
+0.0.0.0 dscd-nitro.ru
 0.0.0.0 dsciord.com
 0.0.0.0 dscocrd.com
 0.0.0.0 dscord-generaot.store
@@ -4739,6 +4746,7 @@
 0.0.0.0 free-download.lcomicuzik6s.top
 0.0.0.0 free-ds-nitro.gq
 0.0.0.0 free-gg.com
+0.0.0.0 free-gifts.xyz
 0.0.0.0 free-niltross.ru
 0.0.0.0 free-nitlrols.ru
 0.0.0.0 free-nitlross.ru
@@ -6188,6 +6196,7 @@
 0.0.0.0 moderatoracademy-signup.com
 0.0.0.0 moderatoracademy-test.com
 0.0.0.0 moderatoracademy-tests.com
+0.0.0.0 moderatoracademy.com
 0.0.0.0 moderatoracademy.info
 0.0.0.0 moderatoracademydiscord.com
 0.0.0.0 moderatoracademyforms.com
@@ -6293,6 +6302,7 @@
 0.0.0.0 moderators.wtf
 0.0.0.0 moderatorsacademy-apps.com
 0.0.0.0 moderatorsacademy-test.com
+0.0.0.0 moderatorsacademy.com
 0.0.0.0 moderatorschool.com
 0.0.0.0 moderatorsdiscord.com
 0.0.0.0 moderatorservice.com
@@ -9248,6 +9258,7 @@
 0.0.0.0 steamcomnummity.com
 0.0.0.0 steamcomnumnilty.com
 0.0.0.0 steamcomnumnity.com
+0.0.0.0 steamcomnumnity.xyz
 0.0.0.0 steamcomnumty.ru
 0.0.0.0 steamcomnuneity.com
 0.0.0.0 steamcomnuniity.ru
@@ -9640,6 +9651,7 @@
 0.0.0.0 steamdeckcustoms.com
 0.0.0.0 steamdeckdock.com
 0.0.0.0 steamdeckfanboy.com
+0.0.0.0 steamdeckprofilemanager.net
 0.0.0.0 steamdeckreviews.com
 0.0.0.0 steamdeckshells.com
 0.0.0.0 steamdecktouchtype.com
