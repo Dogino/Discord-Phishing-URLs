@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 15 Apr 2022, 22:15 UTC+02
+# Last modified: Sat, 16 Apr 2022, 19:27 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2968,6 +2968,7 @@
 0.0.0.0 discordl-gift.com
 0.0.0.0 discordl-gift.xyz
 0.0.0.0 discordl-gifts.com
+0.0.0.0 discordl-gjfts.com
 0.0.0.0 discordl-nitro.gq
 0.0.0.0 discordl-nitro.ru
 0.0.0.0 discordl-steam.com
@@ -3388,6 +3389,7 @@
 0.0.0.0 discordtoken.info
 0.0.0.0 discordtoken.xyz
 0.0.0.0 discordtokens.shop
+0.0.0.0 discordtools.net
 0.0.0.0 discordtools.xyz
 0.0.0.0 discordtos.com
 0.0.0.0 discordtotal.com
@@ -3825,6 +3827,7 @@
 0.0.0.0 djlscord.xyz
 0.0.0.0 djscorcl.gift
 0.0.0.0 djscord-alrdrops.com
+0.0.0.0 djscord-gg.com
 0.0.0.0 djscord-gifts.com
 0.0.0.0 djscord.com
 0.0.0.0 djscord.ru
@@ -3973,6 +3976,7 @@
 0.0.0.0 dlscord-boost.com
 0.0.0.0 dlscord-boost.fun
 0.0.0.0 dlscord-claim.com
+0.0.0.0 dlscord-club.com
 0.0.0.0 dlscord-club.xyz
 0.0.0.0 dlscord-collaboration.com
 0.0.0.0 dlscord-developer.com
@@ -6531,6 +6535,7 @@
 0.0.0.0 nise-gell.org.ru
 0.0.0.0 nise-win.xyz
 0.0.0.0 nitlo-lg.xyz
+0.0.0.0 nitlro-gift.xyz
 0.0.0.0 nitrlooss-free.ru
 0.0.0.0 nitro-airdrop.org
 0.0.0.0 nitro-all.xyz
@@ -7102,6 +7107,7 @@
 0.0.0.0 recruitments-moderator-academy.com
 0.0.0.0 redacoes.encceja.fgv.br
 0.0.0.0 redacoes.enem.fgv.br
+0.0.0.0 redeemnitro.com
 0.0.0.0 redirectednet.xyz
 0.0.0.0 redirectsstm.click
 0.0.0.0 redirekted.com
@@ -7457,6 +7463,7 @@
 0.0.0.0 selected-hypesquad.com
 0.0.0.0 selected-thehypesquad.com
 0.0.0.0 selection-hype-squad.com
+0.0.0.0 selection-hypesquad.com
 0.0.0.0 selly.gg
 0.0.0.0 semvirus.pt
 0.0.0.0 sendyou123.com
@@ -8186,6 +8193,7 @@
 0.0.0.0 steam-gametrade.xyz
 0.0.0.0 steam-gift-codes.com
 0.0.0.0 steam-gift-discord.ru
+0.0.0.0 steam-gift-dlscord.com
 0.0.0.0 steam-gift.ir
 0.0.0.0 steam-gift.online
 0.0.0.0 steam-historyoffer.xyz
@@ -8419,6 +8427,7 @@
 0.0.0.0 steamcomminutiiu.ru
 0.0.0.0 steamcomminutiu.ru
 0.0.0.0 steamcomminutly.ru
+0.0.0.0 steamcomminutly.store
 0.0.0.0 steamcomminutty.ru
 0.0.0.0 steamcomminuty-offer.ru.com
 0.0.0.0 steamcomminuty.click
@@ -8485,6 +8494,7 @@
 0.0.0.0 steamcommnulty.com.ru
 0.0.0.0 steamcommnulty.net.ru
 0.0.0.0 steamcommnumity.ru
+0.0.0.0 steamcommnunilty.store
 0.0.0.0 steamcommnunily.xyz
 0.0.0.0 steamcommnuninty.ru.com
 0.0.0.0 steamcommnunitlu.com
@@ -8618,6 +8628,7 @@
 0.0.0.0 steamcommuniitu.site
 0.0.0.0 steamcommuniity.com.ru
 0.0.0.0 steamcommuniity.xyz
+0.0.0.0 steamcommunijy.xyz
 0.0.0.0 steamcommunikkty.net.ru
 0.0.0.0 steamcommunili.xyz
 0.0.0.0 steamcommunility.com
@@ -10008,6 +10019,7 @@
 0.0.0.0 steampowerdd.com
 0.0.0.0 steampowerde.com
 0.0.0.0 steampowerded.com
+0.0.0.0 steampowerdes.com
 0.0.0.0 steampowerdwallet.com
 0.0.0.0 steampowere-pubg.xyz
 0.0.0.0 steampowere.com
@@ -11997,6 +12009,7 @@
 0.0.0.0 verification-discord.cf
 0.0.0.0 verification-discord.com
 0.0.0.0 verifications-discord.com
+0.0.0.0 verified-formulary-to-moderator.com
 0.0.0.0 verified-moderating-school.com
 0.0.0.0 verified-moderators-club.com
 0.0.0.0 verifiedbadge.services
@@ -12208,6 +12221,7 @@
 0.0.0.0 your-dreams-girls2.com
 0.0.0.0 yourbest-dating33.life
 0.0.0.0 yourdatefortune.com
+0.0.0.0 yourhypesquad.com
 0.0.0.0 yourprotectorshield.com
 0.0.0.0 youshouldclick.us
 0.0.0.0 youtuba.com
