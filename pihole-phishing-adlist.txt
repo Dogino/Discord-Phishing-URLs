@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 16 Apr 2022, 19:27 UTC+02
+# Last modified: Sun, 17 Apr 2022, 17:24 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -115,6 +115,7 @@
 0.0.0.0 acc.pp.ua
 0.0.0.0 acceder.gratis
 0.0.0.0 access-events-discord.com
+0.0.0.0 access-to-discord.com
 0.0.0.0 accgen.best
 0.0.0.0 account-formulary.gq
 0.0.0.0 accountauthorization.xyz
@@ -1371,6 +1372,7 @@
 0.0.0.0 discorcl-nitro.ru.com
 0.0.0.0 discorcl-nitro.site
 0.0.0.0 discorcl-nittro.ru
+0.0.0.0 discorcl-nltro.xyz
 0.0.0.0 discorcl.app
 0.0.0.0 discorcl.art
 0.0.0.0 discorcl.click
@@ -2456,6 +2458,7 @@
 0.0.0.0 discordapp.co.uk
 0.0.0.0 discordapp.code
 0.0.0.0 discordapp.codes
+0.0.0.0 discordapp.company
 0.0.0.0 discordapp.download
 0.0.0.0 discordapp.eu
 0.0.0.0 discordapp.gg
@@ -3932,6 +3935,7 @@
 0.0.0.0 dlscold.com
 0.0.0.0 dlscoord-apps.com
 0.0.0.0 dlscorb-nutro.online
+0.0.0.0 dlscorb.com
 0.0.0.0 dlscorb.gift
 0.0.0.0 dlscorcd-nitro.com
 0.0.0.0 dlscorcl-app.com
@@ -5177,6 +5181,7 @@
 0.0.0.0 hype-events-support-discord.com
 0.0.0.0 hype-events.tk
 0.0.0.0 hype-form.com
+0.0.0.0 hype-moderator-support-votes.com
 0.0.0.0 hype-moderators-events-support.com
 0.0.0.0 hype-squad-academy.com
 0.0.0.0 hype-squad-application.com
@@ -5562,6 +5567,7 @@
 0.0.0.0 invite-hypesquad-programs.com
 0.0.0.0 invite-hypesquad.com
 0.0.0.0 invite-hypesquadevents-now.com
+0.0.0.0 invite-hypesquadevents-program.com
 0.0.0.0 invite-moderation-discord.com
 0.0.0.0 invite-moderator-academy.com
 0.0.0.0 invite-moderator-academy.net
@@ -5703,6 +5709,7 @@
 0.0.0.0 join-newhypesquad.com
 0.0.0.0 join-now-hypesquad-events.com
 0.0.0.0 join-now-hypesquad-program.com
+0.0.0.0 join-now-hypesquadevents.com
 0.0.0.0 join-partner.com
 0.0.0.0 join-partneracademy.com
 0.0.0.0 join-program-hypesquad.com
@@ -7464,6 +7471,7 @@
 0.0.0.0 selected-thehypesquad.com
 0.0.0.0 selection-hype-squad.com
 0.0.0.0 selection-hypesquad.com
+0.0.0.0 selection-hypesquadteam.com
 0.0.0.0 selly.gg
 0.0.0.0 semvirus.pt
 0.0.0.0 sendyou123.com
@@ -9104,6 +9112,7 @@
 0.0.0.0 steamcommunrity.ru.com
 0.0.0.0 steamcommunrty.com
 0.0.0.0 steamcommunrty.ru
+0.0.0.0 steamcommunrty.store
 0.0.0.0 steamcommunrty.xyz
 0.0.0.0 steamcommunte.ru
 0.0.0.0 steamcommunti.com
