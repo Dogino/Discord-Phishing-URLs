@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 18 Apr 2022, 12:32 UTC+02
+# Last modified: Mon, 18 Apr 2022, 12:57 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2617,7 +2617,6 @@
 0.0.0.0 discordco.com
 0.0.0.0 discordcode.ru
 0.0.0.0 discordcoffee.com
-0.0.0.0 discordcom.github.io
 0.0.0.0 discordcomlogin.com
 0.0.0.0 discordcommunity.club
 0.0.0.0 discordcommunity.store
@@ -3840,7 +3839,6 @@
 0.0.0.0 diwcord.com
 0.0.0.0 dixcord.com
 0.0.0.0 dixcord.gq
-0.0.0.0 dixinl.github.io
 0.0.0.0 dixscord.com
 0.0.0.0 dizcord.app
 0.0.0.0 dizcord.com
@@ -4929,7 +4927,6 @@
 0.0.0.0 gamzgss-top.xyz
 0.0.0.0 gapscult.com
 0.0.0.0 gardensrestaurantandcatering.com
-0.0.0.0 garstel.github.io
 0.0.0.0 gave-nitro.com
 0.0.0.0 gavenitro.com
 0.0.0.0 gayq8rgx.ru
@@ -5572,7 +5569,6 @@
 0.0.0.0 information-discord.com
 0.0.0.0 informations-discord.com
 0.0.0.0 infringementcommunity-rules.com
-0.0.0.0 insignia-game.github.io
 0.0.0.0 inspirationhistorical.com
 0.0.0.0 instagolds.ru
 0.0.0.0 instahookupxxx.com
@@ -5841,7 +5837,6 @@
 0.0.0.0 kind-light.xyz
 0.0.0.0 kindservicezeb.net
 0.0.0.0 kingfamilyphotoalbum.com
-0.0.0.0 kingofqueens2021.github.io
 0.0.0.0 kldmten.net
 0.0.0.0 konicpirg.com
 0.0.0.0 kruhzgodovina.xyz
@@ -6095,7 +6090,6 @@
 0.0.0.0 moderate-program.com
 0.0.0.0 moderatedegenerate.com
 0.0.0.0 moderatedtesting.com
-0.0.0.0 moderatepartycanada.com
 0.0.0.0 moderatin-school-formulary.club
 0.0.0.0 moderating-academy-formulary.com
 0.0.0.0 moderating-academy.com
@@ -6559,7 +6553,6 @@
 0.0.0.0 new-hypesquadevents-join.com
 0.0.0.0 new-hypesquadevents.com
 0.0.0.0 new-join-moderation.com
-0.0.0.0 new-lady-here12.com
 0.0.0.0 new-login-hypesquad.com
 0.0.0.0 new-moderator-academy-test-forms.com
 0.0.0.0 new-moderator-academy.com
@@ -6977,7 +6970,6 @@
 0.0.0.0 ponk.pro
 0.0.0.0 popoas.top
 0.0.0.0 popsads.link
-0.0.0.0 pornhub.com
 0.0.0.0 pornhub.xyz
 0.0.0.0 posadaladesmera.es
 0.0.0.0 possessedcrackinghart.com
@@ -6986,7 +6978,6 @@
 0.0.0.0 power-sk1n.net.ru
 0.0.0.0 ppancakeswapp.finance
 0.0.0.0 ppanccakeswap.finance
-0.0.0.0 prajyoth-reddy-mothi.github.io
 0.0.0.0 prajyoth.me
 0.0.0.0 praterage-colled.com
 0.0.0.0 pravpost.org.ua
@@ -7014,6 +7005,7 @@
 0.0.0.0 privatesinglesmeet.com
 0.0.0.0 privatewinners.com
 0.0.0.0 prizesworldcenter.com
+0.0.0.0 pro-nitro.fun
 0.0.0.0 professionalhypesquad.com
 0.0.0.0 profi-para.com
 0.0.0.0 profile-442572242.online
@@ -7242,9 +7234,6 @@
 0.0.0.0 registry-hypesquad.com
 0.0.0.0 registry-moderator.com
 0.0.0.0 regnitro.net.ru
-0.0.0.0 regsweep.com
-0.0.0.0 reimageplusminus.me
-0.0.0.0 remontidekor.ru
 0.0.0.0 renew-academy-discord.com
 0.0.0.0 renew-academy-mod.com
 0.0.0.0 renew-academy-moderators.com
@@ -7422,7 +7411,6 @@
 0.0.0.0 ropost15.xyz
 0.0.0.0 rouonixon.com
 0.0.0.0 rovblox.com
-0.0.0.0 royaljapan02.*
 0.0.0.0 rsafrwd.com
 0.0.0.0 rsafrwdr.com
 0.0.0.0 rtfkt.clonex.store
@@ -11428,7 +11416,6 @@
 0.0.0.0 stoacommunity.codes
 0.0.0.0 stock888.cn
 0.0.0.0 stoemcommunity.com
-0.0.0.0 stone-guardian.github.io
 0.0.0.0 stopify.co
 0.0.0.0 stopify.com
 0.0.0.0 storage-for-mobileapps.life
@@ -11954,7 +11941,6 @@
 0.0.0.0 testmoderators.com
 0.0.0.0 testnet-discord.com
 0.0.0.0 texaswhitetailfever.com
-0.0.0.0 thankyoudiscord.com
 0.0.0.0 the-join-hypesquadevents-news.com
 0.0.0.0 the-shrubbery.co.uk
 0.0.0.0 thediscordapp.com
@@ -12243,20 +12229,6 @@
 0.0.0.0 wowfnatic.ru
 0.0.0.0 wowfnatic.site
 0.0.0.0 wubingdu.cn
-0.0.0.0 ww1.dicsordapp.com
-0.0.0.0 ww1.discordapp.org
-0.0.0.0 ww1.discordgif.site
-0.0.0.0 ww1.discordserves.me
-0.0.0.0 ww1.discordsignup.com
-0.0.0.0 ww1.discordstyle.com
-0.0.0.0 ww1.discorpapp.com
-0.0.0.0 ww1.pro-nitro.fun
-0.0.0.0 ww11.steamcommunity.download
-0.0.0.0 ww16.discordcanary.com
-0.0.0.0 ww16.nitro-discord.com
-0.0.0.0 ww2.discordgoft.site
-0.0.0.0 ww2.discordinc.com
-0.0.0.0 ww8.steamcommmunity.ru.com
 0.0.0.0 wwdiscord.app
 0.0.0.0 wwdiscord.com
 0.0.0.0 wwsoundcloud.com
@@ -12334,7 +12306,6 @@
 0.0.0.0 yummy-nitro.com
 0.0.0.0 yuriblog.ru
 0.0.0.0 yvotsb.com
-0.0.0.0 z93729n9.beget.tech
 0.0.0.0 zajtrkhisa.xyz
 0.0.0.0 zakryma.ru
 0.0.0.0 zamanula.ru
