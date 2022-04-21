@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 21 Apr 2022, 00:47 UTC+02
+# Last modified: Thu, 21 Apr 2022, 19:11 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2571,6 +2571,7 @@
 0.0.0.0 discordbagequiz.cf
 0.0.0.0 discordban.com
 0.0.0.0 discordban.org
+0.0.0.0 discordbanner.xyz
 0.0.0.0 discordbannes.com
 0.0.0.0 discordbasement.com
 0.0.0.0 discordbeta.com
@@ -2584,6 +2585,7 @@
 0.0.0.0 discordbot.click
 0.0.0.0 discordbot.com
 0.0.0.0 discordbot.pro
+0.0.0.0 discordbot.store
 0.0.0.0 discordbothost.com
 0.0.0.0 discordbotist.com
 0.0.0.0 discordbotkodlari.online
@@ -2626,6 +2628,7 @@
 0.0.0.0 discordclaim.com
 0.0.0.0 discordclaim.fun
 0.0.0.0 discordclaim.xyz
+0.0.0.0 discordclaim01.xyz
 0.0.0.0 discordclient.ml
 0.0.0.0 discordclone.xyz
 0.0.0.0 discordclosure.com
@@ -2694,6 +2697,7 @@
 0.0.0.0 discordepp.com
 0.0.0.0 discorder.app
 0.0.0.0 discordery.com
+0.0.0.0 discordes-gift.com
 0.0.0.0 discordesource.com
 0.0.0.0 discordev.xyz
 0.0.0.0 discordevent.co.vu
@@ -3029,6 +3033,7 @@
 0.0.0.0 discordlegal.zendesk.com
 0.0.0.0 discordlgift.com
 0.0.0.0 discordlgift.ru.com
+0.0.0.0 discordlink.net
 0.0.0.0 discordlinks.co.uk
 0.0.0.0 discordlinkslist.com
 0.0.0.0 discordlirectory.com
@@ -3291,6 +3296,7 @@
 0.0.0.0 discords-gifts.club
 0.0.0.0 discords-gifts.com
 0.0.0.0 discords-gifts.ru
+0.0.0.0 discords-gifts.space
 0.0.0.0 discords-gifts.xyz
 0.0.0.0 discords-glft.com
 0.0.0.0 discords-glft.xyz
@@ -4586,6 +4592,7 @@
 0.0.0.0 exam-moderator.today
 0.0.0.0 exam-moderatoracademy.com
 0.0.0.0 exam-moderatorhypesquad.com
+0.0.0.0 exam-moderators-exam.com
 0.0.0.0 exam-moderators-official.com
 0.0.0.0 exam-moderators.academy
 0.0.0.0 exam-moderators.com
@@ -5161,6 +5168,7 @@
 0.0.0.0 god-zmei.ru
 0.0.0.0 godkota.ru
 0.0.0.0 godkozy.ru
+0.0.0.0 gogetnitro.xyz
 0.0.0.0 gogofiles.net
 0.0.0.0 goharpc.com
 0.0.0.0 goo-gl.me
@@ -5609,6 +5617,7 @@
 0.0.0.0 imvu37.blogspot.com
 0.0.0.0 incorphishor.com
 0.0.0.0 indereyn.ru.com
+0.0.0.0 inewsteam.site
 0.0.0.0 info-developers.com
 0.0.0.0 info-hypesquad-events.com
 0.0.0.0 info-moderation-academy.com
@@ -6805,6 +6814,7 @@
 0.0.0.0 nitrodiscord.site
 0.0.0.0 nitrodiscord.space
 0.0.0.0 nitrodiscord.xyz
+0.0.0.0 nitrodiscordfree.xyz
 0.0.0.0 nitrodiscordx.xyz
 0.0.0.0 nitrodlscord.xyz
 0.0.0.0 nitrodlscordl.xyz
@@ -8279,6 +8289,7 @@
 0.0.0.0 steam-auth.com
 0.0.0.0 steam-auth.ru
 0.0.0.0 steam-cammuneti.com
+0.0.0.0 steam-cash.store
 0.0.0.0 steam-communiity.ru
 0.0.0.0 steam-communiti.xyz
 0.0.0.0 steam-communitv.ru
@@ -8425,6 +8436,7 @@
 0.0.0.0 steamacommunity.com
 0.0.0.0 steamacommunity.ru.com
 0.0.0.0 steamactivator.tk
+0.0.0.0 steamairdrop.com
 0.0.0.0 steamassistance.tech
 0.0.0.0 steamastery.net
 0.0.0.0 steamati.com
@@ -8479,6 +8491,7 @@
 0.0.0.0 steamcamunlty.ru
 0.0.0.0 steamcamunnity.xyz
 0.0.0.0 steamcanmunitty.com
+0.0.0.0 steamcanmunity.com
 0.0.0.0 steamcannunlty.com
 0.0.0.0 steamcard.me
 0.0.0.0 steamccommuniity.com
@@ -9169,6 +9182,7 @@
 0.0.0.0 steamcommunllty.ru.com
 0.0.0.0 steamcommunlly.com
 0.0.0.0 steamcommunlte.ru
+0.0.0.0 steamcommunltes.com
 0.0.0.0 steamcommunltes.online
 0.0.0.0 steamcommunltes.ru
 0.0.0.0 steamcommunlti.ru.com
@@ -9183,6 +9197,7 @@
 0.0.0.0 steamcommunltu.com
 0.0.0.0 steamcommunltuy.com
 0.0.0.0 steamcommunltv.buzz
+0.0.0.0 steamcommunltw.online
 0.0.0.0 steamcommunlty-proflle.com.ru
 0.0.0.0 steamcommunlty.biz
 0.0.0.0 steamcommunlty.business
@@ -9441,6 +9456,7 @@
 0.0.0.0 steamcomnmunity.com
 0.0.0.0 steamcomnmunity.com.ru
 0.0.0.0 steamcomnmunity.ru.com
+0.0.0.0 steamcomnmunity.xyz
 0.0.0.0 steamcomnmunlity.com
 0.0.0.0 steamcomnmunlty.com
 0.0.0.0 steamcomnmuntiy.ru.com
@@ -9524,6 +9540,7 @@
 0.0.0.0 steamcomnunitly.com
 0.0.0.0 steamcomnunitly.ru
 0.0.0.0 steamcomnunitly.tk
+0.0.0.0 steamcomnunitq.online
 0.0.0.0 steamcomnunitq.ru
 0.0.0.0 steamcomnunitty.com
 0.0.0.0 steamcomnunitty.online
@@ -9961,6 +9978,7 @@
 0.0.0.0 steamecommunity.org
 0.0.0.0 steamecommunity.pp.ua
 0.0.0.0 steamecommunity.ru.com
+0.0.0.0 steamecommunity.website
 0.0.0.0 steamecommunitys.com
 0.0.0.0 steamecommuniuty.com
 0.0.0.0 steamecommunlty.com
