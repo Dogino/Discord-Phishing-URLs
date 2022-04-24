@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 23 Apr 2022, 18:22 UTC+02
+# Last modified: Sun, 24 Apr 2022, 15:14 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1882,6 +1882,7 @@
 0.0.0.0 discord-hypesquad-join.com
 0.0.0.0 discord-hypesquad-moderators.com
 0.0.0.0 discord-hypesquad-registerations.ml
+0.0.0.0 discord-hypesquad-registers.com
 0.0.0.0 discord-hypesquad-registration.ml
 0.0.0.0 discord-hypesquad-return.com
 0.0.0.0 discord-hypesquad-signup.com
@@ -3011,6 +3012,7 @@
 0.0.0.0 discordiu-gift.gq
 0.0.0.0 discordivitemoderator.com
 0.0.0.0 discordivitemoderators.com
+0.0.0.0 discordj-gifts.com
 0.0.0.0 discordj-steam.com
 0.0.0.0 discordj.com
 0.0.0.0 discordj.gift
@@ -3969,6 +3971,7 @@
 0.0.0.0 dliscordapp.com
 0.0.0.0 dliscorde.com
 0.0.0.0 dliscordglift-nitro.com
+0.0.0.0 dliscordl-go.com
 0.0.0.0 dliscordl.com
 0.0.0.0 dliscordl.xyz
 0.0.0.0 dliscordnltro.com
@@ -4316,6 +4319,7 @@
 0.0.0.0 dlscords-glft.com
 0.0.0.0 dlscords-glfts.site
 0.0.0.0 dlscords-go.com
+0.0.0.0 dlscords-nitro.com
 0.0.0.0 dlscords-nitros.com
 0.0.0.0 dlscords.gifts
 0.0.0.0 dlscords.ru
@@ -5350,6 +5354,7 @@
 0.0.0.0 hypesquad-connect-now.com
 0.0.0.0 hypesquad-developers.com
 0.0.0.0 hypesquad-discord-moderators.com
+0.0.0.0 hypesquad-discord-news.com
 0.0.0.0 hypesquad-discord-signup.com
 0.0.0.0 hypesquad-discord.academy
 0.0.0.0 hypesquad-discord.com
@@ -5866,6 +5871,7 @@
 0.0.0.0 join-now-hypesquad-events.com
 0.0.0.0 join-now-hypesquad-program.com
 0.0.0.0 join-now-hypesquadevents.com
+0.0.0.0 join-official-hypesquad.com
 0.0.0.0 join-partner.com
 0.0.0.0 join-partneracademy.com
 0.0.0.0 join-program-hypesquad.com
@@ -6485,6 +6491,7 @@
 0.0.0.0 moderators-forms-exam.com
 0.0.0.0 moderators-forms-hypesquad-events.com
 0.0.0.0 moderators-forms.com
+0.0.0.0 moderators-formulary-academy.com
 0.0.0.0 moderators-formulary.com
 0.0.0.0 moderators-formulary.info
 0.0.0.0 moderators-help.com
@@ -6517,6 +6524,7 @@
 0.0.0.0 moderators-vote.com
 0.0.0.0 moderators.wtf
 0.0.0.0 moderatorsacademy-apps.com
+0.0.0.0 moderatorsacademy-exams.com
 0.0.0.0 moderatorsacademy-test.com
 0.0.0.0 moderatorsacademy.com
 0.0.0.0 moderatorschool.com
@@ -7354,6 +7362,7 @@
 0.0.0.0 register-new-moderators-events.com
 0.0.0.0 register-newhypesquad-event.com
 0.0.0.0 register-newhypesquad-program.com
+0.0.0.0 register-official-hypesquad.com
 0.0.0.0 register-program-hypesquad.com
 0.0.0.0 register-programs-hypesquad.com
 0.0.0.0 register-signup-hypesquad.com
@@ -8546,6 +8555,7 @@
 0.0.0.0 steamcammunty.com
 0.0.0.0 steamcammunuty.com
 0.0.0.0 steamcammunyty.ru
+0.0.0.0 steamcamnunity.com
 0.0.0.0 steamcamnunity.ru
 0.0.0.0 steamcamunite.com
 0.0.0.0 steamcamunitey.com
@@ -8704,6 +8714,7 @@
 0.0.0.0 steamcommnmunity.ru
 0.0.0.0 steamcommnnity.com
 0.0.0.0 steamcommnnity.net.ru
+0.0.0.0 steamcommnnity.online
 0.0.0.0 steamcommnnity.ru
 0.0.0.0 steamcommnnunity.ru
 0.0.0.0 steamcommnnunnity.world
@@ -8962,6 +8973,7 @@
 0.0.0.0 steamcommunitiv.com
 0.0.0.0 steamcommunitivs.xyz
 0.0.0.0 steamcommunitiy.com.ru
+0.0.0.0 steamcommunitiy.icu
 0.0.0.0 steamcommunitiy.ru
 0.0.0.0 steamcommunitiycom.ru
 0.0.0.0 steamcommunitiyiy.com
@@ -9090,6 +9102,7 @@
 0.0.0.0 steamcommunity.download
 0.0.0.0 steamcommunity.eu
 0.0.0.0 steamcommunity.fun
+0.0.0.0 steamcommunity.guru
 0.0.0.0 steamcommunity.in
 0.0.0.0 steamcommunity.info
 0.0.0.0 steamcommunity.it
@@ -10116,6 +10129,7 @@
 0.0.0.0 steamid.ru
 0.0.0.0 steamidiscord.com
 0.0.0.0 steamidiscordi.com
+0.0.0.0 steamingcommunity.icu
 0.0.0.0 steamingcommunity.website
 0.0.0.0 steamitem.xyz
 0.0.0.0 steamjdiscord.com
@@ -10520,6 +10534,7 @@
 0.0.0.0 steancammunyti.com
 0.0.0.0 steanccmmunity.com
 0.0.0.0 steanccommunity.ru
+0.0.0.0 steanccomuniity.online
 0.0.0.0 steanccomuniity.ru
 0.0.0.0 steancommanty.ru.com
 0.0.0.0 steancommeuniliy.ru.com
@@ -11031,6 +11046,7 @@
 0.0.0.0 stearncomrnunuty.ru
 0.0.0.0 stearncomrrunity.com
 0.0.0.0 stearncomrunity.ru
+0.0.0.0 stearncomunity.com
 0.0.0.0 stearncomunity.xyz
 0.0.0.0 stearncomunnity.com
 0.0.0.0 stearncomynity.ru
@@ -11104,6 +11120,7 @@
 0.0.0.0 steawcommunitiy.xyz
 0.0.0.0 steawcommunity.com
 0.0.0.0 steawcommunity.net
+0.0.0.0 steawcommunity.site
 0.0.0.0 steawcomnnunity.me
 0.0.0.0 steawcomnnunity.xyz
 0.0.0.0 steawcomunity.net
