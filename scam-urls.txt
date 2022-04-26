@@ -2643,7 +2643,6 @@ discordc.gifts
 discordc.space
 discordcanary.com
 discordcb.pl
-discordcdn.co
 discordcdn.ml
 discordcdn.sa.com
 discordcdn.xyz
