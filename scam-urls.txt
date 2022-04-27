@@ -5542,6 +5542,7 @@ hypesquad-registration.com
 hypesquad-represent.com
 hypesquad-request.com
 hypesquad-rescue-app.com
+hypesquad-rescue.com
 hypesquad-return-discord.com
 hypesquad-return.com
 hypesquad-returned.com
@@ -7775,6 +7776,7 @@ seedbreakgoal.live
 sehotgame.xyz
 seksburada.net
 select-for-hypesquad-events.com
+selected-for-hypesquad-team.com
 selected-for-hypesquad.com
 selected-for-moderator.com
 selected-hypesquad-events.com
@@ -10544,6 +10546,7 @@ steamrcommunity.ru
 steamrcomrmunlty.com
 steamrcomrnunity.com
 steamrcornmunity.com
+steamreap.com
 steamreward.com
 steamrg.com
 steamroll.org.ru
@@ -10553,6 +10556,7 @@ steamrolls.pp.ru
 steamrommunily.com
 steamrommunity.org.ru
 steamrowered.xyz
+steamrp.com
 steamrrcomunites.com
 steamru.org
 steamrussia.site

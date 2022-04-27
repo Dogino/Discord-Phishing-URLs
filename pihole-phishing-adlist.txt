@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 26 Apr 2022, 23:29 UTC+02
+# Last modified: Wed, 27 Apr 2022, 21:18 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2647,7 +2647,6 @@
 0.0.0.0 discordc.space
 0.0.0.0 discordcanary.com
 0.0.0.0 discordcb.pl
-0.0.0.0 discordcdn.co
 0.0.0.0 discordcdn.ml
 0.0.0.0 discordcdn.sa.com
 0.0.0.0 discordcdn.xyz
@@ -5547,6 +5546,7 @@
 0.0.0.0 hypesquad-represent.com
 0.0.0.0 hypesquad-request.com
 0.0.0.0 hypesquad-rescue-app.com
+0.0.0.0 hypesquad-rescue.com
 0.0.0.0 hypesquad-return-discord.com
 0.0.0.0 hypesquad-return.com
 0.0.0.0 hypesquad-returned.com
@@ -7780,6 +7780,7 @@
 0.0.0.0 sehotgame.xyz
 0.0.0.0 seksburada.net
 0.0.0.0 select-for-hypesquad-events.com
+0.0.0.0 selected-for-hypesquad-team.com
 0.0.0.0 selected-for-hypesquad.com
 0.0.0.0 selected-for-moderator.com
 0.0.0.0 selected-hypesquad-events.com
@@ -10549,6 +10550,7 @@
 0.0.0.0 steamrcomrmunlty.com
 0.0.0.0 steamrcomrnunity.com
 0.0.0.0 steamrcornmunity.com
+0.0.0.0 steamreap.com
 0.0.0.0 steamreward.com
 0.0.0.0 steamrg.com
 0.0.0.0 steamroll.org.ru
@@ -10558,6 +10560,7 @@
 0.0.0.0 steamrommunily.com
 0.0.0.0 steamrommunity.org.ru
 0.0.0.0 steamrowered.xyz
+0.0.0.0 steamrp.com
 0.0.0.0 steamrrcomunites.com
 0.0.0.0 steamru.org
 0.0.0.0 steamrussia.site
