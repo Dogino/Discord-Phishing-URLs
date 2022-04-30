@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 30 Apr 2022, 01:14 UTC+02
+# Last modified: Sat, 30 Apr 2022, 16:21 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1638,6 +1638,7 @@
 0.0.0.0 discord-claim.com
 0.0.0.0 discord-claim.ru
 0.0.0.0 discord-claim.ru.com
+0.0.0.0 discord-claim.xyz
 0.0.0.0 discord-clap.com
 0.0.0.0 discord-classic.com
 0.0.0.0 discord-classic.ru
@@ -2500,6 +2501,7 @@
 0.0.0.0 discord.study
 0.0.0.0 discord.taxi
 0.0.0.0 discord.team
+0.0.0.0 discord.technology
 0.0.0.0 discord.tv
 0.0.0.0 discord.tw
 0.0.0.0 discord.uno
@@ -3228,6 +3230,7 @@
 0.0.0.0 discordnitrobysteam.site
 0.0.0.0 discordnitrocodes.blogspot.com
 0.0.0.0 discordnitrodrop.com
+0.0.0.0 discordnitroez.com
 0.0.0.0 discordnitrofree.com
 0.0.0.0 discordnitrofree.online
 0.0.0.0 discordnitrofree.ru
@@ -4153,6 +4156,7 @@
 0.0.0.0 dlscord-claim.com
 0.0.0.0 dlscord-club.com
 0.0.0.0 dlscord-club.xyz
+0.0.0.0 dlscord-clubs.xyz
 0.0.0.0 dlscord-collaboration.com
 0.0.0.0 dlscord-developer.com
 0.0.0.0 dlscord-event.com
@@ -4490,6 +4494,7 @@
 0.0.0.0 dlsscord-apps.club
 0.0.0.0 dmarkef.com
 0.0.0.0 dmdiscord.com
+0.0.0.0 dnitro-premium.xyz
 0.0.0.0 dnitro-steam.com
 0.0.0.0 dnitrogift.ru
 0.0.0.0 dnitrogive.com
@@ -5189,6 +5194,7 @@
 0.0.0.0 getnitrogen.org
 0.0.0.0 getoiu.com
 0.0.0.0 getskins.monster
+0.0.0.0 getsteamdeck.com
 0.0.0.0 getviplocals1.com
 0.0.0.0 getvottak.com
 0.0.0.0 gfcsgo88.xyz
@@ -5560,6 +5566,7 @@
 0.0.0.0 hypesquad-form-go.com
 0.0.0.0 hypesquad-form-intent.com
 0.0.0.0 hypesquad-form-moderator.com
+0.0.0.0 hypesquad-form-selection.com
 0.0.0.0 hypesquad-forms.org
 0.0.0.0 hypesquad-formulary-signup.com
 0.0.0.0 hypesquad-formulary-signups.com
@@ -5687,6 +5694,7 @@
 0.0.0.0 hypesquad.site
 0.0.0.0 hypesquad.store
 0.0.0.0 hypesquad.team
+0.0.0.0 hypesquad.wtf
 0.0.0.0 hypesquadacademy-app.com
 0.0.0.0 hypesquadacademy-apply.com
 0.0.0.0 hypesquadacademy-events.com
@@ -5876,6 +5884,7 @@
 0.0.0.0 invite-academy-events.com
 0.0.0.0 invite-academy-moderator.com
 0.0.0.0 invite-bughunter.com
+0.0.0.0 invite-discordmoderators.com
 0.0.0.0 invite-for-hypesquad-new.com
 0.0.0.0 invite-for-hypesquad-team.com
 0.0.0.0 invite-for-hypesquadevents.com
@@ -7151,6 +7160,7 @@
 0.0.0.0 nitrospromotion.com
 0.0.0.0 nitrospromotions.com
 0.0.0.0 nitrosteam.com.ru
+0.0.0.0 nitrosteam.wiki
 0.0.0.0 nitrosteam.xyz
 0.0.0.0 nitrosteamf.com
 0.0.0.0 nitrosteami.com
