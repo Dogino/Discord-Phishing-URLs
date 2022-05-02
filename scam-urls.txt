@@ -1207,6 +1207,7 @@ disc0rd-app.ru.com
 disc0rd-nitro.site
 disc0rd-nitro.xyz
 disc0rd.info
+disc0rd.net
 disc0rd.org
 disc0rd.site
 disc0rd.xyz
@@ -1680,6 +1681,7 @@ discord-developers.com
 discord-developers.org
 discord-devs.com
 discord-dms.com
+discord-dnd.com
 discord-do.com
 discord-dr0p.ru
 discord-drop.gift
@@ -2684,6 +2686,7 @@ discordbasement.com
 discordbeta.com
 discordbetter.app
 discordbio.xyz
+discordbo.com
 discordbonus.fun
 discordboost.net
 discordboost.xyz
@@ -2758,10 +2761,12 @@ discordcpp.com
 discordcrasher.wtf
 discordcreators.net
 discordd.buzz
+discordd.club
 discordd.com
 discordd.gg
 discordd.gift
 discordd.gq
+discordd.info
 discorddaapp.com
 discorddatascraping.xyz
 discorddev.com
@@ -3213,6 +3218,7 @@ discordnitr.ru
 discordnitr0.tk
 discordnitro-away.ml
 discordnitro-generator.blogspot.com
+discordnitro-gift-com.xyz
 discordnitro-gift.cf
 discordnitro-gift.com
 discordnitro-gift.ga
@@ -4930,6 +4936,7 @@ form-moderatorteam.com
 form-modmail.com
 form-new-hypesquad.com
 form-to-moderator.com
+formhype-new.com
 formhypesquad.com
 formhypesquadevents.com
 forms-academy-moderation.com
@@ -5705,6 +5712,7 @@ hypesquad-review-form.com
 hypesquad-rolagrande.com
 hypesquad-selected.com
 hypesquad-selecteds.com
+hypesquad-selection.com
 hypesquad-sign-up-today.com
 hypesquad-signatory.com
 hypesquad-signup-discord.com
@@ -7008,6 +7016,7 @@ nise-win.xyz
 nitlo-lg.xyz
 nitlro-gift.xyz
 nitrlooss-free.ru
+nitro-academy.com
 nitro-airdrop.org
 nitro-all.xyz
 nitro-app-store.com
@@ -7072,6 +7081,7 @@ nitro-free-giveaway.xyz
 nitro-free.com
 nitro-free.ru
 nitro-free.xyz
+nitro-freegift.xyz
 nitro-from-steam.com
 nitro-fromsteam.xyz
 nitro-full.com
@@ -10685,9 +10695,11 @@ steampoqwered.com
 steampowaered.com
 steampowarad.com
 steampoward.com
+steampowd.com
 steampowder.com
 steampowed.com
 steampoweded.com
+steampowee.com
 steampoweeed.com
 steampowened.ru.com
 steampower-pubg.xyz
@@ -12678,6 +12690,7 @@ tratbc.com
 trdiscord.com
 trfcbooost.com
 trfrc.com
+trial-hypesquad-moderators.academy
 trial-moderator-hypesquad.com
 tribusgame.xyz
 triumph.tk

@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 1 May 2022, 14:44 UTC+02
+# Last modified: Tue, 3 May 2022, 00:46 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -1211,6 +1211,7 @@
 0.0.0.0 disc0rd-nitro.site
 0.0.0.0 disc0rd-nitro.xyz
 0.0.0.0 disc0rd.info
+0.0.0.0 disc0rd.net
 0.0.0.0 disc0rd.org
 0.0.0.0 disc0rd.site
 0.0.0.0 disc0rd.xyz
@@ -1684,6 +1685,7 @@
 0.0.0.0 discord-developers.org
 0.0.0.0 discord-devs.com
 0.0.0.0 discord-dms.com
+0.0.0.0 discord-dnd.com
 0.0.0.0 discord-do.com
 0.0.0.0 discord-dr0p.ru
 0.0.0.0 discord-drop.gift
@@ -2688,6 +2690,7 @@
 0.0.0.0 discordbeta.com
 0.0.0.0 discordbetter.app
 0.0.0.0 discordbio.xyz
+0.0.0.0 discordbo.com
 0.0.0.0 discordbonus.fun
 0.0.0.0 discordboost.net
 0.0.0.0 discordboost.xyz
@@ -2762,10 +2765,12 @@
 0.0.0.0 discordcrasher.wtf
 0.0.0.0 discordcreators.net
 0.0.0.0 discordd.buzz
+0.0.0.0 discordd.club
 0.0.0.0 discordd.com
 0.0.0.0 discordd.gg
 0.0.0.0 discordd.gift
 0.0.0.0 discordd.gq
+0.0.0.0 discordd.info
 0.0.0.0 discorddaapp.com
 0.0.0.0 discorddatascraping.xyz
 0.0.0.0 discorddev.com
@@ -3217,6 +3222,7 @@
 0.0.0.0 discordnitr0.tk
 0.0.0.0 discordnitro-away.ml
 0.0.0.0 discordnitro-generator.blogspot.com
+0.0.0.0 discordnitro-gift-com.xyz
 0.0.0.0 discordnitro-gift.cf
 0.0.0.0 discordnitro-gift.com
 0.0.0.0 discordnitro-gift.ga
@@ -4934,6 +4940,7 @@
 0.0.0.0 form-modmail.com
 0.0.0.0 form-new-hypesquad.com
 0.0.0.0 form-to-moderator.com
+0.0.0.0 formhype-new.com
 0.0.0.0 formhypesquad.com
 0.0.0.0 formhypesquadevents.com
 0.0.0.0 forms-academy-moderation.com
@@ -5709,6 +5716,7 @@
 0.0.0.0 hypesquad-rolagrande.com
 0.0.0.0 hypesquad-selected.com
 0.0.0.0 hypesquad-selecteds.com
+0.0.0.0 hypesquad-selection.com
 0.0.0.0 hypesquad-sign-up-today.com
 0.0.0.0 hypesquad-signatory.com
 0.0.0.0 hypesquad-signup-discord.com
@@ -7012,6 +7020,7 @@
 0.0.0.0 nitlo-lg.xyz
 0.0.0.0 nitlro-gift.xyz
 0.0.0.0 nitrlooss-free.ru
+0.0.0.0 nitro-academy.com
 0.0.0.0 nitro-airdrop.org
 0.0.0.0 nitro-all.xyz
 0.0.0.0 nitro-app-store.com
@@ -7076,6 +7085,7 @@
 0.0.0.0 nitro-free.com
 0.0.0.0 nitro-free.ru
 0.0.0.0 nitro-free.xyz
+0.0.0.0 nitro-freegift.xyz
 0.0.0.0 nitro-from-steam.com
 0.0.0.0 nitro-fromsteam.xyz
 0.0.0.0 nitro-full.com
@@ -10689,9 +10699,11 @@
 0.0.0.0 steampowaered.com
 0.0.0.0 steampowarad.com
 0.0.0.0 steampoward.com
+0.0.0.0 steampowd.com
 0.0.0.0 steampowder.com
 0.0.0.0 steampowed.com
 0.0.0.0 steampoweded.com
+0.0.0.0 steampowee.com
 0.0.0.0 steampoweeed.com
 0.0.0.0 steampowened.ru.com
 0.0.0.0 steampower-pubg.xyz
@@ -12682,6 +12694,7 @@
 0.0.0.0 trdiscord.com
 0.0.0.0 trfcbooost.com
 0.0.0.0 trfrc.com
+0.0.0.0 trial-hypesquad-moderators.academy
 0.0.0.0 trial-moderator-hypesquad.com
 0.0.0.0 tribusgame.xyz
 0.0.0.0 triumph.tk
