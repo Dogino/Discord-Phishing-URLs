@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 3 May 2022, 00:46 UTC+02
+# Last modified: Tue, 3 May 2022, 18:29 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -258,20 +258,27 @@
 0.0.0.0 apply-discordmoderatoracademy.com
 0.0.0.0 apply-event-hypesquad.com
 0.0.0.0 apply-events.com
+0.0.0.0 apply-exam-hypesquad.com
 0.0.0.0 apply-for-hypesquad-rescue.com
 0.0.0.0 apply-for-hypesquad.com
+0.0.0.0 apply-for-hypesquadevents.com
 0.0.0.0 apply-for-mod.com
+0.0.0.0 apply-forms-hypesquad.com
 0.0.0.0 apply-formulary-events.club
+0.0.0.0 apply-formulary-hypesquad.com
 0.0.0.0 apply-hunters.com
 0.0.0.0 apply-hype-squad-event.com
+0.0.0.0 apply-hype-squad-exam.com
 0.0.0.0 apply-hype-squad.com
 0.0.0.0 apply-hype.com
 0.0.0.0 apply-hypeevent.com
 0.0.0.0 apply-hypeevents.com
+0.0.0.0 apply-hypesquad-event.com
 0.0.0.0 apply-hypesquad-events.com
 0.0.0.0 apply-hypesquad-exam.com
 0.0.0.0 apply-hypesquad-program.com
 0.0.0.0 apply-hypesquad-programs.com
+0.0.0.0 apply-hypesquad-selection.com
 0.0.0.0 apply-hypesquad-team-formulary.com
 0.0.0.0 apply-hypesquad-team.com
 0.0.0.0 apply-hypesquad.club
@@ -301,6 +308,7 @@
 0.0.0.0 apply-recruitmeint.com
 0.0.0.0 apply-squad.com
 0.0.0.0 apply-team.com
+0.0.0.0 apply-teams.com
 0.0.0.0 apply-tem-thehypesquad.com
 0.0.0.0 apply-the-discord.com
 0.0.0.0 apply-to-hypesquad-exam.com
@@ -701,6 +709,7 @@
 0.0.0.0 connect-new-academy-renew.com
 0.0.0.0 connect-new-discord-hypesquad-events.com
 0.0.0.0 connect-new-events-academy.com
+0.0.0.0 connect-new-forms-moderators.com
 0.0.0.0 connect-new-hypesquad-events.com
 0.0.0.0 connect-new-hypesquad.com
 0.0.0.0 connect-new-moderator-forms.com
@@ -709,6 +718,7 @@
 0.0.0.0 connect-newhypesquad-events.com
 0.0.0.0 connect-partner.com
 0.0.0.0 connect-renew-moderator-academy.com
+0.0.0.0 connect-team-hypesquad.com
 0.0.0.0 connect-tester-moderator-academy.com
 0.0.0.0 connect-tester-moderators-academy.com
 0.0.0.0 connect-testers-academy-moderator.com
@@ -736,6 +746,7 @@
 0.0.0.0 connect-to-new-moderator-exam.com
 0.0.0.0 connect-to-new-moderator.com
 0.0.0.0 connecthypesquads.com
+0.0.0.0 connection-discord-hypesquad.com
 0.0.0.0 connectmetamask.com
 0.0.0.0 connects-forms-events-academy.com
 0.0.0.0 connects-forms-events-moderators-hypesquad.com
@@ -1600,6 +1611,7 @@
 0.0.0.0 discord-application.com
 0.0.0.0 discord-application.info
 0.0.0.0 discord-applications.com
+0.0.0.0 discord-apply-hypesquad.com
 0.0.0.0 discord-apply.cf
 0.0.0.0 discord-apply.com
 0.0.0.0 discord-applys.com
@@ -1662,6 +1674,7 @@
 0.0.0.0 discord-classic.ru
 0.0.0.0 discord-click.shop
 0.0.0.0 discord-cloud.com
+0.0.0.0 discord-clouds.com
 0.0.0.0 discord-club.org
 0.0.0.0 discord-club.ru
 0.0.0.0 discord-coinmaster.xyz
@@ -2031,6 +2044,7 @@
 0.0.0.0 discord-joinmoderators.com
 0.0.0.0 discord-jointeams.com
 0.0.0.0 discord-leadership.com
+0.0.0.0 discord-link.com
 0.0.0.0 discord-list.cf
 0.0.0.0 discord-lite.com
 0.0.0.0 discord-lite.online
@@ -2739,6 +2753,7 @@
 0.0.0.0 discordchristmaspromo.gifts
 0.0.0.0 discordcift.xyz
 0.0.0.0 discordcinema.com
+0.0.0.0 discordcl.link
 0.0.0.0 discordclaim.com
 0.0.0.0 discordclaim.fun
 0.0.0.0 discordclaim.xyz
@@ -3195,6 +3210,7 @@
 0.0.0.0 discordmoderator.com
 0.0.0.0 discordmoderator.net
 0.0.0.0 discordmoderatoracademy.com
+0.0.0.0 discordmoderatorapplication.com
 0.0.0.0 discordmoderatorapply.com
 0.0.0.0 discordmoderatorforms.com
 0.0.0.0 discordmoderatorinstitute.com
@@ -4298,6 +4314,7 @@
 0.0.0.0 dlscord-stime-2021.ru
 0.0.0.0 dlscord-store.club
 0.0.0.0 dlscord-support.com
+0.0.0.0 dlscord-teams.com
 0.0.0.0 dlscord-testers.ml
 0.0.0.0 dlscord-to.xyz
 0.0.0.0 dlscord-verification.com
@@ -4710,6 +4727,7 @@
 0.0.0.0 enter-hypesquadevent.com
 0.0.0.0 enter-moderator-academy.com
 0.0.0.0 enter-the-discord.com
+0.0.0.0 enter-to-hypesquad.com
 0.0.0.0 enterhypesquad.com
 0.0.0.0 enterhypeteam.com
 0.0.0.0 entertainment-hypesquad.com
@@ -4948,10 +4966,12 @@
 0.0.0.0 forms-academy-moderators-new.com
 0.0.0.0 forms-academy-moderators.com
 0.0.0.0 forms-academymod.com
+0.0.0.0 forms-connect-events-moderators.com
 0.0.0.0 forms-connects-academy-moderators.com
 0.0.0.0 forms-connects-academy-new.com
 0.0.0.0 forms-connects-events-academy.com
 0.0.0.0 forms-connects-events-exams.com
+0.0.0.0 forms-connects-moderators-exams.com
 0.0.0.0 forms-discord.com
 0.0.0.0 forms-events-moderator.com
 0.0.0.0 forms-events-moderators.com
@@ -5558,6 +5578,8 @@
 0.0.0.0 hypesquad-appiication.com
 0.0.0.0 hypesquad-application.academy
 0.0.0.0 hypesquad-applications.info
+0.0.0.0 hypesquad-apply-quiz-team.com
+0.0.0.0 hypesquad-apply-selection.com
 0.0.0.0 hypesquad-apply-teams.com
 0.0.0.0 hypesquad-apply.com
 0.0.0.0 hypesquad-applying.com
@@ -5612,6 +5634,7 @@
 0.0.0.0 hypesquad-events-signip-join.com
 0.0.0.0 hypesquad-events-signup.com
 0.0.0.0 hypesquad-events-subscription.com
+0.0.0.0 hypesquad-events-subscrition.com
 0.0.0.0 hypesquad-events-team.com
 0.0.0.0 hypesquad-events-test.com
 0.0.0.0 hypesquad-events.academy
@@ -5680,13 +5703,17 @@
 0.0.0.0 hypesquad-moderators.com
 0.0.0.0 hypesquad-moderetor-academy.com
 0.0.0.0 hypesquad-new-events.com
+0.0.0.0 hypesquad-new-invite.com
+0.0.0.0 hypesquad-new-selected.com
 0.0.0.0 hypesquad-new.com
 0.0.0.0 hypesquad-newevents.com
 0.0.0.0 hypesquad-news.com
 0.0.0.0 hypesquad-official-form.com
+0.0.0.0 hypesquad-official-forms.com
 0.0.0.0 hypesquad-official-invite.com
 0.0.0.0 hypesquad-official-test.com
 0.0.0.0 hypesquad-official.com
+0.0.0.0 hypesquad-options.com
 0.0.0.0 hypesquad-partners.com
 0.0.0.0 hypesquad-program-community.com
 0.0.0.0 hypesquad-program.com
@@ -5703,6 +5730,8 @@
 0.0.0.0 hypesquad-register.academy
 0.0.0.0 hypesquad-register.com
 0.0.0.0 hypesquad-register.info
+0.0.0.0 hypesquad-registers.com
+0.0.0.0 hypesquad-registration-form.com
 0.0.0.0 hypesquad-registration.com
 0.0.0.0 hypesquad-represent.com
 0.0.0.0 hypesquad-request.com
@@ -5847,6 +5876,7 @@
 0.0.0.0 hypesquadmoderation.com
 0.0.0.0 hypesquadmoderator.com
 0.0.0.0 hypesquadmods.com
+0.0.0.0 hypesquadnew.com
 0.0.0.0 hypesquadreturn.com
 0.0.0.0 hypesquadreturns-form.com
 0.0.0.0 hypesquadreturns.com
@@ -6141,10 +6171,13 @@
 0.0.0.0 join-new-hypesquad-events.com
 0.0.0.0 join-newhypesquad-programs.com
 0.0.0.0 join-newhypesquad.com
+0.0.0.0 join-now-hype-events.com
 0.0.0.0 join-now-hypesquad-events.com
 0.0.0.0 join-now-hypesquad-program.com
 0.0.0.0 join-now-hypesquadevents.com
+0.0.0.0 join-of-hypesquad.com
 0.0.0.0 join-official-hypesquad.com
+0.0.0.0 join-on-hypesquad.com
 0.0.0.0 join-partner.com
 0.0.0.0 join-partneracademy.com
 0.0.0.0 join-program-hypesquad.com
@@ -6956,6 +6989,7 @@
 0.0.0.0 new-drop.net.ru
 0.0.0.0 new-form-hypesquad-academy.com
 0.0.0.0 new-form-hypesquad.com
+0.0.0.0 new-form-hypesquadevents.com
 0.0.0.0 new-form-moderation-academy-exam.com
 0.0.0.0 new-form-moderators.com
 0.0.0.0 new-forms-hypesquad-events.com
@@ -7294,6 +7328,7 @@
 0.0.0.0 odis-gifts.gq
 0.0.0.0 odstranitvirus.cz
 0.0.0.0 offers.flogboat.com
+0.0.0.0 official-academy-discord-quiz.com
 0.0.0.0 official-academy-hypesquad.com
 0.0.0.0 official-academy-moderator.com
 0.0.0.0 official-events-hypesquad.com
@@ -7712,8 +7747,10 @@
 0.0.0.0 registers-hypesquad-events.com
 0.0.0.0 registers-moderator-academy.com
 0.0.0.0 registers-the-discord.com
+0.0.0.0 registration-from-hypesquad.com
 0.0.0.0 registration-hypesquad-events.com
 0.0.0.0 registration-moderator-academy.com
+0.0.0.0 registration-to-hypesquad.com
 0.0.0.0 registry-hypesquad.com
 0.0.0.0 registry-moderator.com
 0.0.0.0 regnitro.net.ru
@@ -9081,6 +9118,7 @@
 0.0.0.0 steamcommnnunnity.world
 0.0.0.0 steamcommnnynity.com
 0.0.0.0 steamcommntiy.xyz
+0.0.0.0 steamcommnuilty.com
 0.0.0.0 steamcommnuitly.com
 0.0.0.0 steamcommnuitty.com
 0.0.0.0 steamcommnuity.com.ru
