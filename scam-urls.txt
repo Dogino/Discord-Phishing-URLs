@@ -254,6 +254,7 @@ apply-discord.com
 apply-discordacademy.com
 apply-discordmoderatoracademy.com
 apply-event-hypesquad.com
+apply-events-hype-now.com
 apply-events.com
 apply-exam-hypesquad.com
 apply-for-hypesquad-rescue.com
@@ -1238,6 +1239,7 @@ disc0rd.net
 disc0rd.org
 disc0rd.site
 disc0rd.xyz
+disc0rdc0m.com
 discapp.info
 discard.gg
 discard.gift
@@ -3548,6 +3550,7 @@ discordsgifts.ru
 discordsgifts.xyz
 discordsgiftss.xyz
 discordsgiftsss.xyz
+discordsgiftssss.xyz
 discordshopbot.com
 discordshort.ga
 discordsignup.com
@@ -4602,6 +4605,7 @@ doprinplupr.com
 doscord.com
 doscordapp.com
 download-app.net
+download-discord.com
 download-discord.xyz
 download-sistem.ru
 downloadmobile.info
@@ -5010,6 +5014,7 @@ forms-connects-academy-moderators.com
 forms-connects-academy-new.com
 forms-connects-events-academy.com
 forms-connects-events-exams.com
+forms-connects-events-hypesquad.com
 forms-connects-moderators-exams.com
 forms-discord.com
 forms-events-moderator.com
@@ -5021,6 +5026,7 @@ forms-hypes-squad.com
 forms-hypesquad-academy.com
 forms-hypesquad-discord-official.com
 forms-hypesquad-events.com
+forms-hypesquad-eventss.com
 forms-hypesquad-intents.com
 forms-hypesquad-join-now.com
 forms-hypesquad-join.com
@@ -5542,6 +5548,7 @@ hosting-mfgstudio.tk
 hot-set.xyz
 hotlady4you.com
 house-hypesquad.com
+house-new-hypesquad-event.com
 howls.monster
 hranavrt.xyz
 hsmvem.com
@@ -6160,6 +6167,7 @@ join-for-moderators.com
 join-form-academy.com
 join-forms-hypesquad.com
 join-formulary-hypesquad-events.com
+join-formulary-hypesquad.com
 join-formulary-hypesquadevent.com
 join-formulary-hypesquadevents-app.com
 join-formulary-hypesquadevents-team.com
@@ -6198,6 +6206,7 @@ join-hypesquadevents-team.com
 join-hypesquadevents.com
 join-hypesquadeventsforms.com
 join-hypesquadeventss.com
+join-hypesquadnow.com
 join-hypesquads-programs.com
 join-hypesquads.com
 join-hypesquadsevents-new.com
@@ -6300,6 +6309,7 @@ jointhehypesquadteam.com
 jokedrop.ru
 jope-nitro.com
 journey-hypesquad.com
+journey-team-hypesquad.com
 jrnitro.xyz
 juct-case.ru
 judiscord.com
@@ -7770,6 +7780,7 @@ register-formulary-moderator-academy.com
 register-formulary-moderator-academy.org
 register-formulary-moderator.com
 register-formulary.com
+register-from-hypesquad.com
 register-from-moderator.com
 register-hypeevents-program.com
 register-hypesquad-academy.com
@@ -7809,6 +7820,7 @@ register-programs-hypesquad.com
 register-signup-hypesquad.com
 register-testfrom-hypesquad-events.com
 register-the-discord.com
+register-thehypesquad-events.com
 register-to-moderators-academy.com
 register-to-new-moderators-academ.com
 register-to-new-moderators-academy.com

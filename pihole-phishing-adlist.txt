@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 4 May 2022, 21:25 UTC+02
+# Last modified: Thu, 5 May 2022, 14:21 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -258,6 +258,7 @@
 0.0.0.0 apply-discordacademy.com
 0.0.0.0 apply-discordmoderatoracademy.com
 0.0.0.0 apply-event-hypesquad.com
+0.0.0.0 apply-events-hype-now.com
 0.0.0.0 apply-events.com
 0.0.0.0 apply-exam-hypesquad.com
 0.0.0.0 apply-for-hypesquad-rescue.com
@@ -1242,6 +1243,7 @@
 0.0.0.0 disc0rd.org
 0.0.0.0 disc0rd.site
 0.0.0.0 disc0rd.xyz
+0.0.0.0 disc0rdc0m.com
 0.0.0.0 discapp.info
 0.0.0.0 discard.gg
 0.0.0.0 discard.gift
@@ -3552,6 +3554,7 @@
 0.0.0.0 discordsgifts.xyz
 0.0.0.0 discordsgiftss.xyz
 0.0.0.0 discordsgiftsss.xyz
+0.0.0.0 discordsgiftssss.xyz
 0.0.0.0 discordshopbot.com
 0.0.0.0 discordshort.ga
 0.0.0.0 discordsignup.com
@@ -4606,6 +4609,7 @@
 0.0.0.0 doscord.com
 0.0.0.0 doscordapp.com
 0.0.0.0 download-app.net
+0.0.0.0 download-discord.com
 0.0.0.0 download-discord.xyz
 0.0.0.0 download-sistem.ru
 0.0.0.0 downloadmobile.info
@@ -5014,6 +5018,7 @@
 0.0.0.0 forms-connects-academy-new.com
 0.0.0.0 forms-connects-events-academy.com
 0.0.0.0 forms-connects-events-exams.com
+0.0.0.0 forms-connects-events-hypesquad.com
 0.0.0.0 forms-connects-moderators-exams.com
 0.0.0.0 forms-discord.com
 0.0.0.0 forms-events-moderator.com
@@ -5025,6 +5030,7 @@
 0.0.0.0 forms-hypesquad-academy.com
 0.0.0.0 forms-hypesquad-discord-official.com
 0.0.0.0 forms-hypesquad-events.com
+0.0.0.0 forms-hypesquad-eventss.com
 0.0.0.0 forms-hypesquad-intents.com
 0.0.0.0 forms-hypesquad-join-now.com
 0.0.0.0 forms-hypesquad-join.com
@@ -5546,6 +5552,7 @@
 0.0.0.0 hot-set.xyz
 0.0.0.0 hotlady4you.com
 0.0.0.0 house-hypesquad.com
+0.0.0.0 house-new-hypesquad-event.com
 0.0.0.0 howls.monster
 0.0.0.0 hranavrt.xyz
 0.0.0.0 hsmvem.com
@@ -6164,6 +6171,7 @@
 0.0.0.0 join-form-academy.com
 0.0.0.0 join-forms-hypesquad.com
 0.0.0.0 join-formulary-hypesquad-events.com
+0.0.0.0 join-formulary-hypesquad.com
 0.0.0.0 join-formulary-hypesquadevent.com
 0.0.0.0 join-formulary-hypesquadevents-app.com
 0.0.0.0 join-formulary-hypesquadevents-team.com
@@ -6202,6 +6210,7 @@
 0.0.0.0 join-hypesquadevents.com
 0.0.0.0 join-hypesquadeventsforms.com
 0.0.0.0 join-hypesquadeventss.com
+0.0.0.0 join-hypesquadnow.com
 0.0.0.0 join-hypesquads-programs.com
 0.0.0.0 join-hypesquads.com
 0.0.0.0 join-hypesquadsevents-new.com
@@ -6304,6 +6313,7 @@
 0.0.0.0 jokedrop.ru
 0.0.0.0 jope-nitro.com
 0.0.0.0 journey-hypesquad.com
+0.0.0.0 journey-team-hypesquad.com
 0.0.0.0 jrnitro.xyz
 0.0.0.0 juct-case.ru
 0.0.0.0 judiscord.com
@@ -7774,6 +7784,7 @@
 0.0.0.0 register-formulary-moderator-academy.org
 0.0.0.0 register-formulary-moderator.com
 0.0.0.0 register-formulary.com
+0.0.0.0 register-from-hypesquad.com
 0.0.0.0 register-from-moderator.com
 0.0.0.0 register-hypeevents-program.com
 0.0.0.0 register-hypesquad-academy.com
@@ -7813,6 +7824,7 @@
 0.0.0.0 register-signup-hypesquad.com
 0.0.0.0 register-testfrom-hypesquad-events.com
 0.0.0.0 register-the-discord.com
+0.0.0.0 register-thehypesquad-events.com
 0.0.0.0 register-to-moderators-academy.com
 0.0.0.0 register-to-new-moderators-academ.com
 0.0.0.0 register-to-new-moderators-academy.com
