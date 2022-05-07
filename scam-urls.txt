@@ -12918,6 +12918,7 @@ twitch-drops.online
 twitch-facepunchs.com
 twitch-nude.com
 twitch-rust.com
+twitch-rivals.ru
 twitch-starter.com
 twitchdiscord.com
 twitchdrops.net.ru
