@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 6 May 2022, 14:13 UTC+02
+# Last modified: Sat, 7 May 2022, 18:25 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -280,6 +280,7 @@
 0.0.0.0 apply-hypesquad-event.com
 0.0.0.0 apply-hypesquad-events.com
 0.0.0.0 apply-hypesquad-exam.com
+0.0.0.0 apply-hypesquad-forms.com
 0.0.0.0 apply-hypesquad-house.com
 0.0.0.0 apply-hypesquad-picked.tk
 0.0.0.0 apply-hypesquad-program.com
@@ -712,6 +713,7 @@
 0.0.0.0 connect-hypesquad-form-events.com
 0.0.0.0 connect-hypesquad-form.com
 0.0.0.0 connect-hypesquad-official.com
+0.0.0.0 connect-hypesquad-trial.com
 0.0.0.0 connect-hypesquad-trials.com
 0.0.0.0 connect-hypesquadevents-official.com
 0.0.0.0 connect-hypesquads-events.com
@@ -1159,6 +1161,7 @@
 0.0.0.0 diiscord-gift.com
 0.0.0.0 diiscord-gift.ru
 0.0.0.0 diiscord-hypesquad.com
+0.0.0.0 diiscord-joinn-hypesquad.com
 0.0.0.0 diiscord-niitro.ru
 0.0.0.0 diiscord-nitro.com
 0.0.0.0 diiscord-nittro.ru
@@ -2586,6 +2589,7 @@
 0.0.0.0 discord.vc
 0.0.0.0 discord.vin
 0.0.0.0 discord.vip
+0.0.0.0 discord.vision
 0.0.0.0 discord.voto
 0.0.0.0 discord.win
 0.0.0.0 discord.wine
@@ -5100,6 +5104,7 @@
 0.0.0.0 formulary-for-hypesquad-app.com
 0.0.0.0 formulary-for-hypesquad-rescue.com
 0.0.0.0 formulary-for-hypesquadevents-team.com
+0.0.0.0 formulary-from-hype.com
 0.0.0.0 formulary-hype-signup.com
 0.0.0.0 formulary-hype-squad-event.com
 0.0.0.0 formulary-hypeacademy.com
@@ -7467,6 +7472,7 @@
 0.0.0.0 official-hypesquad-events.com
 0.0.0.0 official-hypesquad-join.com
 0.0.0.0 official-hypesquad-program.com
+0.0.0.0 official-hypesquad-programs.com
 0.0.0.0 official-hypesquad-registers.com
 0.0.0.0 official-hypesquad-review.com
 0.0.0.0 official-hypesquad-selected.com
@@ -7874,6 +7880,7 @@
 0.0.0.0 register-the-discord.com
 0.0.0.0 register-the-hypesquad.com
 0.0.0.0 register-thehypesquad-events.com
+0.0.0.0 register-thehypesquad-official.com
 0.0.0.0 register-to-moderators-academy.com
 0.0.0.0 register-to-new-moderators-academ.com
 0.0.0.0 register-to-new-moderators-academy.com
@@ -9865,6 +9872,7 @@
 0.0.0.0 steamcommunlty.info
 0.0.0.0 steamcommunlty.it
 0.0.0.0 steamcommunlty.link
+0.0.0.0 steamcommunlty.net
 0.0.0.0 steamcommunlty.net.ru
 0.0.0.0 steamcommunlty.org.ru
 0.0.0.0 steamcommunlty.pl
@@ -10889,6 +10897,7 @@
 0.0.0.0 steamphantomidler.com
 0.0.0.0 steampiwered.com
 0.0.0.0 steamplayhistory.xyz
+0.0.0.0 steamplaypowered.com
 0.0.0.0 steampoeer.com
 0.0.0.0 steampoeerd.com
 0.0.0.0 steampoeered.com
@@ -10954,9 +10963,11 @@
 0.0.0.0 steampoweredmarketing.com
 0.0.0.0 steampoweredoffer.xyz
 0.0.0.0 steampoweredoffers.xyz
+0.0.0.0 steampoweredonline.com
 0.0.0.0 steampoweredpoetry.com
 0.0.0.0 steampoweredpurpose.com
 0.0.0.0 steampoweredpurpose.net
+0.0.0.0 steampoweredsellers.com
 0.0.0.0 steampoweredshow.com
 0.0.0.0 steampoweredsteam.fun
 0.0.0.0 steampoweredsteam.ru
@@ -12921,6 +12932,7 @@
 0.0.0.0 twitch-drops.online
 0.0.0.0 twitch-facepunchs.com
 0.0.0.0 twitch-nude.com
+0.0.0.0 twitch-rivals.ru
 0.0.0.0 twitch-rust.com
 0.0.0.0 twitch-starter.com
 0.0.0.0 twitchdiscord.com

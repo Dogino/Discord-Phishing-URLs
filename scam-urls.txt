@@ -276,6 +276,7 @@ apply-hypeevents.com
 apply-hypesquad-event.com
 apply-hypesquad-events.com
 apply-hypesquad-exam.com
+apply-hypesquad-forms.com
 apply-hypesquad-house.com
 apply-hypesquad-picked.tk
 apply-hypesquad-program.com
@@ -708,6 +709,7 @@ connect-hypesquad-exam.com
 connect-hypesquad-form-events.com
 connect-hypesquad-form.com
 connect-hypesquad-official.com
+connect-hypesquad-trial.com
 connect-hypesquad-trials.com
 connect-hypesquadevents-official.com
 connect-hypesquads-events.com
@@ -1155,6 +1157,7 @@ diiscord-gg.com
 diiscord-gift.com
 diiscord-gift.ru
 diiscord-hypesquad.com
+diiscord-joinn-hypesquad.com
 diiscord-niitro.ru
 diiscord-nitro.com
 diiscord-nittro.ru
@@ -2582,6 +2585,7 @@ discord.us.com
 discord.vc
 discord.vin
 discord.vip
+discord.vision
 discord.voto
 discord.win
 discord.wine
@@ -5096,6 +5100,7 @@ formulary-events-hypesquad.com
 formulary-for-hypesquad-app.com
 formulary-for-hypesquad-rescue.com
 formulary-for-hypesquadevents-team.com
+formulary-from-hype.com
 formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hypeacademy.com
@@ -7463,6 +7468,7 @@ official-hype-squad-events-join.com
 official-hypesquad-events.com
 official-hypesquad-join.com
 official-hypesquad-program.com
+official-hypesquad-programs.com
 official-hypesquad-registers.com
 official-hypesquad-review.com
 official-hypesquad-selected.com
@@ -7870,6 +7876,7 @@ register-testfrom-hypesquad-events.com
 register-the-discord.com
 register-the-hypesquad.com
 register-thehypesquad-events.com
+register-thehypesquad-official.com
 register-to-moderators-academy.com
 register-to-new-moderators-academ.com
 register-to-new-moderators-academy.com
@@ -9861,6 +9868,7 @@ steamcommunlty.fun
 steamcommunlty.info
 steamcommunlty.it
 steamcommunlty.link
+steamcommunlty.net
 steamcommunlty.net.ru
 steamcommunlty.org.ru
 steamcommunlty.pl
@@ -10885,6 +10893,7 @@ steamphantomhours.com
 steamphantomidler.com
 steampiwered.com
 steamplayhistory.xyz
+steamplaypowered.com
 steampoeer.com
 steampoeerd.com
 steampoeered.com
@@ -10950,9 +10959,11 @@ steampoweredkey.com
 steampoweredmarketing.com
 steampoweredoffer.xyz
 steampoweredoffers.xyz
+steampoweredonline.com
 steampoweredpoetry.com
 steampoweredpurpose.com
 steampoweredpurpose.net
+steampoweredsellers.com
 steampoweredshow.com
 steampoweredsteam.fun
 steampoweredsteam.ru
@@ -12917,8 +12928,8 @@ twitch-csgoconnect.gifts
 twitch-drops.online
 twitch-facepunchs.com
 twitch-nude.com
-twitch-rust.com
 twitch-rivals.ru
+twitch-rust.com
 twitch-starter.com
 twitchdiscord.com
 twitchdrops.net.ru
