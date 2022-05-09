@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 8 May 2022, 18:29 UTC+02
+# Last modified: Mon, 9 May 2022, 16:29 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -3092,6 +3092,7 @@
 0.0.0.0 discordgiftsslackbot.ru.com
 0.0.0.0 discordgiftssonarqube-use1.ru.com
 0.0.0.0 discordgiftsss.xyz
+0.0.0.0 discordgiftsssss.xyz
 0.0.0.0 discordgiftssyslog.ru.com
 0.0.0.0 discordgiftsteam.ru
 0.0.0.0 discordgiftsunaisuarez.ru.com
@@ -5922,6 +5923,7 @@
 0.0.0.0 hypesquad-subscrition.com
 0.0.0.0 hypesquad-support.com
 0.0.0.0 hypesquad-survey.info
+0.0.0.0 hypesquad-team-formulary.com
 0.0.0.0 hypesquad-team-join.com
 0.0.0.0 hypesquad-team-signup.com
 0.0.0.0 hypesquad-team.com
@@ -6064,6 +6066,7 @@
 0.0.0.0 hypesquadteam-join.com
 0.0.0.0 hypesquadteam-moderators-form.com
 0.0.0.0 hypesquadteam-moderators.com
+0.0.0.0 hypesquadteam-official.com
 0.0.0.0 hypesquadteam-redeem.com
 0.0.0.0 hypesquadteam-register.com
 0.0.0.0 hypesquadteam-signup.com
@@ -10487,6 +10490,7 @@
 0.0.0.0 steamcomynitiy.ru
 0.0.0.0 steamcomynity.ru
 0.0.0.0 steamcomynity.ru.com
+0.0.0.0 steamcomynity.site
 0.0.0.0 steamcomynity.xyz
 0.0.0.0 steamcomynlty.com
 0.0.0.0 steamcomynnitu.net.ru
