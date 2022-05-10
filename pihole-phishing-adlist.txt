@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 9 May 2022, 16:29 UTC+02
+# Last modified: Wed, 11 May 2022, 00:16 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -33,6 +33,7 @@
 0.0.0.0 3ds-security.xyz
 0.0.0.0 3month-get.com
 0.0.0.0 3month-give.com
+0.0.0.0 3month-premium.com
 0.0.0.0 411medias.com
 0.0.0.0 4discord.com
 0.0.0.0 4discord.net
@@ -1118,6 +1119,7 @@
 0.0.0.0 dicsordgifte.ru
 0.0.0.0 dicsordgifted.ru
 0.0.0.0 dicsordgifting.xyz
+0.0.0.0 dicsordgifto.gq
 0.0.0.0 dicsordgifts.one
 0.0.0.0 dicsordgifts.ru
 0.0.0.0 dicsordgifts.ru.com
@@ -4866,6 +4868,7 @@
 0.0.0.0 esportsgaming.pp.ua
 0.0.0.0 esportsgvay.xyz
 0.0.0.0 espots-csgo.xyz
+0.0.0.0 ethway.io
 0.0.0.0 euphe-gun.com
 0.0.0.0 event-discord.com
 0.0.0.0 event-hypesquad-invite.com
@@ -5321,6 +5324,7 @@
 0.0.0.0 fundr0peur.space
 0.0.0.0 furry.surf
 0.0.0.0 fustcup.ru
+0.0.0.0 futureswap.space
 0.0.0.0 g-discord-nitro.com
 0.0.0.0 g-dlscord.ru
 0.0.0.0 g-games.store
@@ -6497,6 +6501,7 @@
 0.0.0.0 likaraoke.com
 0.0.0.0 limafoxtrot.online
 0.0.0.0 limeside.net.ru
+0.0.0.0 linkairdrop.io
 0.0.0.0 linkbucks.com
 0.0.0.0 linkdiscord-airdrop.com
 0.0.0.0 linkshrink.net
@@ -6671,6 +6676,7 @@
 0.0.0.0 mfroute.com
 0.0.0.0 microsup.net
 0.0.0.0 microsupportjp.xyz
+0.0.0.0 mineko.xyz
 0.0.0.0 minero.cc
 0.0.0.0 miniurl.pw
 0.0.0.0 mipcoins.com
@@ -7560,6 +7566,7 @@
 0.0.0.0 okdiscord.com
 0.0.0.0 old-crash.com
 0.0.0.0 oldharper.xyz
+0.0.0.0 omg-airdrop.io
 0.0.0.0 omgtnc.com
 0.0.0.0 one-skill.pp.ru
 0.0.0.0 onegadget.ru
@@ -13048,6 +13055,10 @@
 0.0.0.0 umbrellajump.com
 0.0.0.0 umbrellajump.xyz
 0.0.0.0 unblckdiscord.cf
+0.0.0.0 uni-airdrop.io
+0.0.0.0 uni-airdrop.org
+0.0.0.0 uni-claim.io
+0.0.0.0 uniswap-airdrop.org
 0.0.0.0 up-discord.com
 0.0.0.0 up-discord.ru
 0.0.0.0 up-nitro.com
