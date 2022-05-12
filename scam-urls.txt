@@ -4346,6 +4346,7 @@ dlscord-clubs.xyz
 dlscord-collaboration.com
 dlscord-developer.com
 dlscord-egg.xyz
+dlscord-egift.com
 dlscord-event.com
 dlscord-free-nltro.ru
 dlscord-free.com
@@ -4517,6 +4518,7 @@ dlscord.world
 dlscordairdrop.com
 dlscordairdropi.com
 dlscordairdropj.com
+dlscordairdropl.com
 dlscordalrdrop.com
 dlscordapp.codes
 dlscordapp.com
