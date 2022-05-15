@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 14 May 2022, 14:35 UTC+02
+# Last modified: Sun, 15 May 2022, 21:08 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -206,6 +206,7 @@
 0.0.0.0 antivirus.landerhd.com
 0.0.0.0 aoeah.promo-codes.world
 0.0.0.0 ap7.ru
+0.0.0.0 api-beta.com
 0.0.0.0 apidevelopers-intent.com
 0.0.0.0 apilond.com
 0.0.0.0 aplication-hypesquad-official.com
@@ -4148,6 +4149,7 @@
 0.0.0.0 disrcodops-mounth.gq
 0.0.0.0 disrcodrop.gq
 0.0.0.0 disrcods-gift.com
+0.0.0.0 disrcods-gift.ru
 0.0.0.0 disrcods-gift.xyz
 0.0.0.0 disrcods-nitrq.gq
 0.0.0.0 disrcord.com
@@ -4235,6 +4237,8 @@
 0.0.0.0 dlcsorcl.com
 0.0.0.0 dlcsorcl.ru
 0.0.0.0 dlcsord-airdrop.com
+0.0.0.0 dlcsord-com.com
+0.0.0.0 dlcsord-com.ru
 0.0.0.0 dlcsord-gift.com
 0.0.0.0 dlcsord-gift.ru
 0.0.0.0 dlcsord-gift.ru.com
@@ -4754,6 +4758,7 @@
 0.0.0.0 download-app.net
 0.0.0.0 download-discord.com
 0.0.0.0 download-discord.xyz
+0.0.0.0 download-discords.com
 0.0.0.0 download-sistem.ru
 0.0.0.0 downloadmobile.info
 0.0.0.0 downloads2020.com
@@ -5279,6 +5284,7 @@
 0.0.0.0 formulary-mods.com
 0.0.0.0 formulary-new-hypesquad.com
 0.0.0.0 formulary-of-hypesquad.com
+0.0.0.0 formulary-on-hypesquad.com
 0.0.0.0 formulary-progam-moderator.com
 0.0.0.0 formulary-progam.com
 0.0.0.0 formulary-programs-hypesquad.com
@@ -5884,6 +5890,7 @@
 0.0.0.0 hypesquad-events-official.com
 0.0.0.0 hypesquad-events-progam.com
 0.0.0.0 hypesquad-events-program.com
+0.0.0.0 hypesquad-events-redeem.com
 0.0.0.0 hypesquad-events-register.com
 0.0.0.0 hypesquad-events-rescue.com
 0.0.0.0 hypesquad-events-selected.com
@@ -5918,6 +5925,7 @@
 0.0.0.0 hypesquad-formulary-team.com
 0.0.0.0 hypesquad-formulary.com
 0.0.0.0 hypesquad-formularyy.com
+0.0.0.0 hypesquad-from-selected.com
 0.0.0.0 hypesquad-go-badge.com
 0.0.0.0 hypesquad-go.com
 0.0.0.0 hypesquad-group.com
@@ -6086,6 +6094,7 @@
 0.0.0.0 hypesquadapplication.com
 0.0.0.0 hypesquadapplications.cf
 0.0.0.0 hypesquadapplications.xyz
+0.0.0.0 hypesquadapply.com
 0.0.0.0 hypesquadbadge.com
 0.0.0.0 hypesquadcelebrations.com
 0.0.0.0 hypesquadcelebrationsrequest.com
