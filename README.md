@@ -1,3 +1,5 @@
+# Discord & Steam Phishing URLs
+
 This repository contains a sorted [scam-urls.txt](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt) file of known phishing links used on Discord. 
 Scammers and userbots might use those links for stealing logins, passwords, IP addresses and much more. Please check below the list of the currently known scams on Discord.
 **Be careful NOT to open those links for ANY reason** unless you know what you are doing.
