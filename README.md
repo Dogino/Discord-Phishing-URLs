@@ -1,32 +1,48 @@
-# Discord Phishing URLs
+This repository contains a sorted [scam-urls.txt](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt) file of known phishing links used on Discord. 
+Scammers and userbots might use those links for stealing logins, passwords, IP addresses and much more. Please check below the list of the currently known scams on Discord.
+Be careful NOT to open those links for ANY reason unless you know what you are doing.
 
-This repo contains a readable sorted list.txt of known Discord phishing urls. Those links are used by scammers/userbots for stealing users login/password data, IP addresses and/or download malicious software. If a friend of yours sends you some link with some text like "free nitro from discord/steam", "join the discord moderator" or "hypesquad is recruiting" or anything like this with some URL, be careful, they might have been hacked. Some of those websites might install malware in your PC downloading your Discord cookie/auth key, allowing scammers to send links with your account/name to servers and friends. Be careful NOT to open those links for ANY reason, even if a friend of yours asks you to do so.
+You may want to check [this domain list](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt) and compare those links to see if they are legit or not.
 
-You may want to check the official domain list and compare those links to see if they are legit or not.
+## Purpose of this repository
+- Comparing domains to see if they are used for phishing
+- Checking which scams are currently used by userbots and what to do in case you got scammed
+- Blocking those URLs from loading completely in your home network using [Pi-Hole](https://github.com/pi-hole/pi-hole) adlists (use [this file](https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt) as adlist to block them and make sure gravity is costantly updated)
+- Phades, a Discord bot which deletes and bans users who post these links
 
-A Pi-Hole adlist file is included and will automatically block your browser from loading those domains, you can use Pi-Hole with a RaspberryPi as a global DNS within your router, more instructions in [their page](https://github.com/pi-hole/pi-hole). 
-A Discord bot is also included which takes actions on this links, read more on Discord Blacklist Bot.
+## Adding & Removing links
+If you find a new domain which is not included in this list, please open a issue or a pull request. You do not need to update the pihole file if you don't want to, it will get updated with the daily domain update with your link. Some of these domains are found using a simple regex in a big list of daily registered domains, some false positives might be included in this list and if your domain or a domain which is not used for phishing is included, please submit a issue so I can remove it accordingly. I do not have plans to remove old phishing urls even if they don't work anymore, and I don't add temporary/free domain hostings to the list and link shorteners (such as replit, github.io, altervista, bit.ly, goo.gl etc)
+
+## Phades
+Phades is a Discord bot which takes action upon detecting one of these links. It currently has two functions of automoderation, one used for phishing urls from this list and one for shorteners, server admins can toggle if to kick or ban users when a phishing link is detected and nothing/kick/ban users when a shortener link is detected. Phades doesn't store any data about servers or users besides your server id used for configurations of the two options above. A rewrite is in progress to convert every command to slash due to Discord's deadline on August, when the slash rewrite will be completed the entire source of Phades will be made public and people can deploy their own hosted instance without using mine. You might want to run !help to see all available commands, phades only responds to server admins/founders in the current state.
+
+## Currently known scams and what to do 
+
+> Free nitro X months from (enter brand here, eg: steam, discord, steelseries)
+
+Mostly used in server text channels, they use edited Discord names with a fake embed to make it look real or lowercase letters (eg: dlscord where the `l` it's a L in lowercase or dscords.tld) in the attempt that people won't notice the different domain, they also use some randomly generated slashes after such as "nitro from dlscord.com/free-nitro" and when this page is opened it usually asks to login to "claim" such nitro.
+If you opened this url, your login token (which allows you to stay logged in) is probably in their hands and they will spam the same thing with your name in all your servers and friends, please change your Discord password as soon as possible
+
+> Hypesquad is recruiting... | Join the discord moderation team... | Join the events | Your account is in danger...
+
+Those are usually sent in private messages by userbots faking system messages with names like "Hype Squad Events" or "Moderation Team", Discord has recently blocked people from adding "discord" to their name but they usually use hypesquad or similar to those. 
+It's the same as above, some fake domain like "join-the-hypesquad-team.tld" where you are supposed to login, if you have a updated browser it should warn you of the phishing attempt, so keep your system and your browser updated to detect those links even before they can load, but if you entered in those sites with your QR code or with your login data, again, change your passwords. If you wonder how a REAL Discord message looks like, they have a "SYSTEM" icon next to their name, like bots have "BOT", please look at [this Discord support page](https://support.discord.com/hc/en-us/articles/360036118732-Discord-System-Messages) which shows you how it looks. 
+
+> Can we talk for a moment? I recently reported you on (steam) due to a mistake...
+
+This is a Steam phishing attempt, they claim to be like steam moderators or middlemans/steam staff and they need you to verify your identity or something like that, please remember that Steam Support won't contact you on Discord, they will mail you using their official domain name, they will probably also give you some fake steam page (like steamncommunity.tld) where you are supposed to login or to trade skins/steam items in order to "avoid" getting banned, once again, Steam won't ever contact you on Discord if you did something, so don't bother opening those sites.
+
+> I am a game/software developer and I want you to test my game/software...
+
+This is usually sent in private messages and you should avoid it before it's too late. They ask you to "play" their little game of around 60-100mb which might be a demo/alpha/anything linking you a "page" which shows some image with a download link. This is a wide-spreaded RAT which will download your Discord login data, IP addresses, 2FA backup codes (including your current one so they can relogin in your account), browser passwords and cookies (which allows them to login to 2FA protected pages without using 2FA at all) and even extensions passwords (such as MetaMask for cryptocurrency), they can also install cryptominers in your pc or other types of malware. Those programs are NOT detectable from your antivirus software and they usually use a node-js or a unity packed file with some random game name asking you to open it for testing, if you really want to test it, please defend yourself using a offline virtual machine and a VPN in your main system, do not open these files in your main computer for any reason.
+If it happened that you opened one of those, your entire system might be corrupted and your saved passwords, browser passwords and history, credit card details, discord login and 2fa tokens might be in their hands already, change ALL your password of ALL your accounts in ALL websites as soon as possible using another machine (smartphone, another computer etc) and if you had your credit card details saved, contact your bank and block your card asap. Please avoid opening unknown .exes and .zips sent by random people on Discord.
+
+There might be new ones and scammers always try to change their methods to avoid getting easily detected, if you got scammed or they tried to scam you, please send a ticket to Discord support [link here](https://dis.gd/contact) to get those bots banned and potential accounts saved. You can avoid all of those scams with just common sense, no one gives you free stuff, no Steam/otherbrand support will contact you on Discord and you shouldn't be opening random mispelled discord/steam websites or download random .exes from the internet.
 
 ## Credits
 
  - [discord-scam-links](https://github.com/BuildBot42/discord-scam-links) by BuildBot42
  - [scam-links](https://github.com/DevSpen/scam-links) by DevSpen
+ - [discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) by nikolaischunk
  - WHOIS Newly registered domains
- - Other sources from public servers and contributors.
- 
-## Adding links
-I'll add links when I find new ones, feel free to PR/Issue if you want to contribute. I'm not planning to remove those links even if they won't work anymore, domains can last even years, I doubt Discord/Steam will buy those fake domains for official purposes and if they will, I'll remove them accordingly.
-
-## Usage
-You can add my bot for automatically ban those links and there is also a [Pi-Hole](https://github.com/pi-hole/pi-hole) file which you can use in order to block those malicious domains with your Pi-Hole DNS.
-
-## Discord Blacklist bot
-Phades is a Discord bot which detects links from this list. You can invite the bot by [clicking this link](https://discord.com/api/oauth2/authorize?client_id=926211335946137771&permissions=1529210072134&scope=bot%20applications.commands). 
-Phades will **not** collect any data from messages or users. If you find new domains that the bot doesn't detect, please let me know so I can add them in the blacklist file, thank you!
-
-When a link containing a domain from the message is detected, Phades will kick the user by default. You may change this setting by using !p in a text channel, you need admin permissions (or being the server owner) to do so. 
-There is also a link shortener detection system which works the same as the phishing system, you may change the bot's behaviour by using !s in a text channel. By default it will do nothing to users, you can see your current options with !c, and get a full list of commands with !help/!info.
-
-You can undo bans from Discord -> Server Settings -> User Management section -> Bans. If you have feedback it's appreciated. Phades will be open source once more features will be introduced.
-
-This invite url will add Phades to your server with some permissions, it DOES NOT use administrator. If you want to esclude a channel from the bot, just block Phades' "view messages" permissions to that text channel.
+ - Other sources from public servers and contributors
