@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 17 May 2022, 14:30 UTC+02
+# Last modified: Wed, 18 May 2022, 14:00 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2375,6 +2375,7 @@
 0.0.0.0 discord-partner.net
 0.0.0.0 discord-partners.com
 0.0.0.0 discord-partnership.com
+0.0.0.0 discord-party.com
 0.0.0.0 discord-phone.com
 0.0.0.0 discord-plays.xyz
 0.0.0.0 discord-plus.com
@@ -4729,6 +4730,7 @@
 0.0.0.0 dlscrod-go.com
 0.0.0.0 dlscrod-nitro.ru
 0.0.0.0 dlscrod-nitro.shop
+0.0.0.0 dlscrod-ui.com
 0.0.0.0 dlscrod.gifts
 0.0.0.0 dlscrod.ru.com
 0.0.0.0 dlscrod.site
@@ -8514,6 +8516,8 @@
 0.0.0.0 selected-to-hypesquad.com
 0.0.0.0 selectedforhypesquad.com
 0.0.0.0 selecteds-hypesquad.com
+0.0.0.0 selecteds-of-hypesquad-events.com
+0.0.0.0 selecteds-of-hypesquad.com
 0.0.0.0 selection-for-hypesquad.com
 0.0.0.0 selection-from-hypesquad.com
 0.0.0.0 selection-hype-squad.com
@@ -9938,6 +9942,7 @@
 0.0.0.0 steamcommunittiy.com
 0.0.0.0 steamcommunittrade.xyz
 0.0.0.0 steamcommunittru.co
+0.0.0.0 steamcommunitty.com
 0.0.0.0 steamcommunitty.com.ru
 0.0.0.0 steamcommunitty.esplay.eu
 0.0.0.0 steamcommunitty.net
@@ -13228,6 +13233,7 @@
 0.0.0.0 the-join-hypesquadevents-news.com
 0.0.0.0 the-shrubbery.co.uk
 0.0.0.0 thediscordapp.com
+0.0.0.0 thediscordteam.com
 0.0.0.0 thehypesquadevents-forms.com
 0.0.0.0 thehypesquadforms-apply.com
 0.0.0.0 thehypesquadteam-application.com
