@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 19 May 2022, 13:33 UTC+02
+# Last modified: Fri, 20 May 2022, 13:25 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2855,6 +2855,7 @@
 0.0.0.0 discordboosts.shop
 0.0.0.0 discordbot.click
 0.0.0.0 discordbot.com
+0.0.0.0 discordbot.online
 0.0.0.0 discordbot.pro
 0.0.0.0 discordbot.store
 0.0.0.0 discordbotads.com
@@ -2924,6 +2925,7 @@
 0.0.0.0 discordcpp.com
 0.0.0.0 discordcrasher.wtf
 0.0.0.0 discordcreators.net
+0.0.0.0 discordcum.zone
 0.0.0.0 discordd.buzz
 0.0.0.0 discordd.club
 0.0.0.0 discordd.com
@@ -4467,6 +4469,7 @@
 0.0.0.0 dlscord-giftt.ru
 0.0.0.0 dlscord-gitf.ru
 0.0.0.0 dlscord-giv.com
+0.0.0.0 dlscord-giv.site
 0.0.0.0 dlscord-give.com
 0.0.0.0 dlscord-give.ru.com
 0.0.0.0 dlscord-giveaway.com
@@ -4907,6 +4910,7 @@
 0.0.0.0 dsscordgift.xyz
 0.0.0.0 dssscordglft.xyz
 0.0.0.0 dstools-gift.gq
+0.0.0.0 dsxcordglft.xyz
 0.0.0.0 dtscord.com
 0.0.0.0 duckfed.com
 0.0.0.0 duiscord.com
@@ -7428,6 +7432,7 @@
 0.0.0.0 new-formulary-to-hypesquad.com
 0.0.0.0 new-give.com
 0.0.0.0 new-hype-register.com
+0.0.0.0 new-hypesquad-event.com
 0.0.0.0 new-hypesquad-events-discord.com
 0.0.0.0 new-hypesquad-events.com
 0.0.0.0 new-hypesquad-form.com
@@ -7624,6 +7629,7 @@
 0.0.0.0 nitro-w.xyz
 0.0.0.0 nitro-xl.xyz
 0.0.0.0 nitro-z.xyz
+0.0.0.0 nitro.academy
 0.0.0.0 nitro.click
 0.0.0.0 nitro.gift
 0.0.0.0 nitro.gives
@@ -7689,6 +7695,7 @@
 0.0.0.0 nitrogifc.xyz
 0.0.0.0 nitrogifl.xyz
 0.0.0.0 nitrogifn.xyz
+0.0.0.0 nitrogifr.xyz
 0.0.0.0 nitrogift-forfree.xyz
 0.0.0.0 nitrogift-free.xyz
 0.0.0.0 nitrogift-fromsteam.xyz
