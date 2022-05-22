@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 21 May 2022, 15:33 UTC+02
+# Last modified: Sun, 22 May 2022, 14:13 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -729,6 +729,7 @@
 0.0.0.0 comgift-discords.com
 0.0.0.0 community-discord.com
 0.0.0.0 communitydiscord.com
+0.0.0.0 communitymoderators.com
 0.0.0.0 communitytradeoffer.com
 0.0.0.0 communitytradeoffer.com.ru
 0.0.0.0 comnitrosteaml.com
@@ -2920,6 +2921,7 @@
 0.0.0.0 discordclub.online
 0.0.0.0 discordco.com
 0.0.0.0 discordcode.ru
+0.0.0.0 discordcodes.xyz
 0.0.0.0 discordcoffee.com
 0.0.0.0 discordcomlogin.com
 0.0.0.0 discordcommunity.club
@@ -3521,6 +3523,7 @@
 0.0.0.0 discordoffers.me
 0.0.0.0 discordofficial.com
 0.0.0.0 discordofficial.link
+0.0.0.0 discordoo.xyz
 0.0.0.0 discordopp.com
 0.0.0.0 discordp.com
 0.0.0.0 discordp.ml
@@ -3599,6 +3602,7 @@
 0.0.0.0 discordremake.ml
 0.0.0.0 discordresearch.com
 0.0.0.0 discordreward.com
+0.0.0.0 discordreward.xyz
 0.0.0.0 discordrewards.net
 0.0.0.0 discordrgift.club
 0.0.0.0 discordrgift.com
@@ -4730,6 +4734,7 @@
 0.0.0.0 dlscords-nitro.com
 0.0.0.0 dlscords-nitro.xyz
 0.0.0.0 dlscords-nitros.com
+0.0.0.0 dlscords-nltro.com
 0.0.0.0 dlscords-nltro.xyz
 0.0.0.0 dlscords.gifts
 0.0.0.0 dlscords.ru
@@ -5075,6 +5080,7 @@
 0.0.0.0 exam-discord.com
 0.0.0.0 exam-hypesquad-academy.com
 0.0.0.0 exam-hypesquad-moderator.com
+0.0.0.0 exam-hypesquad-new.com
 0.0.0.0 exam-hypesquad.com
 0.0.0.0 exam-hypesquadevent.com
 0.0.0.0 exam-hypesquadevents-rules.com
@@ -5266,7 +5272,9 @@
 0.0.0.0 forms-discord.com
 0.0.0.0 forms-events-moderator.com
 0.0.0.0 forms-events-moderators.com
+0.0.0.0 forms-for-hypeteams.com
 0.0.0.0 forms-for-new-hypesquad-testers.com
+0.0.0.0 forms-from-hypesquad-teams.com
 0.0.0.0 forms-hype-discord-events-support.com
 0.0.0.0 forms-hypes-join.com
 0.0.0.0 forms-hypes-squad.com
@@ -5693,6 +5701,7 @@
 0.0.0.0 giftsforeveryone.gq
 0.0.0.0 giftsfrom.online
 0.0.0.0 giftsnitro.com
+0.0.0.0 giftsnitro.xyz
 0.0.0.0 giftsu-nitro.gq
 0.0.0.0 giiveaway-discord.com
 0.0.0.0 ginedis.com
@@ -6093,6 +6102,7 @@
 0.0.0.0 hypesquad-options.com
 0.0.0.0 hypesquad-participate-events.com
 0.0.0.0 hypesquad-partners.com
+0.0.0.0 hypesquad-private.com
 0.0.0.0 hypesquad-program-community.com
 0.0.0.0 hypesquad-program.com
 0.0.0.0 hypesquad-programevents.com
@@ -6322,9 +6332,12 @@
 0.0.0.0 hypessquad-discord.com
 0.0.0.0 hypessquad-events.com
 0.0.0.0 hypessquad-signup.com
+0.0.0.0 hypeteam-subscription.com
+0.0.0.0 hypeteam-subscriptions.com
 0.0.0.0 hypeteams-formulary.com
 0.0.0.0 hypeteams-invitation.com
 0.0.0.0 hypeteams-invites.com
+0.0.0.0 hypeteams-subscription.com
 0.0.0.0 hypevents-academy.com
 0.0.0.0 hypixel.run
 0.0.0.0 hypixelskyblock.net
@@ -6376,6 +6389,7 @@
 0.0.0.0 instahookupxxx.com
 0.0.0.0 installnow.xyz
 0.0.0.0 integrate-hypesquad-exams.com
+0.0.0.0 integration-on-hypesquad.com
 0.0.0.0 integrationsmod-academy.com
 0.0.0.0 intell.in.ua
 0.0.0.0 intent-developers.com
@@ -8759,6 +8773,7 @@
 0.0.0.0 simplenitro.gift
 0.0.0.0 sinder8.com
 0.0.0.0 singup-discordmoderator.com
+0.0.0.0 singup-for-hypesquad.com
 0.0.0.0 singup-for-team-hypesquad.com
 0.0.0.0 singup-hypesquad-events.com
 0.0.0.0 singup-hypesquad-program.com
@@ -9007,6 +9022,7 @@
 0.0.0.0 spottyfly.com
 0.0.0.0 spyware.com
 0.0.0.0 squad-apply.com
+0.0.0.0 squad-beta.com
 0.0.0.0 squad-discord.com
 0.0.0.0 squad-form.com
 0.0.0.0 squad-selected.com
@@ -9349,6 +9365,7 @@
 0.0.0.0 steaimcomnumitly.com
 0.0.0.0 steaimecommintliy.com
 0.0.0.0 steaimecommunitiy.com
+0.0.0.0 steaimecommunnity.com
 0.0.0.0 steaimeecommuniity.com
 0.0.0.0 steaimeecommunity.com
 0.0.0.0 stealcommuniti.ru
