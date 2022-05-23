@@ -2902,6 +2902,7 @@ discordchannels6.xyz
 discordchannels7.xyz
 discordchannels8.xyz
 discordchannels9.xyz
+discordchargeless.xyz
 discordcharity.org
 discordchatdjp.com
 discordcheats.net
@@ -3418,6 +3419,7 @@ discordn.gift
 discordnew-staff.com
 discordnewmods.com
 discordnewyear.com
+discordnft.com
 discordniitro.com
 discordninjas.com
 discordnit.ro
@@ -4808,6 +4810,13 @@ dlscrods-app.xyz
 dlscrods-gift.xyz
 dlscurd.com
 dlsdorsnitro.com
+dlskord-app.cloud
+dlskord-app.xyz
+dlskord-apps.cloud
+dlskord-apps.xyz
+dlskord-download.cloud
+dlskord-download.xyz
+dlskord.xyz
 dlsocord.com
 dlsocrd-gift.com
 dlsocrd.com
@@ -6185,6 +6194,7 @@ hypesquad-start.com
 hypesquad-starting.com
 hypesquad-sub.com
 hypesquad-subscribe.tk
+hypesquad-subscription.com
 hypesquad-subscriptions.com
 hypesquad-subscrition.com
 hypesquad-support.com

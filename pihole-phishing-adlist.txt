@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 23 May 2022, 00:30 UTC+02
+# Last modified: Mon, 23 May 2022, 20:50 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -2906,6 +2906,7 @@
 0.0.0.0 discordchannels7.xyz
 0.0.0.0 discordchannels8.xyz
 0.0.0.0 discordchannels9.xyz
+0.0.0.0 discordchargeless.xyz
 0.0.0.0 discordcharity.org
 0.0.0.0 discordchatdjp.com
 0.0.0.0 discordcheats.net
@@ -3422,6 +3423,7 @@
 0.0.0.0 discordnew-staff.com
 0.0.0.0 discordnewmods.com
 0.0.0.0 discordnewyear.com
+0.0.0.0 discordnft.com
 0.0.0.0 discordniitro.com
 0.0.0.0 discordninjas.com
 0.0.0.0 discordnit.ro
@@ -4812,6 +4814,13 @@
 0.0.0.0 dlscrods-gift.xyz
 0.0.0.0 dlscurd.com
 0.0.0.0 dlsdorsnitro.com
+0.0.0.0 dlskord-app.cloud
+0.0.0.0 dlskord-app.xyz
+0.0.0.0 dlskord-apps.cloud
+0.0.0.0 dlskord-apps.xyz
+0.0.0.0 dlskord-download.cloud
+0.0.0.0 dlskord-download.xyz
+0.0.0.0 dlskord.xyz
 0.0.0.0 dlsocord.com
 0.0.0.0 dlsocrd-gift.com
 0.0.0.0 dlsocrd.com
@@ -6189,6 +6198,7 @@
 0.0.0.0 hypesquad-starting.com
 0.0.0.0 hypesquad-sub.com
 0.0.0.0 hypesquad-subscribe.tk
+0.0.0.0 hypesquad-subscription.com
 0.0.0.0 hypesquad-subscriptions.com
 0.0.0.0 hypesquad-subscrition.com
 0.0.0.0 hypesquad-support.com
