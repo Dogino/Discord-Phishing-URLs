@@ -291,6 +291,7 @@ apply-hype-squad.com
 apply-hype.com
 apply-hypeevent.com
 apply-hypeevents.com
+apply-hypesquad-2022.com
 apply-hypesquad-event.com
 apply-hypesquad-events.com
 apply-hypesquad-events.tk
@@ -3326,6 +3327,7 @@ discordinfo.ru
 discordinitro.com
 discordinitroi.com
 discordinspector.com
+discordinvestigations.com
 discordinvite.ml
 discordio.xyz
 discordipo.net
@@ -3987,6 +3989,7 @@ discqrd.gift
 discqrdapp.com
 discqrde.club
 discqrde.com
+discqrde.gg
 discqrld.gift
 discrd.cc
 discrd.co
@@ -6643,6 +6646,7 @@ join-hypesquad-form.com
 join-hypesquad-forms.com
 join-hypesquad-houses.com
 join-hypesquad-how.com
+join-hypesquad-info-team.com
 join-hypesquad-moderators.com
 join-hypesquad-now.com
 join-hypesquad-official.org

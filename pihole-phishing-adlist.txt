@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 24 May 2022, 00:00 UTC+02
+# Last modified: Tue, 24 May 2022, 14:16 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
@@ -295,6 +295,7 @@
 0.0.0.0 apply-hype.com
 0.0.0.0 apply-hypeevent.com
 0.0.0.0 apply-hypeevents.com
+0.0.0.0 apply-hypesquad-2022.com
 0.0.0.0 apply-hypesquad-event.com
 0.0.0.0 apply-hypesquad-events.com
 0.0.0.0 apply-hypesquad-events.tk
@@ -3330,6 +3331,7 @@
 0.0.0.0 discordinitro.com
 0.0.0.0 discordinitroi.com
 0.0.0.0 discordinspector.com
+0.0.0.0 discordinvestigations.com
 0.0.0.0 discordinvite.ml
 0.0.0.0 discordio.xyz
 0.0.0.0 discordipo.net
@@ -3991,6 +3993,7 @@
 0.0.0.0 discqrdapp.com
 0.0.0.0 discqrde.club
 0.0.0.0 discqrde.com
+0.0.0.0 discqrde.gg
 0.0.0.0 discqrld.gift
 0.0.0.0 discrd.cc
 0.0.0.0 discrd.co
@@ -6647,6 +6650,7 @@
 0.0.0.0 join-hypesquad-forms.com
 0.0.0.0 join-hypesquad-houses.com
 0.0.0.0 join-hypesquad-how.com
+0.0.0.0 join-hypesquad-info-team.com
 0.0.0.0 join-hypesquad-moderators.com
 0.0.0.0 join-hypesquad-now.com
 0.0.0.0 join-hypesquad-official.org
