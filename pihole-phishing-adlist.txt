@@ -1,7 +1,14 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 25 May 2022, 21:50 UTC+02
+# Last modified: Thu, 26 May 2022, 21:54 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
+
+0.0.0.0 ord.gg
+0.0.0.0 witch.tv
+0.0.0.0 cord.gifts
+0.0.0.0 steamcommunity.co
+
+# Above domains are listed as false positive for Phades but they will be included in the PiHole list.
 0.0.0.0 101nitro.com
 0.0.0.0 1111sale.us
 0.0.0.0 15dfjkbvdf.club
@@ -1840,6 +1847,7 @@
 0.0.0.0 discord-controls.com
 0.0.0.0 discord-cpp.com
 0.0.0.0 discord-creations.space
+0.0.0.0 discord-d.com
 0.0.0.0 discord-develop.com
 0.0.0.0 discord-developer.academy
 0.0.0.0 discord-developer.com
@@ -2744,6 +2752,7 @@
 0.0.0.0 discord4nitro.com
 0.0.0.0 discord8.com
 0.0.0.0 discord934.com
+0.0.0.0 discorda.com
 0.0.0.0 discorda.xyz
 0.0.0.0 discordaap.com
 0.0.0.0 discordaapp.ga
@@ -3715,6 +3724,7 @@
 0.0.0.0 discords.cf
 0.0.0.0 discords.chat
 0.0.0.0 discords.co.uk
+0.0.0.0 discords.com
 0.0.0.0 discords.company
 0.0.0.0 discords.cool
 0.0.0.0 discords.dev
@@ -3844,6 +3854,7 @@
 0.0.0.0 discordtoken.info
 0.0.0.0 discordtoken.xyz
 0.0.0.0 discordtokens.shop
+0.0.0.0 discordtokens.site
 0.0.0.0 discordtools.net
 0.0.0.0 discordtools.xyz
 0.0.0.0 discordtos.com
@@ -4045,6 +4056,7 @@
 0.0.0.0 discrod-gifte.club
 0.0.0.0 discrod-gifte.com
 0.0.0.0 discrod-gifted.com
+0.0.0.0 discrod-gifting.com
 0.0.0.0 discrod-gifts.club
 0.0.0.0 discrod-gifts.com
 0.0.0.0 discrod-gifts.org
@@ -5883,6 +5895,7 @@
 0.0.0.0 greenadblocker.com
 0.0.0.0 greenpalmbn1.click
 0.0.0.0 greenpalmbn2.click
+0.0.0.0 grlb-free.xyz
 0.0.0.0 gsm-csb.ru
 0.0.0.0 guardian-angel.xyz
 0.0.0.0 guitar-love.ru
@@ -6041,6 +6054,7 @@
 0.0.0.0 hypesquad-billing-promotion.com
 0.0.0.0 hypesquad-bravery.com
 0.0.0.0 hypesquad-claims.com
+0.0.0.0 hypesquad-club-login-2022.com
 0.0.0.0 hypesquad-club.tech
 0.0.0.0 hypesquad-community.com
 0.0.0.0 hypesquad-company.info
@@ -6298,6 +6312,7 @@
 0.0.0.0 hypesquad.info
 0.0.0.0 hypesquad.ml
 0.0.0.0 hypesquad.site
+0.0.0.0 hypesquad.space
 0.0.0.0 hypesquad.store
 0.0.0.0 hypesquad.team
 0.0.0.0 hypesquad.wtf
@@ -6612,6 +6627,7 @@
 0.0.0.0 iplogger.ru
 0.0.0.0 iron-nitro.com
 0.0.0.0 iscord.xyz
+0.0.0.0 iscorddiscord.com
 0.0.0.0 iscordglft.org
 0.0.0.0 islandofhopes.online
 0.0.0.0 itemcloud.one
@@ -7753,6 +7769,7 @@
 0.0.0.0 nitro-gg.ru
 0.0.0.0 nitro-gg.shop
 0.0.0.0 nitro-gg.xyz
+0.0.0.0 nitro-gift-dicsord.gq
 0.0.0.0 nitro-gift-for-you.gq
 0.0.0.0 nitro-gift.net.ru
 0.0.0.0 nitro-gift.ru.com
@@ -11501,6 +11518,7 @@
 0.0.0.0 steammcomuunity.net.ru
 0.0.0.0 steammcomynity.com
 0.0.0.0 steammconmity.ru
+0.0.0.0 steammconmunity.com
 0.0.0.0 steammcounity.ru.com
 0.0.0.0 steammcsnavi.ru
 0.0.0.0 steammcummuniuty.net.ru
@@ -11582,6 +11600,7 @@
 0.0.0.0 steamp0wered.com
 0.0.0.0 steampawared.club
 0.0.0.0 steampawered.store
+0.0.0.0 steampay.com
 0.0.0.0 steampcwered.com
 0.0.0.0 steampewared.com
 0.0.0.0 steampewered.com
@@ -12868,6 +12887,7 @@
 0.0.0.0 steomcornnmunity.com
 0.0.0.0 steomrommunity.com
 0.0.0.0 stepmscononnity.com
+0.0.0.0 stepnautobot.info
 0.0.0.0 steqmcommunity.com
 0.0.0.0 steqmpowered.com
 0.0.0.0 steramcommunity.com
