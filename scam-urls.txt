@@ -645,6 +645,7 @@ chestuwygli.com
 chintsressels.com
 chosen-forhypesquad.com
 chosen-hypesquad.com
+chosen-joinhypesquad.com
 chosenforbeta-apply.com
 chosenforhypesquad.com
 christmasdiscord.gift
@@ -2580,6 +2581,7 @@ discord-verify-account.ml
 discord-verify.com
 discord-verify.one
 discord-verify.ru
+discord-verify.xyz
 discord-vetify.com
 discord-votation.com
 discord-votejob.com
@@ -3341,6 +3343,7 @@ discordinitroi.com
 discordinspector.com
 discordinvestigations.com
 discordinvite.ml
+discordinvite.xyz
 discordio.xyz
 discordipo.net
 discordislocked.com
@@ -5559,6 +5562,7 @@ freedsnitro.ru
 freeenitrogift.xyz
 freefireclaim.club
 freegiftcards.co
+freegiftingnitro.xyz
 freegiftnitro.xyz
 freehlp.com
 freeinstagramfollowersonline.com
@@ -5684,6 +5688,7 @@ getoiu.com
 getskins.monster
 getsteamdeck.com
 getsteamgifts.com
+getunitroni.com
 getviplocals1.com
 getvottak.com
 gfcsgo88.xyz
@@ -6062,6 +6067,7 @@ hypesquad-discord.xyz
 hypesquad-enter.com
 hypesquad-entertainment.com
 hypesquad-eveents.com
+hypesquad-event-2022.com
 hypesquad-event-forms.com
 hypesquad-event-join.com
 hypesquad-event-official.com
@@ -6120,6 +6126,7 @@ hypesquad-form-eventes.com
 hypesquad-form-go.com
 hypesquad-form-intent.com
 hypesquad-form-moderator.com
+hypesquad-form-new-beta.com
 hypesquad-form-selection.com
 hypesquad-forms-new.com
 hypesquad-forms.org
@@ -6543,6 +6550,7 @@ invite-formulary.events
 invite-from-hypesquad-official.com
 invite-from-teamhypesquad.com
 invite-hype-squadevents.com
+invite-hype.com
 invite-hypes-quad-events.com
 invite-hypesquad-2022.com
 invite-hypesquad-academy.com
@@ -6581,6 +6589,7 @@ invite-moderators-academy.com
 invite-moderators-discord.com
 invite-moderators-events.com
 invite-moderators.com
+invite-new-hype.com
 invite-new-hypesquad-events.com
 invite-new-hypesquad.com
 invite-newhypesquad-program.com
@@ -6598,6 +6607,7 @@ invite-to-teamhypesquad.com
 invite.beta-users.app
 inviteacademydc.org
 invitebughunter.com
+invited-hypesquad-2022.com
 invited-hypesquad.com
 invited-hypesquad.tk
 invited-moderator-academy.com
@@ -7884,14 +7894,17 @@ nitrogift-forfree.xyz
 nitrogift-free.xyz
 nitrogift-fromsteam.xyz
 nitrogift.xyz
+nitrogiftforfree.xyz
 nitrogiftfree.xyz
 nitrogifting-free.xyz
 nitrogifting.online
 nitrogifting.ru
+nitrogiftingforfree.xyz
 nitrogiftingsdiscord.xyz
 nitrogifts.site
 nitrogiftsdrop-disc.gq
 nitrogifz.xyz
+nitrogifzz.xyz
 nitrogitt.xyz
 nitrogive.com
 nitrogive.xyz
@@ -7922,6 +7935,7 @@ nitros-free.xyz
 nitros-giveaway.xyz
 nitros-st.xyz
 nitrosapp.com
+nitrosdicsord.xyz
 nitrosgift.com
 nitrosgift.xyz
 nitrospromotion.com
@@ -12306,6 +12320,7 @@ stearncommuniity.com
 stearncommuniity.ru
 stearncommuniity.site
 stearncommuniityt.click
+stearncommunilty.com
 stearncommunilty.ru
 stearncommunilty.site
 stearncommunily.website
