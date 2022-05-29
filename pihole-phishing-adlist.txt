@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 28 May 2022, 12:58 UTC+02
+# Last modified: Sun, 29 May 2022, 12:32 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 ord.gg
@@ -2910,6 +2910,7 @@
 0.0.0.0 discordaqp.com
 0.0.0.0 discordaqq.com
 0.0.0.0 discordaspp.com
+0.0.0.0 discordassist.com
 0.0.0.0 discordassistant.com
 0.0.0.0 discordatapp.com
 0.0.0.0 discordauction.com
@@ -3595,6 +3596,7 @@
 0.0.0.0 discordnltro.us
 0.0.0.0 discordnltro.xyz
 0.0.0.0 discordnltroi.com
+0.0.0.0 discordnltros.com
 0.0.0.0 discordnltros.xyz
 0.0.0.0 discordnotification.com
 0.0.0.0 discordnow.com
@@ -5605,7 +5607,6 @@
 0.0.0.0 free-nitro.ru.com
 0.0.0.0 free-nitro.space
 0.0.0.0 free-nitro.tech
-0.0.0.0 free-nitro.xyz
 0.0.0.0 free-nitrogift.xyz
 0.0.0.0 free-nitroi.ru
 0.0.0.0 free-nitroos.ru
@@ -6641,6 +6642,7 @@
 0.0.0.0 invite-from-teamhypesquad.com
 0.0.0.0 invite-hype-22.com
 0.0.0.0 invite-hype-squadevents.com
+0.0.0.0 invite-hype-teams.com
 0.0.0.0 invite-hype.com
 0.0.0.0 invite-hypeevents-2022.com
 0.0.0.0 invite-hypes-quad-events.com
@@ -6687,6 +6689,7 @@
 0.0.0.0 invite-newhypesquad-program.com
 0.0.0.0 invite-newhypesquadevents.com
 0.0.0.0 invite-official-hypesquad.com
+0.0.0.0 invite-teams-hypesquad.com
 0.0.0.0 invite-the-formulary-hypesquadevents.com
 0.0.0.0 invite-the-hypesquad-events.com
 0.0.0.0 invite-the-hypesquadevents.com
@@ -12244,6 +12247,7 @@
 0.0.0.0 steanmcommunity.ru.com
 0.0.0.0 steanmcommuniuty.ru.com
 0.0.0.0 steanmcommynily.com
+0.0.0.0 steanmcommynituy.com
 0.0.0.0 steanmcommynity.ru
 0.0.0.0 steanmcommyuity.com
 0.0.0.0 steanmcommzunity.ru
