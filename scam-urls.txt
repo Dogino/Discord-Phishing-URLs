@@ -6194,6 +6194,7 @@ hypesquad-events-formn.com
 hypesquad-events-formncom.com
 hypesquad-events-forms.com
 hypesquad-events-formulary.com
+hypesquad-events-group.com
 hypesquad-events-group.uk
 hypesquad-events-house.com
 hypesquad-events-invite-discord.com
@@ -6239,6 +6240,7 @@ hypesquad-form-moderator.com
 hypesquad-form-new-2022.com
 hypesquad-form-new-beta.com
 hypesquad-form-selection.com
+hypesquad-forms-associate.com
 hypesquad-forms-new.com
 hypesquad-forms.org
 hypesquad-formulary-join.com
@@ -6570,6 +6572,7 @@ hypeteam-subscriptions.com
 hypeteams-formulary.com
 hypeteams-invitation.com
 hypeteams-invites.com
+hypeteams-official.com
 hypeteams-signup.com
 hypeteams-signups.com
 hypeteams-subscription.com
@@ -6848,6 +6851,7 @@ join-hypesquadsevents-new.com
 join-hypesquadteam.com
 join-hypesquadteams.com
 join-hypeteams-2022.com
+join-hypeteams-official.com
 join-in-discord.com
 join-in-formulary-hypesquadevents.com
 join-in-the-hypesquad-events.com
@@ -6883,6 +6887,7 @@ join-now-hype-events.com
 join-now-hypesquad-events.com
 join-now-hypesquad-program.com
 join-now-hypesquadevents.com
+join-nowhypesquad.com
 join-of-hypesquad.com
 join-official-hypesquad.com
 join-on-hypesquad.com
@@ -6898,6 +6903,7 @@ join-teams-hypesquad.com
 join-test-moderator.com
 join-the-discord.com
 join-the-hype.com
+join-the-hypeevents.com
 join-the-hypesquad-discord.com
 join-the-hypesquad-new.com
 join-the-hypesquad-team.com
@@ -6906,6 +6912,7 @@ join-the-hypesquadevents-discord.com
 join-the-hypesquadevents-new.com
 join-the-hypesquadevents-now.com
 join-the-hypesquadevents.com
+join-the-hypeteams.com
 join-the-new-hypesquad-events.com
 join-the-new-hypesquad.com
 join-the-new-hypesquadevent.com

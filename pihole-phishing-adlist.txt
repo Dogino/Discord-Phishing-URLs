@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 30 May 2022, 14:18 UTC+02
+# Last modified: Tue, 31 May 2022, 17:30 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 ord.gg
@@ -6205,6 +6205,7 @@
 0.0.0.0 hypesquad-events-formncom.com
 0.0.0.0 hypesquad-events-forms.com
 0.0.0.0 hypesquad-events-formulary.com
+0.0.0.0 hypesquad-events-group.com
 0.0.0.0 hypesquad-events-group.uk
 0.0.0.0 hypesquad-events-house.com
 0.0.0.0 hypesquad-events-invite-discord.com
@@ -6250,6 +6251,7 @@
 0.0.0.0 hypesquad-form-new-2022.com
 0.0.0.0 hypesquad-form-new-beta.com
 0.0.0.0 hypesquad-form-selection.com
+0.0.0.0 hypesquad-forms-associate.com
 0.0.0.0 hypesquad-forms-new.com
 0.0.0.0 hypesquad-forms.org
 0.0.0.0 hypesquad-formulary-join.com
@@ -6581,6 +6583,7 @@
 0.0.0.0 hypeteams-formulary.com
 0.0.0.0 hypeteams-invitation.com
 0.0.0.0 hypeteams-invites.com
+0.0.0.0 hypeteams-official.com
 0.0.0.0 hypeteams-signup.com
 0.0.0.0 hypeteams-signups.com
 0.0.0.0 hypeteams-subscription.com
@@ -6859,6 +6862,7 @@
 0.0.0.0 join-hypesquadteam.com
 0.0.0.0 join-hypesquadteams.com
 0.0.0.0 join-hypeteams-2022.com
+0.0.0.0 join-hypeteams-official.com
 0.0.0.0 join-in-discord.com
 0.0.0.0 join-in-formulary-hypesquadevents.com
 0.0.0.0 join-in-the-hypesquad-events.com
@@ -6894,6 +6898,7 @@
 0.0.0.0 join-now-hypesquad-events.com
 0.0.0.0 join-now-hypesquad-program.com
 0.0.0.0 join-now-hypesquadevents.com
+0.0.0.0 join-nowhypesquad.com
 0.0.0.0 join-of-hypesquad.com
 0.0.0.0 join-official-hypesquad.com
 0.0.0.0 join-on-hypesquad.com
@@ -6909,6 +6914,7 @@
 0.0.0.0 join-test-moderator.com
 0.0.0.0 join-the-discord.com
 0.0.0.0 join-the-hype.com
+0.0.0.0 join-the-hypeevents.com
 0.0.0.0 join-the-hypesquad-discord.com
 0.0.0.0 join-the-hypesquad-new.com
 0.0.0.0 join-the-hypesquad-team.com
@@ -6917,6 +6923,7 @@
 0.0.0.0 join-the-hypesquadevents-new.com
 0.0.0.0 join-the-hypesquadevents-now.com
 0.0.0.0 join-the-hypesquadevents.com
+0.0.0.0 join-the-hypeteams.com
 0.0.0.0 join-the-new-hypesquad-events.com
 0.0.0.0 join-the-new-hypesquad.com
 0.0.0.0 join-the-new-hypesquadevent.com
