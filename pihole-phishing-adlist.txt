@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 2 Jun 2022, 13:18 UTC+02
+# Last modified: Fri, 3 Jun 2022, 19:52 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -5889,6 +5889,7 @@
 0.0.0.0 gift-nitrodiscord.gq
 0.0.0.0 gift-nitrofree.xyz
 0.0.0.0 gift-steam-discord.com
+0.0.0.0 giftdicsard.xyz
 0.0.0.0 giftdicsord.xyz
 0.0.0.0 giftdiscord.gq
 0.0.0.0 giftdiscord.info
@@ -6209,6 +6210,7 @@
 0.0.0.0 hypesquad-apply.com
 0.0.0.0 hypesquad-applying.com
 0.0.0.0 hypesquad-associate.com
+0.0.0.0 hypesquad-badge.com
 0.0.0.0 hypesquad-betas.com
 0.0.0.0 hypesquad-billing-promotion.com
 0.0.0.0 hypesquad-bravery.com
