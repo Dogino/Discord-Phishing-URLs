@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 3 Jun 2022, 19:52 UTC+02
+# Last modified: Sat, 4 Jun 2022, 16:39 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -3842,6 +3842,7 @@
 0.0.0.0 discordsatus.com
 0.0.0.0 discordscan.com
 0.0.0.0 discordscaner.com
+0.0.0.0 discordscarf.com
 0.0.0.0 discordscrapers.xyz
 0.0.0.0 discordscreenshot.com
 0.0.0.0 discordsearch.co
@@ -5689,6 +5690,7 @@
 0.0.0.0 free.machine-discord.tk
 0.0.0.0 free4pc.org
 0.0.0.0 freebitco.in
+0.0.0.0 freedicsord.xyz
 0.0.0.0 freedirscord-nitro.tk
 0.0.0.0 freediscord-nitro.cf
 0.0.0.0 freediscord.site
@@ -8065,6 +8067,7 @@
 0.0.0.0 nitrodiscordx.xyz
 0.0.0.0 nitrodixcord.xyz
 0.0.0.0 nitrodizcord.xyz
+0.0.0.0 nitrodizcords.xyz
 0.0.0.0 nitrodlcsord.xyz
 0.0.0.0 nitrodlscord.xyz
 0.0.0.0 nitrodlscordl.xyz
@@ -8206,6 +8209,7 @@
 0.0.0.0 now-egift.com
 0.0.0.0 now-hypesquad-events-login.com
 0.0.0.0 now-hypesquad-exam.com
+0.0.0.0 now-hypesquad-integrations.com
 0.0.0.0 now-hypesquad.com
 0.0.0.0 now-moderators-register.com
 0.0.0.0 now-squad.com
@@ -11591,6 +11595,7 @@
 0.0.0.0 steamcummunlty.ru
 0.0.0.0 steamcummunniitty.net.ru
 0.0.0.0 steamcummunnity.com
+0.0.0.0 steamcummunty.xyz
 0.0.0.0 steamcummynity.xyz
 0.0.0.0 steamcumnmunity.ru
 0.0.0.0 steamcumnumity.online
