@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 4 Jun 2022, 16:39 UTC+02
+# Last modified: Sun, 5 Jun 2022, 12:39 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -449,6 +449,7 @@
 0.0.0.0 baac8634-www.fannykey.ru
 0.0.0.0 badge-academy.com
 0.0.0.0 badge-team.ml
+0.0.0.0 badgehypesquad.com
 0.0.0.0 badges-verification.com
 0.0.0.0 bainushe.com
 0.0.0.0 bayc-nft.me
@@ -4673,6 +4674,7 @@
 0.0.0.0 dlscord-glft.ru
 0.0.0.0 dlscord-glft.ru.com
 0.0.0.0 dlscord-glft.xyz
+0.0.0.0 dlscord-glftapb.com
 0.0.0.0 dlscord-glfte.com
 0.0.0.0 dlscord-glfted.com
 0.0.0.0 dlscord-glfted.org
@@ -4943,6 +4945,7 @@
 0.0.0.0 dlscors.gift
 0.0.0.0 dlscotd.com
 0.0.0.0 dlscourd.info
+0.0.0.0 dlscrbd.com
 0.0.0.0 dlscrdnitro.site
 0.0.0.0 dlscrocl-app.xyz
 0.0.0.0 dlscrod-app.com
@@ -5714,6 +5717,7 @@
 0.0.0.0 freeluckyge.top
 0.0.0.0 freemalware.com
 0.0.0.0 freenitro-gift.xyz
+0.0.0.0 freenitro-gifting.xyz
 0.0.0.0 freenitro.com
 0.0.0.0 freenitro.gift
 0.0.0.0 freenitro.net.ru
@@ -6052,6 +6056,7 @@
 0.0.0.0 guns-slot.tk
 0.0.0.0 gyazo.nl
 0.0.0.0 hack-expert-solution.link
+0.0.0.0 hahsdiscord.com
 0.0.0.0 halitaoz.cam
 0.0.0.0 hallowen-nitro.com
 0.0.0.0 haloinfinite.shop
@@ -6991,6 +6996,7 @@
 0.0.0.0 join-trial-hypesquad-moderator.com
 0.0.0.0 joindiscord.xyz
 0.0.0.0 joined-hype-squad-events-official.com
+0.0.0.0 joined-to-hypesquad.com
 0.0.0.0 joinerfor-hypesquad-events.com
 0.0.0.0 joinerfor-moderator-exam.com
 0.0.0.0 joinerfor-teamhypesquad.com
@@ -8064,8 +8070,10 @@
 0.0.0.0 nitrodiscord.space
 0.0.0.0 nitrodiscord.xyz
 0.0.0.0 nitrodiscordfree.xyz
+0.0.0.0 nitrodiscords.xyz
 0.0.0.0 nitrodiscordx.xyz
 0.0.0.0 nitrodixcord.xyz
+0.0.0.0 nitrodixsord.xyz
 0.0.0.0 nitrodizcord.xyz
 0.0.0.0 nitrodizcords.xyz
 0.0.0.0 nitrodlcsord.xyz
@@ -8155,6 +8163,8 @@
 0.0.0.0 nitros-st.xyz
 0.0.0.0 nitrosapp.com
 0.0.0.0 nitrosdicsord.xyz
+0.0.0.0 nitrosdicsords.xyz
+0.0.0.0 nitrosdixsord.xyz
 0.0.0.0 nitrosforfree.xyz
 0.0.0.0 nitrosfree.xyz
 0.0.0.0 nitrosfreegift.xyz
@@ -8365,6 +8375,7 @@
 0.0.0.0 petty.link
 0.0.0.0 phygical-questall.icu
 0.0.0.0 picked-hypesquad.tk
+0.0.0.0 picked-join-hypesquad.com
 0.0.0.0 picked-joinhypesquad.com
 0.0.0.0 pickedforhypesquad.com
 0.0.0.0 pine-islands.com
@@ -12679,6 +12690,7 @@
 0.0.0.0 stearncommunytu.ru
 0.0.0.0 stearncommutiny.online
 0.0.0.0 stearncommutiny.ru
+0.0.0.0 stearncommutity.com
 0.0.0.0 stearncommuvity.com
 0.0.0.0 stearncommynitu.ru.com
 0.0.0.0 stearncommynity.ru.com
