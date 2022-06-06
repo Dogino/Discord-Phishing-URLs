@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 5 Jun 2022, 19:52 UTC+02
+# Last modified: Mon, 6 Jun 2022, 12:40 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -538,6 +538,7 @@
 0.0.0.0 bitcoingenerator.cash
 0.0.0.0 bitcoingenerator.me
 0.0.0.0 bitcrypto-wallet.com
+0.0.0.0 bitdiscord.xyz
 0.0.0.0 bitglobalone.com
 0.0.0.0 bitl.cc
 0.0.0.0 bitradebtc.com
@@ -2997,6 +2998,7 @@
 0.0.0.0 discordbeta.com
 0.0.0.0 discordbetter.app
 0.0.0.0 discordbio.xyz
+0.0.0.0 discordbit.xyz
 0.0.0.0 discordbo.com
 0.0.0.0 discordbonus.fun
 0.0.0.0 discordboost.net
@@ -3850,6 +3852,7 @@
 0.0.0.0 discords.support
 0.0.0.0 discords.to
 0.0.0.0 discords.us
+0.0.0.0 discords.wiki
 0.0.0.0 discords.win
 0.0.0.0 discordsafety.crisp.help
 0.0.0.0 discordsantaclaus.com
@@ -7102,6 +7105,7 @@
 0.0.0.0 keymagic.me
 0.0.0.0 keys-dropes.com
 0.0.0.0 keysdropes.com
+0.0.0.0 khemjasurdiscord.org
 0.0.0.0 kievskiyrosdachy-ua.ru
 0.0.0.0 kind-light.xyz
 0.0.0.0 kindservicezeb.net
@@ -9493,6 +9497,7 @@
 0.0.0.0 somaskin.ru
 0.0.0.0 sometheir.xyz
 0.0.0.0 sosedi2015.ru
+0.0.0.0 soul-discord.com
 0.0.0.0 soyabot.xyz
 0.0.0.0 sp708431.sitebeat.site
 0.0.0.0 space-2022.org
@@ -9909,6 +9914,7 @@
 0.0.0.0 steam-discord.shop
 0.0.0.0 steam-discordnitro.ru
 0.0.0.0 steam-discords.com
+0.0.0.0 steam-discords.online
 0.0.0.0 steam-dlscord-gift.com
 0.0.0.0 steam-dlscord.com
 0.0.0.0 steam-dlscord.ru.com
@@ -10778,6 +10784,7 @@
 0.0.0.0 steamcommunityx-com.xyz
 0.0.0.0 steamcommunityx.com
 0.0.0.0 steamcommunityx.ru
+0.0.0.0 steamcommunityxip.top
 0.0.0.0 steamcommunityy.com
 0.0.0.0 steamcommunityy.com.ru
 0.0.0.0 steamcommunityy.online
