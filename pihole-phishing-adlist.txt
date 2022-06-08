@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 8 Jun 2022, 00:59 UTC+02
+# Last modified: Wed, 8 Jun 2022, 12:22 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -2785,7 +2785,6 @@
 0.0.0.0 discord.family
 0.0.0.0 discord.fit
 0.0.0.0 discord.football
-0.0.0.0 discord.form-2022.com
 0.0.0.0 discord.foundation
 0.0.0.0 discord.freehlp.com
 0.0.0.0 discord.fun
@@ -3040,6 +3039,7 @@
 0.0.0.0 discordbotist.com
 0.0.0.0 discordbotkodlari.online
 0.0.0.0 discordbots.app
+0.0.0.0 discordbotyagpdb.xyz
 0.0.0.0 discordbox.xyz
 0.0.0.0 discordbr.com
 0.0.0.0 discordbrasil.com
@@ -4055,6 +4055,7 @@
 0.0.0.0 discorfd.com
 0.0.0.0 discorg.gg
 0.0.0.0 discorganizeddg.com
+0.0.0.0 discorgd.com
 0.0.0.0 discorgift.com
 0.0.0.0 discorgift.xyz
 0.0.0.0 discorgifts.ru
@@ -4781,6 +4782,7 @@
 0.0.0.0 dlscord-partners.com
 0.0.0.0 dlscord-promo.com
 0.0.0.0 dlscord-promo.xyz
+0.0.0.0 dlscord-s.co
 0.0.0.0 dlscord-s.com
 0.0.0.0 dlscord-steam-gift.com
 0.0.0.0 dlscord-steam.com
@@ -4885,6 +4887,7 @@
 0.0.0.0 dlscordfull.ru
 0.0.0.0 dlscordfull.xyz
 0.0.0.0 dlscordgame.com
+0.0.0.0 dlscordgg.icu
 0.0.0.0 dlscordgift-nitro.com
 0.0.0.0 dlscordgift.com
 0.0.0.0 dlscordgift.info
@@ -5484,6 +5487,7 @@
 0.0.0.0 followclick.pro
 0.0.0.0 fond-sovest.ru
 0.0.0.0 foresport.site
+0.0.0.0 form-2022.com
 0.0.0.0 form-academy-discord.com
 0.0.0.0 form-academy-moderator.com
 0.0.0.0 form-academy-moderators.com
@@ -14316,7 +14320,6 @@
 0.0.0.0 vremyamn.ru
 0.0.0.0 vun.fyi
 0.0.0.0 vur.fyi
-0.0.0.0 vvvv-robiox.com
 0.0.0.0 vvvvv-roblox.com
 0.0.0.0 vvvvw-roblox.com
 0.0.0.0 vvvw-roblox.com

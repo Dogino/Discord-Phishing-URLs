@@ -2772,7 +2772,6 @@ discord.exchange
 discord.family
 discord.fit
 discord.football
-discord.form-2022.com
 discord.foundation
 discord.freehlp.com
 discord.fun
@@ -3027,6 +3026,7 @@ discordbothost.com
 discordbotist.com
 discordbotkodlari.online
 discordbots.app
+discordbotyagpdb.xyz
 discordbox.xyz
 discordbr.com
 discordbrasil.com
@@ -4042,6 +4042,7 @@ discorf.gift
 discorfd.com
 discorg.gg
 discorganizeddg.com
+discorgd.com
 discorgift.com
 discorgift.xyz
 discorgifts.ru
@@ -4768,6 +4769,7 @@ dlscord-online.ru
 dlscord-partners.com
 dlscord-promo.com
 dlscord-promo.xyz
+dlscord-s.co
 dlscord-s.com
 dlscord-steam-gift.com
 dlscord-steam.com
@@ -4872,6 +4874,7 @@ dlscordfreenltro.com
 dlscordfull.ru
 dlscordfull.xyz
 dlscordgame.com
+dlscordgg.icu
 dlscordgift-nitro.com
 dlscordgift.com
 dlscordgift.info
@@ -5471,6 +5474,7 @@ follow-ask.xyz
 followclick.pro
 fond-sovest.ru
 foresport.site
+form-2022.com
 form-academy-discord.com
 form-academy-moderator.com
 form-academy-moderators.com
@@ -14303,7 +14307,6 @@ vremechko.org
 vremyamn.ru
 vun.fyi
 vur.fyi
-vvvv-robiox.com
 vvvvv-roblox.com
 vvvvw-roblox.com
 vvvw-roblox.com
