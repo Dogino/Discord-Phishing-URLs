@@ -3154,7 +3154,6 @@ discordc.gifts
 discordc.space
 discordcanary.com
 discordcb.pl
-discordcdn.co
 discordcdn.ml
 discordcdn.sa.com
 discordcdn.xyz
@@ -11088,7 +11087,6 @@ steamcommunity.ca
 steamcommunity.click
 steamcommunity.cloud
 steamcommunity.cn
-steamcommunity.co
 steamcommunity.co.ua
 steamcommunity.com-id-k4tushatwitchbabydota.ru
 steamcommunity.com.ru
