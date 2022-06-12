@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 12 Jun 2022, 14:18 UTC+02
+# Last modified: Sun, 12 Jun 2022, 20:16 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -4575,6 +4575,7 @@
 0.0.0.0 disrcods-gift.com
 0.0.0.0 disrcods-gift.ru
 0.0.0.0 disrcods-gift.xyz
+0.0.0.0 disrcods-nitro.shop
 0.0.0.0 disrcods-nitro.space
 0.0.0.0 disrcods-nitrq.gq
 0.0.0.0 disrcord-gift.site
@@ -5402,6 +5403,7 @@
 0.0.0.0 dynobots.org
 0.0.0.0 dynos.gg
 0.0.0.0 dynos.info
+0.0.0.0 dynover.art
 0.0.0.0 dynover.com
 0.0.0.0 dynoverify.com
 0.0.0.0 dynoverify.gg
@@ -5920,6 +5922,7 @@
 0.0.0.0 formulary-to-hypesquadevents.com
 0.0.0.0 formulary.dev
 0.0.0.0 formularyhypesquad.com
+0.0.0.0 formularyhypesquad.gq
 0.0.0.0 formularyhypesquadevents.com
 0.0.0.0 formularymoderator-team.com
 0.0.0.0 formularymoderator.com
@@ -6935,6 +6938,7 @@
 0.0.0.0 hypesquadforms.com
 0.0.0.0 hypesquadformulary.com
 0.0.0.0 hypesquadguide.com
+0.0.0.0 hypesquadinfo.cf
 0.0.0.0 hypesquadinfo.ga
 0.0.0.0 hypesquadinfo.gq
 0.0.0.0 hypesquadinfo.site
@@ -7359,6 +7363,7 @@
 0.0.0.0 join-official-hypesquad.com
 0.0.0.0 join-on-hypesquad-teams.com
 0.0.0.0 join-on-hypesquad.com
+0.0.0.0 join-on-hypesquad.gq
 0.0.0.0 join-on-programs-hypesquad.com
 0.0.0.0 join-partner.com
 0.0.0.0 join-partneracademy.com
@@ -8201,6 +8206,7 @@
 0.0.0.0 navifreeskins.ru
 0.0.0.0 navigg.org.ru
 0.0.0.0 navigg.ru
+0.0.0.0 navigiveaway.xyz
 0.0.0.0 navigo.net.ru
 0.0.0.0 navileague.xyz
 0.0.0.0 navination.site
