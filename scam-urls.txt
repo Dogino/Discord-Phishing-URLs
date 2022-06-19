@@ -581,6 +581,7 @@ beta-new-2022.com
 beta-news.org
 beta-roblox.com
 beta-squadevents.com
+beta-teams-developers.ga
 beta-users.app
 beta.discorder.app
 betadiscord.com
@@ -5150,6 +5151,7 @@ dlscordapps.me
 dlscordapps.ru
 dlscordapps.site
 dlscordb.com
+dlscordc.icu
 dlscordcollabsteam.com
 dlscordd.icu
 dlscordd.ru
@@ -5611,6 +5613,7 @@ enter-the-hypesquad.com
 enter-to-hypesquad-forms.com
 enter-to-hypesquad-formulary.com
 enter-to-hypesquad.com
+enter-to-hypeteam.com
 enter-to-hypeteams.com
 enterhypesquad.com
 enterhypeteam.com
@@ -11400,6 +11403,7 @@ steamcommunitn.online
 steamcommunitn.ru
 steamcommunitn.ru.com
 steamcommunitny.com
+steamcommunitny.ml
 steamcommunito.ru
 steamcommunitp.com
 steamcommunitp.ru
