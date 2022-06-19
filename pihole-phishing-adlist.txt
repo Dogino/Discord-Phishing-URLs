@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 19 Jun 2022, 20:34 UTC+02
+# Last modified: Mon, 20 Jun 2022, 01:15 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -5111,6 +5111,7 @@
 0.0.0.0 dlscord.gifts
 0.0.0.0 dlscord.glfte.com
 0.0.0.0 dlscord.help
+0.0.0.0 dlscord.icu
 0.0.0.0 dlscord.in
 0.0.0.0 dlscord.info
 0.0.0.0 dlscord.ink
@@ -5287,6 +5288,7 @@
 0.0.0.0 dlscordss.xyz
 0.0.0.0 dlscordsteam.com
 0.0.0.0 dlscordsteami.com
+0.0.0.0 dlscordz.icu
 0.0.0.0 dlscorgs.xyz
 0.0.0.0 dlscorid.gift
 0.0.0.0 dlscorlcl-app.ru
@@ -5540,6 +5542,8 @@
 0.0.0.0 dynoclick.gg
 0.0.0.0 dynos.gg
 0.0.0.0 dynos.info
+0.0.0.0 dynosite.io
+0.0.0.0 dynosite.org
 0.0.0.0 dynov.art
 0.0.0.0 dynover.art
 0.0.0.0 dynover.com
@@ -5624,6 +5628,7 @@
 0.0.0.0 enter-hypesquadevent.com
 0.0.0.0 enter-moderator-academy.com
 0.0.0.0 enter-on-hypesquadevents.com
+0.0.0.0 enter-on-hypeteam.com
 0.0.0.0 enter-the-discord.com
 0.0.0.0 enter-the-hypesquad.com
 0.0.0.0 enter-to-hypesquad-forms.com
@@ -6299,6 +6304,7 @@
 0.0.0.0 gercanpack.ru
 0.0.0.0 gesas.it
 0.0.0.0 get-3month.com
+0.0.0.0 get-app.dev
 0.0.0.0 get-beta-app.com
 0.0.0.0 get-beta.app
 0.0.0.0 get-certified-moderator.com
@@ -6812,6 +6818,7 @@
 0.0.0.0 hypesquad-events-login.com
 0.0.0.0 hypesquad-events-manager.com
 0.0.0.0 hypesquad-events-moderators.com
+0.0.0.0 hypesquad-events-moderatos-discord.com
 0.0.0.0 hypesquad-events-new.com
 0.0.0.0 hypesquad-events-official.com
 0.0.0.0 hypesquad-events-progam.com

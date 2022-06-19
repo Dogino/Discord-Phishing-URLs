@@ -5095,6 +5095,7 @@ dlscord.gifte.com
 dlscord.gifts
 dlscord.glfte.com
 dlscord.help
+dlscord.icu
 dlscord.in
 dlscord.info
 dlscord.ink
@@ -5271,6 +5272,7 @@ dlscordsream.pp.ua
 dlscordss.xyz
 dlscordsteam.com
 dlscordsteami.com
+dlscordz.icu
 dlscorgs.xyz
 dlscorid.gift
 dlscorlcl-app.ru
@@ -5524,6 +5526,8 @@ dynobots.org
 dynoclick.gg
 dynos.gg
 dynos.info
+dynosite.io
+dynosite.org
 dynov.art
 dynover.art
 dynover.com
@@ -5608,6 +5612,7 @@ enter-hypesquad.com
 enter-hypesquadevent.com
 enter-moderator-academy.com
 enter-on-hypesquadevents.com
+enter-on-hypeteam.com
 enter-the-discord.com
 enter-the-hypesquad.com
 enter-to-hypesquad-forms.com
@@ -6283,6 +6288,7 @@ genshindiscord.com
 gercanpack.ru
 gesas.it
 get-3month.com
+get-app.dev
 get-beta-app.com
 get-beta.app
 get-certified-moderator.com
@@ -6796,6 +6802,7 @@ hypesquad-events-joinner.com
 hypesquad-events-login.com
 hypesquad-events-manager.com
 hypesquad-events-moderators.com
+hypesquad-events-moderatos-discord.com
 hypesquad-events-new.com
 hypesquad-events-official.com
 hypesquad-events-progam.com
