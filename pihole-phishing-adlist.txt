@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 24 Jun 2022, 19:08 UTC+02
+# Last modified: Sat, 25 Jun 2022, 14:10 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -310,6 +310,7 @@
 0.0.0.0 applicationmoderatoracademy.com
 0.0.0.0 applications-beta.com
 0.0.0.0 applications-discord.com
+0.0.0.0 applications-hype-new.com
 0.0.0.0 applications-hypesquad.com
 0.0.0.0 applications-hypesquadevents.com
 0.0.0.0 applicationsdiscord.com
@@ -818,6 +819,7 @@
 0.0.0.0 chosen-forhypesquad.com
 0.0.0.0 chosen-hypesquad.com
 0.0.0.0 chosen-joinhypesquad.com
+0.0.0.0 chosenfor-events.gq
 0.0.0.0 chosenforbeta-apply.com
 0.0.0.0 chosenforhypesquad.com
 0.0.0.0 christmasdiscord.gift
@@ -1875,6 +1877,7 @@
 0.0.0.0 discor3.com
 0.0.0.0 discora.gift
 0.0.0.0 discorad.com
+0.0.0.0 discoradnitro.xyz
 0.0.0.0 discoradpp.com
 0.0.0.0 discorapp.gq
 0.0.0.0 discorapp.pw
@@ -1895,6 +1898,7 @@
 0.0.0.0 discorbapp.com
 0.0.0.0 discorbb.xyz
 0.0.0.0 discorbbs.xyz
+0.0.0.0 discorbf.com
 0.0.0.0 discorbgift.xyz
 0.0.0.0 discorbl.com
 0.0.0.0 discorbmoderator.com
@@ -4963,6 +4967,7 @@
 0.0.0.0 dlscocrdapp.com
 0.0.0.0 dlscod-apps.space
 0.0.0.0 dlscoed.com
+0.0.0.0 dlscoins.site
 0.0.0.0 dlscold.com
 0.0.0.0 dlscoord-apps.com
 0.0.0.0 dlscorb-nutro.online
@@ -5496,6 +5501,7 @@
 0.0.0.0 ds-nitro.com
 0.0.0.0 ds-nitro.ga
 0.0.0.0 ds-nitro.gq
+0.0.0.0 ds-nitro.online
 0.0.0.0 ds-nitro.site
 0.0.0.0 ds-nitro.website
 0.0.0.0 ds-nitro.xyz
@@ -5939,6 +5945,7 @@
 0.0.0.0 form-for-hypesquadevents.com
 0.0.0.0 form-for-the-new-hypesquad.com
 0.0.0.0 form-hype-events.gq
+0.0.0.0 form-hype-squad.gq
 0.0.0.0 form-hype.com
 0.0.0.0 form-hypeevents.com
 0.0.0.0 form-hypesquad-academy-events.com
@@ -6035,6 +6042,7 @@
 0.0.0.0 forms-hypesquad-events.com
 0.0.0.0 forms-hypesquad-eventss.com
 0.0.0.0 forms-hypesquad-intents.com
+0.0.0.0 forms-hypesquad-invite.com
 0.0.0.0 forms-hypesquad-join-now.com
 0.0.0.0 forms-hypesquad-join.com
 0.0.0.0 forms-hypesquad-moderators.com
@@ -6046,6 +6054,7 @@
 0.0.0.0 forms-hypesquadacademy.gq
 0.0.0.0 forms-hypesquadevent-join.com
 0.0.0.0 forms-hypeteam.com
+0.0.0.0 forms-hypeteam.gq
 0.0.0.0 forms-hypeteamacademy.gq
 0.0.0.0 forms-hypeteams-2022.com
 0.0.0.0 forms-in-hypesquad.com
@@ -6766,6 +6775,7 @@
 0.0.0.0 hype-squad-events-formsapple.com
 0.0.0.0 hype-squad-events.com
 0.0.0.0 hype-squad-form.com
+0.0.0.0 hype-squad-forms.gq
 0.0.0.0 hype-squad-join.com
 0.0.0.0 hype-squad-selection.com
 0.0.0.0 hype-squad-vote.gq
@@ -7281,6 +7291,7 @@
 0.0.0.0 hypesquadiscord.com
 0.0.0.0 hypesquadjoin.com
 0.0.0.0 hypesquadmedia.com
+0.0.0.0 hypesquadmod-participate.com
 0.0.0.0 hypesquadmodeation.com
 0.0.0.0 hypesquadmoderation.com
 0.0.0.0 hypesquadmoderator.com
@@ -8677,6 +8688,7 @@
 0.0.0.0 new-hypesquadevents-program.com
 0.0.0.0 new-hypesquadevents.com
 0.0.0.0 new-hypeteam-formulary.com
+0.0.0.0 new-hypeteam.com
 0.0.0.0 new-invitation-teamshype.com
 0.0.0.0 new-invite-form-hypesquad.com
 0.0.0.0 new-invite-hypesquad.gq
@@ -11906,6 +11918,9 @@
 0.0.0.0 steamcommunityzie.cn
 0.0.0.0 steamcommunityzio.cn
 0.0.0.0 steamcommunityzioc.top
+0.0.0.0 steamcommunityzivc.top
+0.0.0.0 steamcommunityzivn.top
+0.0.0.0 steamcommunityzivo.top
 0.0.0.0 steamcommunityzko.top
 0.0.0.0 steamcommunityzkq.top
 0.0.0.0 steamcommunityzv.top
@@ -15201,6 +15216,7 @@
 0.0.0.0 teamclouds.com
 0.0.0.0 teamdiscord.com
 0.0.0.0 teamfnattic.org.ru
+0.0.0.0 teamhype-badge.ga
 0.0.0.0 teamhype-form.com
 0.0.0.0 teamhype-squad.com
 0.0.0.0 teamhypesquad-events.com
@@ -15233,6 +15249,7 @@
 0.0.0.0 test-moderator.com
 0.0.0.0 test-official-hypesquadevents.com
 0.0.0.0 testbot2021.ru
+0.0.0.0 testdiscordbeta.com
 0.0.0.0 teste-academy-moderator.com
 0.0.0.0 tester-moderation.com
 0.0.0.0 tester-moderator.com
@@ -15253,6 +15270,7 @@
 0.0.0.0 the-formulary-hypeteam.com
 0.0.0.0 the-hypesquad-application-ads.com
 0.0.0.0 the-hypesquad-application.com
+0.0.0.0 the-hypesquad-login.com
 0.0.0.0 the-hypesquad-on-application.com
 0.0.0.0 the-invitation-hypeteams.com
 0.0.0.0 the-invite-hypesquad.com
@@ -15638,7 +15656,9 @@
 0.0.0.0 www-hypesquad-event.com
 0.0.0.0 www-robllox.com
 0.0.0.0 www-roblox.com.mx
+0.0.0.0 www-roblox.com.ru
 0.0.0.0 www-roblox.net
+0.0.0.0 www-robloxa.com
 0.0.0.0 www-robltox.com
 0.0.0.0 www-steamcommunlty.com
 0.0.0.0 www-web-rcblox.com
@@ -15646,6 +15666,7 @@
 0.0.0.0 wwww-robiox.com
 0.0.0.0 wwx-roblox.com
 0.0.0.0 wwzv-roblox.com
+0.0.0.0 wwzw-robloxs.com
 0.0.0.0 wyxy.ru
 0.0.0.0 x-nitro.com
 0.0.0.0 x-soft.club
