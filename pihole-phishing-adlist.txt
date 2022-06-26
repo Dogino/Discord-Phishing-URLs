@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 25 Jun 2022, 14:10 UTC+02
+# Last modified: Sun, 26 Jun 2022, 12:02 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -158,6 +158,7 @@
 0.0.0.0 acess-for-hypeteams.com
 0.0.0.0 acess-form-hypesquad.com
 0.0.0.0 acess-formhypesquadevents.com
+0.0.0.0 acess-forms-hypesquad.com
 0.0.0.0 acess-hype-events.com
 0.0.0.0 acess-hype.com
 0.0.0.0 acess-hypesquad-events.com
@@ -385,6 +386,7 @@
 0.0.0.0 apply-hypesquad.team
 0.0.0.0 apply-hypesquad.tk
 0.0.0.0 apply-hypesquad.uk
+0.0.0.0 apply-hypesquadacademy.gq
 0.0.0.0 apply-hypesquadevents-new.com
 0.0.0.0 apply-hypesquadevents-team.com
 0.0.0.0 apply-hypesquadevents.club
@@ -1022,6 +1024,7 @@
 0.0.0.0 contact-forms-testers-academy.com
 0.0.0.0 contact-hype-testers.com
 0.0.0.0 contact-infoservice.com
+0.0.0.0 contact-new-hype-testers.com
 0.0.0.0 continue-site.website
 0.0.0.0 convite-hypesquad-eventos.com
 0.0.0.0 convocation-for-hypeteams.com
@@ -1124,6 +1127,7 @@
 0.0.0.0 csgogift47.xyz
 0.0.0.0 csgomamba.ru
 0.0.0.0 csgomatch.xyz
+0.0.0.0 csgorocks.ru
 0.0.0.0 csgorun-giveaway.ru
 0.0.0.0 csgorun-giveaway.xyz
 0.0.0.0 csgorun-offical.site
@@ -1132,6 +1136,7 @@
 0.0.0.0 csgorun.pro-login.ru
 0.0.0.0 csgorun.pro-loginn.com
 0.0.0.0 csgorunpromo.pp.ua
+0.0.0.0 csgorunroulette.ru
 0.0.0.0 csgoruns.xyz
 0.0.0.0 csgosell.xyz
 0.0.0.0 csgoskinpatern.tk
@@ -1766,6 +1771,7 @@
 0.0.0.0 discocrdapp.com
 0.0.0.0 discod-apps.ru
 0.0.0.0 discod-drop.com
+0.0.0.0 discod-gg.ru
 0.0.0.0 discod-hitro.xyz
 0.0.0.0 discod-nitro.com
 0.0.0.0 discod-nitro.ru
@@ -3818,6 +3824,7 @@
 0.0.0.0 discordll.com
 0.0.0.0 discordll.gift
 0.0.0.0 discordlnitro.com
+0.0.0.0 discordload.com
 0.0.0.0 discordlogin.com
 0.0.0.0 discordlogin.org
 0.0.0.0 discordlogin.site
@@ -4526,11 +4533,13 @@
 0.0.0.0 discrod-gift.com
 0.0.0.0 discrod-gift.net.ru
 0.0.0.0 discrod-gift.ru.com
+0.0.0.0 discrod-gift.site
 0.0.0.0 discrod-gift.xyz
 0.0.0.0 discrod-gifte.club
 0.0.0.0 discrod-gifte.com
 0.0.0.0 discrod-gifted.com
 0.0.0.0 discrod-gifted.xyz
+0.0.0.0 discrod-giftes.com
 0.0.0.0 discrod-gifting.com
 0.0.0.0 discrod-gifts.club
 0.0.0.0 discrod-gifts.com
@@ -5733,6 +5742,7 @@
 0.0.0.0 esportsgaming.pp.ua
 0.0.0.0 esportsgvay.xyz
 0.0.0.0 espots-csgo.xyz
+0.0.0.0 essharts.ru
 0.0.0.0 ether2x.net
 0.0.0.0 ethway.io
 0.0.0.0 euphe-gun.com
@@ -5764,6 +5774,7 @@
 0.0.0.0 events-hypesquad-teams.com
 0.0.0.0 events-hypesquad.com
 0.0.0.0 events-hypesquad.gq
+0.0.0.0 events-hypesquad.ml
 0.0.0.0 events-hypesquads.com
 0.0.0.0 events-hypetesters.gq
 0.0.0.0 events-moderation.com
@@ -5886,6 +5897,7 @@
 0.0.0.0 fathlesschilddemonic.ga
 0.0.0.0 fattykettleinexpedient.com
 0.0.0.0 faxnews.ru
+0.0.0.0 fazeclan.club
 0.0.0.0 fazeclan.company
 0.0.0.0 fdgdfgdf.space
 0.0.0.0 fdiscord.com
@@ -6029,6 +6041,7 @@
 0.0.0.0 forms-from-hypesquad-teams.com
 0.0.0.0 forms-from-hypeteams-event.com
 0.0.0.0 forms-hype-discord-events-support.com
+0.0.0.0 forms-hype-event.gq
 0.0.0.0 forms-hype-events.gq
 0.0.0.0 forms-hype-team.com
 0.0.0.0 forms-hype-teams.com
@@ -6114,6 +6127,7 @@
 0.0.0.0 formulary-from-hypesquad-progams.com
 0.0.0.0 formulary-from-hypeteams.com
 0.0.0.0 formulary-hype-2022.com
+0.0.0.0 formulary-hype-events.gq
 0.0.0.0 formulary-hype-signup.com
 0.0.0.0 formulary-hype-squad-event.com
 0.0.0.0 formulary-hype-teams.com
@@ -6126,6 +6140,7 @@
 0.0.0.0 formulary-hypesquad-events-team.com
 0.0.0.0 formulary-hypesquad-events.academy
 0.0.0.0 formulary-hypesquad-events.com
+0.0.0.0 formulary-hypesquad-events.gq
 0.0.0.0 formulary-hypesquad-invite.com
 0.0.0.0 formulary-hypesquad-join.com
 0.0.0.0 formulary-hypesquad-program.com
@@ -6356,7 +6371,9 @@
 0.0.0.0 gameclaim.codes
 0.0.0.0 gamekor.net.ru
 0.0.0.0 gamemaker.net.ru
+0.0.0.0 gamepassnitro.digital
 0.0.0.0 gamepassnitro.xyz
+0.0.0.0 gamepassxbox.com
 0.0.0.0 gamepromo.net.ru
 0.0.0.0 gameroli.net.ru
 0.0.0.0 gamerolls.net.ru
@@ -6775,6 +6792,7 @@
 0.0.0.0 hype-squad-events-formsapple.com
 0.0.0.0 hype-squad-events.com
 0.0.0.0 hype-squad-form.com
+0.0.0.0 hype-squad-form.gq
 0.0.0.0 hype-squad-forms.gq
 0.0.0.0 hype-squad-join.com
 0.0.0.0 hype-squad-selection.com
@@ -6905,6 +6923,7 @@
 0.0.0.0 hypesquad-events-apply.com
 0.0.0.0 hypesquad-events-discord.com
 0.0.0.0 hypesquad-events-form.com
+0.0.0.0 hypesquad-events-form.gq
 0.0.0.0 hypesquad-events-formn.com
 0.0.0.0 hypesquad-events-formncom.com
 0.0.0.0 hypesquad-events-forms.com
@@ -7335,6 +7354,7 @@
 0.0.0.0 hypesquadteam-form-moderators.com
 0.0.0.0 hypesquadteam-form.com
 0.0.0.0 hypesquadteam-forms.com
+0.0.0.0 hypesquadteam-forms.gq
 0.0.0.0 hypesquadteam-join.com
 0.0.0.0 hypesquadteam-moderators-form.com
 0.0.0.0 hypesquadteam-moderators.com
@@ -7685,6 +7705,7 @@
 0.0.0.0 join-hypesquadevent.com
 0.0.0.0 join-hypesquadevents-new.com
 0.0.0.0 join-hypesquadevents-official.com
+0.0.0.0 join-hypesquadevents-register.gq
 0.0.0.0 join-hypesquadevents-team.com
 0.0.0.0 join-hypesquadevents.com
 0.0.0.0 join-hypesquadevents.gq
@@ -7826,6 +7847,7 @@
 0.0.0.0 jointhehypesquadevents-team.com
 0.0.0.0 jointhehypesquadteam-forms.com
 0.0.0.0 jointhehypesquadteam.com
+0.0.0.0 joinus-hypesquad-official.com
 0.0.0.0 jokedrop.ru
 0.0.0.0 jope-nitro.com
 0.0.0.0 journey-hypesquad.com
@@ -7908,6 +7930,7 @@
 0.0.0.0 leancoding.co
 0.0.0.0 lecoindiscord.site
 0.0.0.0 lef23671.justinstalledpanel.com
+0.0.0.0 legasytour.it
 0.0.0.0 legit-drop.ru
 0.0.0.0 legiting-drop.ru
 0.0.0.0 lesvirus.fr
@@ -8573,6 +8596,7 @@
 0.0.0.0 natus-win.pp.ru
 0.0.0.0 natusspot.pp.ru
 0.0.0.0 natustop.net.ru
+0.0.0.0 natusvincere.site
 0.0.0.0 nav-s1.ru
 0.0.0.0 navi-case.com
 0.0.0.0 navi-case.ru
@@ -8600,6 +8624,7 @@
 0.0.0.0 navi.auction
 0.0.0.0 navi.pp.ru
 0.0.0.0 navi10.com
+0.0.0.0 navi2022.tech
 0.0.0.0 navi51.com
 0.0.0.0 navi55.com
 0.0.0.0 navi61.com
@@ -9797,6 +9822,7 @@
 0.0.0.0 robfan.ork
 0.0.0.0 robfan.work
 0.0.0.0 robin201.xyz
+0.0.0.0 robiox-web.com
 0.0.0.0 robllox.com.de
 0.0.0.0 roblos.com
 0.0.0.0 roblox-app.com
@@ -10469,6 +10495,7 @@
 0.0.0.0 solicting-moderators.com
 0.0.0.0 solliciting-hypesquad-events.com
 0.0.0.0 soma-cases.ru
+0.0.0.0 somabox.ru
 0.0.0.0 somadrop.ru
 0.0.0.0 somaskin.ru
 0.0.0.0 somaskins.ru
@@ -10506,6 +10533,7 @@
 0.0.0.0 sreampowered.com
 0.0.0.0 sreancommuniity.com
 0.0.0.0 sreancomnunity.ru
+0.0.0.0 sreancomnunlty.ru
 0.0.0.0 sreemcommunlteus.net.ru
 0.0.0.0 sreemcommyniti.net.ru
 0.0.0.0 srteamcommunitty.xyz
@@ -14327,6 +14355,7 @@
 0.0.0.0 stemccomnmunity.com
 0.0.0.0 stemcomiunity.ru
 0.0.0.0 stemcomminity.com
+0.0.0.0 stemcomminnly.com
 0.0.0.0 stemcomminuty.ru
 0.0.0.0 stemcommlunity.com
 0.0.0.0 stemcommnnuite.company
@@ -15153,8 +15182,10 @@
 0.0.0.0 support-hype-singup.com
 0.0.0.0 support-hypeacademy.gq
 0.0.0.0 support-hypesquad.com
+0.0.0.0 support-hypesquad.ga
 0.0.0.0 support-hypeteam.com
 0.0.0.0 support-hypeteam.ga
+0.0.0.0 support-hypeteam.gq
 0.0.0.0 support-moderation.com
 0.0.0.0 support-moderator.com
 0.0.0.0 support-safety.com
@@ -15186,6 +15217,7 @@
 0.0.0.0 tacelt.com
 0.0.0.0 takaytry.z11.web.core.windows.net
 0.0.0.0 take-hypesquad.gq
+0.0.0.0 takedrop.gq
 0.0.0.0 takehypesquad.gq
 0.0.0.0 takesdrop.org.ru
 0.0.0.0 takesdrop.site
@@ -15240,10 +15272,12 @@
 0.0.0.0 terlaby.com
 0.0.0.0 terms-hypesquad.com
 0.0.0.0 teslamusk.live
+0.0.0.0 test-events.gq
 0.0.0.0 test-examacademy.com
 0.0.0.0 test-form-hypesquad.com
 0.0.0.0 test-forms-hypesquad.com
 0.0.0.0 test-from-hypesquad.com
+0.0.0.0 test-hypesquad-events-join.gq
 0.0.0.0 test-hypesquad.com
 0.0.0.0 test-mod.com
 0.0.0.0 test-moderator.com
@@ -15320,6 +15354,7 @@
 0.0.0.0 tipslife.ru
 0.0.0.0 tipteamgg.xyz
 0.0.0.0 to6s.biz
+0.0.0.0 tocup.site
 0.0.0.0 token-bit.com
 0.0.0.0 toolkit.the-red-hand.com
 0.0.0.0 toom-skins.xyz
@@ -15349,6 +15384,7 @@
 0.0.0.0 tournament.ru.com
 0.0.0.0 tournamentc.xyz
 0.0.0.0 tournamentcs.cf
+0.0.0.0 tournamentgg.ru
 0.0.0.0 tournamentgoz.xyz
 0.0.0.0 tournaments-free.xyz
 0.0.0.0 tournaments.ga
@@ -15415,6 +15451,7 @@
 0.0.0.0 turbodlscord.com
 0.0.0.0 turibius-hra.com
 0.0.0.0 turmouse.ru
+0.0.0.0 turtlite.fun
 0.0.0.0 twitch-csgoconnect.gifts
 0.0.0.0 twitch-drops.online
 0.0.0.0 twitch-facepunchs.com

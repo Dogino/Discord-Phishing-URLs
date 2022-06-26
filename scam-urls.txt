@@ -142,6 +142,7 @@ acess-for-hypesquad.com
 acess-for-hypeteams.com
 acess-form-hypesquad.com
 acess-formhypesquadevents.com
+acess-forms-hypesquad.com
 acess-hype-events.com
 acess-hype.com
 acess-hypesquad-events.com
@@ -369,6 +370,7 @@ apply-hypesquad.gq
 apply-hypesquad.team
 apply-hypesquad.tk
 apply-hypesquad.uk
+apply-hypesquadacademy.gq
 apply-hypesquadevents-new.com
 apply-hypesquadevents-team.com
 apply-hypesquadevents.club
@@ -1006,6 +1008,7 @@ contact-forms-moderator-academy.com
 contact-forms-testers-academy.com
 contact-hype-testers.com
 contact-infoservice.com
+contact-new-hype-testers.com
 continue-site.website
 convite-hypesquad-eventos.com
 convocation-for-hypeteams.com
@@ -1108,6 +1111,7 @@ csgogift45.xyz
 csgogift47.xyz
 csgomamba.ru
 csgomatch.xyz
+csgorocks.ru
 csgorun-giveaway.ru
 csgorun-giveaway.xyz
 csgorun-offical.site
@@ -1116,6 +1120,7 @@ csgorun.info
 csgorun.pro-login.ru
 csgorun.pro-loginn.com
 csgorunpromo.pp.ua
+csgorunroulette.ru
 csgoruns.xyz
 csgosell.xyz
 csgoskinpatern.tk
@@ -1750,6 +1755,7 @@ discocrd.ru
 discocrdapp.com
 discod-apps.ru
 discod-drop.com
+discod-gg.ru
 discod-hitro.xyz
 discod-nitro.com
 discod-nitro.ru
@@ -3802,6 +3808,7 @@ discordlive.xyz
 discordll.com
 discordll.gift
 discordlnitro.com
+discordload.com
 discordlogin.com
 discordlogin.org
 discordlogin.site
@@ -4510,11 +4517,13 @@ discrod-gg.ru
 discrod-gift.com
 discrod-gift.net.ru
 discrod-gift.ru.com
+discrod-gift.site
 discrod-gift.xyz
 discrod-gifte.club
 discrod-gifte.com
 discrod-gifted.com
 discrod-gifted.xyz
+discrod-giftes.com
 discrod-gifting.com
 discrod-gifts.club
 discrod-gifts.com
@@ -5717,6 +5726,7 @@ esportsfast.pp.ua
 esportsgaming.pp.ua
 esportsgvay.xyz
 espots-csgo.xyz
+essharts.ru
 ether2x.net
 ethway.io
 euphe-gun.com
@@ -5748,6 +5758,7 @@ events-hypesquad-subscription.com
 events-hypesquad-teams.com
 events-hypesquad.com
 events-hypesquad.gq
+events-hypesquad.ml
 events-hypesquads.com
 events-hypetesters.gq
 events-moderation.com
@@ -5870,6 +5881,7 @@ fasttake.space
 fathlesschilddemonic.ga
 fattykettleinexpedient.com
 faxnews.ru
+fazeclan.club
 fazeclan.company
 fdgdfgdf.space
 fdiscord.com
@@ -6013,6 +6025,7 @@ forms-for-new-hypesquad-testers.com
 forms-from-hypesquad-teams.com
 forms-from-hypeteams-event.com
 forms-hype-discord-events-support.com
+forms-hype-event.gq
 forms-hype-events.gq
 forms-hype-team.com
 forms-hype-teams.com
@@ -6098,6 +6111,7 @@ formulary-from-hype.com
 formulary-from-hypesquad-progams.com
 formulary-from-hypeteams.com
 formulary-hype-2022.com
+formulary-hype-events.gq
 formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hype-teams.com
@@ -6110,6 +6124,7 @@ formulary-hypesquad-app.com
 formulary-hypesquad-events-team.com
 formulary-hypesquad-events.academy
 formulary-hypesquad-events.com
+formulary-hypesquad-events.gq
 formulary-hypesquad-invite.com
 formulary-hypesquad-join.com
 formulary-hypesquad-program.com
@@ -6340,7 +6355,9 @@ gameb-platform.com
 gameclaim.codes
 gamekor.net.ru
 gamemaker.net.ru
+gamepassnitro.digital
 gamepassnitro.xyz
+gamepassxbox.com
 gamepromo.net.ru
 gameroli.net.ru
 gamerolls.net.ru
@@ -6759,6 +6776,7 @@ hype-squad-developers.com
 hype-squad-events-formsapple.com
 hype-squad-events.com
 hype-squad-form.com
+hype-squad-form.gq
 hype-squad-forms.gq
 hype-squad-join.com
 hype-squad-selection.com
@@ -6889,6 +6907,7 @@ hypesquad-events-app.com
 hypesquad-events-apply.com
 hypesquad-events-discord.com
 hypesquad-events-form.com
+hypesquad-events-form.gq
 hypesquad-events-formn.com
 hypesquad-events-formncom.com
 hypesquad-events-forms.com
@@ -7319,6 +7338,7 @@ hypesquadteam-exam.com
 hypesquadteam-form-moderators.com
 hypesquadteam-form.com
 hypesquadteam-forms.com
+hypesquadteam-forms.gq
 hypesquadteam-join.com
 hypesquadteam-moderators-form.com
 hypesquadteam-moderators.com
@@ -7669,6 +7689,7 @@ join-hypesquadevent-now.com
 join-hypesquadevent.com
 join-hypesquadevents-new.com
 join-hypesquadevents-official.com
+join-hypesquadevents-register.gq
 join-hypesquadevents-team.com
 join-hypesquadevents.com
 join-hypesquadevents.gq
@@ -7810,6 +7831,7 @@ jointhehypesquadevents-form.com
 jointhehypesquadevents-team.com
 jointhehypesquadteam-forms.com
 jointhehypesquadteam.com
+joinus-hypesquad-official.com
 jokedrop.ru
 jope-nitro.com
 journey-hypesquad.com
@@ -7892,6 +7914,7 @@ leaguecsgo.ga
 leancoding.co
 lecoindiscord.site
 lef23671.justinstalledpanel.com
+legasytour.it
 legit-drop.ru
 legiting-drop.ru
 lesvirus.fr
@@ -8557,6 +8580,7 @@ natus-win.org.ru
 natus-win.pp.ru
 natusspot.pp.ru
 natustop.net.ru
+natusvincere.site
 nav-s1.ru
 navi-case.com
 navi-case.ru
@@ -8584,6 +8608,7 @@ navi-wins-skiins.org.ru
 navi.auction
 navi.pp.ru
 navi10.com
+navi2022.tech
 navi51.com
 navi55.com
 navi61.com
@@ -9781,6 +9806,7 @@ ro4.biz
 robfan.ork
 robfan.work
 robin201.xyz
+robiox-web.com
 robllox.com.de
 roblos.com
 roblox-app.com
@@ -10453,6 +10479,7 @@ solicition-hypesquadevents.com
 solicting-moderators.com
 solliciting-hypesquad-events.com
 soma-cases.ru
+somabox.ru
 somadrop.ru
 somaskin.ru
 somaskins.ru
@@ -10490,6 +10517,7 @@ sreamcomnunlity.ru
 sreampowered.com
 sreancommuniity.com
 sreancomnunity.ru
+sreancomnunlty.ru
 sreemcommunlteus.net.ru
 sreemcommyniti.net.ru
 srteamcommunitty.xyz
@@ -14311,6 +14339,7 @@ stemcamuniti.net.ru
 stemccomnmunity.com
 stemcomiunity.ru
 stemcomminity.com
+stemcomminnly.com
 stemcomminuty.ru
 stemcommlunity.com
 stemcommnnuite.company
@@ -15137,8 +15166,10 @@ support-hype-moderators-events.com
 support-hype-singup.com
 support-hypeacademy.gq
 support-hypesquad.com
+support-hypesquad.ga
 support-hypeteam.com
 support-hypeteam.ga
+support-hypeteam.gq
 support-moderation.com
 support-moderator.com
 support-safety.com
@@ -15170,6 +15201,7 @@ taceitt.com
 tacelt.com
 takaytry.z11.web.core.windows.net
 take-hypesquad.gq
+takedrop.gq
 takehypesquad.gq
 takesdrop.org.ru
 takesdrop.site
@@ -15224,10 +15256,12 @@ teloscoins.com
 terlaby.com
 terms-hypesquad.com
 teslamusk.live
+test-events.gq
 test-examacademy.com
 test-form-hypesquad.com
 test-forms-hypesquad.com
 test-from-hypesquad.com
+test-hypesquad-events-join.gq
 test-hypesquad.com
 test-mod.com
 test-moderator.com
@@ -15304,6 +15338,7 @@ tini.best
 tipslife.ru
 tipteamgg.xyz
 to6s.biz
+tocup.site
 token-bit.com
 toolkit.the-red-hand.com
 toom-skins.xyz
@@ -15333,6 +15368,7 @@ tournament-win.ru
 tournament.ru.com
 tournamentc.xyz
 tournamentcs.cf
+tournamentgg.ru
 tournamentgoz.xyz
 tournaments-free.xyz
 tournaments.ga
@@ -15399,6 +15435,7 @@ turboadblocker.com
 turbodlscord.com
 turibius-hra.com
 turmouse.ru
+turtlite.fun
 twitch-csgoconnect.gifts
 twitch-drops.online
 twitch-facepunchs.com
