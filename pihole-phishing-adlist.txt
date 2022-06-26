@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 26 Jun 2022, 12:02 UTC+02
+# Last modified: Sun, 26 Jun 2022, 17:35 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -603,6 +603,7 @@
 0.0.0.0 beta-apply-for.gq
 0.0.0.0 beta-apply.com
 0.0.0.0 beta-discord.com
+0.0.0.0 beta-discord.net
 0.0.0.0 beta-hypesquad.com
 0.0.0.0 beta-invitation.app
 0.0.0.0 beta-invite.app
@@ -1441,8 +1442,10 @@
 0.0.0.0 dicsordgiftse.gq
 0.0.0.0 dicsordgitf.xyz
 0.0.0.0 dicsordgive.ru
+0.0.0.0 dicsordl.com
 0.0.0.0 dicsordnitr.xyz
 0.0.0.0 dicsordnitras.xyz
+0.0.0.0 dicsordnitro-gg.com
 0.0.0.0 dicsordnitro.com
 0.0.0.0 dicsordnitro.info
 0.0.0.0 dicsordnitro.net.ru
@@ -1831,6 +1834,7 @@
 0.0.0.0 discold.xyz
 0.0.0.0 discoldgiftss.com.ru
 0.0.0.0 discolds.xyz
+0.0.0.0 discoldsc.com
 0.0.0.0 discolrd-gift.site
 0.0.0.0 discolrd.com
 0.0.0.0 discolrd.site
@@ -2715,6 +2719,7 @@
 0.0.0.0 discord-nitro-gifts.shop
 0.0.0.0 discord-nitro-present.com
 0.0.0.0 discord-nitro-promotions.com
+0.0.0.0 discord-nitro.cc
 0.0.0.0 discord-nitro.cf
 0.0.0.0 discord-nitro.click
 0.0.0.0 discord-nitro.cloud
@@ -4527,6 +4532,7 @@
 0.0.0.0 discrod-egift.com
 0.0.0.0 discrod-egift.ru
 0.0.0.0 discrod-egifts.com
+0.0.0.0 discrod-free-gifts.com
 0.0.0.0 discrod-free.shop
 0.0.0.0 discrod-full.xyz
 0.0.0.0 discrod-gg.ru
@@ -5280,6 +5286,7 @@
 0.0.0.0 dlscordglfts.com
 0.0.0.0 dlscordglfts.xyz
 0.0.0.0 dlscordi-steam.com
+0.0.0.0 dlscordi.com
 0.0.0.0 dlscordi.gift
 0.0.0.0 dlscordiairdrop.com
 0.0.0.0 dlscordialrdrop.com
@@ -6372,6 +6379,7 @@
 0.0.0.0 gamekor.net.ru
 0.0.0.0 gamemaker.net.ru
 0.0.0.0 gamepassnitro.digital
+0.0.0.0 gamepassnitro.us
 0.0.0.0 gamepassnitro.xyz
 0.0.0.0 gamepassxbox.com
 0.0.0.0 gamepromo.net.ru
@@ -6758,6 +6766,7 @@
 0.0.0.0 hype-discordsign.com
 0.0.0.0 hype-events-2022.com
 0.0.0.0 hype-events-badges.gq
+0.0.0.0 hype-events-invite.gq
 0.0.0.0 hype-events-moderator-support.com
 0.0.0.0 hype-events-registration.com
 0.0.0.0 hype-events-season.com
@@ -9974,6 +9983,7 @@
 0.0.0.0 rustgame-servers.com
 0.0.0.0 rustgift.ru
 0.0.0.0 rustmoon.net
+0.0.0.0 rustroulettes.com
 0.0.0.0 rustygift.site
 0.0.0.0 rìpple.com
 0.0.0.0 s-joom.net.ru
@@ -11834,6 +11844,7 @@
 0.0.0.0 steamcommunitynow.com
 0.0.0.0 steamcommunityo.com
 0.0.0.0 steamcommunityo.com.ru
+0.0.0.0 steamcommunityoe.top
 0.0.0.0 steamcommunityoff.com
 0.0.0.0 steamcommunityoffers.org
 0.0.0.0 steamcommunityoffers.shop
@@ -11947,8 +11958,11 @@
 0.0.0.0 steamcommunityzio.cn
 0.0.0.0 steamcommunityzioc.top
 0.0.0.0 steamcommunityzivc.top
+0.0.0.0 steamcommunityzivi.top
 0.0.0.0 steamcommunityzivn.top
 0.0.0.0 steamcommunityzivo.top
+0.0.0.0 steamcommunityzivw.top
+0.0.0.0 steamcommunityzivz.top
 0.0.0.0 steamcommunityzko.top
 0.0.0.0 steamcommunityzkq.top
 0.0.0.0 steamcommunityzv.top
@@ -12963,6 +12977,7 @@
 0.0.0.0 steamgamepowered.net
 0.0.0.0 steamgames.net.ru
 0.0.0.0 steamgametrade.xyz
+0.0.0.0 steamgift.org.ru
 0.0.0.0 steamgiftcards.cf
 0.0.0.0 steamgifts.net.ru
 0.0.0.0 steamgiveaway.cc
