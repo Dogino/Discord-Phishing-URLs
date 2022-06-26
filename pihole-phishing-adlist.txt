@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 26 Jun 2022, 17:35 UTC+02
+# Last modified: Sun, 26 Jun 2022, 22:00 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -159,6 +159,7 @@
 0.0.0.0 acess-form-hypesquad.com
 0.0.0.0 acess-formhypesquadevents.com
 0.0.0.0 acess-forms-hypesquad.com
+0.0.0.0 acess-formulary-hypesquad.com
 0.0.0.0 acess-hype-events.com
 0.0.0.0 acess-hype.com
 0.0.0.0 acess-hypesquad-events.com
@@ -1833,6 +1834,7 @@
 0.0.0.0 discold.ru
 0.0.0.0 discold.xyz
 0.0.0.0 discoldgiftss.com.ru
+0.0.0.0 discoldgiftss.ru
 0.0.0.0 discolds.xyz
 0.0.0.0 discoldsc.com
 0.0.0.0 discolrd-gift.site
@@ -4776,6 +4778,7 @@
 0.0.0.0 disrcods-gift.com
 0.0.0.0 disrcods-gift.ru
 0.0.0.0 disrcods-gift.xyz
+0.0.0.0 disrcods-gifts.site
 0.0.0.0 disrcods-nitro.ru
 0.0.0.0 disrcods-nitro.shop
 0.0.0.0 disrcods-nitro.space
@@ -9562,6 +9565,7 @@
 0.0.0.0 ratnet.od.ua
 0.0.0.0 raydiumswap.com
 0.0.0.0 rblx.trade
+0.0.0.0 rblxcopy.com
 0.0.0.0 rblxcorp.work
 0.0.0.0 rbux88.com
 0.0.0.0 rbux88go.com
@@ -10540,6 +10544,7 @@
 0.0.0.0 sreamcommunity.org.ru
 0.0.0.0 sreamcommunty.com
 0.0.0.0 sreamcomnunlity.ru
+0.0.0.0 sreamcomnunllty.ru
 0.0.0.0 sreampowered.com
 0.0.0.0 sreancommuniity.com
 0.0.0.0 sreancomnunity.ru
@@ -13719,6 +13724,8 @@
 0.0.0.0 steancummiunitly.com
 0.0.0.0 steancummiunity.com
 0.0.0.0 steancummiunuty.com
+0.0.0.0 steancummiunyty.com
+0.0.0.0 steancummlunity.com
 0.0.0.0 steancummulity.com
 0.0.0.0 steancummunitly.com
 0.0.0.0 steancummunnily.com
@@ -14470,6 +14477,7 @@
 0.0.0.0 stemcomrnunity.xyz
 0.0.0.0 stemcomrnunlty.xyz
 0.0.0.0 stemcomummitty.xyz
+0.0.0.0 stemcomunily.com
 0.0.0.0 stemcomuniti.ru
 0.0.0.0 stemcomunitiy.com
 0.0.0.0 stemcomunitti.xyz
@@ -14563,6 +14571,7 @@
 0.0.0.0 steomcornnmunity.com
 0.0.0.0 steomrommunity.com
 0.0.0.0 stepmscononnity.com
+0.0.0.0 stepn-gps.org
 0.0.0.0 stepnautobot.info
 0.0.0.0 steqmcommunity.com
 0.0.0.0 steqmpowered.com
@@ -15233,6 +15242,7 @@
 0.0.0.0 takaytry.z11.web.core.windows.net
 0.0.0.0 take-hypesquad.gq
 0.0.0.0 takedrop.gq
+0.0.0.0 takedrop.org.ru
 0.0.0.0 takehypesquad.gq
 0.0.0.0 takesdrop.org.ru
 0.0.0.0 takesdrop.site
@@ -15292,6 +15302,7 @@
 0.0.0.0 test-form-hypesquad.com
 0.0.0.0 test-forms-hypesquad.com
 0.0.0.0 test-from-hypesquad.com
+0.0.0.0 test-hevents.gq
 0.0.0.0 test-hypesquad-events-join.gq
 0.0.0.0 test-hypesquad.com
 0.0.0.0 test-mod.com
