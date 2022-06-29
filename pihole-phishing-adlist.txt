@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 28 Jun 2022, 23:13 UTC+02
+# Last modified: Wed, 29 Jun 2022, 16:05 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -358,6 +358,7 @@
 0.0.0.0 apply-hype-squad-exam.com
 0.0.0.0 apply-hype-squad-team.com
 0.0.0.0 apply-hype-squad.com
+0.0.0.0 apply-hype-squad.gq
 0.0.0.0 apply-hype-squad.tk
 0.0.0.0 apply-hype.com
 0.0.0.0 apply-hypeacademyteam.gq
@@ -1845,6 +1846,7 @@
 0.0.0.0 discold.xyz
 0.0.0.0 discoldgiftss.com.ru
 0.0.0.0 discoldgiftss.ru
+0.0.0.0 discoldis.icu
 0.0.0.0 discolds.xyz
 0.0.0.0 discoldsc.com
 0.0.0.0 discolg.icu
@@ -4551,6 +4553,7 @@
 0.0.0.0 discrod-egift.ru
 0.0.0.0 discrod-egifts.com
 0.0.0.0 discrod-free-gift.com
+0.0.0.0 discrod-free-giftes.com
 0.0.0.0 discrod-free-gifts.com
 0.0.0.0 discrod-free.shop
 0.0.0.0 discrod-full.xyz
@@ -6765,6 +6768,7 @@
 0.0.0.0 howls.monster
 0.0.0.0 hranavrt.xyz
 0.0.0.0 hsevents-badge.gq
+0.0.0.0 hshypesquadteam.gq
 0.0.0.0 hsmvem.com
 0.0.0.0 hsrvu.com
 0.0.0.0 hsteamconmmunitly.ru
@@ -7381,6 +7385,7 @@
 0.0.0.0 hypesquads-event.com
 0.0.0.0 hypesquads-events.academy
 0.0.0.0 hypesquads-events.com
+0.0.0.0 hypesquads-exam.com
 0.0.0.0 hypesquads-forms.com
 0.0.0.0 hypesquads-moderators.com
 0.0.0.0 hypesquads-modregisters.com
@@ -11760,6 +11765,7 @@
 0.0.0.0 steamcommunity-gifts1.xyz
 0.0.0.0 steamcommunity-nitro.ru
 0.0.0.0 steamcommunity-nitrogeneral.ru
+0.0.0.0 steamcommunity-nltro.website
 0.0.0.0 steamcommunity-profile.net
 0.0.0.0 steamcommunity-profiles.ru.com
 0.0.0.0 steamcommunity-proflle.ru.com
@@ -11873,7 +11879,11 @@
 0.0.0.0 steamcommunityla.top
 0.0.0.0 steamcommunityle.top
 0.0.0.0 steamcommunityli.top
+0.0.0.0 steamcommunitylic.top
+0.0.0.0 steamcommunitylie.top
 0.0.0.0 steamcommunitylink.xyz
+0.0.0.0 steamcommunitylio.top
+0.0.0.0 steamcommunityliv.top
 0.0.0.0 steamcommunityll.top
 0.0.0.0 steamcommunitylogin.ru
 0.0.0.0 steamcommunitylogin.store
@@ -12893,6 +12903,7 @@
 0.0.0.0 steamcornmunity.org
 0.0.0.0 steamcornmunlty.com
 0.0.0.0 steamcornmunlty.net
+0.0.0.0 steamcornmunlty.site
 0.0.0.0 steamcornmunnitly.xyz
 0.0.0.0 steamcornmunty.com
 0.0.0.0 steamcornmunyti.ru
@@ -13550,6 +13561,7 @@
 0.0.0.0 steancommiunity.com
 0.0.0.0 steancommiunity.ru
 0.0.0.0 steancommiuty.com
+0.0.0.0 steancommlnuty.com
 0.0.0.0 steancommmunity.com
 0.0.0.0 steancommnity.com
 0.0.0.0 steancommnnity.com
@@ -13747,6 +13759,7 @@
 0.0.0.0 steancomuunity.com
 0.0.0.0 steanconmiunitly.com
 0.0.0.0 steanconmiunity.com
+0.0.0.0 steanconmminuty.com
 0.0.0.0 steanconmmiunity.com
 0.0.0.0 steanconmnnutiy.online
 0.0.0.0 steanconmnnutiy.ru
@@ -13911,6 +13924,7 @@
 0.0.0.0 steannconnnnunity.net.ru
 0.0.0.0 steannconnnunity.com
 0.0.0.0 steannconnunity.site
+0.0.0.0 steanncummiunity.com
 0.0.0.0 steanncummlunity.com
 0.0.0.0 steanncummunity.com
 0.0.0.0 steannmconnunity.site
@@ -15794,6 +15808,7 @@
 0.0.0.0 www-robltox.com
 0.0.0.0 www-steamcommunlty.com
 0.0.0.0 www-web-rcblox.com
+0.0.0.0 www.steamcommunitylie.top
 0.0.0.0 wwwsteamcommunity.com
 0.0.0.0 wwww-robiox.com
 0.0.0.0 wwx-roblox.com
