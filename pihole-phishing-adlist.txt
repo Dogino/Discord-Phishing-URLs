@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 01 Jul 2022, 15:22 UTC+02
+# Last modified: Sat, 02 Jul 2022, 13:25 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1449,6 +1449,7 @@
 0.0.0.0 dicsorddnitro.xyz
 0.0.0.0 dicsorde-drops.uno
 0.0.0.0 dicsorde.ru
+0.0.0.0 dicsordegift.ru
 0.0.0.0 dicsordgif.xyz
 0.0.0.0 dicsordgift.club
 0.0.0.0 dicsordgift.com
@@ -1522,6 +1523,7 @@
 0.0.0.0 dicsrod.com
 0.0.0.0 dicsrodapp.com
 0.0.0.0 dicsrods-egift.com
+0.0.0.0 dicsrods-glft.com
 0.0.0.0 dicsrods.ru
 0.0.0.0 diczord.xyz
 0.0.0.0 didiscord.com
@@ -1609,6 +1611,7 @@
 0.0.0.0 dilscordilgifxs.com
 0.0.0.0 dilscordilgifxt.com
 0.0.0.0 dilscordilgilt.com
+0.0.0.0 dilscordilgiltf.com
 0.0.0.0 dilscordis.com
 0.0.0.0 dilscordis.net.ru
 0.0.0.0 dilscordix.com
@@ -5038,6 +5041,7 @@
 0.0.0.0 dlscod-apps.space
 0.0.0.0 dlscoed.com
 0.0.0.0 dlscoins.site
+0.0.0.0 dlscold-nilro.com
 0.0.0.0 dlscold-nitro.com
 0.0.0.0 dlscold-nitros.com
 0.0.0.0 dlscold.com
@@ -5371,6 +5375,7 @@
 0.0.0.0 dlscordnilto.xyz
 0.0.0.0 dlscordniltro.com
 0.0.0.0 dlscordnito.com
+0.0.0.0 dlscordnitro-gg.com
 0.0.0.0 dlscordnitro.com
 0.0.0.0 dlscordnitro.gift
 0.0.0.0 dlscordnitro.gifts
@@ -6121,6 +6126,7 @@
 0.0.0.0 forms-events-moderator.com
 0.0.0.0 forms-events-moderators.com
 0.0.0.0 forms-events.gq
+0.0.0.0 forms-eventshypesquad.com
 0.0.0.0 forms-for-hypeteam.com
 0.0.0.0 forms-for-hypeteams.com
 0.0.0.0 forms-for-new-hypesquad-testers.com
@@ -6568,6 +6574,7 @@
 0.0.0.0 gif-discord.com
 0.0.0.0 gif-discorde.com
 0.0.0.0 gife-discorde.com
+0.0.0.0 giflxdlscord.com
 0.0.0.0 gifs-discord.com
 0.0.0.0 gifs-discorde.com
 0.0.0.0 gift-1month-nitro.gq
@@ -6770,6 +6777,7 @@
 0.0.0.0 guardian-angel.xyz
 0.0.0.0 guide-events.com
 0.0.0.0 guide-hype-events.com
+0.0.0.0 guide-hypesquad.com
 0.0.0.0 guitar-love.ru
 0.0.0.0 guns-slot.tk
 0.0.0.0 gyazo.nl
@@ -6940,6 +6948,7 @@
 0.0.0.0 hypeformulary.com
 0.0.0.0 hypequadform.com
 0.0.0.0 hyper-tournament.xyz
+0.0.0.0 hyperegister.online
 0.0.0.0 hyperegisterevents.ga
 0.0.0.0 hypersquad-event.online
 0.0.0.0 hypersquad-official-academy.com
@@ -7110,6 +7119,7 @@
 0.0.0.0 hypesquad-formulary-team.com
 0.0.0.0 hypesquad-formulary.com
 0.0.0.0 hypesquad-formulary.gq
+0.0.0.0 hypesquad-formularys.com
 0.0.0.0 hypesquad-formularys.gq
 0.0.0.0 hypesquad-formularyy.com
 0.0.0.0 hypesquad-from-ads.gq
@@ -7136,6 +7146,7 @@
 0.0.0.0 hypesquad-invitation.com
 0.0.0.0 hypesquad-invite-2022.ga
 0.0.0.0 hypesquad-invite-events-app.com
+0.0.0.0 hypesquad-invite-gg.com
 0.0.0.0 hypesquad-invite-join.com
 0.0.0.0 hypesquad-invite-moderators.com
 0.0.0.0 hypesquad-invite.com
@@ -7801,6 +7812,7 @@
 0.0.0.0 join-hypeevents.com
 0.0.0.0 join-hypesquad-2022.com
 0.0.0.0 join-hypesquad-academy.com
+0.0.0.0 join-hypesquad-academy.gq
 0.0.0.0 join-hypesquad-beta.com
 0.0.0.0 join-hypesquad-events-forms.com
 0.0.0.0 join-hypesquad-events-house.com
@@ -7985,6 +7997,7 @@
 0.0.0.0 jointhehypesquadteam.com
 0.0.0.0 joinus-hypesquad-official.com
 0.0.0.0 joinus-hypesquad-on-official.com
+0.0.0.0 joinus-hypeteam-events.com
 0.0.0.0 jokedrop.ru
 0.0.0.0 jope-nitro.com
 0.0.0.0 journey-hypesquad.com
@@ -9473,6 +9486,7 @@
 0.0.0.0 pix-zero.org.ru
 0.0.0.0 pizzaeria-papajohns.com
 0.0.0.0 play-madeinabyss.com
+0.0.0.0 play-silt.games
 0.0.0.0 play-spyrita.com
 0.0.0.0 playaffix.com
 0.0.0.0 playaffix.net
@@ -10234,6 +10248,7 @@
 0.0.0.0 selection-hype-squad.com
 0.0.0.0 selection-hype.com
 0.0.0.0 selection-hypesquad.com
+0.0.0.0 selection-hypesquad2022.cf
 0.0.0.0 selection-hypesquadevents.com
 0.0.0.0 selection-hypesquadteam.com
 0.0.0.0 selection-hypeteam-2022.com
@@ -12439,6 +12454,7 @@
 0.0.0.0 steamcommuunlity.com
 0.0.0.0 steamcommuunniity.com
 0.0.0.0 steamcommuunuty.ru
+0.0.0.0 steamcommuunutyi.ru
 0.0.0.0 steamcommuwunity.com
 0.0.0.0 steamcommuynity.ru
 0.0.0.0 steamcommuynity.ru.com
