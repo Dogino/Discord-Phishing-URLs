@@ -321,6 +321,7 @@ apply-discordacademy.com
 apply-discordmoderatoracademy.com
 apply-event-hypesquad.com
 apply-event-hypesquad.gq
+apply-event.gq
 apply-events-hype-now.com
 apply-events.com
 apply-events.ga
@@ -349,6 +350,7 @@ apply-hype-squad.com
 apply-hype-squad.gq
 apply-hype-squad.tk
 apply-hype.com
+apply-hypeacademy.ml
 apply-hypeacademyteam.gq
 apply-hypeevent.com
 apply-hypeevents-squad.com
@@ -611,6 +613,7 @@ beta-roblox.com
 beta-squadevents.com
 beta-teams-developers.ga
 beta-users.app
+beta-users.gq
 beta.discorder.app
 betadiscord.com
 betainvite.app
@@ -955,6 +958,7 @@ connect-forms-renews-moderetors.com
 connect-formulary-hypesquads.com
 connect-formulary-team.com
 connect-hype-events-votes.com
+connect-hype.com
 connect-hypesquad-event.xyz
 connect-hypesquad-exam.com
 connect-hypesquad-form-events.com
@@ -5475,6 +5479,7 @@ dlscrod-gift.xyz
 dlscrod-go.com
 dlscrod-nitro.ru
 dlscrod-nitro.shop
+dlscrod-nltro.ru
 dlscrod-ui.com
 dlscrod.gifts
 dlscrod.ru.com
@@ -5627,6 +5632,7 @@ dscordgiftn.xyz
 dscordgifts.shop
 dscordl.com
 dscordnitro.xyz
+dscordpromotions.co
 dscorrd-nitro.xyz
 dscrd.club
 dscrd.gq
@@ -6165,6 +6171,7 @@ forms-hypesquad-teams.com
 forms-hypesquad.com
 forms-hypesquadacademy.gq
 forms-hypesquadevent-join.com
+forms-hypesquadevents.gq
 forms-hypeteam.com
 forms-hypeteam.gq
 forms-hypeteamacademy.gq
@@ -6894,6 +6901,7 @@ hype-invite.gq
 hype-invited.com
 hype-join-event.com
 hype-join.com
+hype-join.gq
 hype-joiners.com
 hype-joiners.ga
 hype-joiners.gq
@@ -6972,6 +6980,7 @@ hypesquad-academy-exam.com
 hypesquad-academy-form.com
 hypesquad-academy-group.com
 hypesquad-academy-season.uk
+hypesquad-academy.cf
 hypesquad-academy.co
 hypesquad-academy.com
 hypesquad-ads-set.com
@@ -7240,6 +7249,7 @@ hypesquad-programs-form.com
 hypesquad-programs-forms.com
 hypesquad-programs-official.com
 hypesquad-programs-signup.com
+hypesquad-programs.gq
 hypesquad-publication.com
 hypesquad-qualify.com
 hypesquad-quiz-register.tk
@@ -8112,6 +8122,7 @@ linkshrink.net
 linktrade.pp.ua
 liscordl.online
 liscordl.ru
+list-hypesquad.gq
 listycommunity.ru
 litance-viestside.icu
 livediscordbonus.fun
@@ -8872,6 +8883,7 @@ new-hypesquad-selection.com
 new-hypesquad-teams.com
 new-hypesquad.com
 new-hypesquad.ga
+new-hypesquad.gq
 new-hypesquadevent-form.com
 new-hypesquadevents-form.com
 new-hypesquadevents-forms.com
@@ -9896,6 +9908,7 @@ registration-from-hypeteams.com
 registration-hypesquad-2022.com
 registration-hypesquad-events.com
 registration-hypesquad.ga
+registration-hypesquad.gq
 registration-hypesquad.tk
 registration-in-hypesquad.com
 registration-moderator-academy.com
@@ -12023,6 +12036,7 @@ steamcommunityiw.top
 steamcommunityix.top
 steamcommunityjhk.ru
 steamcommunityk.com
+steamcommunityki.top
 steamcommunitykorea.top
 steamcommunityl.me
 steamcommunityl.ru
@@ -15928,6 +15942,7 @@ welcome-subscribers-hypesquad.com
 welcomehypeteams.gq
 welcomeleaguepro.com
 welcometohypesquad.com
+welcometohypeteam.gq
 weplay.ru.com
 westabit.com
 westart-auth.pro
