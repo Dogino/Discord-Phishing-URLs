@@ -355,6 +355,7 @@ apply-hype.com
 apply-hypeacademy.ml
 apply-hypeacademyteam.gq
 apply-hypediscord.com
+apply-hypediscord.ml
 apply-hypeevent.com
 apply-hypeevents-squad.com
 apply-hypeevents.com
@@ -617,6 +618,7 @@ beta-apply.com
 beta-discord.co
 beta-discord.com
 beta-discord.net
+beta-discordapp.ml
 beta-hypesquad.com
 beta-invitation.app
 beta-invite.app
@@ -5360,6 +5362,7 @@ dlscordfull.ru
 dlscordfull.xyz
 dlscordgame.com
 dlscordgg.icu
+dlscordgg.ru
 dlscordgift-nitro.com
 dlscordgift.com
 dlscordgift.info
@@ -5877,6 +5880,7 @@ event-discord.com
 event-hypemoderator.com
 event-hypesquad-invite.com
 event-hypesquad.com
+event-hypesquad.ga
 event-hypesquad.gq
 event-hypesquad.ml
 event-hypesquads.com
@@ -7105,6 +7109,7 @@ hypesquad-event.info
 hypesquad-event2022.com
 hypesquad-eventjoin.com
 hypesquad-events-2022.com
+hypesquad-events-academy.gq
 hypesquad-events-aplly.com
 hypesquad-events-app.com
 hypesquad-events-apply.com
@@ -7160,6 +7165,7 @@ hypesquad-eventt.info
 hypesquad-eventts.com
 hypesquad-exam-moderator.com
 hypesquad-exam.com
+hypesquad-exam.ga
 hypesquad-exam.tk
 hypesquad-exams.com
 hypesquad-for-badge.com
@@ -9712,6 +9718,7 @@ pshtr.xyz
 psixoglika.pro
 psp-haxors.com
 ptbdiscord.com
+ptbdiscord.gq
 ptookaih.net
 pu4.biz
 pubg-asia.xyz
@@ -11226,6 +11233,7 @@ steam-account.store
 steam-accounts.com
 steam-accounts.net
 steam-airdrop.com
+steam-airdrops.com
 steam-announcements1.xyz
 steam-api.kenrich.io
 steam-auth.com
@@ -11976,6 +11984,7 @@ steamcommunittiy.com
 steamcommunittly.com
 steamcommunittrade.xyz
 steamcommunittru.co
+steamcommunittu.com
 steamcommunitty.com
 steamcommunitty.com.ru
 steamcommunitty.esplay.eu
@@ -12142,6 +12151,7 @@ steamcommunityki.top
 steamcommunitykorea.top
 steamcommunitykr.top
 steamcommunitykri.top
+steamcommunitykro.top
 steamcommunitykrz.top
 steamcommunityl.me
 steamcommunityl.ru
@@ -12694,6 +12704,7 @@ steamcomnmunity.ru.com
 steamcomnmunity.xyz
 steamcomnmunlity.com
 steamcomnmunlty.com
+steamcomnmunlty.ru
 steamcomnmuntiy.ru.com
 steamcomnmunuty.ru
 steamcomnmunyti.com
@@ -15189,6 +15200,7 @@ streamcommunaty.com
 streamcommuneiley.net
 streamcommunetiy.com
 streamcommunetly.com
+streamcommunicat.ru
 streamcommunicate.ru
 streamcommunication.com
 streamcommunify.com

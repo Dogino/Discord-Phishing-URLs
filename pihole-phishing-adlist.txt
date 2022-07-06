@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 06 Jul 2022, 13:09 UTC+02
+# Last modified: Thu, 07 Jul 2022, 00:05 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -371,6 +371,7 @@
 0.0.0.0 apply-hypeacademy.ml
 0.0.0.0 apply-hypeacademyteam.gq
 0.0.0.0 apply-hypediscord.com
+0.0.0.0 apply-hypediscord.ml
 0.0.0.0 apply-hypeevent.com
 0.0.0.0 apply-hypeevents-squad.com
 0.0.0.0 apply-hypeevents.com
@@ -633,6 +634,7 @@
 0.0.0.0 beta-discord.co
 0.0.0.0 beta-discord.com
 0.0.0.0 beta-discord.net
+0.0.0.0 beta-discordapp.ml
 0.0.0.0 beta-hypesquad.com
 0.0.0.0 beta-invitation.app
 0.0.0.0 beta-invite.app
@@ -5376,6 +5378,7 @@
 0.0.0.0 dlscordfull.xyz
 0.0.0.0 dlscordgame.com
 0.0.0.0 dlscordgg.icu
+0.0.0.0 dlscordgg.ru
 0.0.0.0 dlscordgift-nitro.com
 0.0.0.0 dlscordgift.com
 0.0.0.0 dlscordgift.info
@@ -5893,6 +5896,7 @@
 0.0.0.0 event-hypemoderator.com
 0.0.0.0 event-hypesquad-invite.com
 0.0.0.0 event-hypesquad.com
+0.0.0.0 event-hypesquad.ga
 0.0.0.0 event-hypesquad.gq
 0.0.0.0 event-hypesquad.ml
 0.0.0.0 event-hypesquads.com
@@ -7121,6 +7125,7 @@
 0.0.0.0 hypesquad-event2022.com
 0.0.0.0 hypesquad-eventjoin.com
 0.0.0.0 hypesquad-events-2022.com
+0.0.0.0 hypesquad-events-academy.gq
 0.0.0.0 hypesquad-events-aplly.com
 0.0.0.0 hypesquad-events-app.com
 0.0.0.0 hypesquad-events-apply.com
@@ -7176,6 +7181,7 @@
 0.0.0.0 hypesquad-eventts.com
 0.0.0.0 hypesquad-exam-moderator.com
 0.0.0.0 hypesquad-exam.com
+0.0.0.0 hypesquad-exam.ga
 0.0.0.0 hypesquad-exam.tk
 0.0.0.0 hypesquad-exams.com
 0.0.0.0 hypesquad-for-badge.com
@@ -9728,6 +9734,7 @@
 0.0.0.0 psixoglika.pro
 0.0.0.0 psp-haxors.com
 0.0.0.0 ptbdiscord.com
+0.0.0.0 ptbdiscord.gq
 0.0.0.0 ptookaih.net
 0.0.0.0 pu4.biz
 0.0.0.0 pubg-asia.xyz
@@ -11242,6 +11249,7 @@
 0.0.0.0 steam-accounts.com
 0.0.0.0 steam-accounts.net
 0.0.0.0 steam-airdrop.com
+0.0.0.0 steam-airdrops.com
 0.0.0.0 steam-announcements1.xyz
 0.0.0.0 steam-api.kenrich.io
 0.0.0.0 steam-auth.com
@@ -11992,6 +12000,7 @@
 0.0.0.0 steamcommunittly.com
 0.0.0.0 steamcommunittrade.xyz
 0.0.0.0 steamcommunittru.co
+0.0.0.0 steamcommunittu.com
 0.0.0.0 steamcommunitty.com
 0.0.0.0 steamcommunitty.com.ru
 0.0.0.0 steamcommunitty.esplay.eu
@@ -12158,6 +12167,7 @@
 0.0.0.0 steamcommunitykorea.top
 0.0.0.0 steamcommunitykr.top
 0.0.0.0 steamcommunitykri.top
+0.0.0.0 steamcommunitykro.top
 0.0.0.0 steamcommunitykrz.top
 0.0.0.0 steamcommunityl.me
 0.0.0.0 steamcommunityl.ru
@@ -12710,6 +12720,7 @@
 0.0.0.0 steamcomnmunity.xyz
 0.0.0.0 steamcomnmunlity.com
 0.0.0.0 steamcomnmunlty.com
+0.0.0.0 steamcomnmunlty.ru
 0.0.0.0 steamcomnmuntiy.ru.com
 0.0.0.0 steamcomnmunuty.ru
 0.0.0.0 steamcomnmunyti.com
@@ -15205,6 +15216,7 @@
 0.0.0.0 streamcommuneiley.net
 0.0.0.0 streamcommunetiy.com
 0.0.0.0 streamcommunetly.com
+0.0.0.0 streamcommunicat.ru
 0.0.0.0 streamcommunicate.ru
 0.0.0.0 streamcommunication.com
 0.0.0.0 streamcommunify.com
