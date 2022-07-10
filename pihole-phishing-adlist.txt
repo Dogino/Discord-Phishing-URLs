@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 09 Jul 2022, 15:58 UTC+02
+# Last modified: Sun, 10 Jul 2022, 13:21 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1901,6 +1901,7 @@
 0.0.0.0 discokid.onl
 0.0.0.0 discokrd.com
 0.0.0.0 discolb.xyz
+0.0.0.0 discold-gift.ru
 0.0.0.0 discold-nitro.com
 0.0.0.0 discold-nitro.icu
 0.0.0.0 discold-nitro.ru
@@ -4874,6 +4875,7 @@
 0.0.0.0 disordnltro.xyz
 0.0.0.0 disordnltros.com
 0.0.0.0 disordnltros.gifts
+0.0.0.0 disordpromotion.us
 0.0.0.0 disordpromotlons.com
 0.0.0.0 disords-gift.ru
 0.0.0.0 disords.gift
@@ -5108,6 +5110,7 @@
 0.0.0.0 dlsccordclub.club
 0.0.0.0 dlsccordclub.com
 0.0.0.0 dlsccordgit.ru
+0.0.0.0 dlsccorrd-app.ru
 0.0.0.0 dlsccrd.com
 0.0.0.0 dlscocl.xyz
 0.0.0.0 dlscocrd.club
@@ -6644,6 +6647,7 @@
 0.0.0.0 get-nitro.online
 0.0.0.0 get-nitro.org
 0.0.0.0 get-nitro.xyz
+0.0.0.0 get-users-beta.ml
 0.0.0.0 get19dragos.club
 0.0.0.0 getcach.monster
 0.0.0.0 getcryptotab.com
@@ -7035,6 +7039,7 @@
 0.0.0.0 hype-squad-vote.gq
 0.0.0.0 hype-squad.club
 0.0.0.0 hype-squad.events
+0.0.0.0 hype-squad.gq
 0.0.0.0 hype-squad.info
 0.0.0.0 hype-squadbadge.com
 0.0.0.0 hype-squadevents-forms.com
@@ -7199,6 +7204,7 @@
 0.0.0.0 hypesquad-events-moderatos-discord.com
 0.0.0.0 hypesquad-events-new.com
 0.0.0.0 hypesquad-events-official.com
+0.0.0.0 hypesquad-events-official.ga
 0.0.0.0 hypesquad-events-progam.com
 0.0.0.0 hypesquad-events-program.com
 0.0.0.0 hypesquad-events-redeem.com
@@ -10979,6 +10985,7 @@
 0.0.0.0 staemcamunity.com
 0.0.0.0 staemccommunitly.com
 0.0.0.0 staemccommunnity.net.ru
+0.0.0.0 staemcemmdnity.ru
 0.0.0.0 staemcemmunity.ru
 0.0.0.0 staemcomcommunlty.ru.com
 0.0.0.0 staemcomconmunlty.ru.com
@@ -11482,6 +11489,7 @@
 0.0.0.0 steamacommunity.ru.com
 0.0.0.0 steamactivator.tk
 0.0.0.0 steamairdrop.com
+0.0.0.0 steamalrdrop.com
 0.0.0.0 steamapp.xyz
 0.0.0.0 steamassistance.tech
 0.0.0.0 steamastery.net
@@ -11795,7 +11803,9 @@
 0.0.0.0 steamcommuinty.com
 0.0.0.0 steamcommuinty.com.ru
 0.0.0.0 steamcommuinuity.com
+0.0.0.0 steamcommuinuty.ru
 0.0.0.0 steamcommuiti.ru
+0.0.0.0 steamcommuitiny.com
 0.0.0.0 steamcommuitliy.com
 0.0.0.0 steamcommuitly.ru
 0.0.0.0 steamcommuitry.ru
@@ -11918,6 +11928,7 @@
 0.0.0.0 steamcommunilty.xyz
 0.0.0.0 steamcommuniltys.com
 0.0.0.0 steamcommunily.buzz
+0.0.0.0 steamcommunily.fun
 0.0.0.0 steamcommunily.net.ru
 0.0.0.0 steamcommunily.org
 0.0.0.0 steamcommunily.ru
@@ -13982,6 +13993,7 @@
 0.0.0.0 steancommuinty.com
 0.0.0.0 steancommuinty.ru
 0.0.0.0 steancommuinuty.ru
+0.0.0.0 steancommuitny.com
 0.0.0.0 steancommuity.com
 0.0.0.0 steancommuity.ru
 0.0.0.0 steancommulily.com
@@ -15748,6 +15760,7 @@
 0.0.0.0 takesdrop.fun
 0.0.0.0 takesdrop.org.ru
 0.0.0.0 takesdrop.site
+0.0.0.0 takesdropes.ru
 0.0.0.0 talanka.com
 0.0.0.0 tamesteel.net
 0.0.0.0 tanpavirus.web.id
@@ -16178,6 +16191,7 @@
 0.0.0.0 welcome-moderation.com
 0.0.0.0 welcome-subscribers-hypesquad.com
 0.0.0.0 welcome-to-hypesquad.tk
+0.0.0.0 welcomehypeteam.com
 0.0.0.0 welcomehypeteams.gq
 0.0.0.0 welcomehypetest.com
 0.0.0.0 welcomeleaguepro.com
