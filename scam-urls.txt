@@ -782,6 +782,7 @@ captchabot.cam
 captchabot.click
 captchabot.courses
 captchabot.dev
+captchabot.ink
 captchabot.to
 captchabot.world
 captchabotverify.com
@@ -3049,6 +3050,7 @@ discord-verified.com
 discord-verify-account.ml
 discord-verify.com
 discord-verify.gq
+discord-verify.net
 discord-verify.one
 discord-verify.ru
 discord-verify.xyz
@@ -3058,6 +3060,7 @@ discord-votation.com
 discord-vote-hypesquad.tk
 discord-votejob.com
 discord-votes.com
+discord-wallet.com
 discord-warning.com
 discord-web.com
 discord-windows10.ru
@@ -3156,6 +3159,7 @@ discord.inc
 discord.institute
 discord.istanbul
 discord.jobs
+discord.kb.help
 discord.lighting
 discord.limited
 discord.limo
@@ -3363,6 +3367,7 @@ discordarea.com
 discordarpp.com
 discordaspp.com
 discordassist.com
+discordassistance.com
 discordassistant.com
 discordatapp.com
 discordauction.com
@@ -4242,6 +4247,7 @@ discords-gifts.xyz
 discords-giveaway.ru
 discords-glft.com
 discords-glft.xyz
+discords-glfts.com
 discords-go.com
 discords-hypes.com
 discords-hypesquad.com
@@ -4274,6 +4280,7 @@ discords.cool
 discords.dev
 discords.gift
 discords.gifts
+discords.icu
 discords.in
 discords.life
 discords.media
@@ -4872,6 +4879,7 @@ disordsnltros.gifts
 displayoptoffers.com
 disqdrdapp.com
 disqrdapp.com
+disrcocls-nitro.site
 disrcod-airdrop.com
 disrcod-dro.gq
 disrcod-drop.com
@@ -4891,6 +4899,7 @@ disrcodrop.gq
 disrcods-gift-nitro.xyz
 disrcods-gift.com
 disrcods-gift.ru
+disrcods-gift.site
 disrcods-gift.xyz
 disrcods-gifts.site
 disrcods-nitro.ru
@@ -5095,6 +5104,8 @@ dlsccordclub.club
 dlsccordclub.com
 dlsccordgit.ru
 dlsccorrd-app.ru
+dlsccorrd-app.site
+dlsccorrd-apps.site
 dlsccrd.com
 dlscocl.xyz
 dlscocrd.club
@@ -5104,6 +5115,7 @@ dlscocrdapp.com
 dlscod-apps.space
 dlscoed.com
 dlscoins.site
+dlscold-gift.ru
 dlscold-niitro.com
 dlscold-nilro.com
 dlscold-nitro.com
@@ -5582,6 +5594,7 @@ dlsordnitro.gifts
 dlsordnltro.xyz
 dlsordnltros.com
 dlsordnltros.gifts
+dlsrcod-gifts.org
 dlsrcords-gift.ru
 dlsscord-app.club
 dlsscord-apps.club
@@ -5771,6 +5784,7 @@ dynobots.gg
 dynobots.io
 dynobots.net
 dynobots.org
+dynocaptcha.com
 dynoclick.gg
 dynos.gg
 dynos.info
@@ -5831,6 +5845,7 @@ egiftpremium.com
 egiftpremium.ru
 egiftpremiumgg.com
 egiftpremiumgg.ru
+egiftpremiumgg.shop
 egifts-discord.gq
 egifts-elite.xyz
 egifts-premeum.xyz
@@ -6863,6 +6878,7 @@ gotournamen.ru
 gotyouripboi.com
 grabify.link
 grandcasinobell.com
+graviocoin.io
 great-income.ru
 greatgreat.xyz
 green-nitrogen.com
@@ -7126,6 +7142,7 @@ hypesquad-claim.gq
 hypesquad-claims.com
 hypesquad-club-events.ga
 hypesquad-club-events.gq
+hypesquad-club-exam.com
 hypesquad-club-login-2022.com
 hypesquad-club.tech
 hypesquad-community.com
@@ -7216,6 +7233,7 @@ hypesquad-events.net
 hypesquad-eventssignup.com
 hypesquad-eventt.info
 hypesquad-eventts.com
+hypesquad-exam-join.com
 hypesquad-exam-moderator.com
 hypesquad-exam.com
 hypesquad-exam.ga
@@ -7348,6 +7366,7 @@ hypesquad-official-invitation.com
 hypesquad-official-invite.com
 hypesquad-official-join.com
 hypesquad-official-joins.com
+hypesquad-official-progam.com
 hypesquad-official-register.com
 hypesquad-official-teams.com
 hypesquad-official-test.com
@@ -7359,6 +7378,7 @@ hypesquad-partners.com
 hypesquad-pdregisters.com
 hypesquad-picked.gq
 hypesquad-private.com
+hypesquad-progam-official.com
 hypesquad-program-community.com
 hypesquad-program.com
 hypesquad-program.gq
@@ -7380,6 +7400,7 @@ hypesquad-recruitments.com
 hypesquad-redeem.com
 hypesquad-reedem-forms.com
 hypesquad-reedem.com
+hypesquad-register-club.com
 hypesquad-register-new.com
 hypesquad-register-now.com
 hypesquad-register-official.com
@@ -7589,6 +7610,7 @@ hypesquadinfo.site
 hypesquadinform.ml
 hypesquadiscord.com
 hypesquadjoin.com
+hypesquadlive.com
 hypesquadmedia.com
 hypesquadmod-participate.com
 hypesquadmodeation.com
@@ -7726,6 +7748,7 @@ improveprivacy.me
 imvu37.blogspot.com
 incorphishor.com
 indereyn.ru.com
+indexcaptchabot.info
 inewsteam.site
 info-developers.com
 info-hypesquad-events.com
@@ -7935,6 +7958,7 @@ join-discord-moderator.com
 join-discord-partner.com
 join-discord.com
 join-discordevents.com
+join-event-hypesquad.com
 join-events-hypesquads.com
 join-events.ga
 join-eventshypesquad.com
@@ -8091,6 +8115,7 @@ join-teammoderator.com
 join-teams-hypesquad.com
 join-test-moderator.com
 join-the-discord.com
+join-the-formulary-hypesquad.cf
 join-the-hype.com
 join-the-hypeevents.com
 join-the-hypesquad-discord.com
@@ -8418,6 +8443,7 @@ mediaflare.site
 mediahouse.com.ua
 mediasflare.site
 mee6.digital
+mee6captcha.xyz
 meetnitro.com
 megatuz.ru
 mekaverse-minting.com
@@ -10202,6 +10228,7 @@ roblox-site.com
 roblox-sites.com
 roblox-v.com
 roblox-verification.com
+roblox-webs.com
 roblox.br.com
 roblox.com.af
 roblox.com.ag
@@ -10236,6 +10263,7 @@ roblox.gs
 roblox.help
 roblox.link.club
 roblox.sx
+roblox.uk.com
 robloxbing.com
 robloxdownload.org
 robloxgamecode.com
@@ -10324,6 +10352,7 @@ rust-llc.com
 rust-ltd.com
 rust-open.ru
 rust-phoenix.org
+rust-raffle.com
 rust-reward.com
 rust-rivals.ru
 rust-roulettes.com
@@ -11522,6 +11551,7 @@ steamcammunty.online
 steamcammunty.ru
 steamcammunuty.com
 steamcammunyty.ru
+steamcamnnunity.com
 steamcamnunity.com
 steamcamnunity.ru
 steamcamunite.com
@@ -12184,6 +12214,8 @@ steamcommunitya.ru
 steamcommunityb.com
 steamcommunityc.com
 steamcommunityc.ru
+steamcommunitycie.top
+steamcommunitycio.top
 steamcommunitycom.com
 steamcommunitycom.ru.com
 steamcommunitycomoffernewpartner989791155tokenjbhldtj6.trade
@@ -13259,6 +13291,7 @@ steamcormmunlty.com
 steamcormmuuity.ru
 steamcormmynity.ru.com
 steamcormnunity.com
+steamcormnunity.online
 steamcormnunity.ru
 steamcormrunity.com
 steamcormunity.ru
@@ -13971,6 +14004,7 @@ steancommueniliy.ru.com
 steancommuhity.com
 steancommuhity.ru
 steancommuily.com
+steancommuimty.com
 steancommuineliy.ru.com
 steancommuiniliy.ru.com
 steancommuinity.me
@@ -16225,6 +16259,7 @@ wubingdu.cn
 wuntop.org.ru
 wvvvvw-roblox.com
 wvvw-roblox.com
+wvw-roblox.site
 wwdiscord.app
 wwdiscord.com
 wwiw-roblox.com
@@ -16241,6 +16276,7 @@ www-discord.online
 www-hypesquad-event.com
 www-robiox.com.nf
 www-robllox.com
+www-roblox-sites.com
 www-roblox.com.mx
 www-roblox.com.ru
 www-roblox.net
@@ -16251,12 +16287,16 @@ www-robltox.com
 www-rublox.com
 www-steamcommunlty.com
 www-web-rcblox.com
+www.roblox.com.ee
+www.roblox.gr.com
+www.robloxi.com.se
 www.steamcommunitylie.top
 wwwsteamcommunity.com
 wwww-robiox.com
 wwx-roblox.com
 wwzv-roblox.com
 wwzw-robloxs.com
+wxrserver.com
 wyxy.ru
 x-nitro.com
 x-soft.club
