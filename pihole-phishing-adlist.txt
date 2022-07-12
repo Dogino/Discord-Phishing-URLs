@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 11 Jul 2022, 11:25 UTC+02
+# Last modified: Tue, 12 Jul 2022, 13:40 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1655,6 +1655,7 @@
 0.0.0.0 dilscordilgilt.com
 0.0.0.0 dilscordilgiltf.com
 0.0.0.0 dilscordilgilw.com
+0.0.0.0 dilscordilgilx.com
 0.0.0.0 dilscordis.com
 0.0.0.0 dilscordis.net.ru
 0.0.0.0 dilscordix.com
@@ -2872,6 +2873,7 @@
 0.0.0.0 discord-nittro.xyz
 0.0.0.0 discord-njtro.store
 0.0.0.0 discord-nlitro.com
+0.0.0.0 discord-nlitro.store
 0.0.0.0 discord-nltro.com
 0.0.0.0 discord-nltro.fun
 0.0.0.0 discord-nltro.info
@@ -4927,6 +4929,7 @@
 0.0.0.0 disrcord-premium.com
 0.0.0.0 disrcord.com
 0.0.0.0 disrcordapp.com
+0.0.0.0 disrcords-gift.xyz
 0.0.0.0 disrocd.com
 0.0.0.0 disrordapp.com
 0.0.0.0 disscorcl-app.com
@@ -5121,6 +5124,7 @@
 0.0.0.0 dlsccordgit.ru
 0.0.0.0 dlsccorrd-app.ru
 0.0.0.0 dlsccorrd-app.site
+0.0.0.0 dlsccorrd-apps.ru
 0.0.0.0 dlsccorrd-apps.site
 0.0.0.0 dlsccrd.com
 0.0.0.0 dlscocl.xyz
@@ -6991,12 +6995,15 @@
 0.0.0.0 hydra2018.ru
 0.0.0.0 hype-2022-invite.com
 0.0.0.0 hype-2022.com
+0.0.0.0 hype-academy-form.ml
+0.0.0.0 hype-academy-forms.ga
 0.0.0.0 hype-academy-forms.ml
 0.0.0.0 hype-apply-events.com
 0.0.0.0 hype-apply-form.ga
 0.0.0.0 hype-apply-formulary.com
 0.0.0.0 hype-apply.ga
 0.0.0.0 hype-apply.tk
+0.0.0.0 hype-club.nl
 0.0.0.0 hype-discord-events-support-new.com
 0.0.0.0 hype-discord.com
 0.0.0.0 hype-discord.tk
@@ -7076,6 +7083,7 @@
 0.0.0.0 hype-vote.com
 0.0.0.0 hype-votes-events-moderators.com
 0.0.0.0 hype-votes-new-events.com
+0.0.0.0 hypeacademy-register.ga
 0.0.0.0 hypeapply.com
 0.0.0.0 hypecontact.com
 0.0.0.0 hypediscord.com
@@ -7281,6 +7289,7 @@
 0.0.0.0 hypesquad-formulary-team.com
 0.0.0.0 hypesquad-formulary.com
 0.0.0.0 hypesquad-formulary.gq
+0.0.0.0 hypesquad-formulary.ml
 0.0.0.0 hypesquad-formularys.com
 0.0.0.0 hypesquad-formularys.gq
 0.0.0.0 hypesquad-formularyy.com
@@ -7333,6 +7342,7 @@
 0.0.0.0 hypesquad-joinevent.com
 0.0.0.0 hypesquad-joins.com
 0.0.0.0 hypesquad-joins.gq
+0.0.0.0 hypesquad-july.com
 0.0.0.0 hypesquad-list-selection.com
 0.0.0.0 hypesquad-list.com
 0.0.0.0 hypesquad-log-in-new-events.com
@@ -7429,6 +7439,7 @@
 0.0.0.0 hypesquad-registration-enter.gq
 0.0.0.0 hypesquad-registration-form.com
 0.0.0.0 hypesquad-registration-now.com
+0.0.0.0 hypesquad-registration-on.gq
 0.0.0.0 hypesquad-registration.com
 0.0.0.0 hypesquad-represent.com
 0.0.0.0 hypesquad-request-join.com
@@ -7688,6 +7699,7 @@
 0.0.0.0 hypesquadteamapplication.com
 0.0.0.0 hypesquadteamapply.com
 0.0.0.0 hypesquadteamforms.com
+0.0.0.0 hypesquadteaminvitation.com
 0.0.0.0 hypesquadteams-join.com
 0.0.0.0 hypesquadteams-start.com
 0.0.0.0 hypesquadvoting.com
@@ -7866,6 +7878,7 @@
 0.0.0.0 invite-hypesquadevents.com
 0.0.0.0 invite-hypesquadevents.ga
 0.0.0.0 invite-hypesquadevents.tk
+0.0.0.0 invite-hypesquadteam.com
 0.0.0.0 invite-hypeteam.com
 0.0.0.0 invite-moderation-discord.com
 0.0.0.0 invite-moderator-academy.academy
@@ -8342,6 +8355,7 @@
 0.0.0.0 login-hypesquad-event.com
 0.0.0.0 login-hypesquad-events.com
 0.0.0.0 login-hypesquad-team.com
+0.0.0.0 login-hypesquad-team.gq
 0.0.0.0 login-hypesquad.com
 0.0.0.0 login-hypesquadacademy.com
 0.0.0.0 login-hypesquadevent.com
@@ -9052,6 +9066,7 @@
 0.0.0.0 new-forms-testers-to-hypesquad.com
 0.0.0.0 new-forms-to-testers-hypesquad.com
 0.0.0.0 new-formulary-for-hypesquad-team.com
+0.0.0.0 new-formulary-hype.ml
 0.0.0.0 new-formulary-to-hypesquad.com
 0.0.0.0 new-give.com
 0.0.0.0 new-hype-register.com
@@ -9997,6 +10012,7 @@
 0.0.0.0 register-for-hypesquad.com
 0.0.0.0 register-for-hypeteam.com
 0.0.0.0 register-for-hypeteams.com
+0.0.0.0 register-forms-hypesquad.com
 0.0.0.0 register-formulary-hypesquad-events-team.com
 0.0.0.0 register-formulary-hypesquad-events.com
 0.0.0.0 register-formulary-hypesquad.cf
@@ -10515,6 +10531,7 @@
 0.0.0.0 serch10.biz
 0.0.0.0 serialkey89.com
 0.0.0.0 seriousdownload.com
+0.0.0.0 server-hypesquad.com
 0.0.0.0 service-indemonstrably-spadger-renting.xyz
 0.0.0.0 services.runescape.rs-tt.xyz
 0.0.0.0 services.runescape.rs-ui.xyz
@@ -11880,6 +11897,7 @@
 0.0.0.0 steamcommuneituy.ru
 0.0.0.0 steamcommuneity.com
 0.0.0.0 steamcommuneity.ru
+0.0.0.0 steamcommuneity.top
 0.0.0.0 steamcommunely.ru
 0.0.0.0 steamcommuneteiy.com
 0.0.0.0 steamcommuneti.com
@@ -12227,6 +12245,7 @@
 0.0.0.0 steamcommunity1.com
 0.0.0.0 steamcommunitya.com
 0.0.0.0 steamcommunitya.ru
+0.0.0.0 steamcommunityai.top
 0.0.0.0 steamcommunityb.com
 0.0.0.0 steamcommunityc.com
 0.0.0.0 steamcommunityc.ru
@@ -12284,6 +12303,7 @@
 0.0.0.0 steamcommunityk.com
 0.0.0.0 steamcommunityke.top
 0.0.0.0 steamcommunityki.top
+0.0.0.0 steamcommunitykio.top
 0.0.0.0 steamcommunitykorea.top
 0.0.0.0 steamcommunitykr.top
 0.0.0.0 steamcommunitykri.top
@@ -12403,6 +12423,7 @@
 0.0.0.0 steamcommunityu.com
 0.0.0.0 steamcommunityu.ru
 0.0.0.0 steamcommunityui.club
+0.0.0.0 steamcommunityuio.top
 0.0.0.0 steamcommunityv.com
 0.0.0.0 steamcommunityvi.top
 0.0.0.0 steamcommunityvia.top
