@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 12 Jul 2022, 13:40 UTC+02
+# Last modified: Tue, 12 Jul 2022, 21:17 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1383,6 +1383,7 @@
 0.0.0.0 dicsodrd.gq
 0.0.0.0 dicsold.com
 0.0.0.0 dicsold.xyz
+0.0.0.0 dicsorb-gift.ru
 0.0.0.0 dicsorb.xyz
 0.0.0.0 dicsord-action.com
 0.0.0.0 dicsord-action.today
@@ -2454,6 +2455,7 @@
 0.0.0.0 discord-gifts.com
 0.0.0.0 discord-gifts.com.ru
 0.0.0.0 discord-gifts.ga
+0.0.0.0 discord-gifts.host
 0.0.0.0 discord-gifts.me
 0.0.0.0 discord-gifts.net
 0.0.0.0 discord-gifts.net.ru
@@ -2874,6 +2876,7 @@
 0.0.0.0 discord-njtro.store
 0.0.0.0 discord-nlitro.com
 0.0.0.0 discord-nlitro.store
+0.0.0.0 discord-nlitro.xyz
 0.0.0.0 discord-nltro.com
 0.0.0.0 discord-nltro.fun
 0.0.0.0 discord-nltro.info
@@ -5027,6 +5030,7 @@
 0.0.0.0 dlcsord-airdrop.com
 0.0.0.0 dlcsord-com.com
 0.0.0.0 dlcsord-com.ru
+0.0.0.0 dlcsord-egift.com
 0.0.0.0 dlcsord-egift.ru
 0.0.0.0 dlcsord-gift.com
 0.0.0.0 dlcsord-gift.ru
@@ -5539,6 +5543,7 @@
 0.0.0.0 dlscordsream.pp.ua
 0.0.0.0 dlscordss.xyz
 0.0.0.0 dlscordsteam.com
+0.0.0.0 dlscordsteam.ru
 0.0.0.0 dlscordsteami.com
 0.0.0.0 dlscordx.com
 0.0.0.0 dlscordxnitro.icu
@@ -6433,6 +6438,7 @@
 0.0.0.0 formularymoderator.com
 0.0.0.0 formularys-academy.com
 0.0.0.0 formularys-hypesquad-events.ga
+0.0.0.0 formularys-hypesquad-events.ml
 0.0.0.0 formularys-hypesquad-invite.ga
 0.0.0.0 formularys-hypesquad-official.com
 0.0.0.0 formularys-moderatorsacademy.com
@@ -8035,6 +8041,7 @@
 0.0.0.0 join-hypesquad-form.com
 0.0.0.0 join-hypesquad-form.gq
 0.0.0.0 join-hypesquad-forms.com
+0.0.0.0 join-hypesquad-forms.ml
 0.0.0.0 join-hypesquad-houses.com
 0.0.0.0 join-hypesquad-how.com
 0.0.0.0 join-hypesquad-info-team.com
