@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 12 Jul 2022, 21:17 UTC+02
+# Last modified: Wed, 13 Jul 2022, 15:50 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -3221,6 +3221,7 @@
 0.0.0.0 discord.taxi
 0.0.0.0 discord.team
 0.0.0.0 discord.technology
+0.0.0.0 discord.trengohelp.com
 0.0.0.0 discord.trial-hypesquad-team.com
 0.0.0.0 discord.tv
 0.0.0.0 discord.tw
@@ -4928,6 +4929,7 @@
 0.0.0.0 disrcods-nitro.site
 0.0.0.0 disrcods-nitro.space
 0.0.0.0 disrcods-nitrq.gq
+0.0.0.0 disrcord-gift.com
 0.0.0.0 disrcord-gift.site
 0.0.0.0 disrcord-premium.com
 0.0.0.0 disrcord.com
@@ -7017,6 +7019,7 @@
 0.0.0.0 hype-event.gq
 0.0.0.0 hype-events-2022.com
 0.0.0.0 hype-events-badges.gq
+0.0.0.0 hype-events-formularys.ml
 0.0.0.0 hype-events-invite.gq
 0.0.0.0 hype-events-moderator-support.com
 0.0.0.0 hype-events-registration.com
@@ -7281,6 +7284,7 @@
 0.0.0.0 hypesquad-form-new-beta-login.com
 0.0.0.0 hypesquad-form-new-beta.com
 0.0.0.0 hypesquad-form-new-login.com
+0.0.0.0 hypesquad-form-register.gq
 0.0.0.0 hypesquad-form-selection.com
 0.0.0.0 hypesquad-form.gq
 0.0.0.0 hypesquad-forms-associate.com
@@ -9267,6 +9271,7 @@
 0.0.0.0 nitro-gamepass.win
 0.0.0.0 nitro-gamers.com
 0.0.0.0 nitro-gamers.fun
+0.0.0.0 nitro-gamers.store
 0.0.0.0 nitro-games.xyz
 0.0.0.0 nitro-generator-site.glitch.me
 0.0.0.0 nitro-generator.online
@@ -10399,6 +10404,7 @@
 0.0.0.0 rust-twitchs.com
 0.0.0.0 rust.facepunchs.com
 0.0.0.0 rust7.com
+0.0.0.0 rustcase.me
 0.0.0.0 rusteamcomnumily.com
 0.0.0.0 rustearncormunsity.ru
 0.0.0.0 rustfacepunch.com
@@ -10539,6 +10545,7 @@
 0.0.0.0 serialkey89.com
 0.0.0.0 seriousdownload.com
 0.0.0.0 server-hypesquad.com
+0.0.0.0 server-squad.com
 0.0.0.0 service-indemonstrably-spadger-renting.xyz
 0.0.0.0 services.runescape.rs-tt.xyz
 0.0.0.0 services.runescape.rs-ui.xyz
@@ -10938,6 +10945,7 @@
 0.0.0.0 smmdiscord.com
 0.0.0.0 sng-soft.com
 0.0.0.0 snitrogift.site
+0.0.0.0 snotragame.com
 0.0.0.0 snow.discordchristmas.com
 0.0.0.0 softgaz.ru
 0.0.0.0 solicit-academymoderating.com
@@ -12104,6 +12112,7 @@
 0.0.0.0 steamcommunitluy.com
 0.0.0.0 steamcommunitly.com
 0.0.0.0 steamcommunitly.com.ru
+0.0.0.0 steamcommunitly.ga
 0.0.0.0 steamcommunitly.me
 0.0.0.0 steamcommunitly.xyz
 0.0.0.0 steamcommunitlys.com
@@ -12271,6 +12280,7 @@
 0.0.0.0 steamcommunityf.com
 0.0.0.0 steamcommunityfie.top
 0.0.0.0 steamcommunityg.ru
+0.0.0.0 steamcommunitygame.top
 0.0.0.0 steamcommunitygames.com
 0.0.0.0 steamcommunitygifts.xyz
 0.0.0.0 steamcommunitygifts1.xyz
@@ -12669,6 +12679,7 @@
 0.0.0.0 steamcommuntly.com
 0.0.0.0 steamcommuntry.com
 0.0.0.0 steamcommuntry.ru
+0.0.0.0 steamcommuntty.ru
 0.0.0.0 steamcommunty.buzz
 0.0.0.0 steamcommunty.com
 0.0.0.0 steamcommunty.com.ru
@@ -12783,6 +12794,7 @@
 0.0.0.0 steamcommuunity.ru.com
 0.0.0.0 steamcommuunjty.com
 0.0.0.0 steamcommuunlity.com
+0.0.0.0 steamcommuunlty.ru
 0.0.0.0 steamcommuunniity.com
 0.0.0.0 steamcommuunuty.ru
 0.0.0.0 steamcommuunutyi.ru
@@ -14187,6 +14199,7 @@
 0.0.0.0 steancomnnunnity.ru
 0.0.0.0 steancomnuilty.ru.com
 0.0.0.0 steancomnuinity.com
+0.0.0.0 steancomnuinty.com
 0.0.0.0 steancomnuity.com
 0.0.0.0 steancomnumity.com
 0.0.0.0 steancomnumlty.com
@@ -16254,6 +16267,7 @@
 0.0.0.0 welcome-subscribers-hypesquad.com
 0.0.0.0 welcome-to-hypesquad.tk
 0.0.0.0 welcomehypeteam.com
+0.0.0.0 welcomehypeteams.com
 0.0.0.0 welcomehypeteams.gq
 0.0.0.0 welcomehypetest.com
 0.0.0.0 welcomeleaguepro.com
