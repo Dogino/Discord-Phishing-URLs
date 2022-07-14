@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Wed, 13 Jul 2022, 15:50 UTC+02
+# Last modified: Thu, 14 Jul 2022, 23:53 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1652,6 +1652,7 @@
 0.0.0.0 dilscordilgifxr.com
 0.0.0.0 dilscordilgifxs.com
 0.0.0.0 dilscordilgifxt.com
+0.0.0.0 dilscordilgilc.com
 0.0.0.0 dilscordilgill.com
 0.0.0.0 dilscordilgilt.com
 0.0.0.0 dilscordilgiltf.com
@@ -1903,6 +1904,7 @@
 0.0.0.0 discokds.icu
 0.0.0.0 discokid.onl
 0.0.0.0 discokrd.com
+0.0.0.0 discolb-gift.ru
 0.0.0.0 discolb.xyz
 0.0.0.0 discold-gift.ru
 0.0.0.0 discold-nitro.com
@@ -2358,6 +2360,7 @@
 0.0.0.0 discord-free.space
 0.0.0.0 discord-free.xyz
 0.0.0.0 discord-freegift.com
+0.0.0.0 discord-freegifts.com
 0.0.0.0 discord-freenitro.com
 0.0.0.0 discord-freenitro.pro
 0.0.0.0 discord-freenitro.pw
@@ -3573,6 +3576,7 @@
 0.0.0.0 discordevs.org
 0.0.0.0 discordevs.xyz
 0.0.0.0 discordexport.com
+0.0.0.0 discordf-gift.ru
 0.0.0.0 discordf-steam.com
 0.0.0.0 discordf.com
 0.0.0.0 discordf.gift
@@ -3924,6 +3928,7 @@
 0.0.0.0 discordl-app.com
 0.0.0.0 discordl-gg.com
 0.0.0.0 discordl-gift.com
+0.0.0.0 discordl-gift.ru
 0.0.0.0 discordl-gift.xyz
 0.0.0.0 discordl-gifts.com
 0.0.0.0 discordl-gjfts.com
@@ -5526,6 +5531,7 @@
 0.0.0.0 dlscords-nitro.ru
 0.0.0.0 dlscords-nitro.xyz
 0.0.0.0 dlscords-nitros.com
+0.0.0.0 dlscords-nitros.xyz
 0.0.0.0 dlscords-nltro.com
 0.0.0.0 dlscords-nltro.xyz
 0.0.0.0 dlscords.gifts
@@ -5761,6 +5767,7 @@
 0.0.0.0 dsl-drop.gq
 0.0.0.0 dsl-drp.gq
 0.0.0.0 dsnitro-app.ru
+0.0.0.0 dsnitro.net
 0.0.0.0 dsnitro.xyz
 0.0.0.0 dsnitrogive.com
 0.0.0.0 dsnitroshop.ru
@@ -5853,6 +5860,7 @@
 0.0.0.0 egift-3month.com
 0.0.0.0 egift-dicsord.com
 0.0.0.0 egift-discord.gq
+0.0.0.0 egift-disrcord.com
 0.0.0.0 egift-elite.xyz
 0.0.0.0 egift-free.xyz
 0.0.0.0 egift-nitro.com
@@ -8046,6 +8054,7 @@
 0.0.0.0 join-hypesquad-form.gq
 0.0.0.0 join-hypesquad-forms.com
 0.0.0.0 join-hypesquad-forms.ml
+0.0.0.0 join-hypesquad-group.ml
 0.0.0.0 join-hypesquad-houses.com
 0.0.0.0 join-hypesquad-how.com
 0.0.0.0 join-hypesquad-info-team.com
@@ -8185,6 +8194,7 @@
 0.0.0.0 joinerfor-moderator-exam.com
 0.0.0.0 joinerfor-teamhypesquad.com
 0.0.0.0 joinfor-hypesquad.com
+0.0.0.0 joinfor-hypeteam.com
 0.0.0.0 joinfor-moderator.com
 0.0.0.0 joinfor-the-hypesquad-events.com
 0.0.0.0 joinhypesquad-apply.com
@@ -9742,6 +9752,7 @@
 0.0.0.0 playaffix.net
 0.0.0.0 playboydiscord.com
 0.0.0.0 playcsgo-steam.ru
+0.0.0.0 players2gamers.ru
 0.0.0.0 playeslseries.com
 0.0.0.0 please.net.ru
 0.0.0.0 pltw.com
@@ -10274,6 +10285,7 @@
 0.0.0.0 roblox-verification.com
 0.0.0.0 roblox-webs.com
 0.0.0.0 roblox.br.com
+0.0.0.0 roblox.ci
 0.0.0.0 roblox.com.af
 0.0.0.0 roblox.com.ag
 0.0.0.0 roblox.com.ai
@@ -10416,6 +10428,7 @@
 0.0.0.0 rustmoon.net
 0.0.0.0 rustrouletle.com
 0.0.0.0 rustroulettes.com
+0.0.0.0 rustroullette.com
 0.0.0.0 rustygift.site
 0.0.0.0 rìpple.com
 0.0.0.0 s-joom.net.ru
@@ -16335,6 +16348,7 @@
 0.0.0.0 www-robiox.com.nf
 0.0.0.0 www-robllox.com
 0.0.0.0 www-roblox-sites.com
+0.0.0.0 www-roblox.com.de
 0.0.0.0 www-roblox.com.mx
 0.0.0.0 www-roblox.com.ru
 0.0.0.0 www-roblox.net
