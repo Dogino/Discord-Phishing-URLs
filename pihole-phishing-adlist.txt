@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 22 Jul 2022, 00:25 UTC+02
+# Last modified: Fri, 22 Jul 2022, 15:16 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1203,6 +1203,7 @@
 0.0.0.0 csgorun.info
 0.0.0.0 csgorun.pro-login.ru
 0.0.0.0 csgorun.pro-loginn.com
+0.0.0.0 csgorunnes.fun
 0.0.0.0 csgorunpromo.pp.ua
 0.0.0.0 csgorunroulette.ru
 0.0.0.0 csgoruns.xyz
@@ -1673,6 +1674,7 @@
 0.0.0.0 dilscordilgiltf.com
 0.0.0.0 dilscordilgilw.com
 0.0.0.0 dilscordilgilx.com
+0.0.0.0 dilscordilgip.com
 0.0.0.0 dilscordis.com
 0.0.0.0 dilscordis.net.ru
 0.0.0.0 dilscordix.com
@@ -4321,6 +4323,7 @@
 0.0.0.0 discords-gifts.space
 0.0.0.0 discords-gifts.xyz
 0.0.0.0 discords-giftss.xyz
+0.0.0.0 discords-giftt.xyz
 0.0.0.0 discords-giftts.xyz
 0.0.0.0 discords-giveaway.ru
 0.0.0.0 discords-glft.com
@@ -5829,6 +5832,7 @@
 0.0.0.0 dscordnitro.xyz
 0.0.0.0 dscordpromotions.co
 0.0.0.0 dscordpromotions.xyz
+0.0.0.0 dscords-gift.xyz
 0.0.0.0 dscorrd-nitro.xyz
 0.0.0.0 dscrd.club
 0.0.0.0 dscrd.gq
@@ -6828,6 +6832,7 @@
 0.0.0.0 gift-arhives.org
 0.0.0.0 gift-dicord.online
 0.0.0.0 gift-dicord.ru
+0.0.0.0 gift-dicsord.com
 0.0.0.0 gift-discord.digital
 0.0.0.0 gift-discord.online
 0.0.0.0 gift-discord.ru
@@ -9231,6 +9236,7 @@
 0.0.0.0 new-give.com
 0.0.0.0 new-hype-register.com
 0.0.0.0 new-hype-season.com
+0.0.0.0 new-hype-team.ml
 0.0.0.0 new-hypeevents-official.com
 0.0.0.0 new-hypesquad-2022.com
 0.0.0.0 new-hypesquad-event.com
@@ -11167,6 +11173,7 @@
 0.0.0.0 squadapply.com
 0.0.0.0 squadevents-form.com
 0.0.0.0 squadhype-group.gq
+0.0.0.0 squadteam-badge.ml
 0.0.0.0 sreamcomminity.ru
 0.0.0.0 sreamcommuniity.com
 0.0.0.0 sreamcommunity.com
@@ -11604,6 +11611,7 @@
 0.0.0.0 steam-deck.net
 0.0.0.0 steam-dicsord.com
 0.0.0.0 steam-discord-gift.com
+0.0.0.0 steam-discord-giveaway.ru
 0.0.0.0 steam-discord-glft.com
 0.0.0.0 steam-discord-nitro.ru
 0.0.0.0 steam-discord.com
@@ -12146,6 +12154,7 @@
 0.0.0.0 steamcommuniitly.com
 0.0.0.0 steamcommuniitty.com
 0.0.0.0 steamcommuniitty.space
+0.0.0.0 steamcommuniitu.com
 0.0.0.0 steamcommuniitu.site
 0.0.0.0 steamcommuniity.com.ru
 0.0.0.0 steamcommuniity.net.ru
@@ -12734,6 +12743,7 @@
 0.0.0.0 steamcommunixty.com
 0.0.0.0 steamcommuniy.com
 0.0.0.0 steamcommuniy.ru
+0.0.0.0 steamcommuniyop.top
 0.0.0.0 steamcommuniyt.com
 0.0.0.0 steamcommuniytu.com
 0.0.0.0 steamcommuniyty.ru
@@ -13418,6 +13428,7 @@
 0.0.0.0 steamconmity.ru
 0.0.0.0 steamconmiunity.ru
 0.0.0.0 steamconmmunitly.ru
+0.0.0.0 steamconmmunlty.ru
 0.0.0.0 steamconmmunnitys.website
 0.0.0.0 steamconmmunyti.ru
 0.0.0.0 steamconmnity.ru
@@ -13641,6 +13652,7 @@
 0.0.0.0 steamcsgofz.ru
 0.0.0.0 steamcsgoplay.ru
 0.0.0.0 steamcsgov.ru
+0.0.0.0 steamcummnunity.com
 0.0.0.0 steamcummunily.com
 0.0.0.0 steamcummunity.com
 0.0.0.0 steamcummunity.com.ru
@@ -14332,6 +14344,7 @@
 0.0.0.0 steancommunily.com
 0.0.0.0 steancommunily.ru
 0.0.0.0 steancommunily.xyz
+0.0.0.0 steancommuninly.com
 0.0.0.0 steancommuniri.xyz
 0.0.0.0 steancommunite.site
 0.0.0.0 steancommuniti.com.ru
