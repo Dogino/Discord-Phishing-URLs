@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 28 Jul 2022, 13:25 UTC+02
+# Last modified: Fri, 29 Jul 2022, 02:24 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -5355,6 +5355,7 @@
 0.0.0.0 dlscord-egifs.com
 0.0.0.0 dlscord-egift.com
 0.0.0.0 dlscord-egit.com
+0.0.0.0 dlscord-egits.ru
 0.0.0.0 dlscord-event.com
 0.0.0.0 dlscord-for.com
 0.0.0.0 dlscord-free-nltro.ru
@@ -5389,6 +5390,8 @@
 0.0.0.0 dlscord-gift.space
 0.0.0.0 dlscord-gift.xyz
 0.0.0.0 dlscord-gifted.com
+0.0.0.0 dlscord-giftl.fun
+0.0.0.0 dlscord-giftr.xyz
 0.0.0.0 dlscord-gifts.com
 0.0.0.0 dlscord-gifts.net.ru
 0.0.0.0 dlscord-gifts.ru.com
@@ -8250,6 +8253,7 @@
 0.0.0.0 join-for-moderators.com
 0.0.0.0 join-form-academy.com
 0.0.0.0 join-form-hypesquad-now.com
+0.0.0.0 join-form-hypesquad.gq
 0.0.0.0 join-form-hypesquadevents.com
 0.0.0.0 join-forms-hypesquad.com
 0.0.0.0 join-formshypesquad.com
@@ -12114,6 +12118,7 @@
 0.0.0.0 steamcommnity.store
 0.0.0.0 steamcommnlty.com
 0.0.0.0 steamcommnlty.ru
+0.0.0.0 steamcommnmunity.com
 0.0.0.0 steamcommnmunity.ru
 0.0.0.0 steamcommnnity.com
 0.0.0.0 steamcommnnity.net.ru
@@ -16397,6 +16402,7 @@
 0.0.0.0 test-forms-hypesquad.com
 0.0.0.0 test-from-hypesquad.com
 0.0.0.0 test-hevents.gq
+0.0.0.0 test-hype-squad.ml
 0.0.0.0 test-hypesquad-events-join.gq
 0.0.0.0 test-hypesquad.com
 0.0.0.0 test-hypesquad.ga

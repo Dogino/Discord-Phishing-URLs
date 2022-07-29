@@ -5339,6 +5339,7 @@ dlscord-egg.xyz
 dlscord-egifs.com
 dlscord-egift.com
 dlscord-egit.com
+dlscord-egits.ru
 dlscord-event.com
 dlscord-for.com
 dlscord-free-nltro.ru
@@ -5373,6 +5374,8 @@ dlscord-gift.site
 dlscord-gift.space
 dlscord-gift.xyz
 dlscord-gifted.com
+dlscord-giftl.fun
+dlscord-giftr.xyz
 dlscord-gifts.com
 dlscord-gifts.net.ru
 dlscord-gifts.ru.com
@@ -8234,6 +8237,7 @@ join-for-moderators-exam.com
 join-for-moderators.com
 join-form-academy.com
 join-form-hypesquad-now.com
+join-form-hypesquad.gq
 join-form-hypesquadevents.com
 join-forms-hypesquad.com
 join-formshypesquad.com
@@ -12098,6 +12102,7 @@ steamcommnity.ru
 steamcommnity.store
 steamcommnlty.com
 steamcommnlty.ru
+steamcommnmunity.com
 steamcommnmunity.ru
 steamcommnnity.com
 steamcommnnity.net.ru
@@ -16381,6 +16386,7 @@ test-form-hypesquad.com
 test-forms-hypesquad.com
 test-from-hypesquad.com
 test-hevents.gq
+test-hype-squad.ml
 test-hypesquad-events-join.gq
 test-hypesquad.com
 test-hypesquad.ga
