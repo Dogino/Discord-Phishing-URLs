@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 29 Jul 2022, 02:24 UTC+02
+# Last modified: Fri, 29 Jul 2022, 16:21 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1951,6 +1951,7 @@
 0.0.0.0 discolb-gift.ru
 0.0.0.0 discolb.xyz
 0.0.0.0 discold-gift.ru
+0.0.0.0 discold-giftr.ru
 0.0.0.0 discold-gifts.ru
 0.0.0.0 discold-nitro.com
 0.0.0.0 discold-nitro.icu
@@ -3752,6 +3753,7 @@
 0.0.0.0 discordgift.us
 0.0.0.0 discordgift.xyz
 0.0.0.0 discordgifta.online
+0.0.0.0 discordgiftapp.com
 0.0.0.0 discordgifte.com
 0.0.0.0 discordgifte.ru
 0.0.0.0 discordgifte.site
@@ -4848,6 +4850,7 @@
 0.0.0.0 discrod.us
 0.0.0.0 discrod.us.com
 0.0.0.0 discrodapp.com
+0.0.0.0 discrodapp.net
 0.0.0.0 discrodapp.ru
 0.0.0.0 discrodapp.site
 0.0.0.0 discrodapp.xyz
@@ -5850,6 +5853,7 @@
 0.0.0.0 ds-gifo.gq
 0.0.0.0 ds-giftnitro.com
 0.0.0.0 ds-gifts.com.ru
+0.0.0.0 ds-give.site
 0.0.0.0 ds-giveaway-nitro.gq
 0.0.0.0 ds-glft.com
 0.0.0.0 ds-initros.gq
@@ -9851,6 +9855,7 @@
 0.0.0.0 nyw-hypesquadteam.com
 0.0.0.0 o-uccino.top
 0.0.0.0 o9wg8q.monster
+0.0.0.0 oauth-discord.com
 0.0.0.0 obensea.pw
 0.0.0.0 objectionformservicefb.cf
 0.0.0.0 obtain-hypesquad.gq
@@ -11647,6 +11652,8 @@
 0.0.0.0 stcommunity.xyz
 0.0.0.0 ste-trade.ru.com
 0.0.0.0 ste.amcommunity.com
+0.0.0.0 steaaamcommunity.online
+0.0.0.0 steaaamcommunity.ru
 0.0.0.0 steaamcammunitiy.com
 0.0.0.0 steaamcamunity.com
 0.0.0.0 steaamcommmunity.com
@@ -12134,6 +12141,7 @@
 0.0.0.0 steamcommnuitry.com
 0.0.0.0 steamcommnuitty.com
 0.0.0.0 steamcommnuity.com.ru
+0.0.0.0 steamcommnuity.ru
 0.0.0.0 steamcommnulity.com
 0.0.0.0 steamcommnulty.com
 0.0.0.0 steamcommnulty.com.ru
@@ -12305,6 +12313,7 @@
 0.0.0.0 steamcommuniety.ru
 0.0.0.0 steamcommunifly.ru.com
 0.0.0.0 steamcommunify.com
+0.0.0.0 steamcommunify.ru
 0.0.0.0 steamcommunify.ru.com
 0.0.0.0 steamcommunihty.com
 0.0.0.0 steamcommuniiity.com
@@ -12343,6 +12352,7 @@
 0.0.0.0 steamcommuniltiy.online
 0.0.0.0 steamcommuniltiy.ru
 0.0.0.0 steamcommuniltly.com
+0.0.0.0 steamcommuniltty.com
 0.0.0.0 steamcommuniltu.com
 0.0.0.0 steamcommunilty.buzz
 0.0.0.0 steamcommunilty.com
@@ -12891,6 +12901,7 @@
 0.0.0.0 steamcommunityzds.top
 0.0.0.0 steamcommunityzdt.top
 0.0.0.0 steamcommunityzhkr.top
+0.0.0.0 steamcommunityzic.club
 0.0.0.0 steamcommunityzicw.top
 0.0.0.0 steamcommunityzie.cn
 0.0.0.0 steamcommunityzikr.top
@@ -12903,6 +12914,7 @@
 0.0.0.0 steamcommunityzivo.top
 0.0.0.0 steamcommunityzivw.top
 0.0.0.0 steamcommunityzivz.top
+0.0.0.0 steamcommunityzix.club
 0.0.0.0 steamcommunityzko.top
 0.0.0.0 steamcommunityzkq.top
 0.0.0.0 steamcommunityzm.top
@@ -15608,6 +15620,7 @@
 0.0.0.0 stemecommunnity.ru
 0.0.0.0 stemecomunity.ru
 0.0.0.0 stemmcommunitee.xyz
+0.0.0.0 stemmcommunity.ru
 0.0.0.0 stemmcommutinny.ru.com
 0.0.0.0 stemncommutinny.ru
 0.0.0.0 stemncommutiny.ru
