@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 31 Jul 2022, 11:57 UTC+02
+# Last modified: Sun, 31 Jul 2022, 23:45 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -413,6 +413,7 @@
 0.0.0.0 apply-hypesquad.uk
 0.0.0.0 apply-hypesquadacademy.gq
 0.0.0.0 apply-hypesquadevent.ga
+0.0.0.0 apply-hypesquadevent.tk
 0.0.0.0 apply-hypesquadevents-new.com
 0.0.0.0 apply-hypesquadevents-team.com
 0.0.0.0 apply-hypesquadevents.club
@@ -671,6 +672,7 @@
 0.0.0.0 betterdiscord.pro
 0.0.0.0 bettersteamgifts.com
 0.0.0.0 between-event.ga
+0.0.0.0 between-event.ml
 0.0.0.0 between-events.com
 0.0.0.0 between-events.ga
 0.0.0.0 between-events.gq
@@ -1653,6 +1655,7 @@
 0.0.0.0 dikserd.com
 0.0.0.0 diksord.xyz
 0.0.0.0 dilcsord.ru
+0.0.0.0 dillscord-gift.xyz
 0.0.0.0 dilscocd.com
 0.0.0.0 dilscocd.ru
 0.0.0.0 dilscord-apps.xyz
@@ -2709,6 +2712,7 @@
 0.0.0.0 discord-hypesquads-events.com
 0.0.0.0 discord-hypesquads.com
 0.0.0.0 discord-hypesquads.gq
+0.0.0.0 discord-hypesquads.ml
 0.0.0.0 discord-hypesquadteam.com
 0.0.0.0 discord-hypesquadteamforms.com
 0.0.0.0 discord-hypessquad.com
@@ -4631,6 +4635,7 @@
 0.0.0.0 discordxmas.gifts
 0.0.0.0 discordxnitro.xyz
 0.0.0.0 discordxsteam.com
+0.0.0.0 discordz-gift.ru
 0.0.0.0 discordz.tk
 0.0.0.0 discordzapp.com
 0.0.0.0 discordzoom.com
@@ -5409,6 +5414,7 @@
 0.0.0.0 dlscord-gift.space
 0.0.0.0 dlscord-gift.xyz
 0.0.0.0 dlscord-gifted.com
+0.0.0.0 dlscord-gifti.com
 0.0.0.0 dlscord-giftl.fun
 0.0.0.0 dlscord-giftr.fun
 0.0.0.0 dlscord-giftr.xyz
@@ -6449,6 +6455,7 @@
 0.0.0.0 forms-academy-moderators.com
 0.0.0.0 forms-academy-tester.com
 0.0.0.0 forms-academymod.com
+0.0.0.0 forms-agehypehse.gq
 0.0.0.0 forms-apply-events.com
 0.0.0.0 forms-apply-events.gq
 0.0.0.0 forms-connect-events-moderators.com
@@ -7040,6 +7047,7 @@
 0.0.0.0 giiveaway-discord.com
 0.0.0.0 ginedis.com
 0.0.0.0 gitdhub.com
+0.0.0.0 gitf-staem-dic0rd.xyz
 0.0.0.0 githvub.com
 0.0.0.0 githxub.com
 0.0.0.0 gitus-nitro.gq
@@ -10743,6 +10751,7 @@
 0.0.0.0 rust-drop.ru.com
 0.0.0.0 rust-facepunchs.com
 0.0.0.0 rust-gitfs.ru
+0.0.0.0 rust-giveaway.com
 0.0.0.0 rust-giveaways.xyz
 0.0.0.0 rust-llc.com
 0.0.0.0 rust-ltd.com
@@ -11148,6 +11157,7 @@
 0.0.0.0 sleamcommunitiy.com
 0.0.0.0 sleamcommunitiy.ru
 0.0.0.0 sleamcommunitl.xyz
+0.0.0.0 sleamcommunitly.com
 0.0.0.0 sleamcommunitly.ru
 0.0.0.0 sleamcommunitty.com
 0.0.0.0 sleamcommunitty.me
@@ -11731,6 +11741,7 @@
 0.0.0.0 steacommunnity.com
 0.0.0.0 steacommunty.ru
 0.0.0.0 steacommunuty.com
+0.0.0.0 steacommuunity.com
 0.0.0.0 steacomnmunify.fun
 0.0.0.0 steacomnmunity.com
 0.0.0.0 steacomnunity.com
@@ -12894,6 +12905,8 @@
 0.0.0.0 steamcommunityui.club
 0.0.0.0 steamcommunityuio.top
 0.0.0.0 steamcommunityur.top
+0.0.0.0 steamcommunityuv.top
+0.0.0.0 steamcommunityux.top
 0.0.0.0 steamcommunityv.com
 0.0.0.0 steamcommunityvi.top
 0.0.0.0 steamcommunityvia.top
@@ -13910,6 +13923,7 @@
 0.0.0.0 steamcornmunity.ml
 0.0.0.0 steamcornmunity.net.ru
 0.0.0.0 steamcornmunity.org
+0.0.0.0 steamcornmunity.ru
 0.0.0.0 steamcornmunlty.com
 0.0.0.0 steamcornmunlty.net
 0.0.0.0 steamcornmunlty.site

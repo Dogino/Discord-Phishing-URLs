@@ -397,6 +397,7 @@ apply-hypesquad.tk
 apply-hypesquad.uk
 apply-hypesquadacademy.gq
 apply-hypesquadevent.ga
+apply-hypesquadevent.tk
 apply-hypesquadevents-new.com
 apply-hypesquadevents-team.com
 apply-hypesquadevents.club
@@ -655,6 +656,7 @@ bettdiscord.net
 betterdiscord.pro
 bettersteamgifts.com
 between-event.ga
+between-event.ml
 between-events.com
 between-events.ga
 between-events.gq
@@ -1637,6 +1639,7 @@ dikcord.xyz
 dikserd.com
 diksord.xyz
 dilcsord.ru
+dillscord-gift.xyz
 dilscocd.com
 dilscocd.ru
 dilscord-apps.xyz
@@ -2693,6 +2696,7 @@ discord-hypesquadjoin.com
 discord-hypesquads-events.com
 discord-hypesquads.com
 discord-hypesquads.gq
+discord-hypesquads.ml
 discord-hypesquadteam.com
 discord-hypesquadteamforms.com
 discord-hypessquad.com
@@ -4615,6 +4619,7 @@ discordxbox.gifts
 discordxmas.gifts
 discordxnitro.xyz
 discordxsteam.com
+discordz-gift.ru
 discordz.tk
 discordzapp.com
 discordzoom.com
@@ -5393,6 +5398,7 @@ dlscord-gift.site
 dlscord-gift.space
 dlscord-gift.xyz
 dlscord-gifted.com
+dlscord-gifti.com
 dlscord-giftl.fun
 dlscord-giftr.fun
 dlscord-giftr.xyz
@@ -6433,6 +6439,7 @@ forms-academy-moderators-new.com
 forms-academy-moderators.com
 forms-academy-tester.com
 forms-academymod.com
+forms-agehypehse.gq
 forms-apply-events.com
 forms-apply-events.gq
 forms-connect-events-moderators.com
@@ -7024,6 +7031,7 @@ gifttnitro.xyz
 giiveaway-discord.com
 ginedis.com
 gitdhub.com
+gitf-staem-dic0rd.xyz
 githvub.com
 githxub.com
 gitus-nitro.gq
@@ -10727,6 +10735,7 @@ rust-code.ru.com
 rust-drop.ru.com
 rust-facepunchs.com
 rust-gitfs.ru
+rust-giveaway.com
 rust-giveaways.xyz
 rust-llc.com
 rust-ltd.com
@@ -11132,6 +11141,7 @@ sleamcommunitiuycom.net.ru
 sleamcommunitiy.com
 sleamcommunitiy.ru
 sleamcommunitl.xyz
+sleamcommunitly.com
 sleamcommunitly.ru
 sleamcommunitty.com
 sleamcommunitty.me
@@ -11715,6 +11725,7 @@ steacommunity.site
 steacommunnity.com
 steacommunty.ru
 steacommunuty.com
+steacommuunity.com
 steacomnmunify.fun
 steacomnmunity.com
 steacomnunity.com
@@ -12878,6 +12889,8 @@ steamcommunityu.ru
 steamcommunityui.club
 steamcommunityuio.top
 steamcommunityur.top
+steamcommunityuv.top
+steamcommunityux.top
 steamcommunityv.com
 steamcommunityvi.top
 steamcommunityvia.top
@@ -13894,6 +13907,7 @@ steamcornmunity.gq
 steamcornmunity.ml
 steamcornmunity.net.ru
 steamcornmunity.org
+steamcornmunity.ru
 steamcornmunlty.com
 steamcornmunlty.net
 steamcornmunlty.site
