@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 31 Jul 2022, 23:45 UTC+02
+# Last modified: Mon, 01 Aug 2022, 13:38 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -12243,6 +12243,7 @@
 0.0.0.0 steamcommnunytl.com
 0.0.0.0 steamcommnunytl.ru
 0.0.0.0 steamcommnuti.ru
+0.0.0.0 steamcommnutiny.ru
 0.0.0.0 steamcommnutly.ru.com
 0.0.0.0 steamcommnutry.com
 0.0.0.0 steamcommnutry.ru
@@ -12279,6 +12280,7 @@
 0.0.0.0 steamcommuilty.com
 0.0.0.0 steamcommuilty.ru
 0.0.0.0 steamcommuily.com
+0.0.0.0 steamcommuily.ru
 0.0.0.0 steamcommuinilty.com
 0.0.0.0 steamcommuininty.com
 0.0.0.0 steamcommuinity.com
@@ -12612,6 +12614,7 @@
 0.0.0.0 steamcommunitu.net
 0.0.0.0 steamcommunitu.net.ru
 0.0.0.0 steamcommunitu.online
+0.0.0.0 steamcommunitu.ru
 0.0.0.0 steamcommunitu.ru.com
 0.0.0.0 steamcommunituiy.com
 0.0.0.0 steamcommunitus.com
@@ -12902,6 +12905,7 @@
 0.0.0.0 steamcommunityty.ru
 0.0.0.0 steamcommunityu.com
 0.0.0.0 steamcommunityu.ru
+0.0.0.0 steamcommunityuc.top
 0.0.0.0 steamcommunityui.club
 0.0.0.0 steamcommunityuio.top
 0.0.0.0 steamcommunityur.top
@@ -13606,6 +13610,7 @@
 0.0.0.0 steamcomueniity.ru
 0.0.0.0 steamcomuinity.com
 0.0.0.0 steamcomuitty.com
+0.0.0.0 steamcomulity.ru
 0.0.0.0 steamcomumity.com
 0.0.0.0 steamcomumnity.com
 0.0.0.0 steamcomumnity.com.ru
@@ -14217,6 +14222,7 @@
 0.0.0.0 steammcomunuty.net.ru
 0.0.0.0 steammcomunyti.com
 0.0.0.0 steammcomunyty.net.ru
+0.0.0.0 steammcomuty.ru
 0.0.0.0 steammcomuunity.net.ru
 0.0.0.0 steammcomynity.com
 0.0.0.0 steammcomynity.store
@@ -15019,6 +15025,7 @@
 0.0.0.0 stearcnommunity.xyz
 0.0.0.0 stearcommuity.com
 0.0.0.0 stearcommunitly.com
+0.0.0.0 stearcommunity.ru
 0.0.0.0 stearcommunlty.ru.com
 0.0.0.0 stearmcammunity.com
 0.0.0.0 stearmcommiunitiycom.net.ru
