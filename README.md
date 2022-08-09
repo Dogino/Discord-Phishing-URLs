@@ -20,7 +20,7 @@ Phades is a Discord bot which takes action upon detecting one of these links. It
 
 ## Currently known scams and what to do 
 
-TL;DR 
+TL;DR table of currently known scams, look below for a detailed explaination.
 
 |  | Type of Scam | Method | Result | What to do |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@ TL;DR
 | Pass this Captcha to Verify | Login in 3rd party website | Login/QR/Add Bot | Your login token gets stolen | Re-Enable your 2FA and reset your password |
 | Scan this QR to Verify | Scan QR in Discord or 3rd party website | Login/QR | Your login token gets stolen | Re-Enable your 2FA and reset your password |
 | This Discord support page tells you | Login / Chat with "fake" support | Official Discord Support | Your login token gets stolen | Re-Enable your 2FA and reset your password |
+
 
 
 > Free nitro X months from (enter brand here, eg: steam, discord, steelseries)
