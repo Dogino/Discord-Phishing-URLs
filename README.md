@@ -47,9 +47,13 @@ They usually send some server name and share a public server with you asking to 
 
 > Click button and then scan this QR with your discord app to verify...
 
-**This is can usually be found in "verify" channels**. After you run a command/click button/react to the message bot replies to you in dms or using ephemeral message with QR code and instruction to scan it and "let the bot verify your account", but in reality, a botuser snatches your token and awaits till it receives command to raid a server and spam dm ads and/or phishing url's.
-To trick the users they usually have popular gatekeeping bot like Dyno, Wick, Mee6 etc. invited and kept high in member rooter, so you can see it in member list. But the "verification" is done by a different bot which has the same name and profile picture. When you see that you have to scan a QR code, it's usually certain that they want you to let them log into your account.
+**This is can usually found in "#verify" channels**. After you run a command/click button/react to a message the bot replies to you either in dms or using ephemeral message with a QR code and asks you to scan it for "verificaion of your account", but in reality a userbot snatches your token and awaits till it receives command to raid a server and spam dm ads and/or phishing urls.
+To trick the users they usually have popular gatekeeping bot like Dyno, Wick, Mee6 etc. invited and kept high in member hierarchy, so you can see it in member list. But the "verification" is done by a different bot which has the same name and profile picture. When you see that you have to scan a QR code, it's usually certain that they want you to let them log into your account.
 If got cought by that, change your password asap, as this refreshes your account token and prevents the userbots from using your account.
+
+> This page of Discord Support tells you what to do...
+
+**This is usually found either in DMs or in public chats.** They give you a "official" page of Discord Support with istructions to recover your account, the website is legit, it comes from `support.discord.com` but it's a page where users write posts, and it might happen that they are trying to get your data. Check in the link, the post has to be `https://support.discord.com/hc/en-us/**articles**/000000-post-name-here` while fake scam posts are structured like this `https://support.discord.com/hc/en-us/**community**/000000-post-name-here`, **community** are posts written by users and they might attempt to reproduce the official formatting tricking users in "a trusted website" (it's support.discord.com so it's the official domain) but they might add fake urls or fake steps to get your data.
 
 
 There might be new ones and scammers always try to change their methods to avoid getting easily detected, if you got scammed or they tried to scam you, please send a ticket to Discord support (using [this link](https://dis.gd/contact)) to get those bots banned and potential accounts saved. You can avoid all of those scams with just common sense, no one gives you free stuff, no Steam/otherbrand support will contact you on Discord and you shouldn't be opening random mispelled discord/steam websites or download random .exes from the internet.
@@ -59,5 +63,6 @@ There might be new ones and scammers always try to change their methods to avoid
  - [discord-scam-links](https://github.com/BuildBot42/discord-scam-links) by BuildBot42
  - [scam-links](https://github.com/DevSpen/scam-links) by DevSpen
  - [discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) by nikolaischunk
+ - [The DSP Project](https://github.com/Discord-AntiScam/scam-links) by actually-akac and ThinLiquid
  - WHOIS Newly registered domains
  - Other sources from public servers and contributors
