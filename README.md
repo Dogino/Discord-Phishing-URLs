@@ -47,7 +47,7 @@ They usually send some server name and share a public server with you asking to 
 
 > Click button and then scan this QR with your discord app to verify...
 
-**This is can usually found in "#verify" channels**. After you run a command/click button/react to a message the bot replies to you either in dms or using ephemeral message with a QR code and asks you to scan it for "verificaion of your account", but in reality a userbot snatches your token and awaits till it receives command to raid a server and spam dm ads and/or phishing urls.
+**This is can usually found in "#verify" channels**. After you run a command/click button/react to a message the bot replies to you either in dms or using ephemeral message with a QR code and asks you to scan it for "verification of your account", but in reality a userbot snatches your token and awaits till it receives command to raid a server and spam dm ads and/or phishing urls.
 To trick the users they usually have popular gatekeeping bot like Dyno, Wick, Mee6 etc. invited and kept high in member hierarchy, so you can see it in member list. But the "verification" is done by a different bot which has the same name and profile picture. When you see that you have to scan a QR code, it's usually certain that they want you to let them log into your account.
 If got cought by that, change your password asap, as this refreshes your account token and prevents the userbots from using your account.
 
