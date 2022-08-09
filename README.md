@@ -20,6 +20,19 @@ Phades is a Discord bot which takes action upon detecting one of these links. It
 
 ## Currently known scams and what to do 
 
+TL;DR 
+
+|  | Type of Scam | Method | Result | What to do |
+|---|---|---|---|---|
+| Free Nitro from X | Logging in through 3rd party website | Login/QR | Your login token gets stolen | Re-Enable your 2FA and reset your password |
+| Hypesquad/Moderation | Logging in through 3rd party website | Login/QR | Your login token gets stolen | Re-Enable your 2FA and reset your password |
+| Reported on Steam | Logging in / Trade skins | Login/Steam Trade | Your steam data/skins gets stolen | Write to Steam Support |
+| I want you to test my game/software | Download and open a software/zip file | RAT/Backdoor | Your entire data and passwords are stolen | Format your PC with a fresh ISO and reset all your passwords, block your Credit Card if saved |
+| Pass this Captcha to Verify | Login in 3rd party website | Login/QR/Add Bot | Your login token gets stolen | Re-Enable your 2FA and reset your password |
+| Scan this QR to Verify | Scan QR in Discord or 3rd party website | Login/QR | Your login token gets stolen | Re-Enable your 2FA and reset your password |
+| This Discord support page tells you | Login / Chat with "fake" support | Official Discord Support | Your login token gets stolen | Re-Enable your 2FA and reset your password |
+
+
 > Free nitro X months from (enter brand here, eg: steam, discord, steelseries)
 
 **Mostly used in server text channels**, they use edited Discord names with a fake embed to make it look real or lowercase letters (eg: dlscord where the `l` it's a L in lowercase or dscords.tld) in the attempt that people won't notice the mispelled domain, they could also use some randomly generated slashes after such as "nitro from dlscord.tld/free-nitro" and when this page is opened it usually asks to login to "claim" such nitro. They also attempt to ping `@everyone` or `@here`.
