@@ -20,7 +20,7 @@ Phades is a Discord bot which takes action upon detecting one of these links. It
 
 ## Currently known scams and what to do 
 
-TL;DR table of currently known scams, look below for a detailed explaination.
+TL;DR table of currently known scams, look below for a detailed explanation.
 
 |  | Type of Scam | Method | Result | What to do |
 |---|---|---|---|---|
