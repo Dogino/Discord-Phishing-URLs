@@ -248,8 +248,11 @@ ap7.ru
 api-beta.com
 api-hypesquad-team.com
 api-hypesquad.com
+api-roblox.com
 apidevelopers-intent.com
 apilond.com
+apis-roblox.com
+apk-robiox.com
 aplication-hypesquad-official.com
 aplication-hypesquad.com
 aplicationsdiscord.com
@@ -1696,6 +1699,7 @@ dilscordilgiltf.com
 dilscordilgilw.com
 dilscordilgilx.com
 dilscordilgip.com
+dilscordilgipg.com
 dilscordilgipz.com
 dilscordis.com
 dilscordis.net.ru
@@ -4513,6 +4517,7 @@ discordsgiftssss.xyz
 discordshopbot.com
 discordshort.ga
 discordsignup.com
+discordsiteofficial.shop
 discordsniltro.xyz
 discordsnitro.com
 discordsnitro.gifts
@@ -7494,6 +7499,7 @@ hypesquad-club.tech
 hypesquad-community.com
 hypesquad-company.info
 hypesquad-congratulations.gq
+hypesquad-congratulations.ml
 hypesquad-connect-now.com
 hypesquad-connect.com
 hypesquad-connect.gq
@@ -7681,9 +7687,11 @@ hypesquad-list-selection.com
 hypesquad-list.com
 hypesquad-log-in-new-events.com
 hypesquad-login-official.com
+hypesquad-login.cf
 hypesquad-login.com
 hypesquad-login.tk
 hypesquad-mail.com
+hypesquad-mail.gq
 hypesquad-mail.ml
 hypesquad-mail.tk
 hypesquad-member-signup.com
@@ -8380,6 +8388,7 @@ join-formulary-moderator-test.com
 join-formulary.com
 join-formularyhypesquad.com
 join-formularys-hypesquad.com
+join-group-hypesquad.ga
 join-hype-academy.com
 join-hype-community.com
 join-hype-event.gq
@@ -8802,6 +8811,7 @@ m-discord.xyz
 m.setampowered.com
 macotuqa.xyz
 mactep.org
+madgames.xyz
 madiscord.com
 maggicdrop.xyz
 magic-delfy.net.ru
@@ -10051,6 +10061,7 @@ onlinediscord-newyear.ru
 onlinegop.ru
 onlineplus.click
 onlinepromotionsusa.com
+onlyevents-congratulations.gq
 onpensea.com
 oolcools.xyz
 ooltreasure.top
@@ -10518,6 +10529,7 @@ register-moderators-academy.com
 register-moderators-event.com
 register-moderators.com
 register-moderattor-academy.com
+register-new-events.gq
 register-new-hypesquad-events.com
 register-new-hypesquad.com
 register-new-moderator.com
@@ -10713,6 +10725,7 @@ roblox.com.ag
 roblox.com.ai
 roblox.com.am
 roblox.com.ci
+roblox.com.cm
 roblox.com.do
 roblox.com.ee
 roblox.com.ge
@@ -10722,6 +10735,7 @@ roblox.com.hn
 roblox.com.hr
 roblox.com.ht
 roblox.com.kg
+roblox.com.kz
 roblox.com.lv
 roblox.com.mg
 roblox.com.mk
@@ -10795,6 +10809,7 @@ rocket-league.ru.com
 rocket-tradings.com
 rocketcase.xyz
 rocketleague-trading.site
+rockettrade.pro
 rogueleader.org
 rogwarfare.com
 rogxarena.com
@@ -10834,6 +10849,7 @@ rust-award.com
 rust-charge.com
 rust-code.ru.com
 rust-drop.ru.com
+rust-event.com
 rust-facepunchs.com
 rust-gitfs.ru
 rust-giveaway.com
@@ -11151,6 +11167,7 @@ signups-hype.com
 signups-hypesquad-formularys.com
 signups-of-hypeteams.com
 signups-to-hypesquad.com
+siites-roblox.com
 simplenitro.com
 simplenitro.gift
 simplifydiscord.com
@@ -11264,6 +11281,7 @@ sleamcommunity.fun
 sleamcommunity.me
 sleamcommunity.net
 sleamcommunity.net.ru
+sleamcommunity.online
 sleamcommunity.org
 sleamcommunity.org.ru
 sleamcommunity.pp.ru
@@ -12104,6 +12122,8 @@ steamcammunty.ru
 steamcammunuty.com
 steamcammunyty.ru
 steamcamnnunity.com
+steamcamnuity.online
+steamcamnuity.ru
 steamcamnunitly.ru
 steamcamnunity.com
 steamcamnunity.ru
@@ -12503,6 +12523,7 @@ steamcommunify.ru
 steamcommunify.ru.com
 steamcommunihty.com
 steamcommuniiity.com
+steamcommuniiity.ru
 steamcommuniilty.ru
 steamcommuniily.com
 steamcommuniily.online
@@ -12986,6 +13007,7 @@ steamcommunityol.top
 steamcommunityon.top
 steamcommunityor.top
 steamcommunityov.top
+steamcommunityovie.top
 steamcommunityp.com
 steamcommunitypia.top
 steamcommunitypid.top
@@ -13346,6 +13368,7 @@ steamcommuntliy.ru
 steamcommuntll.xyz
 steamcommuntly.com
 steamcommuntly.online
+steamcommuntly.ru
 steamcommuntly.xyz
 steamcommuntry.com
 steamcommuntry.ru
@@ -13559,6 +13582,7 @@ steamcomnlty.ru
 steamcomnmiunity.ru
 steamcomnmmunity.com
 steamcomnmmunity.ru.com
+steamcomnmnity.com
 steamcomnmnuty.ru
 steamcomnmrunity.ru
 steamcomnmufly.ru.com
@@ -13928,6 +13952,7 @@ steamconminuty.ru
 steamconmity.ru
 steamconmiunity.ru
 steamconmmunitly.ru
+steamconmmunity.ru
 steamconmmunlty.ru
 steamconmmunnitys.website
 steamconmmunyti.ru
@@ -13943,6 +13968,7 @@ steamconmnunity.com
 steamconmnunity.ru
 steamconmnunity.xyz
 steamconmnunlity.online
+steamconmnunlity.ru
 steamconmnunlty.com
 steamconmnunlty.ru
 steamconmnunlty.xyz
@@ -14107,6 +14133,7 @@ steamcornmuity.ru
 steamcornmunety.com
 steamcornmunify.ru.com
 steamcornmuniity.net.ru
+steamcornmunilty.ru
 steamcornmunily.ru
 steamcornmunit.ru.com
 steamcornmunite.com
@@ -14410,6 +14437,7 @@ steammcommuunityy.ru.com
 steammcommynity.ru
 steammcomnilty.ru
 steammcomnity.ru
+steammcomnuity.ru
 steammcomnunity.com
 steammcomnunity.ru
 steammcomnuty.ru
@@ -14886,6 +14914,7 @@ steancommumity.net
 steancommumlty.com
 steancommumlty.ru
 steancommumtny.com
+steancommumuty.com
 steancommuncity.ru
 steancommuneti.ru.com
 steancommunety.com
@@ -15174,6 +15203,7 @@ steanmncommynity.com
 steanmncomnunity.com
 steanmncomunily.com
 steanmncomunity.com
+steanmnconnmunity.ru
 steanncammunlte.com
 steanncammunlte.ru
 steanncanmunuty.ru
@@ -15416,6 +15446,8 @@ stearncommunjty.com
 stearncommunlity.com
 stearncommunlity.store
 stearncommunlty.com.ru
+stearncommunlty.fun
+stearncommunlty.host
 stearncommunlty.net
 stearncommunlty.ru
 stearncommunlty.site
@@ -15618,6 +15650,7 @@ steeamcommunity.me
 steeamcommunity.ml
 steeamcommunity.ru.com
 steeamcommunity.site
+steeamcommunity.xyz
 steeamcommunitycom.xyz
 steeamcommunlity.com
 steeamcommunlity.ru
@@ -15672,6 +15705,7 @@ steemcommnunnity.ru.com
 steemcommuimty.com
 steemcommuinty.com
 steemcommumty.com
+steemcommumuty.com
 steemcommuniity.com
 steemcommunilee.xyz
 steemcommunilty.com
@@ -15780,6 +15814,7 @@ steemmcommunuty.net.ru
 steempowerd.ru
 steempowered.com
 steemurl.com
+steencommumitly.ru
 steencommunilty.com
 steencommunitly.site
 steencommunityy.xyz
