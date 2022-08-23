@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 22 Aug 2022, 21:10 UTC+02
+# Last modified: Tue, 23 Aug 2022, 02:39 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -4709,7 +4709,6 @@
 0.0.0.0 discordtrust.com
 0.0.0.0 discordts-nitro.xyz
 0.0.0.0 discordtts.com
-0.0.0.0 discordturkiye.com
 0.0.0.0 discordtw.com
 0.0.0.0 discordtwitch.online
 0.0.0.0 discordtwitch.website
@@ -13757,6 +13756,7 @@
 0.0.0.0 steamcommuunlity.com
 0.0.0.0 steamcommuunlty.ru
 0.0.0.0 steamcommuunniity.com
+0.0.0.0 steamcommuunty.ru
 0.0.0.0 steamcommuunuty.ru
 0.0.0.0 steamcommuunutyi.ru
 0.0.0.0 steamcommuwunity.com
@@ -15903,6 +15903,7 @@
 0.0.0.0 stearncornmunllty.site
 0.0.0.0 stearncornmunlty.com
 0.0.0.0 stearncornmunlty.net
+0.0.0.0 stearncornmunlty.org
 0.0.0.0 stearncornmunlty.ru
 0.0.0.0 stearncornmunlty.us
 0.0.0.0 stearncornmunlty.xyz

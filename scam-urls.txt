@@ -4693,7 +4693,6 @@ discordtrue.xyz
 discordtrust.com
 discordts-nitro.xyz
 discordtts.com
-discordturkiye.com
 discordtw.com
 discordtwitch.online
 discordtwitch.website
@@ -13741,6 +13740,7 @@ steamcommuunjty.com
 steamcommuunlity.com
 steamcommuunlty.ru
 steamcommuunniity.com
+steamcommuunty.ru
 steamcommuunuty.ru
 steamcommuunutyi.ru
 steamcommuwunity.com
@@ -15887,6 +15887,7 @@ stearncornmunllty.ru
 stearncornmunllty.site
 stearncornmunlty.com
 stearncornmunlty.net
+stearncornmunlty.org
 stearncornmunlty.ru
 stearncornmunlty.us
 stearncornmunlty.xyz
