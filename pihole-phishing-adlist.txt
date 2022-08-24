@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 23 Aug 2022, 23:21 UTC+02
+# Last modified: Thu, 25 Aug 2022, 00:52 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -2023,6 +2023,7 @@
 0.0.0.0 discold-giftl.com
 0.0.0.0 discold-giftnltro.ru
 0.0.0.0 discold-gifto.xyz
+0.0.0.0 discold-giftq.xyz
 0.0.0.0 discold-giftr.ru
 0.0.0.0 discold-gifts.ru
 0.0.0.0 discold-giftt.com
@@ -6176,6 +6177,7 @@
 0.0.0.0 e-giftprime.com
 0.0.0.0 e-giftvip.com
 0.0.0.0 e-nitro.com
+0.0.0.0 e-premiumdiscrod.com
 0.0.0.0 ea-drop.com
 0.0.0.0 earlydiscord.com
 0.0.0.0 earn-hypesquad.gq
@@ -12084,6 +12086,7 @@
 0.0.0.0 steam-communiti.xyz
 0.0.0.0 steam-communitv.ru
 0.0.0.0 steam-community.com.ru
+0.0.0.0 steam-community.eu
 0.0.0.0 steam-community.net.ru
 0.0.0.0 steam-community.org.ru
 0.0.0.0 steam-community.ru
@@ -12235,8 +12238,10 @@
 0.0.0.0 steamaccounts.net
 0.0.0.0 steamaccounts.org
 0.0.0.0 steamaccounts.us
+0.0.0.0 steamacommunily.com
 0.0.0.0 steamacommunity.com
 0.0.0.0 steamacommunity.ru.com
+0.0.0.0 steamacommunuly.com
 0.0.0.0 steamactivator.tk
 0.0.0.0 steamairdrop.com
 0.0.0.0 steamalrdrop.com
@@ -12262,6 +12267,7 @@
 0.0.0.0 steamcadrdelivery.com
 0.0.0.0 steamcaeddelivery.com
 0.0.0.0 steamcamiutity.com
+0.0.0.0 steamcamminuty.ru
 0.0.0.0 steamcammiuniltty.com
 0.0.0.0 steamcammmunity.ru
 0.0.0.0 steamcammnuity.com
@@ -13421,6 +13427,7 @@
 0.0.0.0 steamcommunityzivn.top
 0.0.0.0 steamcommunityzivo.top
 0.0.0.0 steamcommunityzivw.top
+0.0.0.0 steamcommunityzivx.top
 0.0.0.0 steamcommunityzivz.top
 0.0.0.0 steamcommunityzix.club
 0.0.0.0 steamcommunityzko.top
@@ -14340,6 +14347,7 @@
 0.0.0.0 steamconnmulty.ru
 0.0.0.0 steamconnmumity.ru
 0.0.0.0 steamconnmuniity.ru
+0.0.0.0 steamconnmunily.ru
 0.0.0.0 steamconnmunitu.net.ru
 0.0.0.0 steamconnmunity.com
 0.0.0.0 steamconnmunity.com.ru
@@ -14860,6 +14868,7 @@
 0.0.0.0 steamncomnmunlty.com
 0.0.0.0 steamncomnnunlty.ru
 0.0.0.0 steamncomnumnity.xyz
+0.0.0.0 steamncomnunity.ru
 0.0.0.0 steamncomnunlty.com.ru
 0.0.0.0 steamncomunitity.com
 0.0.0.0 steamncomunity.com
