@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 25 Aug 2022, 00:52 UTC+02
+# Last modified: Thu, 25 Aug 2022, 13:04 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -500,6 +500,7 @@
 0.0.0.0 applyed-events.gq
 0.0.0.0 applyed-hypesquad.gq
 0.0.0.0 applyed-hypesquads.gq
+0.0.0.0 applyedbe-events.gq
 0.0.0.0 applyedfor-events.com
 0.0.0.0 applyfor-events.com
 0.0.0.0 applyfor-events.gq
@@ -9565,6 +9566,7 @@
 0.0.0.0 navi25.com
 0.0.0.0 navi27.com
 0.0.0.0 navi30.com
+0.0.0.0 navi40.com
 0.0.0.0 navi51.com
 0.0.0.0 navi55.com
 0.0.0.0 navi57.com
@@ -12042,6 +12044,7 @@
 0.0.0.0 steaecommunnity.com
 0.0.0.0 steaecommutiny.com
 0.0.0.0 steaemcamunity.xyz
+0.0.0.0 steaemcommuniti.com
 0.0.0.0 steaemcommunity.pp.ru
 0.0.0.0 steaemcommunity.ru.com
 0.0.0.0 steaemcomunity.com
@@ -16791,6 +16794,7 @@
 0.0.0.0 streamcommunnilly.me
 0.0.0.0 streamcommunnilty.com
 0.0.0.0 streamcommunninlty.com
+0.0.0.0 streamcommunninty.com
 0.0.0.0 streamcommunnitly.com
 0.0.0.0 streamcommunnitty.com
 0.0.0.0 streamcommunnitty.ru.com
