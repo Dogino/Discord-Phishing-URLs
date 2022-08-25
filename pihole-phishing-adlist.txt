@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 25 Aug 2022, 13:04 UTC+02
+# Last modified: Thu, 25 Aug 2022, 13:37 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -661,6 +661,9 @@
 0.0.0.0 best-prizes-house.life
 0.0.0.0 bestbut.com
 0.0.0.0 bestdatinglocal1.com
+0.0.0.0 bestdiscord.online
+0.0.0.0 bestdiscord.space
+0.0.0.0 bestdiscord.website
 0.0.0.0 bestoffer2021.info
 0.0.0.0 bestoffer21.info
 0.0.0.0 bestprizeday.life
@@ -874,6 +877,7 @@
 0.0.0.0 captchas.systems
 0.0.0.0 captchas.tech
 0.0.0.0 captchasbot.com
+0.0.0.0 captchassheets.com
 0.0.0.0 capultytrese.xyz
 0.0.0.0 cardgen.bar
 0.0.0.0 careers.ua
@@ -3141,6 +3145,7 @@
 0.0.0.0 discord-sms.eu
 0.0.0.0 discord-snowsgiving.cf
 0.0.0.0 discord-soft.ru
+0.0.0.0 discord-software.com
 0.0.0.0 discord-spooky.ru
 0.0.0.0 discord-squad.com
 0.0.0.0 discord-st.com
@@ -3235,6 +3240,7 @@
 0.0.0.0 discord-verifications.com
 0.0.0.0 discord-verified.com
 0.0.0.0 discord-verify-account.ml
+0.0.0.0 discord-verify.app
 0.0.0.0 discord-verify.com
 0.0.0.0 discord-verify.gq
 0.0.0.0 discord-verify.net
@@ -3563,6 +3569,7 @@
 0.0.0.0 discordaqp.com
 0.0.0.0 discordaqq.com
 0.0.0.0 discordarea.com
+0.0.0.0 discordark.com
 0.0.0.0 discordarpp.com
 0.0.0.0 discordaspp.com
 0.0.0.0 discordassist.com
@@ -3607,6 +3614,7 @@
 0.0.0.0 discordbotadv.com
 0.0.0.0 discordbothost.com
 0.0.0.0 discordbotist.com
+0.0.0.0 discordbotkodlari.com
 0.0.0.0 discordbotkodlari.online
 0.0.0.0 discordbots.app
 0.0.0.0 discordbotyagpdb.xyz
@@ -3679,6 +3687,7 @@
 0.0.0.0 discordcommunity.xyz
 0.0.0.0 discordcommunlty.com
 0.0.0.0 discordcompany.com
+0.0.0.0 discordcompany.online
 0.0.0.0 discordcompetitor.com
 0.0.0.0 discordconections.com
 0.0.0.0 discordconnect.link
@@ -3752,6 +3761,7 @@
 0.0.0.0 discordes-nitro.xyz
 0.0.0.0 discordesource.com
 0.0.0.0 discordetails.com
+0.0.0.0 discordev.net
 0.0.0.0 discordev.xyz
 0.0.0.0 discordevent.co.vu
 0.0.0.0 discordevent.com
@@ -3814,6 +3824,7 @@
 0.0.0.0 discordgamelabs.com
 0.0.0.0 discordgamers.co.uk
 0.0.0.0 discordgameslab.com
+0.0.0.0 discordgeek.com
 0.0.0.0 discordgenerator.com
 0.0.0.0 discordget.com
 0.0.0.0 discordgetnitro.xyz
@@ -4166,6 +4177,7 @@
 0.0.0.0 discordlive.xyz
 0.0.0.0 discordll.com
 0.0.0.0 discordll.gift
+0.0.0.0 discordllc.website
 0.0.0.0 discordlnitro.com
 0.0.0.0 discordload.com
 0.0.0.0 discordlogin.com
@@ -4358,6 +4370,7 @@
 0.0.0.0 discordofficial.link
 0.0.0.0 discordoo.xyz
 0.0.0.0 discordopp.com
+0.0.0.0 discordoutfits.com
 0.0.0.0 discordp.com
 0.0.0.0 discordp.ml
 0.0.0.0 discordpagessss.000webhostapp.com
@@ -4560,6 +4573,7 @@
 0.0.0.0 discordsapplication.info
 0.0.0.0 discordsapplication.us
 0.0.0.0 discordsatus.com
+0.0.0.0 discordsc.com
 0.0.0.0 discordscan.com
 0.0.0.0 discordscaner.com
 0.0.0.0 discordscanner.com
@@ -4580,6 +4594,10 @@
 0.0.0.0 discordservice.com
 0.0.0.0 discordservice.xyz
 0.0.0.0 discordservices.eu
+0.0.0.0 discordservices.online
+0.0.0.0 discordservices.space
+0.0.0.0 discordservices.top
+0.0.0.0 discordservices.website
 0.0.0.0 discordsetups.net
 0.0.0.0 discordsevers.com
 0.0.0.0 discordsex.live
@@ -4596,8 +4614,12 @@
 0.0.0.0 discordsgiftss.xyz
 0.0.0.0 discordsgiftsss.xyz
 0.0.0.0 discordsgiftssss.xyz
+0.0.0.0 discordshop.online
+0.0.0.0 discordshop.space
+0.0.0.0 discordshop.website
 0.0.0.0 discordshopbot.com
 0.0.0.0 discordshort.ga
+0.0.0.0 discordshrill.financial
 0.0.0.0 discordsignup.com
 0.0.0.0 discordsiteofficial.shop
 0.0.0.0 discordsniltro.xyz
@@ -4712,6 +4734,8 @@
 0.0.0.0 discordtrust.com
 0.0.0.0 discordts-nitro.xyz
 0.0.0.0 discordtts.com
+0.0.0.0 discordtub.site
+0.0.0.0 discordturk.com
 0.0.0.0 discordtw.com
 0.0.0.0 discordtwitch.online
 0.0.0.0 discordtwitch.website
@@ -4723,6 +4747,7 @@
 0.0.0.0 discordup.ru
 0.0.0.0 discordus.space
 0.0.0.0 discordusa.xyz
+0.0.0.0 discorduser.com
 0.0.0.0 discordusersmeet.com
 0.0.0.0 discordv-gift.ru
 0.0.0.0 discordv2.com
@@ -5098,6 +5123,7 @@
 0.0.0.0 disoard-nitro.art
 0.0.0.0 disoard-nitro.info
 0.0.0.0 disocordapp.com
+0.0.0.0 disocordnitro.xyz
 0.0.0.0 disocr.com
 0.0.0.0 disocrd-air.ru
 0.0.0.0 disocrd-gift.com
@@ -5127,6 +5153,7 @@
 0.0.0.0 disocrde.gift
 0.0.0.0 disocrdl.com
 0.0.0.0 disocrdnitro.info
+0.0.0.0 disocrdnitro.xyz
 0.0.0.0 disocrds.gift
 0.0.0.0 disod.com
 0.0.0.0 disorc.com
@@ -5987,6 +6014,7 @@
 0.0.0.0 downloads2021.com
 0.0.0.0 dracenic-gravinyl.icu
 0.0.0.0 dragonary-giveaway.info
+0.0.0.0 drdiscord.com
 0.0.0.0 dre-pgc2021.ru
 0.0.0.0 dreamcoin24.com
 0.0.0.0 dreamone.online
@@ -8011,6 +8039,7 @@
 0.0.0.0 hypesquad.store
 0.0.0.0 hypesquad.team
 0.0.0.0 hypesquad.wtf
+0.0.0.0 hypesquad.xyz
 0.0.0.0 hypesquadacademy-app.com
 0.0.0.0 hypesquadacademy-apply.com
 0.0.0.0 hypesquadacademy-events.com
@@ -12526,6 +12555,7 @@
 0.0.0.0 steamcommiynitiy.net.ru
 0.0.0.0 steamcommllty.com
 0.0.0.0 steamcommlnity.com
+0.0.0.0 steamcommlnityy.site
 0.0.0.0 steamcommlnuty.com
 0.0.0.0 steamcommltuntlity.com
 0.0.0.0 steamcommlunity.com
@@ -13956,6 +13986,7 @@
 0.0.0.0 steamcomnumity.org.ru
 0.0.0.0 steamcomnumity.ru
 0.0.0.0 steamcomnumity.ru.com
+0.0.0.0 steamcomnumity.site
 0.0.0.0 steamcomnumity.xyz
 0.0.0.0 steamcomnumlity.com
 0.0.0.0 steamcomnumlty.com
@@ -13990,6 +14021,7 @@
 0.0.0.0 steamcomnunitty.com
 0.0.0.0 steamcomnunitty.online
 0.0.0.0 steamcomnunitty.ru
+0.0.0.0 steamcomnunitu.com
 0.0.0.0 steamcomnunituy.com
 0.0.0.0 steamcomnunituy.fun
 0.0.0.0 steamcomnunituy.ru
@@ -14033,6 +14065,7 @@
 0.0.0.0 steamcomnunnity.net
 0.0.0.0 steamcomnunnlty.com
 0.0.0.0 steamcomnunnlty.ru
+0.0.0.0 steamcomnunnunity.com
 0.0.0.0 steamcomnuntiy.com
 0.0.0.0 steamcomnuntiyy.ru
 0.0.0.0 steamcomnuntly.com
@@ -14529,6 +14562,7 @@
 0.0.0.0 steamcsgofz.ru
 0.0.0.0 steamcsgoplay.ru
 0.0.0.0 steamcsgov.ru
+0.0.0.0 steamcsmmunity.online
 0.0.0.0 steamcsmmunity.ru
 0.0.0.0 steamcsrddelivery.com
 0.0.0.0 steamcummnity.com
@@ -14889,7 +14923,6 @@
 0.0.0.0 steamnconnmunity.website
 0.0.0.0 steamnecommunity.site
 0.0.0.0 steamniitro.com
-0.0.0.0 steamnitro.com
 0.0.0.0 steamnitro.com.ru
 0.0.0.0 steamnitro.xyz
 0.0.0.0 steamnitroc.com
@@ -15326,6 +15359,7 @@
 0.0.0.0 steancommunitty.net.ru
 0.0.0.0 steancommunitty.ru
 0.0.0.0 steancommunitu.me
+0.0.0.0 steancommunitu.space
 0.0.0.0 steancommunitv.com
 0.0.0.0 steancommunity.cc
 0.0.0.0 steancommunity.cf
@@ -15466,6 +15500,7 @@
 0.0.0.0 steanconmminuty.com
 0.0.0.0 steanconmmiunity.com
 0.0.0.0 steanconmmunity.com
+0.0.0.0 steanconmmunity.community
 0.0.0.0 steanconmmunity.ru
 0.0.0.0 steanconmnnutiy.online
 0.0.0.0 steanconmnnutiy.ru
@@ -15667,6 +15702,7 @@
 0.0.0.0 stearcommunitly.com
 0.0.0.0 stearcommunity.ru
 0.0.0.0 stearcommunlty.ru.com
+0.0.0.0 stearmanaviation.com
 0.0.0.0 stearmcammunity.com
 0.0.0.0 stearmcommiunitiycom.net.ru
 0.0.0.0 stearmcommnity.com
@@ -15685,6 +15721,7 @@
 0.0.0.0 stearmcommunity.one
 0.0.0.0 stearmcommunity.ru
 0.0.0.0 stearmcommunity.ru.com
+0.0.0.0 stearmcommunity.site
 0.0.0.0 stearmcommunltly.com
 0.0.0.0 stearmcommunlty.ru
 0.0.0.0 stearmcommunnitty.ru
@@ -15901,6 +15938,7 @@
 0.0.0.0 stearncomrnunlty.site
 0.0.0.0 stearncomrnunuty.ru
 0.0.0.0 stearncomrnurity.com.ru
+0.0.0.0 stearncomrnurity.org
 0.0.0.0 stearncomrnuti.com.ru
 0.0.0.0 stearncomrrunity.com
 0.0.0.0 stearncomrunity.ru
@@ -15949,6 +15987,7 @@
 0.0.0.0 stearncornmunlty.com
 0.0.0.0 stearncornmunlty.net
 0.0.0.0 stearncornmunlty.org
+0.0.0.0 stearncornmunlty.orgsteamnitro.com
 0.0.0.0 stearncornmunlty.ru
 0.0.0.0 stearncornmunlty.us
 0.0.0.0 stearncornmunlty.xyz
@@ -17245,6 +17284,7 @@
 0.0.0.0 thebiblestudies.com
 0.0.0.0 thecollaboration.xyz
 0.0.0.0 thediscordapp.com
+0.0.0.0 thediscordguy.com
 0.0.0.0 thediscordteam.com
 0.0.0.0 thehypesquad-team.com
 0.0.0.0 thehypesquadevents-forms.com
@@ -17294,6 +17334,8 @@
 0.0.0.0 top-skiils.org.ru
 0.0.0.0 top-team.org.ru
 0.0.0.0 top2-personal-loans-credits.com
+0.0.0.0 topdiscord.space
+0.0.0.0 topdiscord.website
 0.0.0.0 topgirls-here.com
 0.0.0.0 topgirls-here1.com
 0.0.0.0 topicnews.net
