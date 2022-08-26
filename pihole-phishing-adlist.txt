@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Thu, 25 Aug 2022, 13:37 UTC+02
+# Last modified: Fri, 26 Aug 2022, 16:18 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -3422,6 +3422,7 @@
 0.0.0.0 discord2.xyz
 0.0.0.0 discord2021.online
 0.0.0.0 discord2022.com
+0.0.0.0 discord22.com
 0.0.0.0 discord24.online
 0.0.0.0 discord24.ru
 0.0.0.0 discord2fa.click
@@ -7141,6 +7142,7 @@
 0.0.0.0 gif-discorde.com
 0.0.0.0 gife-discorde.com
 0.0.0.0 gifltdilscord.com
+0.0.0.0 gifltdilscorf.com
 0.0.0.0 gifltdilscori.com
 0.0.0.0 giflxdlscord.com
 0.0.0.0 gifs-discord.com
@@ -8747,6 +8749,7 @@
 0.0.0.0 joins-in-hypesquad.com
 0.0.0.0 joins-the-hypesquad.com
 0.0.0.0 joins-the-hypesquadevents-news.com
+0.0.0.0 joinsquad-academy.ml
 0.0.0.0 joint-moderator.com
 0.0.0.0 jointest-hypesquad-official.com
 0.0.0.0 jointhe-hypesquad-team.com
@@ -9574,6 +9577,7 @@
 0.0.0.0 navi-hawai.net.ru
 0.0.0.0 navi-just.com
 0.0.0.0 navi-lzx.ru
+0.0.0.0 navi-open.ru
 0.0.0.0 navi-russia.ru
 0.0.0.0 navi-skins.org.ru
 0.0.0.0 navi-skins.pp.ru
@@ -9595,10 +9599,12 @@
 0.0.0.0 navi25.com
 0.0.0.0 navi27.com
 0.0.0.0 navi30.com
+0.0.0.0 navi33.com
 0.0.0.0 navi40.com
 0.0.0.0 navi51.com
 0.0.0.0 navi55.com
 0.0.0.0 navi57.com
+0.0.0.0 navi6.com
 0.0.0.0 navi61.com
 0.0.0.0 navi9.com
 0.0.0.0 navicase-2020.org.ru
@@ -9616,6 +9622,7 @@
 0.0.0.0 navigo.net.ru
 0.0.0.0 navileague.xyz
 0.0.0.0 navination.site
+0.0.0.0 naviof.pw
 0.0.0.0 navip.xyz
 0.0.0.0 navirolls.org.ru
 0.0.0.0 navirool.ru
@@ -12337,6 +12344,7 @@
 0.0.0.0 steamcammunty.ru
 0.0.0.0 steamcammunuty.com
 0.0.0.0 steamcammunyty.ru
+0.0.0.0 steamcamnmunity.com
 0.0.0.0 steamcamnnunity.com
 0.0.0.0 steamcamnuity.online
 0.0.0.0 steamcamnuity.ru
@@ -13447,6 +13455,7 @@
 0.0.0.0 steamcommunityzhkr.top
 0.0.0.0 steamcommunityzic.club
 0.0.0.0 steamcommunityzic.ru
+0.0.0.0 steamcommunityzico.top
 0.0.0.0 steamcommunityzicw.top
 0.0.0.0 steamcommunityzie.cn
 0.0.0.0 steamcommunityziex.top
@@ -13792,6 +13801,7 @@
 0.0.0.0 steamcommuuity.net.ru
 0.0.0.0 steamcommuulty.com
 0.0.0.0 steamcommuulty.ru
+0.0.0.0 steamcommuunilty.com
 0.0.0.0 steamcommuunilty.ru
 0.0.0.0 steamcommuunilty.store
 0.0.0.0 steamcommuunitee.site
@@ -14536,6 +14546,7 @@
 0.0.0.0 steamcornrrnunity.com
 0.0.0.0 steamcornumity.xyz
 0.0.0.0 steamcornunity.ru
+0.0.0.0 steamcornuunity.ru
 0.0.0.0 steamcorrmunity.com
 0.0.0.0 steamcorrnmunity.ru
 0.0.0.0 steamcorrnunity.org
@@ -14851,6 +14862,7 @@
 0.0.0.0 steammcomunyty.net.ru
 0.0.0.0 steammcomuty.ru
 0.0.0.0 steammcomuunity.net.ru
+0.0.0.0 steammcomuunity.ru
 0.0.0.0 steammcomynity.com
 0.0.0.0 steammcomynity.store
 0.0.0.0 steammconmity.ru
@@ -14923,6 +14935,7 @@
 0.0.0.0 steamnconnmunity.website
 0.0.0.0 steamnecommunity.site
 0.0.0.0 steamniitro.com
+0.0.0.0 steamnitro.com
 0.0.0.0 steamnitro.com.ru
 0.0.0.0 steamnitro.xyz
 0.0.0.0 steamnitroc.com
@@ -15522,6 +15535,7 @@
 0.0.0.0 steanconmunuty.ru
 0.0.0.0 steanconmunuty.xyz
 0.0.0.0 steanconmunyti.ru.com
+0.0.0.0 steanconnunily.online
 0.0.0.0 steanconnunily.ru
 0.0.0.0 steanconnunity.com
 0.0.0.0 steanconnunlty.com
@@ -15552,6 +15566,7 @@
 0.0.0.0 steancummiunyty.com
 0.0.0.0 steancummlunity.com
 0.0.0.0 steancummulity.com
+0.0.0.0 steancummulty.ru
 0.0.0.0 steancummunitly.com
 0.0.0.0 steancummunlty.ru
 0.0.0.0 steancummunnily.com
@@ -15805,6 +15820,7 @@
 0.0.0.0 stearncommumity.site
 0.0.0.0 stearncommumity.sitenavi-skins.org.ru
 0.0.0.0 stearncommumity.siteyour-dreams-girls2.com
+0.0.0.0 stearncommumity.space
 0.0.0.0 stearncommumlty.com
 0.0.0.0 stearncommunety.com
 0.0.0.0 stearncommungty.com
@@ -16534,6 +16550,7 @@
 0.0.0.0 sternncomnnutinny.ru
 0.0.0.0 sterrmccommunity.ru
 0.0.0.0 sterumcommunity.com
+0.0.0.0 steumcommuinuty.com
 0.0.0.0 steumcommunity.com
 0.0.0.0 steumcommunity.ru
 0.0.0.0 steumcornmunity.com
@@ -16811,6 +16828,7 @@
 0.0.0.0 streamcommunityy.me
 0.0.0.0 streamcommuniuity.com
 0.0.0.0 streamcommuniunity.com
+0.0.0.0 streamcommuniuty.com
 0.0.0.0 streamcommuniuty.ru.com
 0.0.0.0 streamcommuniuty.store
 0.0.0.0 streamcommuniy.ru
