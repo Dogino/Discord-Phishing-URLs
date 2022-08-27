@@ -4264,6 +4264,7 @@ discordnitro.pw
 discordnitro.quest
 discordnitro.ru
 discordnitro.ru.com
+discordnitro.shop
 discordnitro.site
 discordnitro.space
 discordnitro.store
@@ -5548,6 +5549,7 @@ dlscord-gift.ru.com
 dlscord-gift.ru.comdiscoril.com
 dlscord-gift.site
 dlscord-gift.space
+dlscord-gift.top
 dlscord-gift.xyz
 dlscord-giftc.xyz
 dlscord-gifted.com
@@ -7128,6 +7130,7 @@ gife-discorde.com
 gifltdilscord.com
 gifltdilscorf.com
 gifltdilscori.com
+gifltdilscorx.com
 giflxdlscord.com
 gifs-discord.com
 gifs-discorde.com
@@ -8702,6 +8705,7 @@ joined-to-hypesquad.com
 joinerfor-hypesquad-events.com
 joinerfor-moderator-exam.com
 joinerfor-teamhypesquad.com
+joinfor-apply.gq
 joinfor-hypesquad.com
 joinfor-hypeteam.com
 joinfor-moderator.com
@@ -8909,6 +8913,9 @@ loginfor-events.com
 loginfor-events.gq
 loginhypesquad.com
 loginrun.info
+loginsquad-event.gq
+loginsquad-events.com
+loginsquad-events.gq
 logitech-nitro-gift.gq
 longxrun.online
 loot-conveyor.com
@@ -10942,6 +10949,7 @@ robloxbing.com
 robloxdownload.org
 robloxgamecode.com
 robloxgiftcardz.com
+robloxi-sites.com
 robloxi.com.de
 robloxi.com.se
 robloxpasssword.com
@@ -11709,6 +11717,7 @@ staam-communify.xyz
 staamcommunity.com
 staamcommunity.xyz
 staamcommunnity.co
+staamcommunyty.net.ru
 staamcomunitlu.net.ru
 staamcomunyty.net.ru
 staamcornnunnitty.ru.com
@@ -11751,6 +11760,7 @@ staemcommmunity.online
 staemcommmunity.ru
 staemcommnity.ru
 staemcommnnunnits.ru
+staemcommnuity.com
 staemcommnunity.ru.com
 staemcommnunity.xyz
 staemcommnuniyy.xyz
@@ -12466,6 +12476,8 @@ steamcomiunity.xyz
 steamcomiunnity.ru
 steamcomiynuytiy.net.ru
 steamcomlmunity.com
+steamcomlunily.com
+steamcomlunity.com
 steamcommanitty.ru
 steamcommanity.ru
 steamcommaunity.com
@@ -12584,6 +12596,7 @@ steamcommnnunity.com
 steamcommnnunity.ru
 steamcommnnunnity.world
 steamcommnnynity.com
+steamcommntiy.ru
 steamcommntiy.xyz
 steamcommnuilty.com
 steamcommnuily.com
@@ -12601,6 +12614,7 @@ steamcommnulty.site
 steamcommnumity.ru
 steamcommnuneety.ru
 steamcommnunety.ru
+steamcommnuniiity.ru
 steamcommnuniity.ru
 steamcommnuniltu.com
 steamcommnunilty.store
@@ -12608,6 +12622,7 @@ steamcommnunily.xyz
 steamcommnuninty.ru.com
 steamcommnunitlu.com
 steamcommnunittu.com
+steamcommnunitty.ru
 steamcommnunitu.com
 steamcommnunity.com
 steamcommnunity.com.ru
@@ -13367,6 +13382,7 @@ steamcommunityvio.top
 steamcommunityvioc.top
 steamcommunityvip.top
 steamcommunityviq.top
+steamcommunityvirn.top
 steamcommunityvixc.top
 steamcommunityviz.top
 steamcommunityvk.top
@@ -13442,6 +13458,7 @@ steamcommunityzic.ru
 steamcommunityzico.top
 steamcommunityzicw.top
 steamcommunityzie.cn
+steamcommunityziec.top
 steamcommunityziex.top
 steamcommunityzikr.top
 steamcommunityzio.club
@@ -13456,6 +13473,9 @@ steamcommunityzivw.top
 steamcommunityzivx.top
 steamcommunityzivz.top
 steamcommunityzix.club
+steamcommunityzixm.top
+steamcommunityzixn.top
+steamcommunityzixr.top
 steamcommunityzko.top
 steamcommunityzkq.top
 steamcommunityzm.top
@@ -14036,6 +14056,7 @@ steamcomnunitys.ru
 steamcomnunitys.site
 steamcomnunitys.xyz
 steamcomnunityx.ru
+steamcomnuniulity.ru
 steamcomnuniulty.ru
 steamcomnuniuty.ru
 steamcomnunlity.com
@@ -14068,6 +14089,8 @@ steamcomnunttiy.ru
 steamcomnuntty.ru
 steamcomnuntty.ru.com
 steamcomnunty.com
+steamcomnunuity.online
+steamcomnunuity.ru
 steamcomnunutiy.ru
 steamcomnunutu.online
 steamcomnunutu.ru
@@ -14160,6 +14183,7 @@ steamcomunillty.ru.com
 steamcomunilly.com
 steamcomuniltu.xyz
 steamcomunilty.com
+steamcomunilty.ru
 steamcomunilty.site
 steamcomuninruty.ru
 steamcomuninty.com
@@ -14386,6 +14410,7 @@ steamconnmunity.xyz
 steamconnmunlty.com
 steamconnmunlty.com.ru
 steamconnmunlty.ru
+steamconnnnunilty.com
 steamconnnnunity.net.ru
 steamconnnnunity.org.ru
 steamconnnnunlty.com
@@ -14475,6 +14500,7 @@ steamcormrunity.com
 steamcormunity.ru
 steamcormunity.xyz
 steamcormunlty.com
+steamcormunlty.ru
 steamcormurnity.com
 steamcornminity.ru.com
 steamcornminty.xyz
@@ -14781,6 +14807,7 @@ steammcommunety.com
 steammcommunify.ru
 steammcommuniity.ru
 steammcommunily.net.ru
+steammcommunily.ru
 steammcommuninuty.ru
 steammcommunitey.com
 steammcommunitly.ru
@@ -14801,6 +14828,7 @@ steammcommunnits.fun
 steammcommunnity.net.ru
 steammcommunnity.ru
 steammcommunnlty.ru.com
+steammcommunty.ru
 steammcommunuiity.ru
 steammcommunuity.online
 steammcommunuity.ru
@@ -14841,6 +14869,7 @@ steammcomunnity.ru
 steammcomuntiy.ru
 steammcomunty.ru
 steammcomunuity.net.ru
+steammcomunuity.ru
 steammcomunuty.net.ru
 steammcomunyti.com
 steammcomunyty.net.ru
@@ -15002,6 +15031,7 @@ steampowere-pubg.xyz
 steampowere.com
 steampoweread.com
 steampowerec.com
+steampowered-account.com
 steampowered-help.com
 steampowered-offer.xyz
 steampowered-offers.xyz
@@ -15055,6 +15085,7 @@ steampoweredswap.xyz
 steampoweredtrade.org
 steampoweredtrades.org
 steampoweredtrades.xyz
+steampoweredworkshop.com
 steampowereed.com
 steampowererd.com
 steampowerered.com
@@ -15135,6 +15166,7 @@ steamscommynuty.com
 steamscomnnunity.com
 steamscomnunity.com
 steamscomunilty.com
+steamscomunnity.ru
 steamsconmunity.com
 steamsdiscord.com
 steamsdiscordl.com
@@ -15462,6 +15494,7 @@ steancomnunity.xyz
 steancomnunllty.ru
 steancomnunlty.online
 steancomnunlty.ru
+steancomnunumity.com
 steancomnunyti.ru.com
 steancomnunytu.ru
 steancomnunytu.ru.com
@@ -15655,6 +15688,7 @@ steanncomnuniity.online
 steanncomnuniity.xyz
 steanncomnunity.net.ru
 steanncomnunity.xyz
+steanncomnunlty.ru
 steanncomrnunityi.com
 steanncomulnity.com
 steanncomumity.ru
@@ -16217,6 +16251,7 @@ steemcomunity.me
 steemcomunity.net.ru
 steemcomunity.org.ru
 steemcomunity.pp.ru
+steemcomunity.ru
 steemcomunnity.com
 steemcomunyty.ru
 steemconmnunity.ru
@@ -16537,6 +16572,7 @@ sterumcommunity.com
 steumcommuinuty.com
 steumcommunity.com
 steumcommunity.ru
+steumcommunutiy.com
 steumcornmunity.com
 steumcummunity.com.ru
 steurmcommunity.com
@@ -17639,6 +17675,7 @@ welcome-eventsup.ml
 welcome-from-hype.com
 welcome-hype-members.com
 welcome-hypesquad-events.gq
+welcome-hypesquad-test.tk
 welcome-hypesquad.com
 welcome-hypesquad.ga
 welcome-hypesquad.gq
@@ -17797,6 +17834,8 @@ yourprotectorshield.com
 youshouldclick.us
 youtuba.com
 youtubeshort.watch
+youwere-applied.ga
+youwere-applied.gq
 yple-selectionevents.ml
 ysbweb.com
 yt118.com
