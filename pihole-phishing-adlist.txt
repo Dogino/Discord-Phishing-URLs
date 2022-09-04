@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sat, 03 Sep 2022, 21:41 UTC+02
+# Last modified: Sun, 04 Sep 2022, 18:33 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -9339,6 +9339,7 @@
 0.0.0.0 moderator-program.com
 0.0.0.0 moderator-proof.com
 0.0.0.0 moderator-qualify.com
+0.0.0.0 moderator-recruitment-member.tk
 0.0.0.0 moderator-recruitment.com
 0.0.0.0 moderator-register.com
 0.0.0.0 moderator-register.info
@@ -17755,6 +17756,7 @@
 0.0.0.0 vvvvv-roblox.com
 0.0.0.0 vvvvvw-roblox.com
 0.0.0.0 vvvvw-roblox.com
+0.0.0.0 vvvw-robiox.com
 0.0.0.0 vvvw-roblox.com
 0.0.0.0 vvwvv-roblox-com.cf
 0.0.0.0 vvwvv-roblox.com
