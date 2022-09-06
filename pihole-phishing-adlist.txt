@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 05 Sep 2022, 19:39 UTC+02
+# Last modified: Wed, 07 Sep 2022, 00:39 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -6337,6 +6337,7 @@
 0.0.0.0 eslgamingopen.com
 0.0.0.0 eslgamingworldwide.net
 0.0.0.0 eslgamlng.com
+0.0.0.0 eslgamlng.space
 0.0.0.0 eslhubgaming.com
 0.0.0.0 eslplayworlds.com
 0.0.0.0 eslquickseries.com
@@ -8978,6 +8979,7 @@
 0.0.0.0 lover-date.com
 0.0.0.0 loverfuck.com
 0.0.0.0 loves-discord.services
+0.0.0.0 lpsteamcommunity.com
 0.0.0.0 lqcmg.xyz
 0.0.0.0 lsteamcommunity.com
 0.0.0.0 lsteamcommunity.ru
@@ -10941,6 +10943,7 @@
 0.0.0.0 roblox-login.com
 0.0.0.0 roblox-login.ml
 0.0.0.0 roblox-porn.com
+0.0.0.0 roblox-profiles.gq
 0.0.0.0 roblox-robux.de
 0.0.0.0 roblox-siite.com
 0.0.0.0 roblox-site.com
@@ -13553,6 +13556,7 @@
 0.0.0.0 steamcommunityzkq.top
 0.0.0.0 steamcommunityzm.top
 0.0.0.0 steamcommunityzn.top
+0.0.0.0 steamcommunityzowe.top
 0.0.0.0 steamcommunityztr.top
 0.0.0.0 steamcommunityzv.top
 0.0.0.0 steamcommunityzvc.top
@@ -13706,6 +13710,7 @@
 0.0.0.0 steamcommunnity.site
 0.0.0.0 steamcommunnity.xyz
 0.0.0.0 steamcommunnitys.ru
+0.0.0.0 steamcommunnityy.ru
 0.0.0.0 steamcommunniuty.ru
 0.0.0.0 steamcommunnjty.com
 0.0.0.0 steamcommunnjty.com.ru
@@ -13889,6 +13894,7 @@
 0.0.0.0 steamcommuunitee.site
 0.0.0.0 steamcommuunitey.com
 0.0.0.0 steamcommuuniti.com.ru
+0.0.0.0 steamcommuunitty.ru
 0.0.0.0 steamcommuunitty.ru.com
 0.0.0.0 steamcommuunity.com
 0.0.0.0 steamcommuunity.net.ru
@@ -13900,6 +13906,7 @@
 0.0.0.0 steamcommuunityzero.top
 0.0.0.0 steamcommuunjty.com
 0.0.0.0 steamcommuunlity.com
+0.0.0.0 steamcommuunltu.ru
 0.0.0.0 steamcommuunlty.ml
 0.0.0.0 steamcommuunlty.ru
 0.0.0.0 steamcommuunlty.tk
@@ -15193,6 +15200,7 @@
 0.0.0.0 steampowerered.com
 0.0.0.0 steampowerewd.com
 0.0.0.0 steampowerred.com
+0.0.0.0 steampowerred.net
 0.0.0.0 steampowers.com
 0.0.0.0 steampowers.org
 0.0.0.0 steampowerwd.com
@@ -16546,6 +16554,7 @@
 0.0.0.0 stemcomunitiy.com
 0.0.0.0 stemcomunitti.xyz
 0.0.0.0 stemcomunity.com
+0.0.0.0 stemcomunity.ga
 0.0.0.0 stemcomunity.net
 0.0.0.0 stemcomunity.ru.com
 0.0.0.0 stemcomunnity.com
@@ -16842,6 +16851,7 @@
 0.0.0.0 stream-community.ru
 0.0.0.0 stream-conmunlty.ru
 0.0.0.0 streamcammunitly.com
+0.0.0.0 streamcammunity.ru
 0.0.0.0 streamccomunilty.com
 0.0.0.0 streamcomlutitly.me
 0.0.0.0 streamcommanity.com
