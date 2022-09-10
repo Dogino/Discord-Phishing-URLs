@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 09 Sep 2022, 00:41 UTC+02
+# Last modified: Sat, 10 Sep 2022, 21:40 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1139,6 +1139,7 @@
 0.0.0.0 connect-to-new-hypesquad.com
 0.0.0.0 connect-to-new-moderator-exam.com
 0.0.0.0 connect-to-new-moderator.com
+0.0.0.0 connected-hypesquad-events.tk
 0.0.0.0 connecthypesquads.com
 0.0.0.0 connection-discord-hypesquad.com
 0.0.0.0 connectmetamask.com
@@ -1858,6 +1859,7 @@
 0.0.0.0 discards.xyz
 0.0.0.0 discbrd.com
 0.0.0.0 discbrdapp.com
+0.0.0.0 discclient.com
 0.0.0.0 disccoord-apps.com
 0.0.0.0 disccor.com
 0.0.0.0 disccorcl-gift.ru
@@ -1916,6 +1918,8 @@
 0.0.0.0 discgrd.com
 0.0.0.0 discgrd.gift
 0.0.0.0 discgrdapp.com
+0.0.0.0 dischart.com
+0.0.0.0 dischecks.com
 0.0.0.0 dischrd.co
 0.0.0.0 dischrd.com
 0.0.0.0 dischrdapp.com
@@ -3665,6 +3669,7 @@
 0.0.0.0 discordcheats.net
 0.0.0.0 discordcheck.com
 0.0.0.0 discordchecking.com
+0.0.0.0 discordchecks.com
 0.0.0.0 discordchristmas.com
 0.0.0.0 discordchristmas.gifts
 0.0.0.0 discordchristmaspromo.com
@@ -5083,6 +5088,7 @@
 0.0.0.0 discsrd.com
 0.0.0.0 discsrdapp.com
 0.0.0.0 discstatistic.com
+0.0.0.0 discstatistics.com
 0.0.0.0 discstatus.com
 0.0.0.0 disctotal.com
 0.0.0.0 discurcd.com
@@ -5108,6 +5114,7 @@
 0.0.0.0 disgifts-luck.gq
 0.0.0.0 disgordapp.com
 0.0.0.0 dishelper.com
+0.0.0.0 disindexs.com
 0.0.0.0 disiscord.com
 0.0.0.0 diskcord.gift
 0.0.0.0 diskerd.gift
@@ -5285,6 +5292,7 @@
 0.0.0.0 dissqrdapp.com
 0.0.0.0 disstatistic.com
 0.0.0.0 disstatistics.com
+0.0.0.0 disstats.com
 0.0.0.0 distatistics.com
 0.0.0.0 disuord.gift
 0.0.0.0 disuscord.site
@@ -5336,6 +5344,7 @@
 0.0.0.0 djscordiairdrop.com
 0.0.0.0 djscordl.com
 0.0.0.0 djscordnitro.com
+0.0.0.0 djscordnltro.com
 0.0.0.0 djscords-gg.com
 0.0.0.0 djscordsteam.com
 0.0.0.0 djscorld.gift
@@ -5457,6 +5466,7 @@
 0.0.0.0 dlsccorrd-apps.ru
 0.0.0.0 dlsccorrd-apps.site
 0.0.0.0 dlsccrd.com
+0.0.0.0 dlscjordnitro.com
 0.0.0.0 dlscjordnltro.com
 0.0.0.0 dlscocl.xyz
 0.0.0.0 dlscocrd.club
@@ -6139,6 +6149,7 @@
 0.0.0.0 dsiscord.com
 0.0.0.0 dsl-drop.gq
 0.0.0.0 dsl-drp.gq
+0.0.0.0 dsload.com
 0.0.0.0 dsnitro-app.ru
 0.0.0.0 dsnitro.net
 0.0.0.0 dsnitro.xyz
@@ -6148,6 +6159,9 @@
 0.0.0.0 dsscordgift.xyz
 0.0.0.0 dsscrrdgift.xyz
 0.0.0.0 dssscordglft.xyz
+0.0.0.0 dsstatistic.com
+0.0.0.0 dsstatistics.com
+0.0.0.0 dstatistic.com
 0.0.0.0 dstools-gift.gq
 0.0.0.0 dswcordgft.xyz
 0.0.0.0 dsxcordglft.xyz
@@ -7171,6 +7185,7 @@
 0.0.0.0 gif-discord.com
 0.0.0.0 gif-discorde.com
 0.0.0.0 gife-discorde.com
+0.0.0.0 giflstdilscowr.com
 0.0.0.0 gifltdilscord.com
 0.0.0.0 gifltdilscorf.com
 0.0.0.0 gifltdilscori.com
@@ -7181,6 +7196,8 @@
 0.0.0.0 giflxdlscord.com
 0.0.0.0 giflztdilscor.com
 0.0.0.0 giflztdilscow.com
+0.0.0.0 giflztdilscowa.com
+0.0.0.0 giflztdilscowf.com
 0.0.0.0 giflztdilscowr.com
 0.0.0.0 gifs-discord.com
 0.0.0.0 gifs-discorde.com
@@ -9654,6 +9671,7 @@
 0.0.0.0 navi30.com
 0.0.0.0 navi33.com
 0.0.0.0 navi40.com
+0.0.0.0 navi44.com
 0.0.0.0 navi51.com
 0.0.0.0 navi55.com
 0.0.0.0 navi57.com
@@ -11301,6 +11319,7 @@
 0.0.0.0 shiba-airdrop.space
 0.0.0.0 shine.com.global.prod.fastly.net
 0.0.0.0 shippingdiscord.com
+0.0.0.0 shockify.blog
 0.0.0.0 shop.discordglft.org
 0.0.0.0 shoppingsurveysonline.com
 0.0.0.0 shoppy.gg
@@ -13582,6 +13601,7 @@
 0.0.0.0 steamcommunityztr.top
 0.0.0.0 steamcommunityzv.top
 0.0.0.0 steamcommunityzvc.top
+0.0.0.0 steamcommunityzve.top
 0.0.0.0 steamcommunityzvv.top
 0.0.0.0 steamcommunityzvw.top
 0.0.0.0 steamcommunityzxc.top
@@ -13717,6 +13737,7 @@
 0.0.0.0 steamcommunnitly.com
 0.0.0.0 steamcommunnits.ru
 0.0.0.0 steamcommunnits.ru.com
+0.0.0.0 steamcommunnitty.ru
 0.0.0.0 steamcommunnitty.xyz
 0.0.0.0 steamcommunnity.club
 0.0.0.0 steamcommunnity.co
@@ -14027,6 +14048,7 @@
 0.0.0.0 steamcomnmufly.ru.com
 0.0.0.0 steamcomnmuituy.com
 0.0.0.0 steamcomnmuity.com
+0.0.0.0 steamcomnmuniity.ru
 0.0.0.0 steamcomnmunilty.com
 0.0.0.0 steamcomnmunity.com
 0.0.0.0 steamcomnmunity.com.ru
@@ -17929,10 +17951,12 @@
 0.0.0.0 wwu-roblox.com
 0.0.0.0 wwvv-roblcx.com
 0.0.0.0 wwvvv-roblox.com
+0.0.0.0 wwvvww-roblox.com
 0.0.0.0 wwvwvv-roblox.com
 0.0.0.0 www-discord.com
 0.0.0.0 www-discord.online
 0.0.0.0 www-hypesquad-event.com
+0.0.0.0 www-robiox.com
 0.0.0.0 www-robiox.com.nf
 0.0.0.0 www-robllox.com
 0.0.0.0 www-roblox-com.gq
