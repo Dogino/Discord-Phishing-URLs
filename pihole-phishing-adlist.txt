@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 12 Sep 2022, 16:26 UTC+02
+# Last modified: Thu, 15 Sep 2022, 00:49 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -549,6 +549,7 @@
 0.0.0.0 arclk.net
 0.0.0.0 ardeminggiftcred.ml
 0.0.0.0 arenastrike.ru
+0.0.0.0 arkjuly.net
 0.0.0.0 arthyadtracker.info
 0.0.0.0 arthyredir.com
 0.0.0.0 aselink.guru
@@ -1620,6 +1621,7 @@
 0.0.0.0 dicsordnitro.info
 0.0.0.0 dicsordnitro.net.ru
 0.0.0.0 dicsordnitro.one
+0.0.0.0 dicsordnitro.org
 0.0.0.0 dicsordnitro.org.ru
 0.0.0.0 dicsordnitro.ru
 0.0.0.0 dicsordnitro.space
@@ -1743,6 +1745,7 @@
 0.0.0.0 dilscordilgiftsib.net.ru
 0.0.0.0 dilscordilgiftsib.org.ru
 0.0.0.0 dilscordilgiftsil.org.ru
+0.0.0.0 dilscordilgiftsiq.org.ru
 0.0.0.0 dilscordilgiftsir.net.ru
 0.0.0.0 dilscordilgiftsir.org.ru
 0.0.0.0 dilscordilgiftsit.net.ru
@@ -1781,6 +1784,7 @@
 0.0.0.0 dilscordiz.net.ru
 0.0.0.0 dilscordl.com
 0.0.0.0 dilscords.com
+0.0.0.0 dilscourd.com
 0.0.0.0 dilscrod-game.com
 0.0.0.0 dilsocrd.com
 0.0.0.0 dilsocrd.ru
@@ -4370,6 +4374,7 @@
 0.0.0.0 discordnltro.net.ru
 0.0.0.0 discordnltro.org
 0.0.0.0 discordnltro.ru
+0.0.0.0 discordnltro.site
 0.0.0.0 discordnltro.space
 0.0.0.0 discordnltro.us
 0.0.0.0 discordnltro.xyz
@@ -7137,6 +7142,7 @@
 0.0.0.0 get-fullnltro.com
 0.0.0.0 get-fulnltro.com
 0.0.0.0 get-gamesroll.xyz
+0.0.0.0 get-giveaway.com
 0.0.0.0 get-hypesquad.gq
 0.0.0.0 get-in-hypesquad.com
 0.0.0.0 get-in-hypesquadevents.com
@@ -7149,6 +7155,7 @@
 0.0.0.0 get-nitro.online
 0.0.0.0 get-nitro.org
 0.0.0.0 get-nitro.xyz
+0.0.0.0 get-premiums.com
 0.0.0.0 get-users-beta.ml
 0.0.0.0 get19dragos.club
 0.0.0.0 getcach.monster
@@ -8323,7 +8330,9 @@
 0.0.0.0 hypeteamsubscribe.gq
 0.0.0.0 hypevents-academy.com
 0.0.0.0 hypixel.run
+0.0.0.0 hypixelnet.store
 0.0.0.0 hypixelskyblock.net
+0.0.0.0 hypixelstore.xyz
 0.0.0.0 hypsquad-join.gq
 0.0.0.0 i-no.ru
 0.0.0.0 iamnaughty.com
@@ -9111,6 +9120,7 @@
 0.0.0.0 mee6.ai
 0.0.0.0 mee6.center
 0.0.0.0 mee6.cfd
+0.0.0.0 mee6.cool
 0.0.0.0 mee6.cx
 0.0.0.0 mee6.digital
 0.0.0.0 mee6.eu
@@ -9123,10 +9133,12 @@
 0.0.0.0 mee6.lol
 0.0.0.0 mee6.sbs
 0.0.0.0 mee6.space
+0.0.0.0 mee6.store
 0.0.0.0 mee6.team
 0.0.0.0 mee6.tv
 0.0.0.0 mee6.website
 0.0.0.0 mee6.zone
+0.0.0.0 mee6bot.click
 0.0.0.0 mee6captcha.xyz
 0.0.0.0 mee6check.com
 0.0.0.0 meetnitro.com
@@ -9610,6 +9622,7 @@
 0.0.0.0 mytruckingportal.net
 0.0.0.0 n01.biz
 0.0.0.0 n06.biz
+0.0.0.0 na-discord.us
 0.0.0.0 nacjalneg.info
 0.0.0.0 nacybersportvi.ru
 0.0.0.0 naiadrl.top
@@ -10549,6 +10562,7 @@
 0.0.0.0 promo-codes.world
 0.0.0.0 promo-discord.com
 0.0.0.0 promo-discord.site
+0.0.0.0 promodlscord.com
 0.0.0.0 promosdiscord.com
 0.0.0.0 promotion-nitro-od-machovce.tk
 0.0.0.0 promotions-gift-nitro.com
@@ -11167,6 +11181,7 @@
 0.0.0.0 rustroulettes.com
 0.0.0.0 rustroullette.com
 0.0.0.0 rusts-case.com
+0.0.0.0 rusts-cases.com
 0.0.0.0 rustygift.site
 0.0.0.0 rxstgifts.ru
 0.0.0.0 s-joom.net.ru
@@ -13420,6 +13435,7 @@
 0.0.0.0 steamcommunityoiw.top
 0.0.0.0 steamcommunityoiwn.top
 0.0.0.0 steamcommunityoiwo.top
+0.0.0.0 steamcommunityoiwx.top
 0.0.0.0 steamcommunityoiy.top
 0.0.0.0 steamcommunityoiz.top
 0.0.0.0 steamcommunityol.top
@@ -13497,6 +13513,7 @@
 0.0.0.0 steamcommunityui.club
 0.0.0.0 steamcommunityuio.top
 0.0.0.0 steamcommunityuiwn.top
+0.0.0.0 steamcommunityuiwv.top
 0.0.0.0 steamcommunityum.top
 0.0.0.0 steamcommunityun.top
 0.0.0.0 steamcommunityur.top
@@ -13557,6 +13574,7 @@
 0.0.0.0 steamcommunityxieo.top
 0.0.0.0 steamcommunityxino.top
 0.0.0.0 steamcommunityxioc.top
+0.0.0.0 steamcommunityxion.top
 0.0.0.0 steamcommunityxip.top
 0.0.0.0 steamcommunityxiwv.top
 0.0.0.0 steamcommunityxk.top
@@ -13631,6 +13649,7 @@
 0.0.0.0 steamcommunityzvv.top
 0.0.0.0 steamcommunityzvw.top
 0.0.0.0 steamcommunityzxc.top
+0.0.0.0 steamcommunityzxcw.top
 0.0.0.0 steamcommunityzya.top
 0.0.0.0 steamcommunityzyb.top
 0.0.0.0 steamcommunityzyc.top
@@ -14098,6 +14117,7 @@
 0.0.0.0 steamcomnnilty.com
 0.0.0.0 steamcomnninuti.ru
 0.0.0.0 steamcomnnity.ru
+0.0.0.0 steamcomnniuty.ru
 0.0.0.0 steamcomnnlty.com
 0.0.0.0 steamcomnnlty.ru
 0.0.0.0 steamcomnnmunity.online
@@ -14946,6 +14966,7 @@
 0.0.0.0 steamkommunity.net.ru
 0.0.0.0 steamkommunity.org.ru
 0.0.0.0 steamkommunity.ru
+0.0.0.0 steamkommunlty.ru
 0.0.0.0 steamkursy.com
 0.0.0.0 steamlabsf.com
 0.0.0.0 steamlcommunity.com
@@ -15557,6 +15578,7 @@
 0.0.0.0 steancommuniittuy.com
 0.0.0.0 steancommuniitty.com
 0.0.0.0 steancommuniitty.ru
+0.0.0.0 steancommuniity.cf
 0.0.0.0 steancommuniity.com
 0.0.0.0 steancommuniity.fun
 0.0.0.0 steancommuniity.ru
@@ -15892,6 +15914,7 @@
 0.0.0.0 steanncomnunity.xyz
 0.0.0.0 steanncomnunityy.ru
 0.0.0.0 steanncomnunlty.ru
+0.0.0.0 steanncomnunnity.ru
 0.0.0.0 steanncomrnunityi.com
 0.0.0.0 steanncomulnity.com
 0.0.0.0 steanncomumity.ru
@@ -15941,6 +15964,7 @@
 0.0.0.0 stearmanaviation.com
 0.0.0.0 stearmcammunity.com
 0.0.0.0 stearmcommiunitiycom.net.ru
+0.0.0.0 stearmcommiunity.ru
 0.0.0.0 stearmcommnity.com
 0.0.0.0 stearmcommnumity.com
 0.0.0.0 stearmcommnunity.com
@@ -16084,6 +16108,7 @@
 0.0.0.0 stearncommunitu.ru.com
 0.0.0.0 stearncommunitv.ru
 0.0.0.0 stearncommunity.click
+0.0.0.0 stearncommunity.com
 0.0.0.0 stearncommunity.com.ru
 0.0.0.0 stearncommunity.fun
 0.0.0.0 stearncommunity.ga
@@ -17062,6 +17087,7 @@
 0.0.0.0 streamcommunity.org.ru
 0.0.0.0 streamcommunity.pl
 0.0.0.0 streamcommunity.ru.com
+0.0.0.0 streamcommunity.site
 0.0.0.0 streamcommunity.us
 0.0.0.0 streamcommunityi.ru
 0.0.0.0 streamcommunityn.ru
@@ -17972,6 +17998,7 @@
 0.0.0.0 wvvvvw-roblox.com
 0.0.0.0 wvvw-robiox.com
 0.0.0.0 wvvw-roblox.com
+0.0.0.0 wvvw-roblox.net
 0.0.0.0 wvw-robiox.com
 0.0.0.0 wvw-roblox.site
 0.0.0.0 wvwww-roblox.com
