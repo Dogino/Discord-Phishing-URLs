@@ -310,6 +310,7 @@ application-moderator-join.com
 application-moderator.com
 application-moderatoracademy.com
 application-moderators.com
+application-now.gq
 application-recruitment.com
 application-testers-beta.com
 application-testers.com
@@ -536,6 +537,7 @@ arclk.net
 ardeminggiftcred.ml
 arenacup.ru
 arenastrike.ru
+arkget.pro
 arkjuly.net
 arthyadtracker.info
 arthyredir.com
@@ -605,6 +607,7 @@ be-hypesquad-formcom.com
 be-hypesquad-register.com
 be-moderator.com
 be-new-hypesquad-again.com
+beaming.fun
 beast-cup.ru
 beast-winer.ru
 become-hype-member.com
@@ -3288,15 +3291,23 @@ discord-zgifts.gq
 discord.abogado
 discord.ac
 discord.ac.cn
+discord.accountant
 discord.accountants
 discord.actor
 discord.ae.org
+discord.aero
+discord.agency
 discord.airforce
 discord.am
 discord.apartments
 discord.app
 discord.app.br
 discord.archi
+discord.associates
+discord.at
+discord.attorney
+discord.au
+discord.audio
 discord.ax
 discord.bar
 discord.bargains
@@ -4096,6 +4107,7 @@ discordhypesquadjoin.com
 discordhypesquadsevent.com
 discordhypesquadsevents.com
 discordhypeteam.com
+discordi-boost.com
 discordi-gift.ru
 discordi-nitro.com
 discordi-steam.com
@@ -6218,6 +6230,8 @@ dyno-bot.net
 dyno-bot.org
 dyno-bots.com
 dyno-dev.net
+dyno-tool.dev
+dyno-verification.org
 dyno-verify.com
 dyno-verify.net
 dyno.autos
@@ -6250,13 +6264,17 @@ dynobot.me
 dynobot.to
 dynobot.vc
 dynobot.wiki
+dynobots.app
 dynobots.co
+dynobots.dev
 dynobots.gg
 dynobots.io
 dynobots.net
 dynobots.org
 dynobotverify.com
 dynocaptcha.com
+dynocaptcha.dev
+dynocaptchas.com
 dynoclick.gg
 dynos.gg
 dynos.info
@@ -7237,6 +7255,7 @@ gif-discorde.com
 gife-discorde.com
 giflstdilscowr.com
 giflstdilscowr.link
+gifltdilscora.com
 gifltdilscord.com
 gifltdilscorf.com
 gifltdilscori.com
@@ -7695,6 +7714,7 @@ hyperz.monster
 hypescontest.com
 hypesforms-login.com
 hypesqaudevents-mod.com
+hypesquaad.ml
 hypesquad-2022-formulary.com
 hypesquad-2022.com
 hypesquad-2022.ga
@@ -11111,6 +11131,7 @@ robloxapi.info
 robloxbing.com
 robloxdownload.org
 robloxgamecode.com
+robloxgi.com
 robloxgiftcardz.com
 robloxi-sites.com
 robloxi.com.de
@@ -12168,6 +12189,7 @@ staff-discord.net
 staff-moderators-academy.com
 staffapps-discord.xyz
 staffcertified-examacademy.com
+staisticdiscord.com
 stake-drop.com
 stamcommunity.ru
 stamcommunnity.com
@@ -13355,6 +13377,7 @@ steamcommunity.us
 steamcommunity.vov.ru
 steamcommunity.xyz
 steamcommunity1.com
+steamcommunity578080.asia
 steamcommunity9008216.asia
 steamcommunitya.com
 steamcommunitya.ru
@@ -13709,6 +13732,7 @@ steamcommunityzie.cn
 steamcommunityziec.top
 steamcommunityziex.top
 steamcommunityzikr.top
+steamcommunityzio.asia
 steamcommunityzio.club
 steamcommunityzio.cn
 steamcommunityzioc.top
@@ -13720,6 +13744,7 @@ steamcommunityzivo.top
 steamcommunityzivw.top
 steamcommunityzivx.top
 steamcommunityzivz.top
+steamcommunityziw.asia
 steamcommunityzix.club
 steamcommunityzixm.top
 steamcommunityzixn.top
@@ -14075,6 +14100,7 @@ steamcommuty.com
 steamcommutyniu.com
 steamcommutyniy.com
 steamcommuuity.net.ru
+steamcommuuity.ru
 steamcommuulty.com
 steamcommuulty.ru
 steamcommuunilty.com
@@ -14106,6 +14132,7 @@ steamcommuunniity.com
 steamcommuunnity.online
 steamcommuunnity.ru
 steamcommuuntiy.com
+steamcommuuntiy.ru
 steamcommuunty.ru
 steamcommuunuty.ru
 steamcommuunutyi.ru
@@ -15031,6 +15058,7 @@ steamecommunty.com
 steamecomumnity.com
 steamecomunity.com.ru
 steamecomunnity.com
+steamecomunnity.ru
 steamecoommunity.online
 steamecoommunity.ru
 steameder.online
@@ -15501,6 +15529,7 @@ steamscommunity.ru.com
 steamscommunity.shop
 steamscommunlity.com
 steamscommunlty.com
+steamscommunnity.ru
 steamscommunty.online
 steamscommunty.ru
 steamscommynitu.co
@@ -16677,6 +16706,7 @@ stelseriesnitros.com
 stemacommuinty.com
 stemacommunity.com
 stemacommunity.net
+stemacommunity.ru
 stemacommunlty.com
 stemacomunity.com
 stemadrop.gq
@@ -18029,6 +18059,7 @@ vvvv-robiox.com
 vvvvv-roblox.com
 vvvvvw-roblox.com
 vvvvw-roblox.com
+vvvvww-roblox.com
 vvvw-robiox.com
 vvvw-roblox.com
 vvwvv-roblox-com.cf
@@ -18189,6 +18220,7 @@ wwwsteamcommunity.com
 wwwvww-roblox.com
 wwww-robiox.com
 wwwwv-roblox.com
+wwx-roblox.cf
 wwx-roblox.com
 wwzv-roblox.com
 wwzw-robloxs.com

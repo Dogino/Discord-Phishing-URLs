@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 03 Oct 2022, 01:00 UTC+02
+# Last modified: Wed, 05 Oct 2022, 00:39 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -326,6 +326,7 @@
 0.0.0.0 application-moderator.com
 0.0.0.0 application-moderatoracademy.com
 0.0.0.0 application-moderators.com
+0.0.0.0 application-now.gq
 0.0.0.0 application-recruitment.com
 0.0.0.0 application-testers-beta.com
 0.0.0.0 application-testers.com
@@ -552,6 +553,7 @@
 0.0.0.0 ardeminggiftcred.ml
 0.0.0.0 arenacup.ru
 0.0.0.0 arenastrike.ru
+0.0.0.0 arkget.pro
 0.0.0.0 arkjuly.net
 0.0.0.0 arthyadtracker.info
 0.0.0.0 arthyredir.com
@@ -621,6 +623,7 @@
 0.0.0.0 be-hypesquad-register.com
 0.0.0.0 be-moderator.com
 0.0.0.0 be-new-hypesquad-again.com
+0.0.0.0 beaming.fun
 0.0.0.0 beast-cup.ru
 0.0.0.0 beast-winer.ru
 0.0.0.0 become-hype-member.com
@@ -3304,15 +3307,23 @@
 0.0.0.0 discord.abogado
 0.0.0.0 discord.ac
 0.0.0.0 discord.ac.cn
+0.0.0.0 discord.accountant
 0.0.0.0 discord.accountants
 0.0.0.0 discord.actor
 0.0.0.0 discord.ae.org
+0.0.0.0 discord.aero
+0.0.0.0 discord.agency
 0.0.0.0 discord.airforce
 0.0.0.0 discord.am
 0.0.0.0 discord.apartments
 0.0.0.0 discord.app
 0.0.0.0 discord.app.br
 0.0.0.0 discord.archi
+0.0.0.0 discord.associates
+0.0.0.0 discord.at
+0.0.0.0 discord.attorney
+0.0.0.0 discord.au
+0.0.0.0 discord.audio
 0.0.0.0 discord.ax
 0.0.0.0 discord.bar
 0.0.0.0 discord.bargains
@@ -4112,6 +4123,7 @@
 0.0.0.0 discordhypesquadsevent.com
 0.0.0.0 discordhypesquadsevents.com
 0.0.0.0 discordhypeteam.com
+0.0.0.0 discordi-boost.com
 0.0.0.0 discordi-gift.ru
 0.0.0.0 discordi-nitro.com
 0.0.0.0 discordi-steam.com
@@ -6234,6 +6246,8 @@
 0.0.0.0 dyno-bot.org
 0.0.0.0 dyno-bots.com
 0.0.0.0 dyno-dev.net
+0.0.0.0 dyno-tool.dev
+0.0.0.0 dyno-verification.org
 0.0.0.0 dyno-verify.com
 0.0.0.0 dyno-verify.net
 0.0.0.0 dyno.autos
@@ -6266,13 +6280,17 @@
 0.0.0.0 dynobot.to
 0.0.0.0 dynobot.vc
 0.0.0.0 dynobot.wiki
+0.0.0.0 dynobots.app
 0.0.0.0 dynobots.co
+0.0.0.0 dynobots.dev
 0.0.0.0 dynobots.gg
 0.0.0.0 dynobots.io
 0.0.0.0 dynobots.net
 0.0.0.0 dynobots.org
 0.0.0.0 dynobotverify.com
 0.0.0.0 dynocaptcha.com
+0.0.0.0 dynocaptcha.dev
+0.0.0.0 dynocaptchas.com
 0.0.0.0 dynoclick.gg
 0.0.0.0 dynos.gg
 0.0.0.0 dynos.info
@@ -7253,6 +7271,7 @@
 0.0.0.0 gife-discorde.com
 0.0.0.0 giflstdilscowr.com
 0.0.0.0 giflstdilscowr.link
+0.0.0.0 gifltdilscora.com
 0.0.0.0 gifltdilscord.com
 0.0.0.0 gifltdilscorf.com
 0.0.0.0 gifltdilscori.com
@@ -7711,6 +7730,7 @@
 0.0.0.0 hypescontest.com
 0.0.0.0 hypesforms-login.com
 0.0.0.0 hypesqaudevents-mod.com
+0.0.0.0 hypesquaad.ml
 0.0.0.0 hypesquad-2022-formulary.com
 0.0.0.0 hypesquad-2022.com
 0.0.0.0 hypesquad-2022.ga
@@ -11127,6 +11147,7 @@
 0.0.0.0 robloxbing.com
 0.0.0.0 robloxdownload.org
 0.0.0.0 robloxgamecode.com
+0.0.0.0 robloxgi.com
 0.0.0.0 robloxgiftcardz.com
 0.0.0.0 robloxi-sites.com
 0.0.0.0 robloxi.com.de
@@ -12184,6 +12205,7 @@
 0.0.0.0 staff-moderators-academy.com
 0.0.0.0 staffapps-discord.xyz
 0.0.0.0 staffcertified-examacademy.com
+0.0.0.0 staisticdiscord.com
 0.0.0.0 stake-drop.com
 0.0.0.0 stamcommunity.ru
 0.0.0.0 stamcommunnity.com
@@ -13371,6 +13393,7 @@
 0.0.0.0 steamcommunity.vov.ru
 0.0.0.0 steamcommunity.xyz
 0.0.0.0 steamcommunity1.com
+0.0.0.0 steamcommunity578080.asia
 0.0.0.0 steamcommunity9008216.asia
 0.0.0.0 steamcommunitya.com
 0.0.0.0 steamcommunitya.ru
@@ -13725,6 +13748,7 @@
 0.0.0.0 steamcommunityziec.top
 0.0.0.0 steamcommunityziex.top
 0.0.0.0 steamcommunityzikr.top
+0.0.0.0 steamcommunityzio.asia
 0.0.0.0 steamcommunityzio.club
 0.0.0.0 steamcommunityzio.cn
 0.0.0.0 steamcommunityzioc.top
@@ -13736,6 +13760,7 @@
 0.0.0.0 steamcommunityzivw.top
 0.0.0.0 steamcommunityzivx.top
 0.0.0.0 steamcommunityzivz.top
+0.0.0.0 steamcommunityziw.asia
 0.0.0.0 steamcommunityzix.club
 0.0.0.0 steamcommunityzixm.top
 0.0.0.0 steamcommunityzixn.top
@@ -14091,6 +14116,7 @@
 0.0.0.0 steamcommutyniu.com
 0.0.0.0 steamcommutyniy.com
 0.0.0.0 steamcommuuity.net.ru
+0.0.0.0 steamcommuuity.ru
 0.0.0.0 steamcommuulty.com
 0.0.0.0 steamcommuulty.ru
 0.0.0.0 steamcommuunilty.com
@@ -14122,6 +14148,7 @@
 0.0.0.0 steamcommuunnity.online
 0.0.0.0 steamcommuunnity.ru
 0.0.0.0 steamcommuuntiy.com
+0.0.0.0 steamcommuuntiy.ru
 0.0.0.0 steamcommuunty.ru
 0.0.0.0 steamcommuunuty.ru
 0.0.0.0 steamcommuunutyi.ru
@@ -15047,6 +15074,7 @@
 0.0.0.0 steamecomumnity.com
 0.0.0.0 steamecomunity.com.ru
 0.0.0.0 steamecomunnity.com
+0.0.0.0 steamecomunnity.ru
 0.0.0.0 steamecoommunity.online
 0.0.0.0 steamecoommunity.ru
 0.0.0.0 steameder.online
@@ -15517,6 +15545,7 @@
 0.0.0.0 steamscommunity.shop
 0.0.0.0 steamscommunlity.com
 0.0.0.0 steamscommunlty.com
+0.0.0.0 steamscommunnity.ru
 0.0.0.0 steamscommunty.online
 0.0.0.0 steamscommunty.ru
 0.0.0.0 steamscommynitu.co
@@ -16693,6 +16722,7 @@
 0.0.0.0 stemacommuinty.com
 0.0.0.0 stemacommunity.com
 0.0.0.0 stemacommunity.net
+0.0.0.0 stemacommunity.ru
 0.0.0.0 stemacommunlty.com
 0.0.0.0 stemacomunity.com
 0.0.0.0 stemadrop.gq
@@ -18045,6 +18075,7 @@
 0.0.0.0 vvvvv-roblox.com
 0.0.0.0 vvvvvw-roblox.com
 0.0.0.0 vvvvw-roblox.com
+0.0.0.0 vvvvww-roblox.com
 0.0.0.0 vvvw-robiox.com
 0.0.0.0 vvvw-roblox.com
 0.0.0.0 vvwvv-roblox-com.cf
@@ -18205,6 +18236,7 @@
 0.0.0.0 wwwvww-roblox.com
 0.0.0.0 wwww-robiox.com
 0.0.0.0 wwwwv-roblox.com
+0.0.0.0 wwx-roblox.cf
 0.0.0.0 wwx-roblox.com
 0.0.0.0 wwzv-roblox.com
 0.0.0.0 wwzw-robloxs.com
