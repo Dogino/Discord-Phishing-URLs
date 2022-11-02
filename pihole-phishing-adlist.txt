@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Tue, 25 Oct 2022, 13:42 UTC+02
+# Last modified: Wed, 02 Nov 2022, 13:31 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -56,6 +56,7 @@
 0.0.0.0 4discord.net
 0.0.0.0 4gameranking.com
 0.0.0.0 50checkingyourtraffic.com
+0.0.0.0 5esportspro.org
 0.0.0.0 765611990581412.asia
 0.0.0.0 7dgw.com
 0.0.0.0 99box.com
@@ -232,6 +233,7 @@
 0.0.0.0 akamaid.net
 0.0.0.0 akatori.fun
 0.0.0.0 akatorigame.xyz
+0.0.0.0 akk61982010102.asia
 0.0.0.0 aladel.net
 0.0.0.0 alex-nv.ru
 0.0.0.0 alexandrkost.ru
@@ -692,6 +694,7 @@
 0.0.0.0 beta-discord.com
 0.0.0.0 beta-discord.net
 0.0.0.0 beta-discordapp.ml
+0.0.0.0 beta-dlscord.com
 0.0.0.0 beta-hypesquad.com
 0.0.0.0 beta-invitation.app
 0.0.0.0 beta-invite.app
@@ -707,6 +710,7 @@
 0.0.0.0 beta.discorder.app
 0.0.0.0 betadiscord-new.com
 0.0.0.0 betadiscord-news.com
+0.0.0.0 betadiscord-news.uk
 0.0.0.0 betadiscord.com
 0.0.0.0 betadiscord.info
 0.0.0.0 betainvite.app
@@ -722,6 +726,7 @@
 0.0.0.0 between-events.ga
 0.0.0.0 between-events.gq
 0.0.0.0 between-events.ml
+0.0.0.0 bicurdex.com
 0.0.0.0 bielyelfy.top
 0.0.0.0 bielylify.top
 0.0.0.0 bielyliy.top
@@ -931,6 +936,7 @@
 0.0.0.0 catbeardx.com
 0.0.0.0 cave-nitro.com
 0.0.0.0 cbccke.co
+0.0.0.0 ccgorun.site
 0.0.0.0 cd-dvd-brennen.de
 0.0.0.0 cdn.dicsord.uk
 0.0.0.0 cdn.ymaws.com
@@ -955,6 +961,7 @@
 0.0.0.0 certifiedmoderating-exam.com
 0.0.0.0 certifieds-employee-exam.school
 0.0.0.0 ceters.net
+0.0.0.0 cexdaotrade.com
 0.0.0.0 cfastin1.ru
 0.0.0.0 cfxxfwzx.com
 0.0.0.0 cgdc.ct8.pl
@@ -981,6 +988,7 @@
 0.0.0.0 claim-hypesquad.com
 0.0.0.0 claim-hypesquad.ga
 0.0.0.0 claim-hypesquad.gq
+0.0.0.0 claim-hypixel.gift
 0.0.0.0 claim-your-nitro.com
 0.0.0.0 claim.discordchristmas.com
 0.0.0.0 claim.robuxat.com
@@ -1048,7 +1056,9 @@
 0.0.0.0 coleryujgdq345678hfdh.xyz
 0.0.0.0 com-id-k4tushatwitchbabydota.ru
 0.0.0.0 com-id-wexqshaaasse.ru
+0.0.0.0 com-lottery.club
 0.0.0.0 com-profiles-mellenouz.trade
+0.0.0.0 com-robux.club
 0.0.0.0 com-steampowered.com
 0.0.0.0 combestskins.org.ru
 0.0.0.0 comdicsord.net
@@ -1239,6 +1249,7 @@
 0.0.0.0 cs-esports.link
 0.0.0.0 cs-exeword.xyz
 0.0.0.0 cs-incursed.xyz
+0.0.0.0 cs-joom.net.ru
 0.0.0.0 cs-legend.xyz
 0.0.0.0 cs-logiin.money
 0.0.0.0 cs-loginx.money
@@ -1252,6 +1263,7 @@
 0.0.0.0 cs500go.com
 0.0.0.0 cscasenitro.ru
 0.0.0.0 cschecker.ru
+0.0.0.0 cscybersport.ru
 0.0.0.0 csdrop.live
 0.0.0.0 csfun.fun
 0.0.0.0 csfun.xyz
@@ -1282,6 +1294,7 @@
 0.0.0.0 csgo-store-steam.ru
 0.0.0.0 csgo-storesteam.ru
 0.0.0.0 csgo-top.xyz
+0.0.0.0 csgo-twich.com
 0.0.0.0 csgo-win.ru
 0.0.0.0 csgo.ghservers.cl
 0.0.0.0 csgo4cases.fun
@@ -1308,6 +1321,7 @@
 0.0.0.0 csgogf07.xyz
 0.0.0.0 csgogift45.xyz
 0.0.0.0 csgogift47.xyz
+0.0.0.0 csgohighladder.com
 0.0.0.0 csgoleague.ga
 0.0.0.0 csgomamba.ru
 0.0.0.0 csgomatch.xyz
@@ -1366,9 +1380,11 @@
 0.0.0.0 cybercsgotour.ru
 0.0.0.0 cyberegocscom.ru
 0.0.0.0 cyberh1.xyz
+0.0.0.0 cybermesh.live
 0.0.0.0 cyberspoort.site
 0.0.0.0 cybersport.site
 0.0.0.0 cybersportnitnitro.ru
+0.0.0.0 cybertec.live
 0.0.0.0 cyberturnament.xyz
 0.0.0.0 cyneheard-fau.com
 0.0.0.0 d-giftnitro.com
@@ -1417,6 +1433,7 @@
 0.0.0.0 dcmoderatorteam.com
 0.0.0.0 dcoda.net
 0.0.0.0 dcordgift.xyz
+0.0.0.0 dcsnltrogivaevay.ru
 0.0.0.0 dcsorde-drops.gq
 0.0.0.0 dcsordse-drops.gq
 0.0.0.0 dddiscord.com
@@ -1517,6 +1534,7 @@
 0.0.0.0 dicrods.ru
 0.0.0.0 dicscorcl.com.ru
 0.0.0.0 dicscordapp.com
+0.0.0.0 dicsfre.site
 0.0.0.0 dicso-drop.gq
 0.0.0.0 dicsocrd.com
 0.0.0.0 dicsodr-me.gq
@@ -1553,6 +1571,7 @@
 0.0.0.0 dicsord-gift.com
 0.0.0.0 dicsord-gift.ru
 0.0.0.0 dicsord-gift.ru.com
+0.0.0.0 dicsord-gift.shop
 0.0.0.0 dicsord-gift.site
 0.0.0.0 dicsord-gifte.ru
 0.0.0.0 dicsord-gifte.ru.com
@@ -1600,6 +1619,7 @@
 0.0.0.0 dicsord-qq.ru
 0.0.0.0 dicsord-ru.online
 0.0.0.0 dicsord-ru.ru
+0.0.0.0 dicsord-s.com
 0.0.0.0 dicsord-show.com
 0.0.0.0 dicsord-steamgift.com
 0.0.0.0 dicsord-steamnitro.ru
@@ -1635,6 +1655,7 @@
 0.0.0.0 dicsord.xyz
 0.0.0.0 dicsordapp.co
 0.0.0.0 dicsordapp.com
+0.0.0.0 dicsordapp.net
 0.0.0.0 dicsordapp.ru
 0.0.0.0 dicsordapp.xyz
 0.0.0.0 dicsordautumn.com
@@ -1654,6 +1675,7 @@
 0.0.0.0 dicsordgifted.ru
 0.0.0.0 dicsordgifting.xyz
 0.0.0.0 dicsordgifto.gq
+0.0.0.0 dicsordgifts.com
 0.0.0.0 dicsordgifts.one
 0.0.0.0 dicsordgifts.ru
 0.0.0.0 dicsordgifts.ru.com
@@ -3464,6 +3486,7 @@
 0.0.0.0 discord.glfte.com
 0.0.0.0 discord.gorgias.help
 0.0.0.0 discord.gq
+0.0.0.0 discord.gr.com
 0.0.0.0 discord.helpcenter.io
 0.0.0.0 discord.holiday
 0.0.0.0 discord.homes
@@ -3534,6 +3557,7 @@
 0.0.0.0 discord.wine
 0.0.0.0 discord.works
 0.0.0.0 discord.world
+0.0.0.0 discord.za.com
 0.0.0.0 discord00.com
 0.0.0.0 discord1-nitr0.xyz
 0.0.0.0 discord101.com
@@ -5108,6 +5132,7 @@
 0.0.0.0 discrod-free-nitro.com
 0.0.0.0 discrod-free.shop
 0.0.0.0 discrod-full.xyz
+0.0.0.0 discrod-gg.com
 0.0.0.0 discrod-gg.ru
 0.0.0.0 discrod-gift.com
 0.0.0.0 discrod-gift.net.ru
@@ -5130,6 +5155,7 @@
 0.0.0.0 discrod-glfts.com
 0.0.0.0 discrod-go.ru
 0.0.0.0 discrod-loot.ru
+0.0.0.0 discrod-n.com
 0.0.0.0 discrod-nitra.com
 0.0.0.0 discrod-nitro-boost.xyz
 0.0.0.0 discrod-nitro-giveaway.xyz
@@ -5168,9 +5194,11 @@
 0.0.0.0 discrode.club
 0.0.0.0 discrode.com
 0.0.0.0 discrode.gift
+0.0.0.0 discrodgift.com
 0.0.0.0 discrodgift.xyz
 0.0.0.0 discrodgiveaway.ru
 0.0.0.0 discrodl.gifts
+0.0.0.0 discrodmore.com
 0.0.0.0 discrodnitro-free.com
 0.0.0.0 discrodnitro.com
 0.0.0.0 discrodnitro.fun
@@ -5684,6 +5712,7 @@
 0.0.0.0 dlscord-apps.space
 0.0.0.0 dlscord-apps.su
 0.0.0.0 dlscord-apps.xyz
+0.0.0.0 dlscord-beta.com
 0.0.0.0 dlscord-boost.com
 0.0.0.0 dlscord-boost.fun
 0.0.0.0 dlscord-cc.com
@@ -5831,6 +5860,7 @@
 0.0.0.0 dlscord-nt.com
 0.0.0.0 dlscord-online.ru
 0.0.0.0 dlscord-partners.com
+0.0.0.0 dlscord-premium.com
 0.0.0.0 dlscord-promo.com
 0.0.0.0 dlscord-promo.xyz
 0.0.0.0 dlscord-s.co
@@ -5934,6 +5964,7 @@
 0.0.0.0 dlscordapps.ru
 0.0.0.0 dlscordapps.site
 0.0.0.0 dlscordb.com
+0.0.0.0 dlscordbasic.com
 0.0.0.0 dlscordc.com
 0.0.0.0 dlscordc.icu
 0.0.0.0 dlscordcollabsteam.com
@@ -6168,6 +6199,7 @@
 0.0.0.0 dlsscord-gift.com
 0.0.0.0 dlvscord.xyz
 0.0.0.0 dmarkef.com
+0.0.0.0 dmarketskins.com
 0.0.0.0 dmdiscord.com
 0.0.0.0 dnitro-premium.xyz
 0.0.0.0 dnitro-steam.com
@@ -6273,6 +6305,7 @@
 0.0.0.0 dscd-nitro.ru
 0.0.0.0 dschecks.com
 0.0.0.0 dsciord.com
+0.0.0.0 dscnltrogiwaevay.ru
 0.0.0.0 dscocrd.com
 0.0.0.0 dscord-generaot.store
 0.0.0.0 dscord-gif.xyz
@@ -6340,6 +6373,7 @@
 0.0.0.0 dtscord.com
 0.0.0.0 duckfed.com
 0.0.0.0 duiscord.com
+0.0.0.0 dungeonlegends.ru
 0.0.0.0 duscord.com
 0.0.0.0 duscord.ga
 0.0.0.0 duscord.js.org
@@ -6399,6 +6433,7 @@
 0.0.0.0 dynobot.com
 0.0.0.0 dynobot.dev
 0.0.0.0 dynobot.eu
+0.0.0.0 dynobot.fun
 0.0.0.0 dynobot.gg
 0.0.0.0 dynobot.io
 0.0.0.0 dynobot.link
@@ -6457,6 +6492,7 @@
 0.0.0.0 dynotool.org
 0.0.0.0 dynotools.app
 0.0.0.0 dynotools.cam
+0.0.0.0 dynotools.click
 0.0.0.0 dynotools.dev
 0.0.0.0 dynotools.ink
 0.0.0.0 dynotools.one
@@ -6595,6 +6631,7 @@
 0.0.0.0 eqdiscord.com
 0.0.0.0 eraoflegends.com
 0.0.0.0 esc-harts.ru
+0.0.0.0 esl-csgo.com
 0.0.0.0 esl-gamingcs.com
 0.0.0.0 esl-giveaway.com
 0.0.0.0 esl-proleague.net
@@ -6679,6 +6716,7 @@
 0.0.0.0 events.dlscord.click
 0.0.0.0 events.formulary-invite.dev
 0.0.0.0 eventsdiscord.com
+0.0.0.0 eventsfor-hypesq.gq
 0.0.0.0 eventshype-forms.com
 0.0.0.0 eventshype-forms.gq
 0.0.0.0 eventshypesquad-team.com
@@ -6797,8 +6835,10 @@
 0.0.0.0 fathlesschilddemonic.ga
 0.0.0.0 fattykettleinexpedient.com
 0.0.0.0 faxnews.ru
+0.0.0.0 faze9.com
 0.0.0.0 fazeclan.club
 0.0.0.0 fazeclan.company
+0.0.0.0 fazegift.net
 0.0.0.0 fdgdfgdf.space
 0.0.0.0 fdiscord.com
 0.0.0.0 featu.re
@@ -7182,6 +7222,7 @@
 0.0.0.0 frdiscord.com
 0.0.0.0 fredis-nitro.gq
 0.0.0.0 fredis.pro
+0.0.0.0 free-dirscord-nitro.com
 0.0.0.0 free-discord-gifts.com
 0.0.0.0 free-discord-giftsdiiscord-nitro.com
 0.0.0.0 free-discord-nitro.com
@@ -7284,6 +7325,7 @@
 0.0.0.0 freenitros.tk
 0.0.0.0 freenitrosgift.xyz
 0.0.0.0 freenitrosgifting.xyz
+0.0.0.0 freenitrowithsteam.xyz
 0.0.0.0 freenlitro.com
 0.0.0.0 freenltro.ru
 0.0.0.0 freerobloxgenerator.tk
@@ -7304,6 +7346,7 @@
 0.0.0.0 fullnltro.com
 0.0.0.0 fundr0peur.space
 0.0.0.0 fungameapp.ru
+0.0.0.0 fuovi.com
 0.0.0.0 furry.surf
 0.0.0.0 fustcup.ru
 0.0.0.0 futureswap.space
@@ -7347,6 +7390,7 @@
 0.0.0.0 gamespol.net.ru
 0.0.0.0 gamestorez.ru
 0.0.0.0 gamex.codes
+0.0.0.0 gamillionaire.com
 0.0.0.0 gamivos.com
 0.0.0.0 gamletaarnhuset.no
 0.0.0.0 gams-toph.xyz
@@ -7369,6 +7413,7 @@
 0.0.0.0 genrates.xyz
 0.0.0.0 genshindiscord.com
 0.0.0.0 gercanpack.ru
+0.0.0.0 gerycommunityoffer.cfd
 0.0.0.0 gesas.it
 0.0.0.0 get-3month.com
 0.0.0.0 get-access.dev
@@ -7396,6 +7441,8 @@
 0.0.0.0 get-nitro.online
 0.0.0.0 get-nitro.org
 0.0.0.0 get-nitro.xyz
+0.0.0.0 get-nitrogift.com
+0.0.0.0 get-premiumgift.com
 0.0.0.0 get-premiums.com
 0.0.0.0 get-users-beta.ml
 0.0.0.0 get19dragos.club
@@ -7411,6 +7458,7 @@
 0.0.0.0 getnitrogen.org
 0.0.0.0 getnltro.com
 0.0.0.0 getoiu.com
+0.0.0.0 getpromonitro3.ink
 0.0.0.0 getpsc.pl
 0.0.0.0 getskins.monster
 0.0.0.0 getsteamdeck.com
@@ -7419,6 +7467,7 @@
 0.0.0.0 getunitroni.com
 0.0.0.0 getviplocals1.com
 0.0.0.0 getvottak.com
+0.0.0.0 getyournitro3.one
 0.0.0.0 gfcsgo88.xyz
 0.0.0.0 gg-nitro.com
 0.0.0.0 gg.gg
@@ -7680,6 +7729,7 @@
 0.0.0.0 groupdiscord.com
 0.0.0.0 grouper-events.ga
 0.0.0.0 grouper-hypesquad.ga
+0.0.0.0 grouprulet.shop
 0.0.0.0 gsasggsasgagsa.herokuapp.com
 0.0.0.0 gsm-csb.ru
 0.0.0.0 guardian-angel.xyz
@@ -7733,6 +7783,8 @@
 0.0.0.0 horried.pro
 0.0.0.0 hosting-mfgstudio.tk
 0.0.0.0 hot-set.xyz
+0.0.0.0 hot00001102.asia
+0.0.0.0 hot00003501.asia
 0.0.0.0 hoteldiscord.com
 0.0.0.0 hotlady4you.com
 0.0.0.0 house-hypesquad.com
@@ -9297,6 +9349,7 @@
 0.0.0.0 lover-date.com
 0.0.0.0 loverfuck.com
 0.0.0.0 loves-discord.services
+0.0.0.0 lp3xc.site
 0.0.0.0 lpsteamcommunity.com
 0.0.0.0 lqcmg.xyz
 0.0.0.0 lsteamcommunity.com
@@ -9306,6 +9359,7 @@
 0.0.0.0 lubboost-nitro.shop
 0.0.0.0 lubitcoin.com
 0.0.0.0 lubuntu.net
+0.0.0.0 luck88200900021.asia
 0.0.0.0 lucky4wins.club
 0.0.0.0 luckycrush.ga
 0.0.0.0 luckydrop.site
@@ -9457,6 +9511,7 @@
 0.0.0.0 mir-kliparta.ru
 0.0.0.0 miserve-chanics.com
 0.0.0.0 mlglobby-tournaments.com
+0.0.0.0 mmc5209800115.asia
 0.0.0.0 mmosvc.com
 0.0.0.0 mobile-novinki.ru
 0.0.0.0 mod-academy-invite.com
@@ -9931,7 +9986,9 @@
 0.0.0.0 natustop.net.ru
 0.0.0.0 natusvincere.fan
 0.0.0.0 natusvincere.site
+0.0.0.0 natusvincere.su
 0.0.0.0 nav-s1.ru
+0.0.0.0 navi-22.com
 0.0.0.0 navi-case.com
 0.0.0.0 navi-case.ru
 0.0.0.0 navi-cases.com
@@ -9940,6 +9997,7 @@
 0.0.0.0 navi-drop.fun
 0.0.0.0 navi-drop.net
 0.0.0.0 navi-drop2020.com
+0.0.0.0 navi-drops.ru
 0.0.0.0 navi-esl.ru.com
 0.0.0.0 navi-eu.ru
 0.0.0.0 navi-freedrop.xyz
@@ -9947,6 +10005,7 @@
 0.0.0.0 navi-gift.com
 0.0.0.0 navi-give.net.ru
 0.0.0.0 navi-giveaway.net
+0.0.0.0 navi-giveaway.site
 0.0.0.0 navi-giveaway.xyz
 0.0.0.0 navi-hawai.net.ru
 0.0.0.0 navi-just.com
@@ -9961,9 +10020,13 @@
 0.0.0.0 navi-wins-skiins.org.ru
 0.0.0.0 navi.auction
 0.0.0.0 navi.cool
+0.0.0.0 navi.net.ru
 0.0.0.0 navi.pp.ru
+0.0.0.0 navi.quest
+0.0.0.0 navi.skin
 0.0.0.0 navi00.com
 0.0.0.0 navi10.com
+0.0.0.0 navi10.uno
 0.0.0.0 navi11.com
 0.0.0.0 navi12.com
 0.0.0.0 navi17.com
@@ -9972,30 +10035,44 @@
 0.0.0.0 navi2022.tech
 0.0.0.0 navi22.com
 0.0.0.0 navi25.com
+0.0.0.0 navi26.com
 0.0.0.0 navi27.com
 0.0.0.0 navi30.com
+0.0.0.0 navi31.com
 0.0.0.0 navi33.com
 0.0.0.0 navi40.com
+0.0.0.0 navi41.com
 0.0.0.0 navi44.com
 0.0.0.0 navi47.com
 0.0.0.0 navi51.com
+0.0.0.0 navi52.com
+0.0.0.0 navi54.com
 0.0.0.0 navi55.com
 0.0.0.0 navi57.com
 0.0.0.0 navi6.com
+0.0.0.0 navi6.net
 0.0.0.0 navi61.com
+0.0.0.0 navi66.com
+0.0.0.0 navi81.com
 0.0.0.0 navi82.com
 0.0.0.0 navi9.com
 0.0.0.0 navicase-2020.org.ru
 0.0.0.0 navicase-steam.com
+0.0.0.0 navicase.eu
 0.0.0.0 navicase.org
+0.0.0.0 navicase.space
+0.0.0.0 navicase.xyz
+0.0.0.0 navicasedrop.com
 0.0.0.0 navicese.pp.ua
 0.0.0.0 navicsgo.ru
+0.0.0.0 navidrop.pro
 0.0.0.0 naviez.ru
 0.0.0.0 navifreeskins.ru
 0.0.0.0 naviget.net.ru
 0.0.0.0 navigg.org.ru
 0.0.0.0 navigg.ru
 0.0.0.0 navigg1.ml
+0.0.0.0 navigive.space
 0.0.0.0 navigiveaway.xyz
 0.0.0.0 navigo.net.ru
 0.0.0.0 navileague.xyz
@@ -10009,6 +10086,9 @@
 0.0.0.0 navisteam.org.ru
 0.0.0.0 naviteam.net.ru
 0.0.0.0 navitop4.net.ru
+0.0.0.0 navivincere.com
+0.0.0.0 navivincere.info
+0.0.0.0 navivincere.org
 0.0.0.0 navy-freecases.ru
 0.0.0.0 nawaves.com
 0.0.0.0 nawibest.ru.com
@@ -10327,6 +10407,7 @@
 0.0.0.0 nitro.su
 0.0.0.0 nitro2022.com
 0.0.0.0 nitro3mounts.com
+0.0.0.0 nitro3mounts.live
 0.0.0.0 nitroagift.xyz
 0.0.0.0 nitroairdrop.com
 0.0.0.0 nitroappstore.com
@@ -10759,6 +10840,7 @@
 0.0.0.0 playaffix.net
 0.0.0.0 playboydiscord.com
 0.0.0.0 playcsgo-steam.ru
+0.0.0.0 player10000228.asia
 0.0.0.0 player78000419.asia
 0.0.0.0 players2gamers.ru
 0.0.0.0 playersauction.ru
@@ -10806,6 +10888,7 @@
 0.0.0.0 premium-discord.com
 0.0.0.0 premium-discords.com
 0.0.0.0 premium-disrcord.com
+0.0.0.0 premium-dlcsord.com
 0.0.0.0 premium-dnitro.com
 0.0.0.0 premium-ds.com
 0.0.0.0 premium-egift.com
@@ -11313,6 +11396,7 @@
 0.0.0.0 robiox-apps.com
 0.0.0.0 robiox-web.com
 0.0.0.0 robllox.com.de
+0.0.0.0 roblobx.cam
 0.0.0.0 roblonx.ga
 0.0.0.0 robloox.com.ng
 0.0.0.0 roblos.com
@@ -11345,6 +11429,7 @@
 0.0.0.0 roblox.com.ag
 0.0.0.0 roblox.com.ai
 0.0.0.0 roblox.com.am
+0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.ci
 0.0.0.0 roblox.com.cm
 0.0.0.0 roblox.com.do
@@ -11531,6 +11616,12 @@
 0.0.0.0 s-nitro.xyz
 0.0.0.0 s1cases.site
 0.0.0.0 s1cses.site
+0.0.0.0 s1mple-case.ru
+0.0.0.0 s1mple-live.ru
+0.0.0.0 s1mple-navi.com
+0.0.0.0 s1mple-stream.ru
+0.0.0.0 s1mple.skin
+0.0.0.0 s1mpleing.space
 0.0.0.0 sa-mcdonalds.com
 0.0.0.0 sadbutchi.work
 0.0.0.0 safe-funds.site
@@ -11708,6 +11799,7 @@
 0.0.0.0 sieamcommunity.net.ru
 0.0.0.0 sieamcommunity.org.ru
 0.0.0.0 sieamcommunlty.ru
+0.0.0.0 sieamcommuntty.ru
 0.0.0.0 sieamcomnunity.org.ru
 0.0.0.0 sig-nup-hypesquad.com
 0.0.0.0 sig-nup-hypesquads.com
@@ -11842,6 +11934,7 @@
 0.0.0.0 site-roblox.co
 0.0.0.0 site-roblox.com
 0.0.0.0 site-roblox.net
+0.0.0.0 site-roblox.xyz
 0.0.0.0 sitemap.onedrrive.com
 0.0.0.0 sitenitro-full.xyz
 0.0.0.0 sites-iroblox.com
@@ -12010,6 +12103,7 @@
 0.0.0.0 sleamcomnumity.com
 0.0.0.0 sleamcomnumunuty.com
 0.0.0.0 sleamcomnuniity.com.ru
+0.0.0.0 sleamcomnunilty.ru
 0.0.0.0 sleamcomnunilty.xyz
 0.0.0.0 sleamcomnunily.com
 0.0.0.0 sleamcomnunily.ru
@@ -12019,9 +12113,11 @@
 0.0.0.0 sleamcomnunity.ru
 0.0.0.0 sleamcomnunity.xyz
 0.0.0.0 sleamcomnunlty.ru
+0.0.0.0 sleamcomnunnity.ru
 0.0.0.0 sleamcomrnunity.com
 0.0.0.0 sleamcomrnunlty.xyz
 0.0.0.0 sleamcomulity.xyz
+0.0.0.0 sleamcomumnity.ru
 0.0.0.0 sleamcomuniitly.site
 0.0.0.0 sleamcomuniity.com
 0.0.0.0 sleamcomuninty.me
@@ -12172,6 +12268,7 @@
 0.0.0.0 sreamcommunity.com
 0.0.0.0 sreamcommunity.net.ru
 0.0.0.0 sreamcommunity.org.ru
+0.0.0.0 sreamcommunlty.ru
 0.0.0.0 sreamcommunty.com
 0.0.0.0 sreamcomnunlity.ru
 0.0.0.0 sreamcomnunllty.ru
@@ -12182,8 +12279,11 @@
 0.0.0.0 sreancomnunlty.ru
 0.0.0.0 sreemcommunlteus.net.ru
 0.0.0.0 sreemcommyniti.net.ru
+0.0.0.0 srtaemcomnunity.ru
+0.0.0.0 srteaamcomunlty.pp.ua
 0.0.0.0 srteamcommunitty.xyz
 0.0.0.0 srteamcommunity.xyz
+0.0.0.0 srteamconmunlty.xyz
 0.0.0.0 sseamcommuniitycom.xyz
 0.0.0.0 ssionsupre.fun
 0.0.0.0 sskins.space
@@ -12289,6 +12389,7 @@
 0.0.0.0 staemcommunite.ru
 0.0.0.0 staemcommunitee.xyz
 0.0.0.0 staemcommuniti.club
+0.0.0.0 staemcommuniti.com
 0.0.0.0 staemcommuniti.me
 0.0.0.0 staemcommuniti.net.ru
 0.0.0.0 staemcommunitivs.net.ru
@@ -12319,15 +12420,21 @@
 0.0.0.0 staemcommunitz.ru
 0.0.0.0 staemcommuniunity.com
 0.0.0.0 staemcommuniy.xyz
+0.0.0.0 staemcommunlity.net.ru
+0.0.0.0 staemcommunlity.org.ru
+0.0.0.0 staemcommunlity.pp.ru
 0.0.0.0 staemcommunlity.xyz
 0.0.0.0 staemcommunllty.ru
+0.0.0.0 staemcommunltly.ru
 0.0.0.0 staemcommunlty-nltro.ru
 0.0.0.0 staemcommunlty.com
+0.0.0.0 staemcommunlty.com.ru
 0.0.0.0 staemcommunlty.fun
 0.0.0.0 staemcommunlty.online
 0.0.0.0 staemcommunlty.pw
 0.0.0.0 staemcommunlty.ru
 0.0.0.0 staemcommunlty.shop
+0.0.0.0 staemcommunlty.xyz
 0.0.0.0 staemcommunltyy.com
 0.0.0.0 staemcommunnilty.com
 0.0.0.0 staemcommunninty.com
@@ -12392,6 +12499,8 @@
 0.0.0.0 staemcomrrunity.com
 0.0.0.0 staemcomumity.com
 0.0.0.0 staemcomunetys.ru.com
+0.0.0.0 staemcomunitlly.ru
+0.0.0.0 staemcomunitlly.xyz
 0.0.0.0 staemcomunitly.xyz
 0.0.0.0 staemcomunity.com
 0.0.0.0 staemcomunity.ru
@@ -12538,6 +12647,7 @@
 0.0.0.0 stay-notified.live
 0.0.0.0 staybitex.com
 0.0.0.0 stayempowered.org
+0.0.0.0 stcamcommunlty.com
 0.0.0.0 stceamcommunity.ru
 0.0.0.0 stcommunity.xyz
 0.0.0.0 ste-trade.ru.com
@@ -12868,6 +12978,7 @@
 0.0.0.0 steamcammunity.com
 0.0.0.0 steamcammunity.net
 0.0.0.0 steamcammunity.ru
+0.0.0.0 steamcammunity.site
 0.0.0.0 steamcammunity.top
 0.0.0.0 steamcammunity.xyz
 0.0.0.0 steamcammunltl.com
@@ -12894,6 +13005,7 @@
 0.0.0.0 steamcamnunity.ru
 0.0.0.0 steamcamnunlty.site
 0.0.0.0 steamcamnunnlty.com
+0.0.0.0 steamcamnunty.ru
 0.0.0.0 steamcamunite.com
 0.0.0.0 steamcamunitey.com
 0.0.0.0 steamcamuniti.online
@@ -12977,9 +13089,15 @@
 0.0.0.0 steamccommunnity.com
 0.0.0.0 steamccommunyty.ru
 0.0.0.0 steamccommutinny.ru.com
+0.0.0.0 steamccommyniity.net.ru
+0.0.0.0 steamccommyniity.org.ru
+0.0.0.0 steamccommyniity.pp.ru
 0.0.0.0 steamccommynity.net.ru
 0.0.0.0 steamccommynity.org.ru
 0.0.0.0 steamccommynity.pp.ru
+0.0.0.0 steamccommynlty.net.ru
+0.0.0.0 steamccommynlty.org.ru
+0.0.0.0 steamccommynlty.pp.ru
 0.0.0.0 steamccommyunity.com
 0.0.0.0 steamccomnmunilty.ru
 0.0.0.0 steamccomnmunity.ru
@@ -12995,6 +13113,9 @@
 0.0.0.0 steamccomunnity.org.ru
 0.0.0.0 steamccomunnity.pp.ru
 0.0.0.0 steamccomunnity.ru.com
+0.0.0.0 steamccomunnlty.net.ru
+0.0.0.0 steamccomunnlty.org.ru
+0.0.0.0 steamccomunnlty.pp.ru
 0.0.0.0 steamcconmmuunity.co
 0.0.0.0 steamcconmunity.xyz
 0.0.0.0 steamcconmuunity.co
@@ -13041,8 +13162,10 @@
 0.0.0.0 steamcommanity.ru
 0.0.0.0 steamcommaunity.com
 0.0.0.0 steamcommcunity.com
+0.0.0.0 steamcommcuntiy.com
 0.0.0.0 steamcommeneity.com
 0.0.0.0 steamcommeneity.ru
+0.0.0.0 steamcommenety.ru
 0.0.0.0 steamcommenity.com
 0.0.0.0 steamcommenity.ru
 0.0.0.0 steamcommenuity.ru
@@ -13069,6 +13192,7 @@
 0.0.0.0 steamcomminityy.ru
 0.0.0.0 steamcomminiy.online
 0.0.0.0 steamcomminiy.ru
+0.0.0.0 steamcomminlty.ru
 0.0.0.0 steamcomminnity.store
 0.0.0.0 steamcomminnty.com
 0.0.0.0 steamcomminnty.online
@@ -13167,11 +13291,13 @@
 0.0.0.0 steamcommnnunity.ru
 0.0.0.0 steamcommnnunnity.world
 0.0.0.0 steamcommnnynity.com
+0.0.0.0 steamcommnounity.com
 0.0.0.0 steamcommntiy.com
 0.0.0.0 steamcommntiy.ru
 0.0.0.0 steamcommntiy.xyz
 0.0.0.0 steamcommnuilty.com
 0.0.0.0 steamcommnuily.com
+0.0.0.0 steamcommnuinty.com
 0.0.0.0 steamcommnuinty.ru
 0.0.0.0 steamcommnuite.com
 0.0.0.0 steamcommnuite.ru
@@ -13200,6 +13326,7 @@
 0.0.0.0 steamcommnuninty.ru.com
 0.0.0.0 steamcommnunitlu.com
 0.0.0.0 steamcommnunittu.com
+0.0.0.0 steamcommnunitty.com
 0.0.0.0 steamcommnunitty.ru
 0.0.0.0 steamcommnunitu.com
 0.0.0.0 steamcommnunity.com
@@ -13211,6 +13338,7 @@
 0.0.0.0 steamcommnunity.ru.com
 0.0.0.0 steamcommnunity.site
 0.0.0.0 steamcommnunity.xyz
+0.0.0.0 steamcommnunlity.com
 0.0.0.0 steamcommnunlty.com
 0.0.0.0 steamcommnunlty.icu
 0.0.0.0 steamcommnunlty.ru
@@ -13235,8 +13363,10 @@
 0.0.0.0 steamcommnunyti.ru
 0.0.0.0 steamcommnunytl.com
 0.0.0.0 steamcommnunytl.ru
+0.0.0.0 steamcommnute.ru
 0.0.0.0 steamcommnuti.ru
 0.0.0.0 steamcommnutiny.ru
+0.0.0.0 steamcommnutity.com
 0.0.0.0 steamcommnutiy.com
 0.0.0.0 steamcommnutly.com
 0.0.0.0 steamcommnutly.com.ru
@@ -13256,12 +13386,14 @@
 0.0.0.0 steamcommonlty.ru
 0.0.0.0 steamcommonlty.site
 0.0.0.0 steamcommonnnity.ru.com
+0.0.0.0 steamcommonunity.com
 0.0.0.0 steamcommounity.com
 0.0.0.0 steamcommounity.ru
 0.0.0.0 steamcommqnity.com
 0.0.0.0 steamcommrinnity.ru
 0.0.0.0 steamcommrnunity.com
 0.0.0.0 steamcommrnunity.ru
+0.0.0.0 steamcommrrnlty.ru
 0.0.0.0 steamcommrunitly.com
 0.0.0.0 steamcommtity.com
 0.0.0.0 steamcommucnity.com
@@ -13342,9 +13474,11 @@
 0.0.0.0 steamcommumnity.com
 0.0.0.0 steamcommumnity.ru
 0.0.0.0 steamcommumnitys.com
+0.0.0.0 steamcommumnty.com
 0.0.0.0 steamcommumnty.store
 0.0.0.0 steamcommumtiy.com
 0.0.0.0 steamcommumty.ru
+0.0.0.0 steamcommunaitiy.com
 0.0.0.0 steamcommunaty.com
 0.0.0.0 steamcommunaty.ru
 0.0.0.0 steamcommuncity.top
@@ -13358,6 +13492,7 @@
 0.0.0.0 steamcommunely.ru
 0.0.0.0 steamcommuneteiy.com
 0.0.0.0 steamcommuneti.com
+0.0.0.0 steamcommuneti.ru
 0.0.0.0 steamcommunetiy.com
 0.0.0.0 steamcommunetiy.ru
 0.0.0.0 steamcommunetiyi.com
@@ -13405,6 +13540,7 @@
 0.0.0.0 steamcommuniiti.gq
 0.0.0.0 steamcommuniitly.com
 0.0.0.0 steamcommuniitty.com
+0.0.0.0 steamcommuniitty.ru
 0.0.0.0 steamcommuniitty.space
 0.0.0.0 steamcommuniitu.com
 0.0.0.0 steamcommuniitu.site
@@ -14070,10 +14206,16 @@
 0.0.0.0 steamcommunitywi.top
 0.0.0.0 steamcommunitywie.top
 0.0.0.0 steamcommunitywii.asia
+0.0.0.0 steamcommunitywik.asia
+0.0.0.0 steamcommunitywil.asia
+0.0.0.0 steamcommunitywin.asia
 0.0.0.0 steamcommunitywin.top
 0.0.0.0 steamcommunitywio.asia
+0.0.0.0 steamcommunitywir.asia
 0.0.0.0 steamcommunitywiu.asia
+0.0.0.0 steamcommunitywiv.asia
 0.0.0.0 steamcommunitywiv.top
+0.0.0.0 steamcommunitywix.asia
 0.0.0.0 steamcommunitywk.top
 0.0.0.0 steamcommunitywork.com
 0.0.0.0 steamcommunitywork.ml
@@ -14236,6 +14378,8 @@
 0.0.0.0 steamcommunlitty.ru.com
 0.0.0.0 steamcommunlity.com
 0.0.0.0 steamcommunlity.net
+0.0.0.0 steamcommunlity.net.ru
+0.0.0.0 steamcommunlity.org.ru
 0.0.0.0 steamcommunlity.ru
 0.0.0.0 steamcommunlity.ru.com
 0.0.0.0 steamcommunlity.xyz
@@ -14309,6 +14453,7 @@
 0.0.0.0 steamcommunlty.top
 0.0.0.0 steamcommunlty.website
 0.0.0.0 steamcommunlty.xyz
+0.0.0.0 steamcommunltym.ru
 0.0.0.0 steamcommunltys.com
 0.0.0.0 steamcommunltys.ru
 0.0.0.0 steamcommunltyy.com
@@ -14320,6 +14465,7 @@
 0.0.0.0 steamcommunniity.com
 0.0.0.0 steamcommunniity.net
 0.0.0.0 steamcommunniity.space
+0.0.0.0 steamcommunnillty.com
 0.0.0.0 steamcommunnilty.com
 0.0.0.0 steamcommunnilty.ru
 0.0.0.0 steamcommunnilty.site
@@ -14401,6 +14547,7 @@
 0.0.0.0 steamcommuntity.com
 0.0.0.0 steamcommuntity.ru.com
 0.0.0.0 steamcommuntity.site
+0.0.0.0 steamcommuntiu.ru
 0.0.0.0 steamcommuntiu.ru.com
 0.0.0.0 steamcommuntiv.com
 0.0.0.0 steamcommuntiy.com
@@ -14412,6 +14559,7 @@
 0.0.0.0 steamcommuntliy.com
 0.0.0.0 steamcommuntliy.ru
 0.0.0.0 steamcommuntll.xyz
+0.0.0.0 steamcommuntlty.com
 0.0.0.0 steamcommuntly.com
 0.0.0.0 steamcommuntly.online
 0.0.0.0 steamcommuntly.ru
@@ -14463,6 +14611,7 @@
 0.0.0.0 steamcommunutiy.com
 0.0.0.0 steamcommunutry.com
 0.0.0.0 steamcommunutty.com
+0.0.0.0 steamcommunutty.online
 0.0.0.0 steamcommunutty.ru
 0.0.0.0 steamcommunutuy.com
 0.0.0.0 steamcommunuty.buzz
@@ -14544,6 +14693,7 @@
 0.0.0.0 steamcommuuity.ru
 0.0.0.0 steamcommuulty.com
 0.0.0.0 steamcommuulty.ru
+0.0.0.0 steamcommuumity.com
 0.0.0.0 steamcommuuniity.com
 0.0.0.0 steamcommuunilty.com
 0.0.0.0 steamcommuunilty.ru
@@ -14555,6 +14705,7 @@
 0.0.0.0 steamcommuunitly.ru
 0.0.0.0 steamcommuunitty.ru
 0.0.0.0 steamcommuunitty.ru.com
+0.0.0.0 steamcommuunity.co
 0.0.0.0 steamcommuunity.com
 0.0.0.0 steamcommuunity.net.ru
 0.0.0.0 steamcommuunity.pp.ru
@@ -14645,6 +14796,7 @@
 0.0.0.0 steamcommynnlty.org.ru
 0.0.0.0 steamcommynnlty.pp.ru
 0.0.0.0 steamcommynty.ru
+0.0.0.0 steamcommynuity.ru
 0.0.0.0 steamcommynuti.ru
 0.0.0.0 steamcommynutiy.com.ru
 0.0.0.0 steamcommynutiy.ru
@@ -14665,6 +14817,7 @@
 0.0.0.0 steamcommyunity.us
 0.0.0.0 steamcomnenity.ru.com
 0.0.0.0 steamcomninity.ru
+0.0.0.0 steamcomninly.ru
 0.0.0.0 steamcomninuty.ru.com
 0.0.0.0 steamcomninytiu.com
 0.0.0.0 steamcomnity.ru
@@ -14676,8 +14829,10 @@
 0.0.0.0 steamcomnmmunity.com
 0.0.0.0 steamcomnmmunity.ru.com
 0.0.0.0 steamcomnmnity.com
+0.0.0.0 steamcomnmnnity.com
 0.0.0.0 steamcomnmnunity.com
 0.0.0.0 steamcomnmnunlty.ru
+0.0.0.0 steamcomnmnunty.com
 0.0.0.0 steamcomnmnuty.ru
 0.0.0.0 steamcomnmrunity.ru
 0.0.0.0 steamcomnmufly.ru.com
@@ -14702,6 +14857,7 @@
 0.0.0.0 steamcomnmuntiy.ru.com
 0.0.0.0 steamcomnmunty.com
 0.0.0.0 steamcomnmunty.online
+0.0.0.0 steamcomnmunty.ru
 0.0.0.0 steamcomnmunuty.ru
 0.0.0.0 steamcomnmunyti.com
 0.0.0.0 steamcomnmunyti.ru
@@ -14719,6 +14875,7 @@
 0.0.0.0 steamcomnnmunity.com
 0.0.0.0 steamcomnnmunity.online
 0.0.0.0 steamcomnnmunity.ru
+0.0.0.0 steamcomnnmunty.com
 0.0.0.0 steamcomnnnunity.com
 0.0.0.0 steamcomnnnunity.ru
 0.0.0.0 steamcomnnnunlty.ru
@@ -14730,6 +14887,7 @@
 0.0.0.0 steamcomnnuniity.com
 0.0.0.0 steamcomnnuniity.ru
 0.0.0.0 steamcomnnunilty.com
+0.0.0.0 steamcomnnunilty.ru
 0.0.0.0 steamcomnnunily.ru
 0.0.0.0 steamcomnnuniti.ru
 0.0.0.0 steamcomnnunities.xyz
@@ -14801,6 +14959,8 @@
 0.0.0.0 steamcomnuniity.ru
 0.0.0.0 steamcomnuniity.xyz
 0.0.0.0 steamcomnunilty.com
+0.0.0.0 steamcomnunilty.ga
+0.0.0.0 steamcomnunilty.ml
 0.0.0.0 steamcomnunilty.ru.com
 0.0.0.0 steamcomnuninty.com
 0.0.0.0 steamcomnunite.xyz
@@ -14872,6 +15032,7 @@
 0.0.0.0 steamcomnunnlty.com
 0.0.0.0 steamcomnunnlty.ru
 0.0.0.0 steamcomnunnunity.com
+0.0.0.0 steamcomnunrty.com
 0.0.0.0 steamcomnuntiy.com
 0.0.0.0 steamcomnuntiyy.ru
 0.0.0.0 steamcomnuntly.com
@@ -14907,6 +15068,7 @@
 0.0.0.0 steamcomnynty.ru
 0.0.0.0 steamcomnyunity.com
 0.0.0.0 steamcomonity.com
+0.0.0.0 steamcomrmunity.com
 0.0.0.0 steamcomrmunity.com.ru
 0.0.0.0 steamcomrmunity.ru
 0.0.0.0 steamcomrmunity.ru.com
@@ -15117,8 +15279,12 @@
 0.0.0.0 steamcomuunity.com
 0.0.0.0 steamcomuunity.ru
 0.0.0.0 steamcomuunity.ru.com
+0.0.0.0 steamcomuunlty.net.ru
 0.0.0.0 steamcomuunlty.online
+0.0.0.0 steamcomuunlty.org.ru
+0.0.0.0 steamcomuunlty.pp.ru
 0.0.0.0 steamcomuunlty.ru
+0.0.0.0 steamcomuunty.com
 0.0.0.0 steamcomuunuty.ru
 0.0.0.0 steamcomyniti.ru
 0.0.0.0 steamcomyniti.xyz
@@ -15220,6 +15386,7 @@
 0.0.0.0 steamconmunlty.xyz
 0.0.0.0 steamconmunnitry.ru
 0.0.0.0 steamconmunnitty.ru
+0.0.0.0 steamconmunty.com
 0.0.0.0 steamconmunty.ru
 0.0.0.0 steamconmunumity.com
 0.0.0.0 steamconmununity.com
@@ -15230,6 +15397,7 @@
 0.0.0.0 steamconmutiny.ru
 0.0.0.0 steamconmynity.com
 0.0.0.0 steamconmynity.ru
+0.0.0.0 steamconmynuti.ru
 0.0.0.0 steamconnect.education
 0.0.0.0 steamconnity.ru
 0.0.0.0 steamconnmmunity.ru
@@ -15242,6 +15410,7 @@
 0.0.0.0 steamconnmuniity.ru
 0.0.0.0 steamconnmunily.ru
 0.0.0.0 steamconnmunitly.com
+0.0.0.0 steamconnmunitty.com
 0.0.0.0 steamconnmunitu.net.ru
 0.0.0.0 steamconnmunity.com
 0.0.0.0 steamconnmunity.com.ru
@@ -15283,6 +15452,7 @@
 0.0.0.0 steamconnunlty.ru
 0.0.0.0 steamconnunlty.site
 0.0.0.0 steamconnunnits.ru
+0.0.0.0 steamconnunuty.com
 0.0.0.0 steamconrmunity.ru
 0.0.0.0 steamconumity.ru
 0.0.0.0 steamconunity.cf
@@ -15312,6 +15482,8 @@
 0.0.0.0 steamcoommunllty.com
 0.0.0.0 steamcoommunlty.com
 0.0.0.0 steamcoommunlty.ru
+0.0.0.0 steamcoommunnity.com
+0.0.0.0 steamcoommunty.com
 0.0.0.0 steamcoommunty.ru
 0.0.0.0 steamcoommunuity.com
 0.0.0.0 steamcoommunuty.com
@@ -15374,6 +15546,7 @@
 0.0.0.0 steamcornmunite.com
 0.0.0.0 steamcornmuniti.xyz
 0.0.0.0 steamcornmunitly.ru
+0.0.0.0 steamcornmunitu.ru
 0.0.0.0 steamcornmunity.club
 0.0.0.0 steamcornmunity.com.ru
 0.0.0.0 steamcornmunity.fun
@@ -15464,6 +15637,7 @@
 0.0.0.0 steamcummunity.ru.com
 0.0.0.0 steamcummunity.xyz
 0.0.0.0 steamcummunityy.pp.ua
+0.0.0.0 steamcummunllty.com
 0.0.0.0 steamcummunlty.com
 0.0.0.0 steamcummunlty.ru
 0.0.0.0 steamcummunltys.com
@@ -15497,6 +15671,7 @@
 0.0.0.0 steamcumunity.ru
 0.0.0.0 steamcumunlty.ru
 0.0.0.0 steamcumunnity.com
+0.0.0.0 steamcunmunity.com
 0.0.0.0 steamcunmunity.ru
 0.0.0.0 steamcunmunity.xyz
 0.0.0.0 steamcunmunlty.ru
@@ -15678,6 +15853,7 @@
 0.0.0.0 steammcommnity.ru
 0.0.0.0 steammcommnuty.ru
 0.0.0.0 steammcommuinty.com
+0.0.0.0 steammcommuinty.ru
 0.0.0.0 steammcommuity.com
 0.0.0.0 steammcommuity.ru
 0.0.0.0 steammcommunety.com
@@ -15745,6 +15921,7 @@
 0.0.0.0 steammcomunlty.ru
 0.0.0.0 steammcomunlty.xyz
 0.0.0.0 steammcomunly.ru
+0.0.0.0 steammcomunnitty.ru
 0.0.0.0 steammcomunnity.com
 0.0.0.0 steammcomunnity.net.ru
 0.0.0.0 steammcomunnity.ru
@@ -15766,6 +15943,7 @@
 0.0.0.0 steammconmnity.ru
 0.0.0.0 steammconmunity.com
 0.0.0.0 steammconmunity.ru
+0.0.0.0 steammconmunuity.ru
 0.0.0.0 steammcoomunity.ru
 0.0.0.0 steammcornmunity.ru
 0.0.0.0 steammcounity.ru.com
@@ -15810,10 +15988,12 @@
 0.0.0.0 steamncommunlty.ru
 0.0.0.0 steamncommunnity.com
 0.0.0.0 steamncommunty.com
+0.0.0.0 steamncommunty.store
 0.0.0.0 steamncommunulty.com
 0.0.0.0 steamncommunuty.ru
 0.0.0.0 steamncommunytu.ru
 0.0.0.0 steamncommutiy.ru
+0.0.0.0 steamncommuunity.com
 0.0.0.0 steamncommuunniity.com
 0.0.0.0 steamncomnity.ru
 0.0.0.0 steamncomnmunity.com
@@ -15824,6 +16004,7 @@
 0.0.0.0 steamncomnunity.com
 0.0.0.0 steamncomnunity.ru
 0.0.0.0 steamncomnunlty.com.ru
+0.0.0.0 steamncomnuunity.com
 0.0.0.0 steamncomunitity.com
 0.0.0.0 steamncomunity.com
 0.0.0.0 steamncomunity.ru
@@ -15864,6 +16045,7 @@
 0.0.0.0 steamnpowered.com
 0.0.0.0 steamoccommunitly.com
 0.0.0.0 steamocmmunitly.com
+0.0.0.0 steamocmmunity.com
 0.0.0.0 steamocmmunity.me
 0.0.0.0 steamocommunity.com
 0.0.0.0 steamoffer-store.xyz
@@ -16053,6 +16235,7 @@
 0.0.0.0 steamscommmunity.com
 0.0.0.0 steamscommnunnity.com
 0.0.0.0 steamscommnunyti.com
+0.0.0.0 steamscommuniity.ru
 0.0.0.0 steamscommunilty.com
 0.0.0.0 steamscommunitey.com
 0.0.0.0 steamscommunitty.ru
@@ -16063,6 +16246,7 @@
 0.0.0.0 steamscommunity.shop
 0.0.0.0 steamscommunlity.com
 0.0.0.0 steamscommunlty.com
+0.0.0.0 steamscommunlty.ru
 0.0.0.0 steamscommunnity.ru
 0.0.0.0 steamscommunty.online
 0.0.0.0 steamscommunty.ru
@@ -16208,6 +16392,7 @@
 0.0.0.0 steancomminity.com
 0.0.0.0 steancomminity.ru
 0.0.0.0 steancomminuly.com
+0.0.0.0 steancomminutly.ru
 0.0.0.0 steancomminuty.cfd
 0.0.0.0 steancomminuty.ru
 0.0.0.0 steancomminuty.ru.com
@@ -16221,8 +16406,12 @@
 0.0.0.0 steancommmunity.com
 0.0.0.0 steancommnity.com
 0.0.0.0 steancommnnity.com
+0.0.0.0 steancommnuilty.online
+0.0.0.0 steancommnuilty.ru
 0.0.0.0 steancommnuitty.com
 0.0.0.0 steancommnuity.com
+0.0.0.0 steancommnulity.online
+0.0.0.0 steancommnulity.ru
 0.0.0.0 steancommnulty.com
 0.0.0.0 steancommnulty.ru
 0.0.0.0 steancommnunity.ru
@@ -16289,6 +16478,8 @@
 0.0.0.0 steancommunily.ru
 0.0.0.0 steancommunily.xyz
 0.0.0.0 steancommuninly.com
+0.0.0.0 steancommunintly.ru
+0.0.0.0 steancommuninty.ru
 0.0.0.0 steancommuniri.xyz
 0.0.0.0 steancommunite.com
 0.0.0.0 steancommunite.org
@@ -16396,6 +16587,7 @@
 0.0.0.0 steancommynutily.com
 0.0.0.0 steancommynyty.ru.com
 0.0.0.0 steancomnity.ru
+0.0.0.0 steancomnmunity.com
 0.0.0.0 steancomnmunity.ru
 0.0.0.0 steancomnmunity.ru.com
 0.0.0.0 steancomnmunlty.ru
@@ -16424,10 +16616,12 @@
 0.0.0.0 steancomnunity.ru
 0.0.0.0 steancomnunity.ru.com
 0.0.0.0 steancomnunity.xyz
+0.0.0.0 steancomnunityy.ru
 0.0.0.0 steancomnunllty.ru
 0.0.0.0 steancomnunlty.online
 0.0.0.0 steancomnunlty.ru
 0.0.0.0 steancomnunumity.com
+0.0.0.0 steancomnunutty.ru
 0.0.0.0 steancomnunuty.xyz
 0.0.0.0 steancomnunyti.ru.com
 0.0.0.0 steancomnunytu.ru
@@ -16473,6 +16667,7 @@
 0.0.0.0 steanconmnunity.com
 0.0.0.0 steanconmnunity.ru
 0.0.0.0 steanconmulinty.ru
+0.0.0.0 steanconmulnty.ru
 0.0.0.0 steanconmumity.com
 0.0.0.0 steanconmumlty.com
 0.0.0.0 steanconmuniity.ru
@@ -16480,6 +16675,7 @@
 0.0.0.0 steanconmunite.com
 0.0.0.0 steanconmunitiy.co
 0.0.0.0 steanconmunitly.ru
+0.0.0.0 steanconmunity.com
 0.0.0.0 steanconmunity.me
 0.0.0.0 steanconmunity.ru
 0.0.0.0 steanconmunity.xyz
@@ -16487,9 +16683,12 @@
 0.0.0.0 steanconmunlly.ru
 0.0.0.0 steanconmunlty.com
 0.0.0.0 steanconmunlty.ru
+0.0.0.0 steanconmunnity.com
+0.0.0.0 steanconmunuty.com
 0.0.0.0 steanconmunuty.ru
 0.0.0.0 steanconmunuty.xyz
 0.0.0.0 steanconmunyti.ru.com
+0.0.0.0 steanconnmunity.com
 0.0.0.0 steanconnunily.online
 0.0.0.0 steanconnunily.ru
 0.0.0.0 steanconnunity.com
@@ -16531,6 +16730,7 @@
 0.0.0.0 steancummynity.online
 0.0.0.0 steanecommunlty.site
 0.0.0.0 steanmcomminity.ru
+0.0.0.0 steanmcommnuty.ru
 0.0.0.0 steanmcommuinty.com
 0.0.0.0 steanmcommumity.com
 0.0.0.0 steanmcommunily.com
@@ -16542,17 +16742,22 @@
 0.0.0.0 steanmcommuniuty.ru.com
 0.0.0.0 steanmcommunlity.ru
 0.0.0.0 steanmcommunlty.ru
+0.0.0.0 steanmcommunuity.ru
 0.0.0.0 steanmcommynily.com
 0.0.0.0 steanmcommynituy.com
 0.0.0.0 steanmcommynity.ru
 0.0.0.0 steanmcommyuity.com
 0.0.0.0 steanmcommzunity.ru
+0.0.0.0 steanmcomniuty.com
 0.0.0.0 steanmcomnmunity.ru.com
+0.0.0.0 steanmcomnnity.com
 0.0.0.0 steanmcomnuinmty.com
 0.0.0.0 steanmcomnuity.com
 0.0.0.0 steanmcomnumnity.xyz
 0.0.0.0 steanmcomnumntiy.com
 0.0.0.0 steanmcomnumty.com
+0.0.0.0 steanmcomnunily.online
+0.0.0.0 steanmcomnunily.ru
 0.0.0.0 steanmcomnunitiy.com
 0.0.0.0 steanmcomnunity.com
 0.0.0.0 steanmcomnunity.ru
@@ -16585,6 +16790,8 @@
 0.0.0.0 steanmconynuiyty.org.ru
 0.0.0.0 steanmconynuytiy.net.ru
 0.0.0.0 steanmcoomunily.com
+0.0.0.0 steanmcoomunity.com
+0.0.0.0 steanmcovnnmunitv.shop
 0.0.0.0 steanmcummunity.com
 0.0.0.0 steanmmconynuiyty.net.ru
 0.0.0.0 steanmmconynuiyty.org.ru
@@ -16597,6 +16804,8 @@
 0.0.0.0 steanmnconnmunity.ru
 0.0.0.0 steanmnconnmunlty.online
 0.0.0.0 steanmnconnmunlty.ru
+0.0.0.0 steanmommuniry.online
+0.0.0.0 steanmommuniry.ru
 0.0.0.0 steanmommunity.ru
 0.0.0.0 steanncammunlte.com
 0.0.0.0 steanncammunlte.ru
@@ -16612,6 +16821,7 @@
 0.0.0.0 steanncommunety.ru
 0.0.0.0 steanncommuniity.com
 0.0.0.0 steanncommunily.com
+0.0.0.0 steanncommunily.online
 0.0.0.0 steanncommunily.xyz
 0.0.0.0 steanncommunitty.ru
 0.0.0.0 steanncommunitu.ru
@@ -16653,6 +16863,7 @@
 0.0.0.0 steanncomunitly.ru.com
 0.0.0.0 steanncomunitty.site
 0.0.0.0 steanncomunity.com
+0.0.0.0 steanncomunity.online
 0.0.0.0 steanncomunity.ru.com
 0.0.0.0 steanncomunnity.ru
 0.0.0.0 steannconmnnunity.site
@@ -16677,6 +16888,7 @@
 0.0.0.0 steanpowered.xyz
 0.0.0.0 steanrcommunitiy.com
 0.0.0.0 steanrcommunity.xyz
+0.0.0.0 steansomnunity.site
 0.0.0.0 steapowered.com
 0.0.0.0 steappowered.com
 0.0.0.0 steaqmcharts.com
@@ -16684,6 +16896,7 @@
 0.0.0.0 stearamcomnunitu.xyz
 0.0.0.0 stearcannunity.site
 0.0.0.0 stearcnommunity.xyz
+0.0.0.0 stearcommnulty.ru
 0.0.0.0 stearcommuity.com
 0.0.0.0 stearcommunitly.com
 0.0.0.0 stearcommunity.ru
@@ -16720,6 +16933,9 @@
 0.0.0.0 stearmcommuunity.ru.com
 0.0.0.0 stearmcommuunnity.ru
 0.0.0.0 stearmcommynity.fun
+0.0.0.0 stearmcomnuninty.com
+0.0.0.0 stearmcomnunitty.com
+0.0.0.0 stearmcomnunity.com
 0.0.0.0 stearmcomnuntiy.ru
 0.0.0.0 stearmcomrmunity.com
 0.0.0.0 stearmcomrnuniity.com
@@ -16730,6 +16946,7 @@
 0.0.0.0 stearmconmunity.ru
 0.0.0.0 stearmconmunnity.com
 0.0.0.0 stearmconnrnunity.com
+0.0.0.0 stearmcormmnuity.com
 0.0.0.0 stearmcormmunityi.com
 0.0.0.0 stearmcornmuniity.com
 0.0.0.0 stearmcornmunitiy.com
@@ -16742,6 +16959,7 @@
 0.0.0.0 stearmmcomunitty.ru
 0.0.0.0 stearmmcomunity.ru
 0.0.0.0 stearmmcomuunity.ru
+0.0.0.0 stearmmconmnnity.com
 0.0.0.0 stearncommcunity.com
 0.0.0.0 stearncommiinty.com.ru
 0.0.0.0 stearncomminhty.com
@@ -16778,6 +16996,7 @@
 0.0.0.0 stearncommnniuty.com
 0.0.0.0 stearncommntiy.ru
 0.0.0.0 stearncommnuinty.com
+0.0.0.0 stearncommnuity.ru
 0.0.0.0 stearncommnulty.com
 0.0.0.0 stearncommnunity.com
 0.0.0.0 stearncommnunity.com.ru
@@ -16831,6 +17050,7 @@
 0.0.0.0 stearncommunitg.ru
 0.0.0.0 stearncommuniti.me
 0.0.0.0 stearncommunitly.com
+0.0.0.0 stearncommunitly.ru
 0.0.0.0 stearncommunitly.xyz
 0.0.0.0 stearncommunitn.ru
 0.0.0.0 stearncommunitq.ru
@@ -16865,6 +17085,7 @@
 0.0.0.0 stearncommunjty.com
 0.0.0.0 stearncommunlity.com
 0.0.0.0 stearncommunlity.store
+0.0.0.0 stearncommunllty.com
 0.0.0.0 stearncommunlty.com.ru
 0.0.0.0 stearncommunlty.fun
 0.0.0.0 stearncommunlty.host
@@ -16912,6 +17133,7 @@
 0.0.0.0 stearncomnrnunity.com.ru
 0.0.0.0 stearncomnumity.com
 0.0.0.0 stearncomnunily.com
+0.0.0.0 stearncomnunitly.ru
 0.0.0.0 stearncomnunitu.ru
 0.0.0.0 stearncomnunitv.ru.com
 0.0.0.0 stearncomnunity.com
@@ -16988,6 +17210,7 @@
 0.0.0.0 stearncornmumity.ru
 0.0.0.0 stearncornmunitiy.com
 0.0.0.0 stearncornmunitly.com
+0.0.0.0 stearncornmunity.cfd
 0.0.0.0 stearncornmunity.com
 0.0.0.0 stearncornmunity.com.ru
 0.0.0.0 stearncornmunity.ml
@@ -17055,6 +17278,7 @@
 0.0.0.0 steatcommunity.com
 0.0.0.0 steatncomnumity.ru
 0.0.0.0 steavcommunitv.xyz
+0.0.0.0 steavmcommuacity.ru
 0.0.0.0 steavmcommunity.ru
 0.0.0.0 steavvcommunnity.xyz
 0.0.0.0 steawcommmunity.xyz
@@ -17302,6 +17526,7 @@
 0.0.0.0 stemacommunity.net
 0.0.0.0 stemacommunity.ru
 0.0.0.0 stemacommunlty.com
+0.0.0.0 stemacomnunity.com
 0.0.0.0 stemacomunity.com
 0.0.0.0 stemadrop.gq
 0.0.0.0 stemapowered.com
@@ -17418,6 +17643,7 @@
 0.0.0.0 stemcomnunity.ru
 0.0.0.0 stemcomnunity.ru.com
 0.0.0.0 stemcomnunyti.ru.com
+0.0.0.0 stemcomnuyity.ru
 0.0.0.0 stemcomrnmunity.com
 0.0.0.0 stemcomrnuniity.xyz
 0.0.0.0 stemcomrnunity.xyz
@@ -17432,6 +17658,7 @@
 0.0.0.0 stemcomunity.net
 0.0.0.0 stemcomunity.ru.com
 0.0.0.0 stemcomunnity.com
+0.0.0.0 stemcomunnity.ru
 0.0.0.0 stemcomunnity.ru.com
 0.0.0.0 stemconmmnunity.com
 0.0.0.0 stemconmmunity.com
@@ -17442,6 +17669,8 @@
 0.0.0.0 stemconmuite.xyz
 0.0.0.0 stemconmumity.ru
 0.0.0.0 stemconmunity.com
+0.0.0.0 stemconmunity.ru
+0.0.0.0 stemconummity.ru
 0.0.0.0 stemcoominuty-alirdrop.xyz
 0.0.0.0 stemcoommounity.com
 0.0.0.0 stemcoommuniity.com
@@ -17529,6 +17758,7 @@
 0.0.0.0 steqmpowered.com
 0.0.0.0 steramcommunity.com
 0.0.0.0 steramconmunity.com
+0.0.0.0 steramcsgonavi.ru
 0.0.0.0 sterampowered.com
 0.0.0.0 steremcoommunity.gq
 0.0.0.0 stermccommunitty.ru
@@ -17699,7 +17929,9 @@
 0.0.0.0 storage-for-mobileapps.life
 0.0.0.0 store-communitiy.com
 0.0.0.0 store-discord.com
+0.0.0.0 store-hypixel.claims
 0.0.0.0 store-hypixel.gift
+0.0.0.0 store-hypixel.org
 0.0.0.0 store-srupowered.ru
 0.0.0.0 store-steam-csgo.ru
 0.0.0.0 store-steamcomminuty.ru.com
@@ -17707,6 +17939,7 @@
 0.0.0.0 store-steampowerd.com
 0.0.0.0 store-steampowered.store
 0.0.0.0 store-steampowereld.ru
+0.0.0.0 store-steanpowered.ru
 0.0.0.0 store-stempowered.com
 0.0.0.0 store-streampowered.me
 0.0.0.0 store.stampowered.com
@@ -17718,7 +17951,10 @@
 0.0.0.0 stormstealer.com.br
 0.0.0.0 straemcommonlity.com
 0.0.0.0 straemcommunitiy.com
+0.0.0.0 straemcomnutlly.com
+0.0.0.0 straemcomnutly.xyz
 0.0.0.0 straemcomunnitry.ru
+0.0.0.0 straemconmunlty.ru
 0.0.0.0 straemcummonilty.com
 0.0.0.0 straemcummonity.com
 0.0.0.0 straemcummonlity.com
@@ -17727,6 +17963,7 @@
 0.0.0.0 streaemcrommunlty.com.ru
 0.0.0.0 stream-community.ru
 0.0.0.0 stream-conmunlty.ru
+0.0.0.0 stream-navizhandui.ru
 0.0.0.0 streamcammunitly.com
 0.0.0.0 streamcammunity.ru
 0.0.0.0 streamccomunilty.com
@@ -17842,6 +18079,7 @@
 0.0.0.0 streamcommunitv.net
 0.0.0.0 streamcommunity-user.me
 0.0.0.0 streamcommunity.app
+0.0.0.0 streamcommunity.cam
 0.0.0.0 streamcommunity.com.ru
 0.0.0.0 streamcommunity.me
 0.0.0.0 streamcommunity.net
@@ -17854,6 +18092,7 @@
 0.0.0.0 streamcommunity.ru.com
 0.0.0.0 streamcommunity.site
 0.0.0.0 streamcommunity.us
+0.0.0.0 streamcommunity.xyz
 0.0.0.0 streamcommunityi.ru
 0.0.0.0 streamcommunityn.ru
 0.0.0.0 streamcommunityy.me
@@ -18004,7 +18243,9 @@
 0.0.0.0 streamconmunitly.com
 0.0.0.0 streamconmunitly.ru
 0.0.0.0 streamconmunity.com
+0.0.0.0 streamconmunity.ru
 0.0.0.0 streamconmunyti.com
+0.0.0.0 streamconmutiy.com
 0.0.0.0 streamconmynity.ru.com
 0.0.0.0 streamconnmunity.com
 0.0.0.0 streamconnuity.com
@@ -18035,6 +18276,7 @@
 0.0.0.0 streamcornmunitu.ru
 0.0.0.0 streamcornnunitly.co
 0.0.0.0 streamcornnunitly.com
+0.0.0.0 streamcornrnunlty.org
 0.0.0.0 streamcoumunniity.org
 0.0.0.0 streamcoumunnity.org
 0.0.0.0 streamcrommunify.me
@@ -18153,6 +18395,7 @@
 0.0.0.0 subscribersteam.com
 0.0.0.0 subscription-academy.com
 0.0.0.0 subscription-discord-developers.com
+0.0.0.0 subscription-experience-member.tk
 0.0.0.0 subscription-for-hypesquad.com
 0.0.0.0 subscription-formulary-hypesquadevents.com
 0.0.0.0 subscription-from-hypeteam.com
@@ -18228,9 +18471,11 @@
 0.0.0.0 tacelt.com
 0.0.0.0 takaytry.z11.web.core.windows.net
 0.0.0.0 take-hypesquad.gq
+0.0.0.0 takecdrop.com
 0.0.0.0 takedrop.gq
 0.0.0.0 takedrop.org.ru
 0.0.0.0 takehypesquad.gq
+0.0.0.0 takekdrop.com
 0.0.0.0 takesdpop.ru
 0.0.0.0 takesdrop.cc
 0.0.0.0 takesdrop.fun
@@ -18331,6 +18576,7 @@
 0.0.0.0 testmoderators.com
 0.0.0.0 testnet-discord.com
 0.0.0.0 texaswhitetailfever.com
+0.0.0.0 tf2snow.pro
 0.0.0.0 the-apply-hypesquad.com
 0.0.0.0 the-formulary-hypeteam.com
 0.0.0.0 the-hypesquad-application-ads.com
@@ -18379,6 +18625,7 @@
 0.0.0.0 thesilkradiance.com
 0.0.0.0 thevalleydiscord.com
 0.0.0.0 think-when.xyz
+0.0.0.0 this-is-nitro.tk
 0.0.0.0 thor-case.net.ru
 0.0.0.0 tic.com.ua
 0.0.0.0 tik-team-topp.org.ru
@@ -18432,6 +18679,7 @@
 0.0.0.0 tournamentsgg.ru
 0.0.0.0 tournamentsgl.ru
 0.0.0.0 tournamentsgocs.xyz
+0.0.0.0 tournamentsgos.ru
 0.0.0.0 tournamgg.xyz
 0.0.0.0 tourngg.xyz
 0.0.0.0 toytimediscord.com
@@ -18512,6 +18760,7 @@
 0.0.0.0 twitchd.org.ru
 0.0.0.0 twitchdiscord.com
 0.0.0.0 twitchdrops.net.ru
+0.0.0.0 twitchfacepunch.ru
 0.0.0.0 twitchgive.com
 0.0.0.0 twltch-ltem.com
 0.0.0.0 twltchs-rust.com
@@ -18553,6 +18802,7 @@
 0.0.0.0 upshroomishtor.com
 0.0.0.0 ur-l.me
 0.0.0.0 uralmtk.ru
+0.0.0.0 urpydrop.com
 0.0.0.0 urtyert.com
 0.0.0.0 usbnovel.com
 0.0.0.0 users-beta.app
@@ -18596,6 +18846,7 @@
 0.0.0.0 verifydiscordserver.xyz
 0.0.0.0 verifyhypixel.net
 0.0.0.0 verifyhypixel.xyz
+0.0.0.0 verifyminecraft.com
 0.0.0.0 verifytool.xyz
 0.0.0.0 versusgg.xyz
 0.0.0.0 versustour.xyz
@@ -18661,6 +18912,7 @@
 0.0.0.0 voting-hypesquad.com
 0.0.0.0 voting-hypesquad.tk
 0.0.0.0 voting-moderator-academy.com
+0.0.0.0 vp8106.asia
 0.0.0.0 vremechko.org
 0.0.0.0 vremyamn.ru
 0.0.0.0 vsempohui.ru
@@ -18675,6 +18927,7 @@
 0.0.0.0 vvvw-roblox.com
 0.0.0.0 vvwvv-roblox-com.cf
 0.0.0.0 vvwvv-roblox.com
+0.0.0.0 vw-roblox.com
 0.0.0.0 vwvvw-roblox.com
 0.0.0.0 vwvvwv-roblox.com
 0.0.0.0 vwvw--roblox.com
@@ -18705,11 +18958,13 @@
 0.0.0.0 web-https-roblox.com
 0.0.0.0 web-rcblox.com
 0.0.0.0 web-robiox-com.ga
+0.0.0.0 web-roblox.com.ge
 0.0.0.0 web-roblox.org
 0.0.0.0 webb-roblox.com
 0.0.0.0 webpushcloud.top
 0.0.0.0 webr-roblox.com
 0.0.0.0 webrecepty.info
+0.0.0.0 webs-minting.com
 0.0.0.0 website-hypesquad-official.gq
 0.0.0.0 weby-roblox.com
 0.0.0.0 wecaptcha.net
@@ -18742,6 +18997,7 @@
 0.0.0.0 welcometohypeteam.gq
 0.0.0.0 welcometohypeteams.gq
 0.0.0.0 weplay.ru.com
+0.0.0.0 weplayedesports.net
 0.0.0.0 westabit.com
 0.0.0.0 westart-auth.pro
 0.0.0.0 what-were.xyz
@@ -18843,6 +19099,7 @@
 0.0.0.0 www.steamcommunitylie.top
 0.0.0.0 wwwl-roblox.com
 0.0.0.0 wwwsteamcommunity.com
+0.0.0.0 wwwv--roblox.com
 0.0.0.0 wwwvww-roblox.com
 0.0.0.0 wwww-robiox.com
 0.0.0.0 wwwwv-roblox.com
@@ -18925,6 +19182,7 @@
 0.0.0.0 zheltaya.ru
 0.0.0.0 zhuangjizhuli.com
 0.0.0.0 zhuangjizhuli.net
+0.0.0.0 zhuanshunavi.ru
 0.0.0.0 zierldfiyly.top
 0.0.0.0 zierldfyly.top
 0.0.0.0 zipansion.com
