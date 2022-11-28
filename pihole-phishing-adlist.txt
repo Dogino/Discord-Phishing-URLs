@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 27 Nov 2022, 17:44 UTC+02
+# Last modified: Mon, 28 Nov 2022, 17:10 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -10902,6 +10902,7 @@
 0.0.0.0 ournewsafte.biz
 0.0.0.0 outbuck.com
 0.0.0.0 output-nitro.com
+0.0.0.0 outsidersnitro.ru
 0.0.0.0 oveoeap.top
 0.0.0.0 oveoerc.top
 0.0.0.0 oveoere.top
@@ -11556,6 +11557,7 @@
 0.0.0.0 roblox-com.gq
 0.0.0.0 roblox-group.ml
 0.0.0.0 roblox-help.com
+0.0.0.0 roblox-log-in.com
 0.0.0.0 roblox-login.com
 0.0.0.0 roblox-login.ml
 0.0.0.0 roblox-porn.com
@@ -12518,6 +12520,7 @@
 0.0.0.0 staemcommenity.ru
 0.0.0.0 staemcommeuneuity.ru
 0.0.0.0 staemcommfnity.ru
+0.0.0.0 staemcommiinity.ru
 0.0.0.0 staemcommintu.ru
 0.0.0.0 staemcomminuty.online
 0.0.0.0 staemcomminuty.ru
@@ -14002,6 +14005,9 @@
 0.0.0.0 steamcommunitl.ru
 0.0.0.0 steamcommunitli.ru
 0.0.0.0 steamcommunitlis.ru
+0.0.0.0 steamcommunitliy.net.ru
+0.0.0.0 steamcommunitliy.org.ru
+0.0.0.0 steamcommunitliy.pp.ru
 0.0.0.0 steamcommunitliy.ru
 0.0.0.0 steamcommunitliy.ru.com
 0.0.0.0 steamcommunitlly.com
@@ -14016,6 +14022,8 @@
 0.0.0.0 steamcommunitly.com.ru
 0.0.0.0 steamcommunitly.ga
 0.0.0.0 steamcommunitly.me
+0.0.0.0 steamcommunitly.org.ru
+0.0.0.0 steamcommunitly.pp.ru
 0.0.0.0 steamcommunitly.ru
 0.0.0.0 steamcommunitly.xyz
 0.0.0.0 steamcommunitlyn.ru
@@ -14112,6 +14120,8 @@
 0.0.0.0 steamcommunity-com.me
 0.0.0.0 steamcommunity-com.site
 0.0.0.0 steamcommunity-com.xyz
+0.0.0.0 steamcommunity-comidnikitosikloove.online
+0.0.0.0 steamcommunity-comidnikitosikloove.ru
 0.0.0.0 steamcommunity-comtradeoffer.ru
 0.0.0.0 steamcommunity-cu55214809173.asia
 0.0.0.0 steamcommunity-gifts.xyz
@@ -14459,6 +14469,7 @@
 0.0.0.0 steamcommunityuv.top
 0.0.0.0 steamcommunityuvi.top
 0.0.0.0 steamcommunityux.top
+0.0.0.0 steamcommunityuy.ru
 0.0.0.0 steamcommunityv.asia
 0.0.0.0 steamcommunityv.com
 0.0.0.0 steamcommunityve.top
@@ -18502,6 +18513,7 @@
 0.0.0.0 store-steampowered.com.ru
 0.0.0.0 store-steampowered.store
 0.0.0.0 store-steampowereld.ru
+0.0.0.0 store-steancommuntiy.ru
 0.0.0.0 store-steanpowered.ru
 0.0.0.0 store-stempowered.com
 0.0.0.0 store-streampowered.me
@@ -18922,6 +18934,7 @@
 0.0.0.0 stuamccommunnlity.ru
 0.0.0.0 stuamcommnuity.com
 0.0.0.0 stuamcommunity.com
+0.0.0.0 stuamcommunnlilty.ru
 0.0.0.0 stuamcoomunntiy.ru
 0.0.0.0 studiogiamberardino.it
 0.0.0.0 studyportal.cloud
