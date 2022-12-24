@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 23 Dec 2022, 23:01 UTC+02
+# Last modified: Sat, 24 Dec 2022, 16:17 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1293,6 +1293,7 @@
 0.0.0.0 cryptorexnft.xyzdisordglft.com
 0.0.0.0 cryptorexnft.xyzdliscordglift-nitro.com
 0.0.0.0 cryptorexnft.xyzdynobot.eu
+0.0.0.0 cryptorexnft.xyzjoin-hypesquad-tester.com
 0.0.0.0 cryptorexnft.xyzsteamc0mmunity.com
 0.0.0.0 cryptorexnft.xyzsteamcamnunitly.ru
 0.0.0.0 cryptorexnft.xyzstyeampowerd.com
@@ -1551,6 +1552,7 @@
 0.0.0.0 derimonz.xyz
 0.0.0.0 derwoood.xyz
 0.0.0.0 descargarjuegospc.net
+0.0.0.0 descords.com
 0.0.0.0 deshevil.xyz
 0.0.0.0 detterdiscord.net
 0.0.0.0 dev-discord.com
@@ -2633,6 +2635,7 @@
 0.0.0.0 discord-bunker.ru
 0.0.0.0 discord-canary.com
 0.0.0.0 discord-candidate.com
+0.0.0.0 discord-captcha.com
 0.0.0.0 discord-certified.com
 0.0.0.0 discord-chatbot.tk
 0.0.0.0 discord-christmas.com
@@ -9297,7 +9300,6 @@
 0.0.0.0 join-hypesquad-premium.com
 0.0.0.0 join-hypesquad-program.com
 0.0.0.0 join-hypesquad-test.gq
-0.0.0.0 join-hypesquad-tester.com
 0.0.0.0 join-hypesquad-trial.com
 0.0.0.0 join-hypesquad.club
 0.0.0.0 join-hypesquad.com
@@ -11800,6 +11802,7 @@
 0.0.0.0 robllox.com.de
 0.0.0.0 robllox.xyz
 0.0.0.0 roblobx.cam
+0.0.0.0 robloni.com
 0.0.0.0 roblonx.com
 0.0.0.0 roblonx.ga
 0.0.0.0 robloox.com.ng
@@ -13819,6 +13822,7 @@
 0.0.0.0 steamcommanity.com
 0.0.0.0 steamcommanity.ru
 0.0.0.0 steamcommaunity.com
+0.0.0.0 steamcommcnity.com
 0.0.0.0 steamcommcounity.com
 0.0.0.0 steamcommcuity.com
 0.0.0.0 steamcommcunity.com
@@ -15683,6 +15687,7 @@
 0.0.0.0 steamcommytuniu.com
 0.0.0.0 steamcommyuinity.net.ru
 0.0.0.0 steamcommyunily.com
+0.0.0.0 steamcommyunitiy.com
 0.0.0.0 steamcommyunity.com
 0.0.0.0 steamcommyunity.ru
 0.0.0.0 steamcommyunity.us
@@ -16605,6 +16610,7 @@
 0.0.0.0 steamcoormmunity.ru
 0.0.0.0 steamcoremmunity.com
 0.0.0.0 steamcormmmunity.com
+0.0.0.0 steamcormmunitly.ru
 0.0.0.0 steamcormmunity.com
 0.0.0.0 steamcormmunity.ru.com
 0.0.0.0 steamcormmuniy.ru.com
@@ -17821,6 +17827,7 @@
 0.0.0.0 steancommuuniliiy.ru.com
 0.0.0.0 steancommuuniliy.ru.com
 0.0.0.0 steancommuunity.com
+0.0.0.0 steancommuunity.ru
 0.0.0.0 steancommuunlty.com
 0.0.0.0 steancommuuty.com
 0.0.0.0 steancommuvity.com
@@ -18187,6 +18194,7 @@
 0.0.0.0 steanncummlunity.com
 0.0.0.0 steanncummunity.com
 0.0.0.0 steanncunmmiunyti.com
+0.0.0.0 steannmcomnunlty.com
 0.0.0.0 steannmconnunity.site
 0.0.0.0 steannommunity.com
 0.0.0.0 steanpowered.net.ru
@@ -18427,6 +18435,7 @@
 0.0.0.0 stearncommunnity.xyz
 0.0.0.0 stearncommunrty.com
 0.0.0.0 stearncommuntity.com
+0.0.0.0 stearncommuntiy.com
 0.0.0.0 stearncommuntiy.ru
 0.0.0.0 stearncommuntty.com
 0.0.0.0 stearncommunty.com
@@ -20622,6 +20631,7 @@
 0.0.0.0 www-steamcommunlty.com
 0.0.0.0 www-web-rcblox.com
 0.0.0.0 www-web-roblox.org
+0.0.0.0 www-xroblox.com
 0.0.0.0 www.doge-club.xyz
 0.0.0.0 www.roblox.com.ee
 0.0.0.0 www.roblox.gr.com
