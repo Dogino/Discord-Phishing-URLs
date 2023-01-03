@@ -1079,7 +1079,7 @@
 0.0.0.0 cliscord.site
 0.0.0.0 cliscordl.online
 0.0.0.0 cliscordl.ru
-0.0.0.0 clk.rtpdn*.com
+0.0.0.0 clk.rtpdn.com
 0.0.0.0 clkepd.com
 0.0.0.0 cllscordapp.fun
 0.0.0.0 clonex.rlfkt.com
