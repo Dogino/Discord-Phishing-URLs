@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Mon, 02 Jan 2023, 22:32 UTC+02
+# Last modified: Wed, 04 Jan 2023, 10:50 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1320,6 +1320,7 @@
 0.0.0.0 cryptorexnft.xyzdynobot.eu
 0.0.0.0 cryptorexnft.xyzhunters-team.com
 0.0.0.0 cryptorexnft.xyzjoin-hypesquad-tester.com
+0.0.0.0 cryptorexnft.xyznew-hypesquad.com
 0.0.0.0 cryptorexnft.xyznew-invite-form-hypesquad.com
 0.0.0.0 cryptorexnft.xyzpubgm3.com
 0.0.0.0 cryptorexnft.xyzsteamc0mmunity.com
@@ -1366,6 +1367,8 @@
 0.0.0.0 csgo-charities.com
 0.0.0.0 csgo-charity.com
 0.0.0.0 csgo-checker.ru
+0.0.0.0 csgo-cheer.com
+0.0.0.0 csgo-cheering.com
 0.0.0.0 csgo-claim.com
 0.0.0.0 csgo-claims.com
 0.0.0.0 csgo-code.com
@@ -1386,7 +1389,9 @@
 0.0.0.0 csgo-game-steam.ru
 0.0.0.0 csgo-gamesteam.ru
 0.0.0.0 csgo-helper.ru
+0.0.0.0 csgo-holidays.com
 0.0.0.0 csgo-hub.com
+0.0.0.0 csgo-keys.com
 0.0.0.0 csgo-login.ru
 0.0.0.0 csgo-loot.com
 0.0.0.0 csgo-lute.net.ru
@@ -3472,6 +3477,7 @@
 0.0.0.0 discord-site.ru
 0.0.0.0 discord-sla.sh
 0.0.0.0 discord-sms.eu
+0.0.0.0 discord-snows.com
 0.0.0.0 discord-snowsgiving.cf
 0.0.0.0 discord-soft.ru
 0.0.0.0 discord-software.com
@@ -5364,6 +5370,7 @@
 0.0.0.0 discreen.xyz
 0.0.0.0 discrocl-gift.xyz
 0.0.0.0 discrocl.xyz
+0.0.0.0 discrod-airdops-2023.com
 0.0.0.0 discrod-airdrop.com
 0.0.0.0 discrod-app.com
 0.0.0.0 discrod-app.ru
@@ -6054,6 +6061,7 @@
 0.0.0.0 dlscord-giftl.fun
 0.0.0.0 dlscord-giftl.icu
 0.0.0.0 dlscord-giftm.xyz
+0.0.0.0 dlscord-giftn.top
 0.0.0.0 dlscord-giftn.xyz
 0.0.0.0 dlscord-giftq.xyz
 0.0.0.0 dlscord-giftr.fun
@@ -8019,6 +8027,7 @@
 0.0.0.0 gitf-staem-dic0rd.xyz
 0.0.0.0 gitfs-discord.ru
 0.0.0.0 githucb.com
+0.0.0.0 githueb.com
 0.0.0.0 githvub.com
 0.0.0.0 githxub.com
 0.0.0.0 gitshube.com
@@ -8236,6 +8245,7 @@
 0.0.0.0 humnchck.co
 0.0.0.0 huntermuir.net
 0.0.0.0 hunters-bugs.com
+0.0.0.0 hunters-team.com
 0.0.0.0 hunts.monster
 0.0.0.0 hydra2018.ru
 0.0.0.0 hype-2022-invite.com
@@ -9956,6 +9966,7 @@
 0.0.0.0 mee6premium.com
 0.0.0.0 mee6premium.io
 0.0.0.0 mee6pro.com
+0.0.0.0 mee6web3.com
 0.0.0.0 meetnitro.com
 0.0.0.0 megatuz.ru
 0.0.0.0 mekaverse-minting.com
@@ -10650,7 +10661,6 @@
 0.0.0.0 new-hypesquad-selection.com
 0.0.0.0 new-hypesquad-teams.com
 0.0.0.0 new-hypesquad.cf
-0.0.0.0 new-hypesquad.com
 0.0.0.0 new-hypesquad.ga
 0.0.0.0 new-hypesquad.gq
 0.0.0.0 new-hypesquad.tk
@@ -12176,6 +12186,7 @@
 0.0.0.0 rust-birthday.com
 0.0.0.0 rust-charge.com
 0.0.0.0 rust-charitable.com
+0.0.0.0 rust-claims.com
 0.0.0.0 rust-code.com
 0.0.0.0 rust-code.ru.com
 0.0.0.0 rust-crate.com
@@ -13847,6 +13858,7 @@
 0.0.0.0 steamcammunty.ru
 0.0.0.0 steamcammunuty.com
 0.0.0.0 steamcammunyty.ru
+0.0.0.0 steamcammuunity.ru
 0.0.0.0 steamcammuunuty.ru
 0.0.0.0 steamcammynitu.ru
 0.0.0.0 steamcamnmunity.com
@@ -14952,6 +14964,7 @@
 0.0.0.0 steamcommunitye.me
 0.0.0.0 steamcommunitye.ml
 0.0.0.0 steamcommunitye.ru
+0.0.0.0 steamcommunitye.xyz
 0.0.0.0 steamcommunityeiv.top
 0.0.0.0 steamcommunityeix.top
 0.0.0.0 steamcommunityeiz.top
@@ -15704,6 +15717,7 @@
 0.0.0.0 steamcommunuti.com
 0.0.0.0 steamcommunuti.online
 0.0.0.0 steamcommunuti.ru
+0.0.0.0 steamcommunuti.site
 0.0.0.0 steamcommunutii.ru
 0.0.0.0 steamcommunutiy.com
 0.0.0.0 steamcommunutry.com
@@ -15967,6 +15981,7 @@
 0.0.0.0 steamcomnmmunity.com
 0.0.0.0 steamcomnmmunity.ru.com
 0.0.0.0 steamcomnmmunnity.com
+0.0.0.0 steamcomnmmunnity.ru
 0.0.0.0 steamcomnmnity.com
 0.0.0.0 steamcomnmnity.ru
 0.0.0.0 steamcomnmnnity.com
@@ -16214,6 +16229,7 @@
 0.0.0.0 steamcomnunllty.net
 0.0.0.0 steamcomnunllty.ru
 0.0.0.0 steamcomnunlly.ru
+0.0.0.0 steamcomnunltly.com
 0.0.0.0 steamcomnunlty.com.ru
 0.0.0.0 steamcomnunlty.fun
 0.0.0.0 steamcomnunlty.pp.ua
@@ -16634,7 +16650,9 @@
 0.0.0.0 steamconmnmnunity.ru
 0.0.0.0 steamconmnmunity.ru
 0.0.0.0 steamconmnmunlty.com
+0.0.0.0 steamconmnmunlty.ru
 0.0.0.0 steamconmnnity.com
+0.0.0.0 steamconmnnunntiy.ru
 0.0.0.0 steamconmnnutiy.com
 0.0.0.0 steamconmnuilty.com
 0.0.0.0 steamconmnuity.com
@@ -16785,6 +16803,7 @@
 0.0.0.0 steamconnnunlty.ru
 0.0.0.0 steamconnrnunity.ru
 0.0.0.0 steamconnumitty.ru
+0.0.0.0 steamconnumity.com
 0.0.0.0 steamconnumity.ru
 0.0.0.0 steamconnumity.ru.com
 0.0.0.0 steamconnumity.site
@@ -16795,6 +16814,7 @@
 0.0.0.0 steamconnuniitty.tk
 0.0.0.0 steamconnunirty.ru
 0.0.0.0 steamconnunitiy.com
+0.0.0.0 steamconnunitly.ru
 0.0.0.0 steamconnunitty.ru
 0.0.0.0 steamconnunity.com
 0.0.0.0 steamconnunity.com.ru
@@ -17012,6 +17032,7 @@
 0.0.0.0 steamcromnmunity-com
 0.0.0.0 steamcromnmunity-com.profiles-7685981598976.me
 0.0.0.0 steamcronnmmuniry.me
+0.0.0.0 steamcroomunnity.ru
 0.0.0.0 steamcrormmunity.ru
 0.0.0.0 steamcrunch.xyz
 0.0.0.0 steamcrypto.net
@@ -18837,6 +18858,7 @@
 0.0.0.0 stearncomrnrunity.ru
 0.0.0.0 stearncomrnrunity.ru.com
 0.0.0.0 stearncomrnuniity.com.ru
+0.0.0.0 stearncomrnunilty.ru
 0.0.0.0 stearncomrnunily.ru
 0.0.0.0 stearncomrnunitly.com
 0.0.0.0 stearncomrnunitly.ru
@@ -19047,6 +19069,7 @@
 0.0.0.0 steeamcommuunnity.com
 0.0.0.0 steeamcomnmunity.com
 0.0.0.0 steeamcomnnunity.com
+0.0.0.0 steeamcomnunity.com
 0.0.0.0 steeamcomnunnity.ru
 0.0.0.0 steeamcomuneety.com
 0.0.0.0 steeamcomunitty.com
@@ -19201,6 +19224,7 @@
 0.0.0.0 steemcomuniteeuss.net.ru
 0.0.0.0 steemcomuniteus.net.ru
 0.0.0.0 steemcomuniti.ru
+0.0.0.0 steemcomunitly.net.ru
 0.0.0.0 steemcomunitu.store
 0.0.0.0 steemcomunituus.net.ru
 0.0.0.0 steemcomunity.me
@@ -20026,6 +20050,7 @@
 0.0.0.0 streamcomunily.net.ru
 0.0.0.0 streamcomunily.org.ru
 0.0.0.0 streamcomunily.pp.ru
+0.0.0.0 streamcomunitiy.ru
 0.0.0.0 streamcomunitly.com
 0.0.0.0 streamcomunitly.net
 0.0.0.0 streamcomunitly.net.ru
@@ -20351,6 +20376,8 @@
 0.0.0.0 team.hypesquad-company.info
 0.0.0.0 team.the-shrubbery.co.uk
 0.0.0.0 teamclouds.com
+0.0.0.0 teamcreate-invite.com
+0.0.0.0 teamcreate-studio.dev
 0.0.0.0 teamdiscord.com
 0.0.0.0 teamfnattic.org.ru
 0.0.0.0 teamhype-badge.ga
