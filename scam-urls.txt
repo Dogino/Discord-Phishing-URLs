@@ -1063,7 +1063,7 @@ cliscord-nitro.xyz
 cliscord.site
 cliscordl.online
 cliscordl.ru
-clk.rtpdn*.com
+clk.rtpdn.com
 clkepd.com
 cllscordapp.fun
 clonex.rlfkt.com
