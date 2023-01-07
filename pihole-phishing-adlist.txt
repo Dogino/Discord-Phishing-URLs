@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Fri, 06 Jan 2023, 20:41 UTC+02
+# Last modified: Sat, 07 Jan 2023, 20:37 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1316,6 +1316,7 @@
 0.0.0.0 cryptorexnft.xyzdescords.com
 0.0.0.0 cryptorexnft.xyzdiscocrd-gift.me
 0.0.0.0 cryptorexnft.xyzdiscord-ni.com
+0.0.0.0 cryptorexnft.xyzdiscord.ru.net
 0.0.0.0 cryptorexnft.xyzdiscordcheck.com
 0.0.0.0 cryptorexnft.xyzdisordglft.com
 0.0.0.0 cryptorexnft.xyzdliscordglift-nitro.com
@@ -1392,6 +1393,8 @@
 0.0.0.0 csgo-game-steam.ru
 0.0.0.0 csgo-gamesteam.ru
 0.0.0.0 csgo-get.com
+0.0.0.0 csgo-gets.com
+0.0.0.0 csgo-giving.com
 0.0.0.0 csgo-helper.ru
 0.0.0.0 csgo-holidays.com
 0.0.0.0 csgo-hub.com
@@ -3773,7 +3776,6 @@
 0.0.0.0 discord.rest
 0.0.0.0 discord.ru
 0.0.0.0 discord.ru.com
-0.0.0.0 discord.ru.net
 0.0.0.0 discord.shop
 0.0.0.0 discord.si
 0.0.0.0 discord.so
@@ -4045,6 +4047,7 @@
 0.0.0.0 discordchart.com
 0.0.0.0 discordchatdjp.com
 0.0.0.0 discordcheats.net
+0.0.0.0 discordcheck.com
 0.0.0.0 discordchecking.com
 0.0.0.0 discordchecks.com
 0.0.0.0 discordchristmas.com
@@ -6425,6 +6428,7 @@
 0.0.0.0 dlscordsnitros.ru
 0.0.0.0 dlscordsnitros.xyz
 0.0.0.0 dlscordsnltros.gifts
+0.0.0.0 dlscordsnow.com
 0.0.0.0 dlscordsream.pp.ua
 0.0.0.0 dlscordss.xyz
 0.0.0.0 dlscordsteam.com
@@ -11694,6 +11698,7 @@
 0.0.0.0 rblx.trade
 0.0.0.0 rblxcopy.com
 0.0.0.0 rblxcopy.net
+0.0.0.0 rblxcopy.sc
 0.0.0.0 rblxcorp.work
 0.0.0.0 rbux88.com
 0.0.0.0 rbux88go.com
@@ -12036,6 +12041,7 @@
 0.0.0.0 roblox-verification.com
 0.0.0.0 roblox-web.org
 0.0.0.0 roblox-webs.com
+0.0.0.0 roblox.ax
 0.0.0.0 roblox.br.com
 0.0.0.0 roblox.ceo
 0.0.0.0 roblox.ci
@@ -12222,6 +12228,7 @@
 0.0.0.0 rust-facepunch.com
 0.0.0.0 rust-facepunchs.com
 0.0.0.0 rust-get.com
+0.0.0.0 rust-gets.com
 0.0.0.0 rust-gifts.pw
 0.0.0.0 rust-gitfs.ru
 0.0.0.0 rust-giveaway.com
@@ -15848,6 +15855,7 @@
 0.0.0.0 steamcommutliy.ru
 0.0.0.0 steamcommutlny.ru
 0.0.0.0 steamcommutly.com
+0.0.0.0 steamcommutly.ru
 0.0.0.0 steamcommutnity.com
 0.0.0.0 steamcommutry.ru
 0.0.0.0 steamcommuty.com
@@ -17555,6 +17563,7 @@
 0.0.0.0 steamncomynity.xyz
 0.0.0.0 steamnconmity.ru
 0.0.0.0 steamnconmmnunity.com
+0.0.0.0 steamnconmmuuntiy.ru
 0.0.0.0 steamnconmunitly.ru
 0.0.0.0 steamnconmunity.com
 0.0.0.0 steamnconmunity.ru
@@ -17582,6 +17591,7 @@
 0.0.0.0 steamnltros.com
 0.0.0.0 steamnltros.ru
 0.0.0.0 steamnmcommunity.com
+0.0.0.0 steamnmcommunity.ru
 0.0.0.0 steamnncommnunnity.ru
 0.0.0.0 steamnncommunitas.ru
 0.0.0.0 steamnncommunits.com.ru
@@ -18089,6 +18099,7 @@
 0.0.0.0 steancommuniity.com
 0.0.0.0 steancommuniity.fun
 0.0.0.0 steancommuniity.ru
+0.0.0.0 steancommunilti.com
 0.0.0.0 steancommunilty.com
 0.0.0.0 steancommunilty.ru
 0.0.0.0 steancommunilty.xyz
@@ -18155,6 +18166,7 @@
 0.0.0.0 steancommunlity.ru
 0.0.0.0 steancommunlity.xyz
 0.0.0.0 steancommunllty.ru
+0.0.0.0 steancommunltey.ru
 0.0.0.0 steancommunlti.site
 0.0.0.0 steancommunltty.xyz
 0.0.0.0 steancommunlty.business
@@ -18363,6 +18375,7 @@
 0.0.0.0 steanconmunlty.com.ru
 0.0.0.0 steanconmunlty.ru
 0.0.0.0 steanconmunnity.com
+0.0.0.0 steanconmunty.ru
 0.0.0.0 steanconmunuty.com
 0.0.0.0 steanconmunuty.ru
 0.0.0.0 steanconmunuty.xyz
@@ -18435,6 +18448,7 @@
 0.0.0.0 steanmcommuinty.com
 0.0.0.0 steanmcommulty.com
 0.0.0.0 steanmcommumity.com
+0.0.0.0 steanmcommunilty.ru
 0.0.0.0 steanmcommunily.com
 0.0.0.0 steanmcommunily.ru
 0.0.0.0 steanmcommunity.co
@@ -18938,6 +18952,7 @@
 0.0.0.0 stearncomrnunity.com.ru
 0.0.0.0 stearncomrnunity.icu
 0.0.0.0 stearncomrnunity.ml
+0.0.0.0 stearncomrnunity.ru
 0.0.0.0 stearncomrnunity.ru.com
 0.0.0.0 stearncomrnunity.store
 0.0.0.0 stearncomrnunlty.com
@@ -19406,6 +19421,7 @@
 0.0.0.0 stemcommnunitty.com
 0.0.0.0 stemcommnunitu.com
 0.0.0.0 stemcommnunity.com
+0.0.0.0 stemcommnunity.com.ru
 0.0.0.0 stemcommnunity.ru
 0.0.0.0 stemcommnunlty.ru
 0.0.0.0 stemcommnunnity.com
