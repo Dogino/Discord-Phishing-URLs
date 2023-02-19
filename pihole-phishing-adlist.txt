@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used to scam users and their credentials by faking a free nitro giveaway. Add this to your pihole adlist as blacklist to prevent accidental click or those domains to load.
-# Last modified: Sun, 19 Feb 2023, 18:39 UTC+02
+# Last modified: Sun, 19 Feb 2023, 18:40 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -1341,6 +1341,7 @@
 0.0.0.0 cryptorexnft.xyzdiscord.ru.net
 0.0.0.0 cryptorexnft.xyzdiscordcheck.com
 0.0.0.0 cryptorexnft.xyzdiscordform-hypesquad.com
+0.0.0.0 cryptorexnft.xyzdiscords-giftc.top
 0.0.0.0 cryptorexnft.xyzdisordglft.com
 0.0.0.0 cryptorexnft.xyzdliscordglift-nitro.com
 0.0.0.0 cryptorexnft.xyzdynobot.eu
@@ -1359,7 +1360,6 @@
 0.0.0.0 cryptorexnft.xyzsteamcommuinty.ru
 0.0.0.0 cryptorexnft.xyzsteamgift.org.ru
 0.0.0.0 cryptorexnft.xyzstyeampowerd.com
-0.0.0.0 cryptorexnft.xyztest-hevents.gq
 0.0.0.0 cryptorexnft.xyzwlww-roblox.com
 0.0.0.0 cryptosell.space
 0.0.0.0 cryptossmoney.com
@@ -5017,7 +5017,6 @@
 0.0.0.0 discords-gift.ru
 0.0.0.0 discords-gift.site
 0.0.0.0 discords-gift.xyz
-0.0.0.0 discords-giftc.top
 0.0.0.0 discords-gifte.com
 0.0.0.0 discords-gifte.org
 0.0.0.0 discords-gifte.ru
@@ -6831,7 +6830,6 @@
 0.0.0.0 duiscord.com
 0.0.0.0 dumpishop.ru
 0.0.0.0 dungeonlegends.ru
-0.0.0.0 dungeonmastershypixelauth.onrender.com
 0.0.0.0 duscord.com
 0.0.0.0 duscord.ga
 0.0.0.0 duscord.js.org
@@ -21895,6 +21893,7 @@
 0.0.0.0 test-form-hypesquad.com
 0.0.0.0 test-forms-hypesquad.com
 0.0.0.0 test-from-hypesquad.com
+0.0.0.0 test-hevents.gq
 0.0.0.0 test-hype-squad.ml
 0.0.0.0 test-hype.ml
 0.0.0.0 test-hypesquad-events-join.gq

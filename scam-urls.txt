@@ -1325,6 +1325,7 @@ cryptorexnft.xyzdiscord-ni.com
 cryptorexnft.xyzdiscord.ru.net
 cryptorexnft.xyzdiscordcheck.com
 cryptorexnft.xyzdiscordform-hypesquad.com
+cryptorexnft.xyzdiscords-giftc.top
 cryptorexnft.xyzdisordglft.com
 cryptorexnft.xyzdliscordglift-nitro.com
 cryptorexnft.xyzdynobot.eu
@@ -1343,7 +1344,6 @@ cryptorexnft.xyzsteamcominuty.ru
 cryptorexnft.xyzsteamcommuinty.ru
 cryptorexnft.xyzsteamgift.org.ru
 cryptorexnft.xyzstyeampowerd.com
-cryptorexnft.xyztest-hevents.gq
 cryptorexnft.xyzwlww-roblox.com
 cryptosell.space
 cryptossmoney.com
@@ -5001,7 +5001,6 @@ discords-gift.org.ru
 discords-gift.ru
 discords-gift.site
 discords-gift.xyz
-discords-giftc.top
 discords-gifte.com
 discords-gifte.org
 discords-gifte.ru
@@ -6815,7 +6814,6 @@ duckfed.com
 duiscord.com
 dumpishop.ru
 dungeonlegends.ru
-dungeonmastershypixelauth.onrender.com
 duscord.com
 duscord.ga
 duscord.js.org
@@ -21879,6 +21877,7 @@ test-examacademy.com
 test-form-hypesquad.com
 test-forms-hypesquad.com
 test-from-hypesquad.com
+test-hevents.gq
 test-hype-squad.ml
 test-hype.ml
 test-hypesquad-events-join.gq
