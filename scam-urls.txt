@@ -1755,6 +1755,7 @@ deshevil.xyz
 detectbots.click
 detectspam.click
 detterdiscord.net
+deutschepost-zollgebühren.de
 dev-discord.com
 dev.fosscord.com
 devdiscord.com
@@ -23868,6 +23869,7 @@ xgreen-exchange.com
 xgreen-trade.com
 xiaobaixitong.com
 xiomoinuyt03.z11.web.core.windows.net
+xn--deutschepost-zollgebhren-ftc.de
 xn--discrd-zxa.com
 xn--disordapp-s3a.com
 xn--me6-lra.xyz
