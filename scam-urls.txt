@@ -9609,7 +9609,6 @@ gg-captcha.cc
 gg-matches.com
 gg-nitro.com
 gg.gg
-gg.gg/win-nitro
 ggboom.ru
 ggcscase.com
 ggcstrade.com
@@ -14442,7 +14441,6 @@ ratingsbot.com
 ratnet.od.ua
 raydiumswap.com
 razblox.com
-rb.gy/k4vzy
 rblx-hub.org
 rblx.trade
 rblxcopy.com

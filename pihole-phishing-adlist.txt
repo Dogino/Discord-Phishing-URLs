@@ -9625,7 +9625,6 @@
 0.0.0.0 gg-matches.com
 0.0.0.0 gg-nitro.com
 0.0.0.0 gg.gg
-0.0.0.0 gg.gg/win-nitro
 0.0.0.0 ggboom.ru
 0.0.0.0 ggcscase.com
 0.0.0.0 ggcstrade.com
@@ -14458,7 +14457,6 @@
 0.0.0.0 ratnet.od.ua
 0.0.0.0 raydiumswap.com
 0.0.0.0 razblox.com
-0.0.0.0 rb.gy/k4vzy
 0.0.0.0 rblx-hub.org
 0.0.0.0 rblx.trade
 0.0.0.0 rblxcopy.com
