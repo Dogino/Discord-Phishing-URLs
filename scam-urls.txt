@@ -2206,6 +2206,7 @@ cryptoslate.blog
 cryptoslate.tech
 cryptoslate.vercel.app
 cryptoslugs-hub.com
+cryptoslugs-hubs.com
 cryptoslugsweb.com
 cryptoslugswebs3.com
 cryptoslugworld.com
@@ -15504,6 +15505,7 @@ rewards-twitch.com
 rewardsgiantusa.com
 rewardspremium-nitro.gq
 rewshow.live
+rf.gd
 rgblox.com
 rhblox.com
 rhopalium-convolve-mozettas.xyz
@@ -30507,5 +30509,3 @@ zvideo-live.com
 zxcuzxytcatsrdrta.com
 zzb.bz
 zzzregsizzz.com.ru
-cryptoslugs-hubs.com
-rf.gd

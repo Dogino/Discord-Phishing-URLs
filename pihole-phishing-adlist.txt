@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used in the VOIP application Discord by scammers. Adding this list to your Pi-Hole blocklist will prevent those domains from loading.
-# Last modified: Tue, 02 Jan 2024, 18:04 UTC+02
+# Last modified: Tue, 02 Jan 2024, 18:07 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 0.0.0.0 cord.gifts
@@ -2222,6 +2222,7 @@
 0.0.0.0 cryptoslate.tech
 0.0.0.0 cryptoslate.vercel.app
 0.0.0.0 cryptoslugs-hub.com
+0.0.0.0 cryptoslugs-hubs.com
 0.0.0.0 cryptoslugsweb.com
 0.0.0.0 cryptoslugswebs3.com
 0.0.0.0 cryptoslugworld.com
@@ -15520,6 +15521,7 @@
 0.0.0.0 rewardsgiantusa.com
 0.0.0.0 rewardspremium-nitro.gq
 0.0.0.0 rewshow.live
+0.0.0.0 rf.gd
 0.0.0.0 rgblox.com
 0.0.0.0 rhblox.com
 0.0.0.0 rhopalium-convolve-mozettas.xyz
@@ -30523,5 +30525,3 @@
 0.0.0.0 zxcuzxytcatsrdrta.com
 0.0.0.0 zzb.bz
 0.0.0.0 zzzregsizzz.com.ru
-0.0.0.0 cryptoslugs-hubs.com
-0.0.0.0 rf.gd
